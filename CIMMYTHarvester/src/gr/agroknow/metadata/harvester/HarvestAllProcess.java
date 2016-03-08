@@ -30,7 +30,7 @@ import uiuc.oai.OAIRepository;
 
 public class HarvestAllProcess{
     	
-        public static void main(String[] args) throws OAIException, IOException, JDOMException {
+        public static void run(String[] args) throws OAIException, IOException, JDOMException {
            
             
             

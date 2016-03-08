@@ -26,7 +26,7 @@ import uiuc.oai.OAIRepository;
 
 public class HarvestSet{
     	
-       public static void main(String[] args) throws OAIException, IOException, JDOMException {
+       public static void run(String[] args) throws OAIException, IOException, JDOMException {
            
            if (args.length != 4) {
                 System.err.println("Usage1: java HarvestProcess param1(target) param2(foldername) param3(metadataPrefix) param4(setSpec), e.g");

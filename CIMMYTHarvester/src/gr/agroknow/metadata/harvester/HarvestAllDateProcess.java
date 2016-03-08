@@ -21,7 +21,7 @@ import uiuc.oai.OAIRepository;
  */
 public class HarvestAllDateProcess {
     
-     public static void main(String[] args) throws OAIException, IOException, JDOMException {
+     public static void run(String[] args) throws OAIException, IOException, JDOMException {
            
            if (args.length != 6) {
                 System.err.println("Usage3: java HarvestProcess param1(target) param2(foldername) param3(metadataPrefix) param4(untilD) param5(fromD) param6(Set)");
