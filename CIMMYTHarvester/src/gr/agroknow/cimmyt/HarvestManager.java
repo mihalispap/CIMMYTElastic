@@ -8,6 +8,7 @@ import org.ariadne.util.OaiUtils;
 import org.jdom.Element;
 import org.jdom.JDOMException;
 
+import gr.agroknow.cimmyt.utils.DBHandler;
 import gr.agroknow.metadata.harvester.Record;
 import uiuc.oai.OAIException;
 import uiuc.oai.OAIRecord;
@@ -48,26 +49,22 @@ public class HarvestManager {
 		file.mkdirs();
 
 		repos.setBaseURL(target);
-		//OAIRecordList records;
-		//records = repos.listRecords(metadataPrefix);   
-		
-		OAISetList setList=repos.listSets();
-		
+
+		OAISetList setList=repos.listSets();		
 		System.out.println(setList.toString());
 		
+		DBHandler db;
+
+		String conf_file=folderName + "/" + "cimmyt.conf";
+		db=new DBHandler(conf_file);
 		
 		int counter = 0;
-		while (setList.moreItems()) {
+		while (setList.moreItems()) 
+		{
+			
 			counter++;
 			OAISet item = setList.getCurrentItem();
 			
-			//System.out.println(item.getIdentifier());
-			
-			System.out.println(item.getSetDescription());
-			System.out.println(item.getSetName());
-			System.out.println(item.getSetSpec());
-
-
 			/*
 			 * 	TODO: perhaps handle "for CIMMYT staff" differently?
 			 * 
@@ -75,7 +72,6 @@ public class HarvestManager {
 			 * 
 			 * */
 			
-			//String setDesc=item.getSetDescription().toString();
 			String set_name=item.getSetName().toString();
 			String set_spec=item.getSetSpec().toString();
 			
@@ -83,18 +79,16 @@ public class HarvestManager {
 			current_set.setSetName(set_name);
 			current_set.setSetSpec(set_spec);
 			
-			//String fileOutput="<set><name>"+setName+"</name></set>";
-			
-			IOUtilsv2.writeStringToFileInEncodingUTF8(current_set.toFile(), folderName + "/" + set_spec +".xml");
-
-
-			//IOUtilsv2.writeStringToFileInEncodingUTF8(OaiUtils.parseLom2Xmlstring(metadata), folderName + "/" + setSpec +".xml");
-
-
+			System.out.println(current_set.getSetSpec());
+			db.addSet(current_set);
 			setList.moveNext();
 		}
+		
 		System.out.println(counter);
 		
+		db.harvestSets(target, folderName, metadataPrefix);
+		
+		db.writeToFile(conf_file);
 		
 	}
 

@@ -21,13 +21,13 @@ import uiuc.oai.OAIRepository;
  */
 public class HarvestAllDateProcess {
     
-     public static void run(String[] args) throws OAIException, IOException, JDOMException {
+     public int run(String[] args) throws OAIException, IOException, JDOMException {
            
            if (args.length != 6) {
                 System.err.println("Usage3: java HarvestProcess param1(target) param2(foldername) param3(metadataPrefix) param4(untilD) param5(fromD) param6(Set)");
                 System.exit(1);
             }          
-           listRecords(args[0],args[1],args[2], args[3], args[4], args[5]);           
+           return listRecords(args[0],args[1],args[2], args[3], args[4], args[5]);           
         /*
          * 
          * RUNNING CONFs: 
@@ -47,7 +47,7 @@ public class HarvestAllDateProcess {
 
 
 
-	public static void listRecords(String target, String folderName, String metadataPrefix, String until, String from, String SetSpec) throws OAIException,IOException, JDOMException {
+	public static int listRecords(String target, String folderName, String metadataPrefix, String until, String from, String SetSpec) throws OAIException,IOException, JDOMException {
 
 
 
@@ -101,6 +101,7 @@ public class HarvestAllDateProcess {
 			records.moveNext();
 		}
 		System.out.println(counter);
+		return counter;
 	}
     
 }

@@ -4,15 +4,28 @@ import uiuc.oai.OAISet;
 
 public class CimmytSet extends OAISet {
 
-	void setSetName(String name){
+	private String last_indexed;
+	
+	public void setSetName(String name){
 		this.frndSetSetName(name);
 	}
 
-	void setSetSpec(String spec){
+	public void setSetSpec(String spec){
 		this.frndSetSetSpec(spec);
 	}
 
-	String toFile()
+	public void setLastIndexed(String li)
+	{
+		this.last_indexed=li;
+	}
+	
+	public String getLastIndexed()
+	{
+		return this.last_indexed;
+	}
+
+
+	public String toFile()
 	{
 		String fileOutput="";
 		
