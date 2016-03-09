@@ -9,5 +9,6 @@ sudo pico /etc/elasticsearch/elasticsearch.yml
 
 sudo /usr/share/elasticsearch/bin/plugin -install mobz/elasticsearch-head
 sudo /usr/share/elasticsearch/bin/plugin -install lukas-vlcek/bigdesk
+sudo /usr/share/elasticsearch/bin/plugin -install elasticsearch/elasticsearch-analysis-icu/2.5.0
 
 sudo service elasticsearch start
