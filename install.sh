@@ -5,6 +5,13 @@ wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearc
 sudo dpkg -i elasticsearch-1.5.2.deb
 
 #CONFIGURE ES
+
+#cluster.name: cimmyt
+#node.name: cimmyt_node
+#node.rack: local
+#node.zone: main
+#http.port: 9201
+
 sudo pico /etc/elasticsearch/elasticsearch.yml
 
 sudo /usr/share/elasticsearch/bin/plugin -install mobz/elasticsearch-head
