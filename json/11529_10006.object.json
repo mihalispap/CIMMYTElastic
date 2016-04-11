@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Stem Rust Survey 2007",
+        "lang": ""
+    },
+    "updated": "2016-04-05T09:00:00Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "socio-economics",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "economics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2481"
+        }
+    ],
+    "description": {
+        "value": "Stem rust survey taken in 2007",
+        "lang": ""
+    },
+    "appid": "11529_10006",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10006"
+}}

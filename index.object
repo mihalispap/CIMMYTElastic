@@ -1,0 +1,33 @@
+{
+	"settings":{"number_of_shards": "5","number_of_replicas": "1","index.mapping.ignore_malformed": true},
+	"mappings":
+	{
+		"object":
+		{
+			"properties":
+			{
+				"title":
+				{
+					"properties":{"value":{"type":"string"},"lang":{"type":"string"}}
+				},
+				"updated": {"format":"dateOptionalTime","type":"date","ignore_malformed":true},
+				"created": {"format":"dateOptionalTime","type":"date","ignore_malformed":true},
+				"subject":
+				{
+					"properties":{"vocabulary":{"type":"string"},"score":{"type":"double"},"value":{"type":"string"},"uri":{"type":"string"}}
+				},
+				"language":
+				{
+					"properties":{"value":{"type":"string"},"uri":{"type":"string"}}
+				},
+				"description":
+				{
+					"properties":{"value":{"type":"string"},"lang":{"type":"string"}}
+				},
+				"apiid": {"type":"string"},
+				"apiuri": {"type":"string"}
+			}
+		}
+	}
+
+}
