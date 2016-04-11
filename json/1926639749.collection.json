@@ -1,0 +1,21 @@
+{"collection": {
+    "spec": 1,
+    "name": "Root collection of the CIMMYT Institutional Research Software Repository",
+    "about": {
+        "software": "Dataverse",
+        "metadataSchema": [
+            {
+                "name": "oai_dc",
+                "uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+            },
+            {
+                "name": "ddi",
+                "uri": "http://www.icpsr.umich.edu/DDI"
+            }
+        ],
+        "repoName": "Dataverse Network repository",
+        "handler": "http://data.cimmyt.org/dvn/OAIHandler"
+    },
+    "appid": 1926639749,
+    "appuri": "/cimmyt/collection/1926639749"
+}}

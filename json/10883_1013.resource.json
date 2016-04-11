@@ -1,0 +1,160 @@
+{"resource": {
+    "citation": "",
+    "issn": "0258-8595",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ecuador",
+            "uri": [
+                "http://sws.geonames.org/3658394",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ecuador"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/SA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:09:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Documento de Trabajo de Economia",
+    "appid": "10883_1013",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1983,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1013"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1013"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1013",
+    "creator": [
+        {
+            "id": 1922219807,
+            "value": "Moscardi, E.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922219807"
+        },
+        {
+            "id": 1103698573,
+            "value": "Cardoso, V.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1103698573"
+        },
+        {
+            "id": 34510568,
+            "value": "Espinosa, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/34510568"
+        },
+        {
+            "id": 669778097,
+            "value": "Soliz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/669778097"
+        },
+        {
+            "id": 201606071,
+            "value": "Zambrano, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/201606071"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1013/1/7272.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2602859
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1013/2/7272.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 74165
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1013/3/7272.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5159
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1013/1/7272.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1013/2/7272.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1013/3/7272.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1013"
+        }
+    },
+    "extent": "No. 83-1 A",
+    "page": "30 pags",
+    "coverage": [
+        "Ecuador",
+        "South America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

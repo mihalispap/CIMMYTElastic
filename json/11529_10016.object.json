@@ -1,0 +1,216 @@
+{"object": {
+    "title": {
+        "value": "Wheat Mexican Adaptation Trial Winter 2011-2012",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                "",
+                null
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9545,
+                1,
+                ""
+            ],
+            "value": "triticum durum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7955",
+                "http://aims.fao.org/aos/agrovoc/c_7955",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain yield",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to anthesis",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to maturity",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "triticosecale",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_33914"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "crop performance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35199"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "adaptation",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_117"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "height",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3536"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "anthesis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2992"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maturity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4656"
+        }
+    ],
+    "description": {
+        "value": "A diverse panel of 1,320 spring wheat lines (Triticum aestivum L. and Triticum durum L.) was sown under optimal conditions at five contrasting environments (during the winter cycle) in Mexico. These data will contribute to the efforts for identifying genetic regions related to grain yield, plant height, and days to heading and maturity.",
+        "lang": ""
+    },
+    "appid": "11529_10016",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10016"
+}}

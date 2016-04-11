@@ -1,0 +1,178 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/6255148",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/1814991",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:10:32Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1048",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1048"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1048"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1048",
+    "creator": [
+        {
+            "id": 541395620,
+            "value": "Lantican, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/541395620"
+        },
+        {
+            "id": 1748687308,
+            "value": "Dubin, H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1748687308"
+        },
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1048/4/81297.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1024909
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1048/2/81297.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 175763
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1048/5/81297.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4922
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1048/4/81297.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1048/2/81297.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1048/5/81297.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1048"
+        }
+    },
+    "extent": "",
+    "page": "x, 54 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-129-X",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

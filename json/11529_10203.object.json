@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "GEA-R (Genotype x Environment Analysis with R for Windows) Version 2.0",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:39:19Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype by environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ammi",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sreg",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pls",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "factorial regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stability analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "partial least squares",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multienvironment trials",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "r program",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        }
+    ],
+    "description": {
+        "value": "In agricultural experimentation, a large number of genotypes are normally tested over a wide range of environments. The occurrence of the genotype (G) X environment (E) interaction (GEI) effect further complicates the selection of superior genotypes for a target population of environments. In the absence of GEI, the superior genotype in one environment may be regarded as the superior genotype in all, whereas the presence of the GEI confirms particular genotypes being superior in particular environments. Several statistical methods were developed for resolved that kind of problems, for example, Additive main effect and multiplicative interaction analysis (AMMI), Site regression (SREG), Partial least square (PLS), Stability analysis and Factorial regression.",
+        "lang": ""
+    },
+    "appid": "11529_10203",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10203"
+}}

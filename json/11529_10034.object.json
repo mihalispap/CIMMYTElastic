@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Unimputed GbS derived SNPs for maize landrace accessions represented in the SeeD-maize GWAS panel",
+        "lang": ""
+    },
+    "updated": "2016-04-05T09:00:00Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "agricultural research",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "maize",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome-wide association study",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gwas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gbs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping by sequencing",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Obtain unimputed SNP profiles from genotyping-by-sequencing of the accession parents of the SeeD GWAS testcross panel.",
+        "lang": ""
+    },
+    "appid": "11529_10034",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10034"
+}}

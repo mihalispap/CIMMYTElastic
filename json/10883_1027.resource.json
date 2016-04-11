@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:10:04Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1027",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2001,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1027"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1027"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1027",
+    "creator": [
+        {
+            "id": 1352108727,
+            "value": "Hassan, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1352108727"
+        },
+        {
+            "id": 479858019,
+            "value": "Mekuria, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/479858019"
+        },
+        {
+            "id": 1761530427,
+            "value": "Mwangi, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761530427"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1027/1/74398.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 316023
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1027/2/74398.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 127490
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1027/3/74398.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7409
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1027/1/74398.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1027/2/74398.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1027/3/74398.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1027"
+        }
+    },
+    "extent": "",
+    "page": "x, 34 pags",
+    "coverage": "Eastern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-072-2",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

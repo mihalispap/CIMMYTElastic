@@ -1,0 +1,134 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Panama",
+        "uri": [
+            "http://sws.geonames.org/3703430",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Panama"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:09:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "IDIAP Serie Estudios Especiales",
+    "appid": "10883_1010",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1983,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1010"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1010"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1010",
+    "creator": [
+        {
+            "id": 1051715895,
+            "value": "Arauz, J.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1051715895"
+        },
+        {
+            "id": 1708635021,
+            "value": "Martinez, J.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1708635021"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 69515069,
+            "value": "IDIAP",
+            "type": "organization",
+            "uri": "/cimmyt/organization/69515069"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1010/1/7227.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 7627070
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1010/2/7227.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 229744
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1010/3/7227.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6816
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1010/1/7227.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1010/2/7227.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1010/3/7227.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1010"
+        }
+    },
+    "extent": "No. 1",
+    "page": "xvi, 119 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "(Panama)",
+    "doi": ""
+}}

@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Including dietary concerns in On-farm research: An example from Imbabura, Ecuador",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:51Z",
+    "created": "2012-01-06T05:09:50Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4788",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farming systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nutritive value",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5278",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6544
+            ],
+            "value": "ecuador",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2485"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7501,
+            "value": "experimentation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        }
+    ],
+    "description": {
+        "value": "The results of a qualitative dietary survey carried out in Imbabura, Ecuador, are described. Attention is given to the application of this; information to the planning of on-farm experimentation for the same region. Conclusions are drawn with respect to appropriate methods for collecting dietary data useful to on-farm research.",
+        "lang": "eng"
+    },
+    "appid": "10883_1017",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1017"
+}}

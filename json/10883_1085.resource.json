@@ -1,0 +1,195 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Turkey",
+        "uri": [
+            "http://sws.geonames.org/298795",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Turkey"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:11:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1085",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1085"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1085"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1085",
+    "creator": [
+        {
+            "id": 480106270,
+            "value": "Mazid, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/480106270"
+        },
+        {
+            "id": 707279235,
+            "value": "Amegbeto, K.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/707279235"
+        },
+        {
+            "id": 503036005,
+            "value": "Keser, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/503036005"
+        },
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        },
+        {
+            "id": 539531354,
+            "value": "Peker, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/539531354"
+        },
+        {
+            "id": 975970614,
+            "value": "Bagci, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/975970614"
+        },
+        {
+            "id": 901160292,
+            "value": "Akin, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/901160292"
+        },
+        {
+            "id": 479255878,
+            "value": "Kucukcongar, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/479255878"
+        },
+        {
+            "id": 723258285,
+            "value": "Kan, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/723258285"
+        },
+        {
+            "id": 2101396214,
+            "value": "Karabak, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/2101396214"
+        },
+        {
+            "id": 23845391,
+            "value": "Semerci, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/23845391"
+        },
+        {
+            "id": 1872940895,
+            "value": "Altikat, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1872940895"
+        },
+        {
+            "id": 949046971,
+            "value": "Yaktubay, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/949046971"
+        }
+    ],
+    "publisher": {
+        "id": 2007285386,
+        "value": "ICARDA*CIMMYT*MARA",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2007285386"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1085/1/93667.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1408585
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1085/2/93667.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 107258
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1085/3/93667.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5085
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1085/1/93667.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1085/2/93667.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1085/3/93667.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1085"
+        }
+    },
+    "extent": "",
+    "page": "iii, 51 pags",
+    "coverage": [
+        "Turkey",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Aleppo (Syria)",
+    "doi": ""
+}}

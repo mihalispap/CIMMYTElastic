@@ -1,0 +1,112 @@
+{"resource": {
+    "citation": "",
+    "issn": "0258-8587",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:09:54Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Economics Working Paper",
+    "appid": "10883_1020",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2001,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1020"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1020"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1020",
+    "creator": {
+        "id": 1752007571,
+        "value": "Bellon, M.R.",
+        "type": "person",
+        "uri": "/cimmyt/person/1752007571"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1020/1/73426.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 96372
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1020/2/73426.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 47737
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1020/3/73426.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2339
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1020/1/73426.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1020/2/73426.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1020/3/73426.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1020"
+        }
+    },
+    "extent": "No. 01-01",
+    "page": "iv, 12 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

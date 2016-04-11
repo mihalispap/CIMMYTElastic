@@ -1,0 +1,150 @@
+{"object": {
+    "title": {
+        "value": "Exercises in the economic analysis of agronomic data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:51Z",
+    "created": "2012-01-06T05:09:34Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "experiments",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4788",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "prices",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6178",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "data analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "site factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7087",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "economic analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2469",
+                "http://aims.fao.org/aos/agrovoc/c_2469",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "marginal analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4602"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8825
+            ],
+            "value": "exercise",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5828"
+            ]
+        }
+    ],
+    "description": {
+        "value": "This publication consists of sixteen exercises which are used in teaching the economic analysis of on-farm experimentation CIMMYT trainees. The exercises focus on the construction of partial budgets and the techniques of marginal analysis. It is meant to be used in data to farmer recommendations: An economic training manual",
+        "lang": "eng"
+    },
+    "appid": "10883_1005",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1005"
+}}

@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "GbS derived SNPs for wheat Iranian landrace accessions",
+        "lang": ""
+    },
+    "updated": "2016-04-05T09:00:00Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8679",
+                "http://aims.fao.org/agrovoc"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                "http://aims.fao.org/agrovoc"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/agrovoc"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gbs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping by sequencing",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "11529_10045",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10045"
+}}

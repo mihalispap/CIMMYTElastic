@@ -1,0 +1,120 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:09:29Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Economics Working Paper",
+    "appid": "10883_1001",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1984,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1001"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1001"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1001",
+    "creator": [
+        {
+            "id": 176020457,
+            "value": "Harrington, L.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/176020457"
+        },
+        {
+            "id": 1477198663,
+            "value": "Tripp, R.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1477198663"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1001/1/7013.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1718365
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1001/2/7013.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 59192
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1001/3/7013.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4871
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1001/1/7013.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1001/2/7013.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1001/3/7013.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1001"
+        }
+    },
+    "extent": "No. 84-2",
+    "page": "27 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

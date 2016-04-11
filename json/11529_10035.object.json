@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Imputed GbS derived SNPs for maize landrace accessions represented in the SeeD-maize GWAS panel: Imputation using Beagle v.4",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "agricultural research",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "maize",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/agrovoc"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome-wide association study",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gwas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gbs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping by sequencing",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Obtain imputed SNP profiles using Beagle v.4 from genotyping-by-sequencing of the accession parents of the SeeD GWAS testcross panel.",
+        "lang": ""
+    },
+    "appid": "11529_10035",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10035"
+}}

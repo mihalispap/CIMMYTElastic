@@ -1,0 +1,175 @@
+{"resource": {
+    "citation": "",
+    "issn": "0258-8587",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Tanzania",
+            "uri": [
+                "http://sws.geonames.org/149590",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tanzania"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Uganda",
+            "uri": [
+                "http://sws.geonames.org/226074",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Uganda"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:10:20Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Economics Working Paper",
+    "appid": "10883_1039",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2003,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1039"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1039"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1039",
+    "creator": {
+        "id": 407287002,
+        "value": "Doss, C.R.",
+        "type": "person",
+        "uri": "/cimmyt/person/407287002"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1039/4/76120.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 254762
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1039/2/76120.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 65765
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1039/5/76120.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3032
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1039/4/76120.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1039/2/76120.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1039/5/76120.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1039"
+        }
+    },
+    "extent": "3-Jul",
+    "page": "iv, 20 pags",
+    "coverage": "Eastern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

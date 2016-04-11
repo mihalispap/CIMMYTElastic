@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of Tar Spot Resistance in 2011 in Guadalupe-Victoria, Chiapas",
+        "lang": ""
+    },
+    "updated": "2016-04-05T09:00:00Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tar spot",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "monographella maydis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phyllachora maydis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "tar spot complex",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "field experimentation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33990"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spots",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7329"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "monographella",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27234"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "11529_10031",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10031"
+}}

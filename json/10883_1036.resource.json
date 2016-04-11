@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:10:15Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1036",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2002,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1036"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1036"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1036",
+    "creator": [
+        {
+            "id": 2078406982,
+            "value": "Longhorn. R.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2078406982"
+        },
+        {
+            "id": 1305701499,
+            "value": "Henson-Apollonio, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1305701499"
+        },
+        {
+            "id": 445089896,
+            "value": "White, J.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/445089896"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1036/1/76065.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 423085
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1036/2/76065.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 153217
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1036/3/76065.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5774
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1036/1/76065.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1036/2/76065.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1036/3/76065.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1036"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-102-8",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

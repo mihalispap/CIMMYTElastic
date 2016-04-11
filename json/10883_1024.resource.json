@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "1405-7735",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:10:00Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Economics Program Paper",
+    "appid": "10883_1024",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2001,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1024"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1024"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1024",
+    "creator": [
+        {
+            "id": 1400608325,
+            "value": "Naylor, R.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1400608325"
+        },
+        {
+            "id": 46271878,
+            "value": "Falcon, W.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/46271878"
+        },
+        {
+            "id": 840719734,
+            "value": "Puente Gonzalez, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/840719734"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1024/1/74285.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 600514
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1024/2/74285.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 112523
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1024/3/74285.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4706
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1024/1/74285.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1024/2/74285.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1024/3/74285.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1024"
+        }
+    },
+    "extent": "No. 01-01",
+    "page": "26 pags",
+    "coverage": [
+        "Mexico",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

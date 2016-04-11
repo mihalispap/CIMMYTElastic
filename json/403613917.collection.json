@@ -1,0 +1,61 @@
+{"collection": {
+    "spec": "col_10883_8",
+    "name": "Wheat",
+    "about": {
+        "software": "DSpace",
+        "metadataSchema": [
+            {
+                "name": "uketd_dc",
+                "uri": "http://naca.central.cranfield.ac.uk/ethos-oai/2.0/"
+            },
+            {
+                "name": "dim",
+                "uri": "http://www.dspace.org/xmlns/dspace/dim"
+            },
+            {
+                "name": "oai_dc",
+                "uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+            },
+            {
+                "name": "marc",
+                "uri": "http://www.loc.gov/MARC21/slim"
+            },
+            {
+                "name": "etdms",
+                "uri": "http://www.ndltd.org/standards/metadata/etdms/1.0/"
+            },
+            {
+                "name": "xoai",
+                "uri": "http://www.lyncode.com/xoai"
+            },
+            {
+                "name": "qdc",
+                "uri": "http://purl.org/dc/terms/"
+            },
+            {
+                "name": "rdf",
+                "uri": "http://www.openarchives.org/OAI/2.0/rdf/"
+            },
+            {
+                "name": "ore",
+                "uri": "http://www.w3.org/2005/Atom"
+            },
+            {
+                "name": "mods",
+                "uri": "http://www.loc.gov/mods/v3"
+            },
+            {
+                "name": "mets",
+                "uri": "http://www.loc.gov/METS/"
+            },
+            {
+                "name": "didl",
+                "uri": "urn:mpeg:mpeg21:2002:02-DIDL-NS"
+            }
+        ],
+        "repoName": "CIMMYT Institutional Publication Repository",
+        "handler": "http://repository.cimmyt.org/oai/request"
+    },
+    "appid": 403613917,
+    "appuri": "/cimmyt/collection/403613917"
+}}

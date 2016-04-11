@@ -1,0 +1,134 @@
+{"resource": {
+    "citation": "",
+    "issn": "1665-045X",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:10:24Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Risk Management Working Paper Series",
+    "appid": "10883_1042",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2002,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1042"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1042"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1042",
+    "creator": {
+        "id": 1125338896,
+        "value": "Kamanga, B.C.G.",
+        "type": "person",
+        "uri": "/cimmyt/person/1125338896"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1042/4/76435.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 279002
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1042/2/76435.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 85979
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1042/3/76435.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2151
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1042/4/76435.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1042/2/76435.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1042/3/76435.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1042"
+        }
+    },
+    "extent": "No. 02/01",
+    "page": "24 pags",
+    "coverage": [
+        "Malawi",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

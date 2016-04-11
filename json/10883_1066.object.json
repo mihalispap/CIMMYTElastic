@@ -1,0 +1,192 @@
+{"object": {
+    "title": {
+        "value": "From agronomic data to farmer recommendations: An economics training manual",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:51Z",
+    "created": "2012-01-06T05:10:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "production controls",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6201",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4788",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "prices",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6178",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diagnosis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "input output analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "planning",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6553,
+                0.6553,
+                ""
+            ],
+            "value": "experiments",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "surveys",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "innovation adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "data analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cost benefit analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "risk",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farming systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "economic analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8637,
+                ""
+            ],
+            "value": "marginal analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4602",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7384
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        }
+    ],
+    "description": {
+        "value": "This manual presents a set of procedures for doing an economic analysis of on-farm agronomic experiments wich will help in selecting treatments for furter experimentation and for developing farmer recommendations. The following points are discussed: importance of reviewing the objectives of the experiment; the experimental design and management; how to calculate total costs that vary, average yields, adjusted yield, gross field benefits, and net benefits; how to develop a partial budget; the importance of dominance analysis, marginal analysis, minimum returns analysis, and sensitivity analysis; and how to draw and report appropriate",
+        "lang": "eng"
+    },
+    "appid": "10883_1066",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1066"
+}}

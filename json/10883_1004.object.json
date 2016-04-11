@@ -1,0 +1,255 @@
+{"object": {
+    "title": {
+        "value": "Maize Production Environments Revisited: A GIS-based approach",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:51Z",
+    "created": "2012-01-06T05:09:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environmental factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2594",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "climatic factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_29554",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "production factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotype environment interaction",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sampling",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6774",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cartography",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1344",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "geography",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3230",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "production possibilities",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6207",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "climate",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1665",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crop management",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16094",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rain",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6435",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "information systems",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11769",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35131"
+        }
+    ],
+    "description": {
+        "value": "This publication presents a GIS-based approach for revising the descriptions of global maize production environments, called \"mega-environments\" (MEs), used by CIMMYT and its partners. A cluster analysis was performed on climate data, representing a four-month growing season, for key maize producing locations, primarily using international maize testing sites. Assuming rainfed production, the onset of the growing season was determined based on the month when the ratio of precipitation over potential evapotranspiration exceeds 0.5. Diagnostic criteria for mapping MEs were based on cluster analysis results and expert knowledge. The resulting maps can be used to select appropriate target environments for maize germplasm and trials, as well as in priority setting and site selection for global maize breeding programs",
+        "lang": "eng"
+    },
+    "appid": "10883_1004",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1004"
+}}

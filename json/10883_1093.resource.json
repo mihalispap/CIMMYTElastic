@@ -1,0 +1,166 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zambia",
+            "uri": [
+                "http://sws.geonames.org/895949",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zambia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:11:35Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Country Report",
+    "appid": "10883_1093",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1093"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1093"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1093",
+    "creator": [
+        {
+            "id": 1039403546,
+            "value": "Kalinda, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1039403546"
+        },
+        {
+            "id": 708969980,
+            "value": "Tembo, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/708969980"
+        },
+        {
+            "id": 1020128833,
+            "value": "Kuntashula, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1020128833"
+        },
+        {
+            "id": 1719769734,
+            "value": "Langyintuo, A.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1719769734"
+        },
+        {
+            "id": 1761530427,
+            "value": "Mwangi, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761530427"
+        },
+        {
+            "id": 1741331322,
+            "value": "La Rovere, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1741331322"
+        }
+    ],
+    "publisher": {
+        "id": 954869228,
+        "value": "UNZA - CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/954869228"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1093/1/94642.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 826244
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1093/2/94642.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 116363
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1093/3/94642.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2950
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1093/1/94642.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1093/2/94642.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1093/3/94642.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1093"
+        }
+    },
+    "extent": "",
+    "page": "viii, 45 pags",
+    "coverage": [
+        "Zambia",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

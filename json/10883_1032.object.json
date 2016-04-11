@@ -1,0 +1,225 @@
+{"object": {
+    "title": {
+        "value": "Directions in modeling wheat and maize for developing countries",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:41Z",
+    "created": "2012-01-06T05:10:10Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "simulation models",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24242",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research institutions",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6514",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "resource conservation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6523",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "tropical zones",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7979",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8228,
+                0.8228,
+                0.8228,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sustainability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33560",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant physiology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_25189",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "natural resources",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5091",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "developing countries",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3025",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6714
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        }
+    ],
+    "description": {
+        "value": "In a workshop sponsored by the Natural Resources Group (NRG) of the International Maize and Wheat Improvement Center (CIMMYT), crop modelers, crop physiologists, and other scientists from around the world met at CIMMYT headquarters in May 1998 to review the relevance of the CERES-Maize and CERES-wheat models for conditions in developing countries, to define an appropriate role for CIMMYT in promoting the use of crop models, and to consider ways to develop a new generation of wheat and maize models, both for natural resources management research and to link models to genetic research. In addition to invited papers, the publication describes the conclusion of working groups",
+        "lang": "eng"
+    },
+    "appid": "10883_1032",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1032"
+}}

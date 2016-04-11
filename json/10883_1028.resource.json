@@ -1,0 +1,157 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:10:05Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1028",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Research Highlights",
+        "Books and monographs"
+    ],
+    "date": 2000,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1028"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1028"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1028",
+    "creator": [
+        {
+            "id": 980450148,
+            "value": "Bekele Hundie Kotu",
+            "type": "person",
+            "uri": "/cimmyt/person/980450148"
+        },
+        {
+            "id": 59324808,
+            "value": "Verkuijl, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/59324808"
+        },
+        {
+            "id": 1761530427,
+            "value": "Mwangi, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761530427"
+        },
+        {
+            "id": 1966943519,
+            "value": "Tanner, D.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1966943519"
+        }
+    ],
+    "publisher": {
+        "id": 1027670084,
+        "value": "CIMMYT *EARO",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1027670084"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1028/1/74427.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 327533
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1028/2/74427.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 98086
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1028/3/74427.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3756
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1028/1/74427.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1028/2/74427.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1028/3/74427.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1028"
+        }
+    },
+    "extent": "",
+    "page": "ix, 26 pags",
+    "coverage": [
+        "Ethiopia",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-063-3",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}
