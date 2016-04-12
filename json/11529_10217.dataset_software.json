@@ -1,0 +1,92 @@
+{"dataset_software": {
+    "citation": "Vargas, Mateo; Combs, Emily; Alvarado, Gregorio; Atlin, Gary; Crossa, José, 2015-06-17, \"META-SAS: A Suite of SAS Programs to Analyze Multienvironment\", http://hdl.handle.net/11529/10217 International Maize and Wheat Improvement Center [Distributor] V4 [Version]",
+    "timePeriod": "",
+    "funding": "",
+    "kindOfData": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "relation": "",
+    "rights": [
+        "For further information, please contact CIMMYT at CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.",
+        "Copyright © 2015 Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT).\n\n\nThis program is distributed for free in the hope that it will be useful, but WITHOUT ANY WARRANTY. It use SAS codes and you have to have a valid SAS (V9.2 or higher) license to use it."
+    ],
+    "appid": "11529_10217",
+    "collection": {
+        "id": 1926639749,
+        "type": "collection",
+        "uri": "/cimmyt/collection/1926639749"
+    },
+    "type": "",
+    "date": 2013,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/11529/10217"
+        },
+        {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10217"
+        }
+    ],
+    "appuri": "/cimmyt/dataset_software/11529_10217",
+    "creator": [
+        {
+            "id": 865772988,
+            "value": "Vargas, Mateo",
+            "type": "person",
+            "uri": "/cimmyt/person/865772988"
+        },
+        {
+            "id": 1416845128,
+            "value": "Combs, Emily",
+            "type": "person",
+            "uri": "/cimmyt/person/1416845128"
+        },
+        {
+            "id": 275461210,
+            "value": "Alvarado, Gregorio",
+            "type": "person",
+            "uri": "/cimmyt/person/275461210"
+        },
+        {
+            "id": 1350941933,
+            "value": "Atlin, Gary",
+            "type": "person",
+            "uri": "/cimmyt/person/1350941933"
+        },
+        {
+            "id": 632625680,
+            "value": "Crossa, José",
+            "type": "person",
+            "uri": "/cimmyt/person/632625680"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": {
+            "category": "",
+            "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/META.zip?fileId=465",
+            "label": "META.zip",
+            "type": "",
+            "size": ""
+        },
+        "shownBy": {
+            "broken": false,
+            "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/META.zip?fileId=465"
+        },
+        "shownAt": {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10217"
+        }
+    },
+    "coverage": "",
+    "notes": ""
+}}

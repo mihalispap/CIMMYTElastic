@@ -1,0 +1,74 @@
+{"dataset_software": {
+    "citation": "Alvarado, Gregorio; Cerón, Jesús, 2015-08-14, \"SI-R Codes for Computing Selection Indices in R\", http://hdl.handle.net/11529/10352 nternational Maize and Wheat Improvement Center [Distributor] V3 [Version]",
+    "timePeriod": "",
+    "funding": "",
+    "kindOfData": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "relation": "",
+    "rights": [
+        "For further information, please contact CIMMYT at CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.",
+        "Copyright © 2015 Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT).\n\n\nThese codes are free; you can redistribute them and/or modify them\n\nThese codes are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
+    ],
+    "appid": "11529_10352",
+    "collection": {
+        "id": 1926639749,
+        "type": "collection",
+        "uri": "/cimmyt/collection/1926639749"
+    },
+    "type": "",
+    "date": "2015-08-14",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/11529/10352"
+        },
+        {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10352"
+        }
+    ],
+    "appuri": "/cimmyt/dataset_software/11529_10352",
+    "creator": [
+        {
+            "id": 275461210,
+            "value": "Alvarado, Gregorio",
+            "type": "person",
+            "uri": "/cimmyt/person/275461210"
+        },
+        {
+            "id": 1016306130,
+            "value": "Cerón, Jesús",
+            "type": "person",
+            "uri": "/cimmyt/person/1016306130"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": {
+            "category": "",
+            "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/SelIndices.zip?fileId=887",
+            "label": "SelIndices.zip",
+            "type": "",
+            "size": ""
+        },
+        "shownBy": {
+            "broken": false,
+            "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/SelIndices.zip?fileId=887"
+        },
+        "shownAt": {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10352"
+        }
+    },
+    "coverage": "",
+    "notes": ""
+}}

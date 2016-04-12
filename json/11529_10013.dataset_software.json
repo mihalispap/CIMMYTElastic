@@ -3,6 +3,11 @@
     "timePeriod": "",
     "funding": "La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación de Mexico (SAGARPA Mexico)",
     "kindOfData": "experimental data",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
     "relation": [
         "CGIAR Research Program : WHEAT",
         "CIMMYT Program: Genetic Resources Program"
@@ -12,6 +17,11 @@
         "CIMMYT-SeeD-data@cgiar.org"
     ],
     "appid": "11529_10013",
+    "collection": {
+        "id": "",
+        "type": "",
+        "uri": ""
+    },
     "type": "experimental data",
     "date": 2014,
     "url": [
@@ -57,15 +67,15 @@
                 "category": "Protocol",
                 "value": "http://23.253.100.239/dvn/dv/seedsofdiscoverydvn/FileDownload/DNA+extraction+protocol_for+GBS_cimmyt.docx?fileId=33",
                 "label": "DNA extraction protocol_for GBS_cimmyt.docx",
-                "type": null,
-                "size": null
+                "type": "",
+                "size": ""
             },
             {
                 "category": "SNP results",
                 "value": "http://23.253.100.239/dvn/dv/seedsofdiscoverydvn/FileDownload/Mexican_Land_Races_results_1-4_SNPs.zip?fileId=37",
                 "label": "Mexican_Land_Races_results_1-4_SNPs.zip",
-                "type": null,
-                "size": null
+                "type": "",
+                "size": ""
             }
         ],
         "shownBy": [
@@ -80,9 +90,10 @@
         ],
         "shownAt": {
             "broken": false,
-            "value": "http://data.cimmyt.org/dvn/OAIHandler11529/10013"
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10013"
         }
     },
+    "coverage": "",
     "notes": [
         "CIMMYT Project Abbreviation: SeeD",
         "CGIAR Research Program : WHEAT",

@@ -43,25 +43,10 @@
             ]
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6544
-            ],
-            "value": "ecuador",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_2485"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
-            "score": 0.7501,
-            "value": "experimentation",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+            "score": 1,
+            "value": "ecuador",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2485"
         }
     ],
     "description": {

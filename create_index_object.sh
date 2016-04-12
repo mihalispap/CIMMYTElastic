@@ -1,6 +1,6 @@
 #!/bin/bash
 
-content="$(cat index.object | tr -d '\n' | tr -d '\t')"
+content="$(cat index.object | tr -d '\n' | tr -d '\t' | tr -d ' ')"
 
 curl -XPOST localhost:9201/cimmyt -d '${content}'
 echo "curl -XPOST localhost:9201/cimmyt -d '${content}'"

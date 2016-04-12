@@ -1,0 +1,101 @@
+{"dataset_software": {
+    "citation": "Alvarado, Gregorio; Cerón, Jesús; Crossa, José; Burgueño, Juan, 2015-1, \"SI-SAS. A SAS Code to Calculate Several Selection Indexes\", http://hdl.handle.net/11529/10242 International Maize and Wheat Improvement Center [Distributor] V4 [Version]",
+    "timePeriod": "",
+    "funding": "",
+    "kindOfData": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "relation": "",
+    "rights": [
+        "For further information, please contact CIMMYT at CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.",
+        "This code is released without any warranty. For use the code you need a valid license of SAS V 9.2 or higher."
+    ],
+    "appid": "11529_10242",
+    "collection": {
+        "id": 1926639749,
+        "type": "collection",
+        "uri": "/cimmyt/collection/1926639749"
+    },
+    "type": "",
+    "date": "2015-01",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/11529/10242"
+        },
+        {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10242"
+        }
+    ],
+    "appuri": "/cimmyt/dataset_software/11529_10242",
+    "creator": [
+        {
+            "id": 275461210,
+            "value": "Alvarado, Gregorio",
+            "type": "person",
+            "uri": "/cimmyt/person/275461210"
+        },
+        {
+            "id": 1016306130,
+            "value": "Cerón, Jesús",
+            "type": "person",
+            "uri": "/cimmyt/person/1016306130"
+        },
+        {
+            "id": 632625680,
+            "value": "Crossa, José",
+            "type": "person",
+            "uri": "/cimmyt/person/632625680"
+        },
+        {
+            "id": 1098218526,
+            "value": "Burgueño, Juan",
+            "type": "person",
+            "uri": "/cimmyt/person/1098218526"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/pgm+test61.sas?fileId=530",
+                "label": "pgm test61.sas",
+                "type": "",
+                "size": ""
+            },
+            {
+                "category": "",
+                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/dat_3ambientes.csv?fileId=531",
+                "label": "dat_3ambientes.csv",
+                "type": "",
+                "size": ""
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/pgm+test61.sas?fileId=530"
+            },
+            {
+                "broken": false,
+                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/dat_3ambientes.csv?fileId=531"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10242"
+        }
+    },
+    "coverage": "",
+    "notes": ""
+}}

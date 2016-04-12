@@ -7,49 +7,22 @@
     "created": "2012-01-06T05:09:54Z",
     "subject": [
         {
-            "vocabulary": [
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                1,
-                ""
-            ],
+            "vocabulary": "",
+            "score": "",
             "value": "supply",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_7523",
-                ""
-            ]
+            "uri": ""
         },
         {
-            "vocabulary": [
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                1,
-                ""
-            ],
+            "vocabulary": "",
+            "score": "",
             "value": "demand",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_2171",
-                ""
-            ]
+            "uri": ""
         },
         {
-            "vocabulary": [
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                1,
-                ""
-            ],
+            "vocabulary": "",
+            "score": "",
             "value": "genetic variation",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_15975",
-                ""
-            ]
+            "uri": ""
         },
         {
             "vocabulary": "",
@@ -86,12 +59,6 @@
             "score": "",
             "value": "germplasm conservation",
             "uri": ""
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "crops",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
         }
     ],
     "description": {

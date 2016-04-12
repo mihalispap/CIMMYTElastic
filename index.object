@@ -94,7 +94,11 @@
 				"type":{"type":"string"},
 				"appid":{"type":"string"},
 				"appuri":{"type":"string"},
-				"creator":{"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+				"creator":
+				{
+					"properties":
+					{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}
+				},
 				"contributor":{"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"publisher":{"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"date":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
@@ -143,18 +147,84 @@
 								"type":{"type":"string"},
 								"size":{"type":"long"}
 							}
-						},
-						"collection":
-						{
-							"properties":
-							{
-								"id":{"type":"string"},
-								"uri":{"type":"string"},
-								"type":{"type":"string"}
-							}
 						}
 					}
-				}
+				},
+				"collection":
+          			{
+                                	"properties":
+                               		{
+                                  		"id":{"type":"string"},
+                                            	"uri":{"type":"string"},
+                                             	"type":{"type":"string"}
+                               		}
+                            	}
+			}
+		},
+		"dataset_software":
+		{
+			"properties":
+			{
+				"type":{"type":"string"},
+				"appid":{"type":"string"},
+				"appuri":{"type":"string"},
+				"creator":
+                                {"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+				"publisher":
+                                {"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+				"url":
+				{"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
+				"location":{"properties":{"value":{"type":"string"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
+                                "coverage":{"type":"string"},
+                                "relation":{"type":"string"},
+                                "rights":{"type":"string"},
+                                "citation":{"type":"string"},
+				"kindOfData":{"type":"string"},
+				"timePeriod":{"type":"string"},
+				"funding":{"type":"string"},
+				"notes":{"type":"string"},
+				"aggregation":
+                                {
+                                        "properties":
+                                        {
+                                                "shownAt":
+                                                {
+                                                        "properties":
+                                                        {
+                                                                "value":{"type":"string"},
+                                                                "broken":{"type":"boolean"}
+                                                        }
+                                                },
+                                                "shownBy":
+                                                {
+                                                        "properties":
+                                                        {
+                                                                "value":{"type":"string"},
+                                                                "broken":{"type":"boolean"}
+                                                        }
+                                                },
+                                                "linkToResource":
+                                                {
+                                                        "properties":
+                                                        {
+                                                                "value":{"type":"string"},
+                                                                "label":{"type":"string"},
+                                                                "category":{"type":"string"},
+                                                                "type":{"type":"string"},
+                                                                "size":{"type":"long"}
+                                                        }
+						}
+					}
+				},
+				"collection":
+                                {
+                                        "properties":
+                                        {
+                                                "id":{"type":"string"},
+                                                "uri":{"type":"string"},
+                                                "type":{"type":"string"}
+                                        }
+                                }
 			}
 		}
 	}
