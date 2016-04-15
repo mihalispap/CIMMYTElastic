@@ -14,7 +14,7 @@
 				"created": {"format":"dateOptionalTime","type":"date","ignore_malformed":true},
 				"subject":
 				{
-					"properties":{"vocabulary":{"type":"string"},"score":{"type":"double"},"value":{"type":"string"},"uri":{"type":"string"}}
+					"properties":{"vocabulary":{"type":"string"},"score":{"type":"double"},"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"}}
 				},
 				"language":
 				{
@@ -67,7 +67,7 @@
 				"contact":{"type":"string"},
 				"address":{"type":"string"},
 				"logo":{"type":"string"},
-				"location":{"properties":{"value":{"type":"string"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}}
+				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}}
 			}
 		},
 		"person":
@@ -82,7 +82,7 @@
 				"orcid":{"type":"string"},
 				"url": {"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
 				"affiliation":{"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
-				"location":{"properties":{"value":{"type":"string"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
+				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
 				"photo":{"type":"string"},
 				"shortBio":{"type":"string"}
 			}
@@ -106,12 +106,12 @@
 				"issn":{"type":"string"},
 				"isbn":{"type":"string"},
 				"url":{"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
-				"location":{"properties":{"value":{"type":"string"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
+				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
 				"coverage":{"type":"string"},
 				"place":{"type":"string"},
 				"page":{"type":"string"},
 				"extent":{"type":"string"},
-				"relation":{"type":"string"},
+				"relation":{"type":"string","index":"not_analyzed"},
 				"rights":{"type":"string"},
 				"citation":{"type":"string"},
 				"doi":{"type":"string"},
@@ -174,9 +174,9 @@
                                 {"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"url":
 				{"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
-				"location":{"properties":{"value":{"type":"string"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
+				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
                                 "coverage":{"type":"string"},
-                                "relation":{"type":"string"},
+                                "relation":{"type":"string","index":"not_analyzed"},
                                 "rights":{"type":"string"},
                                 "citation":{"type":"string"},
 				"kindOfData":{"type":"string"},
