@@ -97,10 +97,10 @@
 				"creator":
 				{
 					"properties":
-					{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}
+					{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}
 				},
-				"contributor":{"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
-				"publisher":{"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+				"contributor":{"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+				"publisher":{"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"date":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
 				"updatedDate":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
 				"issn":{"type":"string"},
@@ -169,9 +169,9 @@
 				"appid":{"type":"string"},
 				"appuri":{"type":"string"},
 				"creator":
-                                {"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+                                {"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"publisher":
-                                {"properties":{"value":{"type":"string"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+                                {"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"url":
 				{"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
 				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
