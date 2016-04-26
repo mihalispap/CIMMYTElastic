@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping of a new source of Fusarium wilt resistance in tetraploid cotton (Gossypium hirsutum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fusarium wilt",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "gossypium hirsutum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3339",
+                "http://aims.fao.org/aos/agrovoc/c_3339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7623,
+                0.7623,
+                0.7623,
+                0.7623,
+                0.7623,
+                1,
+                ""
+            ],
+            "value": "cotton",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait locus analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6635,
+                1,
+                ""
+            ],
+            "value": "fusarium oxysporum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16244",
+                "http://aims.fao.org/aos/agrovoc/c_16244",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fusarium",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3156"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        }
+    ],
+    "description": {
+        "value": "Fusarium wilt (FW) disease is an economically important disease of cotton worldwide and a major cause of crop losses in Australia and many other cotton-producing countries. Symptoms include wilting, vascular browning and death. Australian races of the causal agent Fusarium oxysporum f. sp. vasinfectum (Fov) are genetically distinct from those in other countries and are thought to have evolved from indigenous races. New sources of resistance for breeding are rare, as cotton cultivars with significant FW resistance against Fov isolates from other cotton-producing regions are usually susceptible to Australian Fov races. MCU-5, an Upland Indian cotton cultivar, has been identified as having improved resistance to Australian Fov and is being used to breed new commercial cultivars with higher resistance to FW. To investigate the genetic basis of the FW resistance in MCU-5, QTL analysis was performed on 244 F3 and 244 F4 families derived from an intraspecific cross between MCU-5 and Siokra 1-4, a cultivar highly sensitive to Australian Fov races. Resistance, as measured by leaf symptoms, vascular browning and survival, showed low to moderate heritability between generations. MCU-5 resistance to FW was found to be complex with three quantitative trait loci (QTL) identified in the F3, and eight in the F4, that explained between 9 and 41% of the phenotypic variation. The QTL were located on four linkage groups including chromosomes A6 (Chr 6), D4 (Chr 22) and D6 (Chr 25), with two QTL located in similar regions to previously identified FW resistance from the Sea Island cultivar Pima 3-79. The QTL identified in this study represent the first targets for marker-assisted selection of FW resistance in Australia.",
+        "lang": "eng"
+    },
+    "appid": "10883_1908",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1908"
+}}

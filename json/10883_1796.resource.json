@@ -1,0 +1,180 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-4797",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Bangladesh",
+        "uri": [
+            "http://sws.geonames.org/1210997",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:40Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1796",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1796"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1796"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1796",
+    "creator": [
+        {
+            "id": 1942613275,
+            "value": "Virk, D.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1942613275"
+        },
+        {
+            "id": 1793365252,
+            "value": "Pandit, D.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1793365252"
+        },
+        {
+            "id": 346964212,
+            "value": "Sufian, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/346964212"
+        },
+        {
+            "id": 282118849,
+            "value": "Ahmed, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/282118849"
+        },
+        {
+            "id": 1711393436,
+            "value": "Siddique, M.A.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1711393436"
+        },
+        {
+            "id": 1247419236,
+            "value": "Samad, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1247419236"
+        },
+        {
+            "id": 2127587625,
+            "value": "Rahman, M.M",
+            "type": "person",
+            "uri": "/cimmyt/person/2127587625"
+        },
+        {
+            "id": 295126076,
+            "value": "Islam, M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/295126076"
+        },
+        {
+            "id": 354315839,
+            "value": "Ortiz-Ferrara, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/354315839"
+        },
+        {
+            "id": 1013639600,
+            "value": "Joshi, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013639600"
+        },
+        {
+            "id": 1542741194,
+            "value": "Witcombe, J.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1542741194"
+        }
+    ],
+    "publisher": {
+        "id": 808301452,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=3044664",
+        "type": "organization",
+        "uri": "/cimmyt/organization/808301452"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1796/1/93627.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 200951
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1796/2/93627.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 42891
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1796/3/93627.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4666
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1796/1/93627.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1796/2/93627.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1796/3/93627.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1796"
+        }
+    },
+    "extent": "",
+    "page": "77-91",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

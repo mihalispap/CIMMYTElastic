@@ -1,0 +1,174 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:44Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1831",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1831"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1831"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1831",
+    "creator": [
+        {
+            "id": 264533052,
+            "value": "Wenzl, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/264533052"
+        },
+        {
+            "id": 412720393,
+            "value": "Pavla Suchankova",
+            "type": "person",
+            "uri": "/cimmyt/person/412720393"
+        },
+        {
+            "id": 720741822,
+            "value": "Carling, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/720741822"
+        },
+        {
+            "id": 1773868878,
+            "value": "Hana Simkova",
+            "type": "person",
+            "uri": "/cimmyt/person/1773868878"
+        },
+        {
+            "id": 881819659,
+            "value": "Huttner, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/881819659"
+        },
+        {
+            "id": 717215853,
+            "value": "Marie Kubalakova",
+            "type": "person",
+            "uri": "/cimmyt/person/717215853"
+        },
+        {
+            "id": 350408857,
+            "value": "Sourdille, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/350408857"
+        },
+        {
+            "id": 1330111845,
+            "value": "Paul, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1330111845"
+        },
+        {
+            "id": 627082273,
+            "value": "Feuillet, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/627082273"
+        },
+        {
+            "id": 1834248855,
+            "value": "Kilian, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1834248855"
+        },
+        {
+            "id": 379244587,
+            "value": "Dolezel, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/379244587"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1831/1/94554.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 387861
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1831/2/94554.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57936
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1831/3/94554.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5833
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1831/1/94554.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1831/2/94554.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1831/3/94554.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1831"
+        }
+    },
+    "extent": "",
+    "page": "465-474",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

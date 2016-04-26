@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Soil water content, maize yield and its stability as affected by tillage and crop residue management in rainfed semi-arid highlands",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "crop residues",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16118",
+                "http://aims.fao.org/aos/agrovoc/c_16118",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "no-tillage",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "tillage",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7771"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9201,
+            "value": "soil water content",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7208"
+        }
+    ],
+    "description": {
+        "value": "Rainfed crop management systems need to be optimized to provide more resilient options to cope with projected climatic scenarios forecasting a decrease in mean precipitation and more frequent extreme drought periods in Mexico. Soil water content (0?60 cm) was measured during three crop cycles in maize plots with different agronomic management practices in a long-term rainfed experiment (established in 1991) in the highlands of Mexico. Maize yields of 1997?2009 were reported. Crop management practices varied in (1) tillage (conventional [CT] vs. zero tillage [ZT]) and (2) residue management (full or partial retention and removal). ZT with residue retention had higher soil water content than management practices involving CT and ZT with residue removal which provided a buffer for drought periods during the growing seasons. In 2009, a cycle with a prolonged drought during vegetative growth, this resulted in yield differences of up to 4.7 Mg ha&#8722;1 between ZT with (partial) residue retention and the other practices. Averaged over 1997?2009, these practices had a yield advantage of approximately 1.5 Mg ha&#8722;1 over practices involving CT and ZT with residue removal. ZT with (partial) residue retention used rainfall more efficiently and resulted in a more resilient agronomic system than practices involving either CT or ZT with residue removal.",
+        "lang": "eng"
+    },
+    "appid": "10883_1558",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1558"
+}}

@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "0179-9541",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:30Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1722",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1722"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1722"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1722",
+    "creator": [
+        {
+            "id": 825346042,
+            "value": "Odeny, D.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/825346042"
+        },
+        {
+            "id": 623403906,
+            "value": "Jayashree, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/623403906"
+        },
+        {
+            "id": 1240297414,
+            "value": "Ferguson, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1240297414"
+        },
+        {
+            "id": 1791569376,
+            "value": "Hoisington, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1791569376"
+        },
+        {
+            "id": 150234408,
+            "value": "Crouch, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150234408"
+        },
+        {
+            "id": 1012789892,
+            "value": "Gebhardt, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1012789892"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1722/1/89939.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 551750
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1722/2/89939.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 39963
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1722/3/89939.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5222
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1722/1/89939.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1722/2/89939.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1722/3/89939.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1722"
+        }
+    },
+    "extent": "",
+    "page": "130-136",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

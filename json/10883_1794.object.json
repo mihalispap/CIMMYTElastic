@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "The large-effect drought-resistance QTL qtl12.1 increases water uptake in upland rice",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "oryza sativa l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "upland rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8076",
+                "http://aims.fao.org/aos/agrovoc/c_8076",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "root",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                0.7176,
+                ""
+            ],
+            "value": "water uptake",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8329",
+                "http://aims.fao.org/aos/agrovoc/c_8329",
+                "http://aims.fao.org/aos/agrovoc/c_8329",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spikelet sterility",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "oryza sativa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5438"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spikelets",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7301"
+        }
+    ],
+    "description": {
+        "value": "Drought stress is the most important abiotic factor limiting upland rice yields. Identification of quantitative trait loci (QTL) conferring improved drought resistance may facilitate breeding progress. We previously mapped a QTL with a large effect on grain yield under severe drought stress (qtl12.1) in the Vandana/Way Rarem population. In the current paper, we present results from a series of experiments investigating the physiological mechanism(s) by which qtl12.1 affects grain yield under drought conditions. We performed detailed plant water status measurements on a subset of lines having similar crop growth duration but contrasting genotypes at qtl12.1 under field (24 genotypes) and greenhouse (14 genotypes) conditions. The Way Rarem-derived allele of qtl12.1 was confirmed to improve grain yield under drought mainly through a slight improvement (7%) in plant water uptake under water-limited conditions. Such an apparently small increase in water uptake associated with this allele could explain the large effect on yield observed under field conditions. Our results suggest that this improvement of plant water uptake is likely associated with improved root architecture.",
+        "lang": "eng"
+    },
+    "appid": "10883_1794",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1794"
+}}

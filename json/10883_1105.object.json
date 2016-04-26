@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Guia para la identificacion de enfermedades en cereales de grano pequeno",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:44Z",
+    "created": "2012-01-06T05:14:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "septoria",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "viroses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rusts",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "helminthosporium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "smuts",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bacterioses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cereals",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "avena",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_728"
+        }
+    ],
+    "description": {
+        "value": "Esta guia esta dirigida a fitomejoradores, agronomos y cientificos en proceso de capacitacion cuyas responsabilidades incluyen la identificacion de enfermedades, el registro de datos de ensayos, la seleccion de poblaciones segregadas que demuestran tolerancia a enfermedades, asi como tambien la verificacion de las reacciones a enfermedades de diversos tipos de germoplasma de cereales de grano pequeño. Contiene la informacion necesaria para identificar mas de 70 enfermedades que afectan al trigo harinero, trigo duro o cristalino, cebada, avena, centeno y triticale. ademas de señalar anormalidades fisiologicas y ambientales, describe los",
+        "lang": "spa"
+    },
+    "appid": "10883_1105",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1105"
+}}

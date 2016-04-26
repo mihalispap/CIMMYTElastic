@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Optimal sample size for estimating the proportion of transgenic plants using the Dorfman model with a random confidence interval",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adventitious presence transgenic plants",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "confidence  interval",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "desired width",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "group testing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pool sampli",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Group testing is a procedure in which groups that contain several units (plants) are analysed without having to inspect individual plants, with the purpose of estimating the prevalence of genetically modified plants (adventitious presence of unwanted transgenic plants, AP) in a population at a low cost, without losing precision. When pool (group) testing is used to estimate the proportion of AP (p), there are several procedures that can be used for computing the confidence interval (CI); however, they usually do not ensure precision in the estimation of pags This research proposes a formula for determining the required number of pools (g), given a pool size (k), for estimating the proportion of AP plants using the Dorfman model. The proposed formula ensures precision in the estimated proportion of AP because it guarantees that the width (W) of the CI will be equal to, or narrower than, the desired width (v), with a probability of g. This probability accounts for the stochastic nature of the sample variance of pags We give examples to show how to use the proposed sample size formula. Simulated data were created and tables are presented showing the different scenarios that a researcher may encounter. The Monte Carlo method was used to study the coverage and the level of assurance achieved by the proposed sample sizes. An R program that reproduces the results in the tables and makes it easy for the researcher to create other scenarios is given in the Appendix.",
+        "lang": "eng"
+    },
+    "appid": "10883_1848",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1848"
+}}

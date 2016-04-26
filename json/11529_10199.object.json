@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Application of a Genomics Selection Index to Real and Simulated Data",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8541
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "selection index",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24423"
+            ]
+        }
+    ],
+    "description": {
+        "value": "We apply a Genomic Selection Index (GSI) to simulated and real data sets with four traits and numerically we compared its efficiency with that of the phenotypic selection index (PSI) using the ratio of the GSI response over the PSI response. In addition, we used two additional criteria to compare the GSI vs PSI efficiency: the ratio of the average of the top 10% of the predicted values of the net genetic merit from one to the next selection cycle for PSI and GSI and the Technow inequality. Results from the simulated data were confirmed by the real data, indicating that GSI was more efficient than PSI in terms of time and that the means of the top 10% of the net genetic merit predicted by GSI were higher than that predicted by PSI. Thus, we concluded that the proposed GSI is an efficient choice when the purpose of a breeding program is to select genotypes using genomic selection.",
+        "lang": ""
+    },
+    "appid": "11529_10199",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10199"
+}}

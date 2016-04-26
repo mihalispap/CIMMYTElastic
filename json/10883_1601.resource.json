@@ -1,0 +1,173 @@
+{"resource": {
+    "citation": "",
+    "issn": "0002-1962",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T20:59:23Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1601",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2013,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1601"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1601"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1601",
+    "creator": [
+        {
+            "id": 1009899992,
+            "value": "Singh, V.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1009899992"
+        },
+        {
+            "id": 1402760731,
+            "value": "Dwivedi, B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1402760731"
+        },
+        {
+            "id": 994844113,
+            "value": "Buresh, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/994844113"
+        },
+        {
+            "id": 2104021588,
+            "value": "Jat, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/2104021588"
+        },
+        {
+            "id": 896948414,
+            "value": "Majumdar, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/896948414"
+        },
+        {
+            "id": 1624717323,
+            "value": "Gangwar, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1624717323"
+        },
+        {
+            "id": 1156568221,
+            "value": "Govil, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1156568221"
+        },
+        {
+            "id": 1009989365,
+            "value": "Singh, S.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1009989365"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1601/1/97656.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 984018
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1601/2/97656.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 75549
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1601/3/97656.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8270
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1601/1/97656.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1601/2/97656.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1601/3/97656.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1601"
+        }
+    },
+    "extent": "",
+    "page": "1-11 pags",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

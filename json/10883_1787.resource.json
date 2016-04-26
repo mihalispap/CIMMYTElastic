@@ -1,0 +1,101 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:39Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1787",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1787"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1787"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1787",
+    "creator": {
+        "id": 1031538120,
+        "value": "Jiankang Wang",
+        "type": "person",
+        "uri": "/cimmyt/person/1031538120"
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1787/1/93482.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 340265
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1787/2/93482.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 28138
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1787/1/93482.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1787/2/93482.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1787"
+        }
+    },
+    "extent": "",
+    "page": "239-245",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Multi-environment QTL analyses for drought-related traits in a recombinant inbred population of chickpea (Cicer arientinum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:57Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pods",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13475"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7264,
+            "value": "chickpeas",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9785"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cicer",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1611"
+        }
+    ],
+    "description": {
+        "value": "A recombinant inbred line (RIL) population, comprising 181 lines derived from ILC588 x ILC3279, was evaluated in 10 environments across three locations with different moisture gradients. A drought resistance score (DRS) and three phenology traits¡ªplant height (PLHT), days to flowering (DFLR), and days to maturity (MAT)¡ªwere recorded along with seven yield-related traits¡ªgrain yield (GY), biological yield (BY), harvest index (HI), the number of pods/3 plants (Pod), percentage of empty pods (%Epod), 100 seed weight (100 sw), and seed number/3 plants (SN). Two RILs (152, 162) showed the best GYs and DRSs under stressed and non-stressed environments. The quantitative trait loci (QTLs) analyses detected 93 significant QTLs (LOD ¡Ý 2.0) across the genome ¡Á environment interactions. The highest phenotypic variation (>24 %) was explained by the QTLDFLR in Terbol-11. Four common possible pleiotropic QTLs on LG3 and LG4 were identified as associated with DFLR, DRS, GY, MAT, HI, SN, and Pod. No significant epistatic interactions were found between these QTLs and the other markers. However, the QTL for DRS was detected as a conserved QTL in three late planting environments. The markers H6C-07 (on LG3) and H5G01 (on LG4) were associated with QTLs for many traits in all environments studied except two. The allele ¡®A¡¯ of marker H6C07 (from the tolerant parent ILC588) explained 80 % of the yield increase under late planting and 29.8 % of that under dry environments. Concentrating on LG3 and LG4 in molecular breeding programs for drought could speed up improvement for these traits.",
+        "lang": "eng"
+    },
+    "appid": "10883_1922",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1922"
+}}

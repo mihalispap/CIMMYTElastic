@@ -1,0 +1,158 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:07:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1958",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1998,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1958"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1958"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1958",
+    "creator": [
+        {
+            "id": 568815455,
+            "value": "Mugo, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/568815455"
+        },
+        {
+            "id": 167186719,
+            "value": "Smith, M.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/167186719"
+        },
+        {
+            "id": 1655599573,
+            "value": "Banziger, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1655599573"
+        },
+        {
+            "id": 193406449,
+            "value": "Setter, T.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/193406449"
+        },
+        {
+            "id": 1751153310,
+            "value": "Edmeades, G.O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1751153310"
+        },
+        {
+            "id": 1897883289,
+            "value": "Elings, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1897883289"
+        }
+    ],
+    "publisher": {
+        "id": 1718628576,
+        "value": "http://www.bioline.org.br/abstract?cs98035",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1718628576"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1958/1/67624.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 99641
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1958/2/67624.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 61525
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1958/3/67624.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8272
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1958/1/67624.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1958/2/67624.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1958/3/67624.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1958"
+        }
+    },
+    "extent": "",
+    "page": "329-344",
+    "coverage": "Eastern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

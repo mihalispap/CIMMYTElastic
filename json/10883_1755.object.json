@@ -1,0 +1,129 @@
+{"object": {
+    "title": {
+        "value": "Molecular profiling of interspecific lowland rice populations derived from IR64 (Oryza sativa) and Tog5681 (Oryza glaberrima)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:35Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "african rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5436",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "introgression",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24863",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microsatellite",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nerica",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "oryza glaberrima",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5436",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rice",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8881
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8834,
+            "value": "oryza sativa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5438"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "microsatellites",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        }
+    ],
+    "description": {
+        "value": "Several lowland NERICAs (New Rice for Africa) were derived from crosses between IR64 (an Oryza sativa subsp. indica variety) and Tog5681 (an Oryza glaberrima variety) that possess useful traits adapted to lowland conditions in West Africa. The proportion of parental genomic contribution and extent of genetic differences among these sister lines is unknown at the molecular level. The objectives in this study were therefore to determine, with 60 SSR markers that cover 1162 cM of the rice genome, the frequency and magnitude of deviations from the expected parental contributions among 21 BC2F10, 17 BC3 F8 and 10 BC4F8 lines and determine patterns of their genetic relationships. The estimated average O. glaberrima genome coverage was 7.2% (83.5 cM) at BC2F10, 8.5% (99.3 cM) at BC3F8 and 8.1% (93.8 cM) at BC4F8 lines. The O. sativa parent accounted for 73.2% (851.3 cM) at BC2F10, 82.6% (959.5 cM) at BC3F8 and 78.2% (908.6 cM) at BC3F8. Non-parental alleles were detected at all 3 backcross generations but the frequency of such alleles at BC2 (8.8%) was twice that of BC3F8 (3.4%) and nine times that of BC4F8 (0.9%). Both cluster and principal component analyses revealed two major groups irrespective of the level of backcross generations and the proportion of parental genome contribution.",
+        "lang": "eng"
+    },
+    "appid": "10883_1755",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1755"
+}}

@@ -1,0 +1,219 @@
+{"object": {
+    "title": {
+        "value": "Wheat Derived Synthetics Drought Tolerance Evaluation 2011-2012",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9316,
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain yield",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to flowering",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to maturity",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "crop performance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35199"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "drought stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24993"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                null
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14914"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synthetic hexaploid wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "derived synthetic wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9379
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9379,
+            "value": "backcrossing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_763"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7165,
+            "value": "late sowing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16208"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8776
+            ],
+            "value": "hexaploids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24400"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "height",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3536"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maturity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4656"
+        }
+    ],
+    "description": {
+        "value": "Derived synthetic wheat lines were tested for drought tolerance via late sowing and reduced irrigation in Ciudad Obregon in the 2011-2012 growing season. These materials were derived from bi-parental crosses, backcrosses, or topcrosses between bread wheat lines and synthetic hexaploid wheat lines. The results presented are the uncurated raw data from one season of planting. The trial contained 1727 unique materials and 2250 total entries.",
+        "lang": ""
+    },
+    "appid": "11529_10349",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10349"
+}}

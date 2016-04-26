@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:36Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1759",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1759"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1759"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1759",
+    "creator": [
+        {
+            "id": 669273957,
+            "value": "Blomme, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/669273957"
+        },
+        {
+            "id": 1668556250,
+            "value": "Swennen, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1668556250"
+        },
+        {
+            "id": 238857105,
+            "value": "Tenkouano, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/238857105"
+        },
+        {
+            "id": 800349071,
+            "value": "Turyagyenda, F.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/800349071"
+        },
+        {
+            "id": 1507275021,
+            "value": "Soka, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1507275021"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": 550035366,
+        "value": "http://www.m.elewa.org/JABS/2008/8%282%29/Abstract5-Blomme.html",
+        "type": "organization",
+        "uri": "/cimmyt/organization/550035366"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1759/1/91463.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 94023
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1759/2/91463.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30100
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1759/3/91463.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5582
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1759/1/91463.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1759/2/91463.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1759/3/91463.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1759"
+        }
+    },
+    "extent": "",
+    "page": "334-342",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

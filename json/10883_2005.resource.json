@@ -1,0 +1,130 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:19Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2005",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1991,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2005"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2005"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2005",
+    "creator": [
+        {
+            "id": 1643081466,
+            "value": "Byerlee, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1643081466"
+        },
+        {
+            "id": 176020457,
+            "value": "Harrington, L.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/176020457"
+        },
+        {
+            "id": 324264312,
+            "value": "Sharif, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/324264312"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2005/1/33013.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1582101
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2005/2/33013.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 118493
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2005/3/33013.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2840
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2005/1/33013.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2005/2/33013.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2005/3/33013.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2005"
+        }
+    },
+    "extent": "",
+    "page": "1-33 pags",
+    "coverage": [
+        "Pakistan",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

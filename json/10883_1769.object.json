@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Molecular characterization of global maize breeding germplasm based on genome-wide single nucleotide polymorphisms",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6207
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Characterization of genetic diversity is of great value to assist breeders in parental line selection and breeding system design. We screened 770 maize inbred lines with 1,034 single nucleotide polymorphism (SNP) markers and identified 449 high-quality markers with no germplasm-specific biasing effects. Pairwise comparisons across three distinct sets of germplasm, CIMMYT (394), China (282), and Brazil (94), showed that the elite lines from these diverse breeding pools have been developed with only limited utilization of genetic diversity existing in the center of origin. Temperate and tropical/subtropical germplasm clearly clustered into two separate groups. The temperate germplasm could be further divided into six groups consistent with known heterotic patterns. The greatest genetic divergence was observed between temperate and tropical/subtropical lines, followed by the divergence between yellow and white kernel lines, whereas the least divergence was observed between dent and flint lines. Long-term selection for hybrid performance has contributed to significant allele differentiation between heterotic groups at 20% of the SNP loci. There appeared to be substantial levels of genetic variation between different breeding pools as revealed by missing and unique alleles. Two SNPs developed from the same candidate gene were associated with the divergence between two opposite Chinese heterotic groups. Associated allele frequency change at two SNPs and their allele missing in Brazilian germplasm indicated a linkage disequilibrium block of 142 kb. These results confirm the power of SNP markers for diversity analysis and provide a feasible approach to unique allele discovery and use in maize breeding programs.",
+        "lang": "eng"
+    },
+    "appid": "10883_1769",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1769"
+}}

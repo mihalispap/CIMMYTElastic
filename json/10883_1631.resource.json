@@ -1,0 +1,117 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:17Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1631",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1987,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1631"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1631"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1631",
+    "creator": {
+        "id": 803942747,
+        "value": "Westcott, B.",
+        "type": "person",
+        "uri": "/cimmyt/person/803942747"
+    },
+    "publisher": {
+        "id": 2116865824,
+        "value": "http://journals.cambridge.org/action/displayAbstract;jsessionid=0D546A1274064A7EA1B29FE30166BFFF.journals?fromPage=online&aid=4808984",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2116865824"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1631/1/70176.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 550754
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1631/2/70176.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 27098
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1631/3/70176.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6445
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1631/1/70176.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1631/2/70176.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1631/3/70176.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1631"
+        }
+    },
+    "extent": "",
+    "page": "267-274",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

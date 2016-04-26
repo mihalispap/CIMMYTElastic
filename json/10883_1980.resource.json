@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Senegal",
+        "uri": [
+            "http://sws.geonames.org/2245662",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Senegal"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:13Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1980",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1989,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1980"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1980"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1980",
+    "creator": [
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        },
+        {
+            "id": 702355833,
+            "value": "Newman, M.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/702355833"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1980/1/16058.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1065370
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1980/2/16058.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48476
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1980/3/16058.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5215
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1980/1/16058.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1980/2/16058.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1980/3/16058.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1980"
+        }
+    },
+    "extent": "",
+    "page": "1895-1906",
+    "coverage": [
+        "Senegal",
+        "West Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

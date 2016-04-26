@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Yield uncertainty at the field scale evaluated with multi-year satellite data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "climate variability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "remote sensing",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6498",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "risk",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6612",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yield gap",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_330609",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "climate",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1665"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "The level of yield risk faced by a farmer is an important factor in the design of appropriate management and insurance strategies. The difference between field scale and regional scale yield risk, which can be significant, also represents an important measure of the factors that cause the yield gap &ndash; the difference between average and maximum yields. While field scale yield risk is difficult to assess with traditional data sources, yield maps derived from remote sensing offer promise for obtaining the necessary data in any region. We analyzed remotely sensed yield datasets for two regions in Northwest Mexico, the Yaqui and San Luis Rio Colorado Valleys, in conjunction with time series of aggregated regional yields for 1976&ndash;2002. Regional scale yield risk was roughly 8% of average yields in both regions. Field scale yield risk was determined to be 58% higher than regional scale risk in both regions. The difference between field and regional scale risk accounted for 50% of the spatial variance in yields in the Yaqui Valley, and 70% in the San Luis Rio Colorado Valley, indicating that climatic uncertainty represents an important source of the spatial yield variability. This implies that accurate seasonal climate forecasts could substantially reduce yield losses in farmers&rsquo; fields. The results were shown to be fairly sensitive to assumptions about the magnitude and nature of errors in yield estimation, suggesting that improved understanding of estimation errors are needed to realize the full potential of remote sensing for yield risk analysis.",
+        "lang": "eng"
+    },
+    "appid": "10883_1484",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1484"
+}}

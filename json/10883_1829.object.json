@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping of a non-host resistance gene YrpstY1 in barley (Hordeum vulgare L.) for resistance to wheat stripe rust",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6811
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hordeum vulgare",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3662"
+        }
+    ],
+    "description": {
+        "value": "Cultivated barley ( Hordeum vulgare L.) is considered as a non-host or inappropriate host species for wheat stripe rust caused by Puccinia striiformis f. sp. tritici . Most barley cultivars show a broad-spectrum resistance to wheat stripe rust. To determine the genes for resistance to wheat stripe rust in barley, a cross was made between a resistant barley line Y12 and a susceptible line Y16. The two parents, F 1 and 147 BC 1 plants were tested at seedling stage with Chinese prevalent race CYR32 of Puccinia striiformis f. sp. tritici by artifi cial inoculation in greenhouse. The results indicated that Y12 possessed one dominant resistance gene to wheat stripe rust, designated YrpstY1 provisionally. A total of 388 simple sequence repeat (SSR) markers were used to map the resistance gene in Y12 using bulked segregant analysis. A linkage map, including nine SSR loci on chromosome 7H and YrpstY1 , was constructed using the BC 1 population, indicating that the resistance gene YrpstY1 is located on chromosome 7H. It is potential to transfer the resistance gene into common wheat for stripe rust resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_1829",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1829"
+}}

@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "0022-0957",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:46Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1839",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1839"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1839"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1839",
+    "creator": [
+        {
+            "id": 193406449,
+            "value": "Setter, T.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/193406449"
+        },
+        {
+            "id": 931882958,
+            "value": "Jianbing Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/931882958"
+        },
+        {
+            "id": 1942495439,
+            "value": "Warburton, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1942495439"
+        },
+        {
+            "id": 141814591,
+            "value": "Ribaut, J-M",
+            "type": "person",
+            "uri": "/cimmyt/person/141814591"
+        },
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        },
+        {
+            "id": 1586258207,
+            "value": "Sawkins, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1586258207"
+        },
+        {
+            "id": 357553558,
+            "value": "Buckler, E.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/357553558"
+        },
+        {
+            "id": 418601957,
+            "value": "Zhiwu Zhang",
+            "type": "person",
+            "uri": "/cimmyt/person/418601957"
+        },
+        {
+            "id": 2015477181,
+            "value": "Gore, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2015477181"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1839/1/94732.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 532147
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1839/2/94732.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 85932
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1839/3/94732.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7534
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1839/1/94732.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1839/2/94732.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1839/3/94732.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1839"
+        }
+    },
+    "extent": "",
+    "page": "701-716",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

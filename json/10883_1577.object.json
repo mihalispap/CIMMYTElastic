@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Global warming potential of agricultural systems with contrasting tillage and residue management in the central highlands of Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "carbon sequestration",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331583",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "greenhouse gas emissions",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inorganic n dynamics",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil water content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7208",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crop residues",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16118"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "greenhouses",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3379"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "dynamics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330860"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8261,
+            "value": "global warming",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34836"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7771"
+        }
+    ],
+    "description": {
+        "value": "Conservation agriculture based on (1) minimal soil movement, (2) retention of rational amounts of crop residue, (3) economically viable crop rotations restores soil fertility. Conservation agriculture improves soil characteristics, but it remains to be seen how zero tillage (ZT) affected greenhouse gas emissions (GHG) and the global warming potential (GWP) compared to conventional tillage (CT) when crop residue was kept or removed in a maize-wheat crop rotation since 1991. The soil organic C content in the 0?60 cm layer was larger in ZT (117.7 Mg C ha&#8722;1) compared to CT (76.8 Mg C ha&#8722;1) when residue was retained, but similar when it was removed. Tillage and residue management had only a small effect on GWP of the GHG emissions. However, the C sequestered in the 0?60 cm was affected by tillage and crop residue management, resulting in a negative net GWP for ZT with crop residue retention (&#8722;6.277 Mg CO2 ha&#8722;1 y&#8722;1) whereas in the other management practices it ranged from 1.288 to 1.885 Mg CO2 ha&#8722;1 y&#8722;1. It was found that cultivation technique had little effect on the GWP of the GHG, but had a large effect on C sequestered in the 0?60 cm layer and the net GWP.",
+        "lang": "eng"
+    },
+    "appid": "10883_1577",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1577"
+}}

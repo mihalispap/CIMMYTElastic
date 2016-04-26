@@ -1,0 +1,158 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Asia",
+            "uri": [
+                "http://sws.geonames.org/7729893",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:18:13Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1254",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2002,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1254"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1254"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1254",
+    "creator": [
+        {
+            "id": 1143886948,
+            "value": "Peña Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1143886948"
+        },
+        {
+            "id": 553326098,
+            "value": "Meng, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/553326098"
+        },
+        {
+            "id": 2035804614,
+            "value": "Abugalieva, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2035804614"
+        },
+        {
+            "id": 380028305,
+            "value": "Atli, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/380028305"
+        },
+        {
+            "id": 1460189109,
+            "value": "Massalimov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1460189109"
+        },
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1254/1/76237.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1760949
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1254/2/76237.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 50650
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1254/3/76237.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6225
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1254/1/76237.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1254/2/76237.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1254/3/76237.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1254"
+        }
+    },
+    "extent": "No. 50",
+    "page": "ii, 22p.",
+    "coverage": "Central Asia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

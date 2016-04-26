@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:16:11Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Regional Wheat Workshop for Eastern, Central and Southern Africa",
+    "appid": "10883_1180",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Proceedings",
+        "Books and monographs"
+    ],
+    "date": 1980,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1180"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1180"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1180",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 1051038167,
+        "value": "Institute of Agronomical Studies",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1051038167"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1180/1/42877.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2234573
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1180/2/42877.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 240022
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1180/3/42877.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 1777
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1180/1/42877.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1180/2/42877.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1180/3/42877.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1180"
+        }
+    },
+    "extent": "No. 1",
+    "page": "149 pags",
+    "coverage": [
+        "Eastern Africa",
+        "Southern Africa",
+        "Central Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Gisenyi (Rwanda)",
+    "doi": ""
+}}

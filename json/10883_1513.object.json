@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "The effects of urea fertilisation and genotype on yield, nitrogen use efficiency, 15N and 13C in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carbon isotope composition",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "grain",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3346",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen isotope composition",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen use efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "straw",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "isotopes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11852"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "use efficiency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36789"
+        }
+    ],
+    "description": {
+        "value": "New methodologies to assess nitrogen use efficiency (NUE) in field crops could help in the characterisation of large numbers of genotypes and growing conditions. The effects of chemical nitrogen fertilisation on yield: nitrogen taken up by the crop, NUE and its components utilisation efficiency (UTE) and uptake efficiency (UPE) and the stable carbon (d13C) and nitrogen (d15N) composition of mature grains and straw were evaluated. A set of 24 wheat genotypes generated over the past four decades by International Maize and Wheat Improvement Center and the Mexican Institute of Forestry, Agriculture and Livestock Research were studied under well-irrigated field conditions. Five concentrations of urea were applied as a source of N fertilisation. Fertilisation significantly decreased d15N and increased d13C, but d15N was the isotopic trait most strongly correlated with absolute changes in yield and crop nitrogen (N) accumulation caused by different levels of N fertilisation. Both grain d15N and grain d13C correlated positively with NUE and UTE. Differences across genotypes in d13C correlated positively with UTE and negatively with grain N content within each of the N levels assayed. Genotypic differences in d15N correlated negatively with total grain N accumulated but only at the intermediate levels of N fertilisation. We conclude that under our experimental conditions, natural abundances of 15N and 13C may provide complementary information on how nitrogen fertiliser is used by the plant. However, whereas grain yield and biomass, as well as total N accumulated and NUE, increased in the most recent genotypes, only a tendency for higher d15N was observed and there was no clear trend for d13C. Changes in NUE were paralleled by changes in UPE rather than UTE.",
+        "lang": "eng"
+    },
+    "appid": "10883_1513",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1513"
+}}

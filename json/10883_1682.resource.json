@@ -1,0 +1,204 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:25Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1682",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1682"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1682"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1682",
+    "creator": [
+        {
+            "id": 1874949224,
+            "value": "Usadel, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1874949224"
+        },
+        {
+            "id": 2077389924,
+            "value": "Nagel, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2077389924"
+        },
+        {
+            "id": 1282519734,
+            "value": "Thimm, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1282519734"
+        },
+        {
+            "id": 2084064045,
+            "value": "Redestig, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/2084064045"
+        },
+        {
+            "id": 1215179225,
+            "value": "Blaesing, O.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1215179225"
+        },
+        {
+            "id": 1038491171,
+            "value": "Palacios Rojas, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1038491171"
+        },
+        {
+            "id": 2128471326,
+            "value": "Selbig, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2128471326"
+        },
+        {
+            "id": 2012279000,
+            "value": "Hannemann, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2012279000"
+        },
+        {
+            "id": 490855467,
+            "value": "Piques, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/490855467"
+        },
+        {
+            "id": 306484747,
+            "value": "Steinhauser, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/306484747"
+        },
+        {
+            "id": 1226848390,
+            "value": "Scheible, W.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1226848390"
+        },
+        {
+            "id": 1106941592,
+            "value": "Gibon, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1106941592"
+        },
+        {
+            "id": 67194332,
+            "value": "Morcuende, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/67194332"
+        },
+        {
+            "id": 1279833714,
+            "value": "Weicht, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1279833714"
+        },
+        {
+            "id": 1207077341,
+            "value": "Meyer, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1207077341"
+        },
+        {
+            "id": 1559236483,
+            "value": "Stitt, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1559236483"
+        }
+    ],
+    "publisher": {
+        "id": 337847630,
+        "value": "http://www.plantphysiol.org/content/138/3/1195",
+        "type": "organization",
+        "uri": "/cimmyt/organization/337847630"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1682/1/82294.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 472500
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1682/2/82294.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48869
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1682/3/82294.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6861
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1682/1/82294.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1682/2/82294.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1682/3/82294.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1682"
+        }
+    },
+    "extent": "",
+    "page": "1195-1204",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

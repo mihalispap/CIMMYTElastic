@@ -1,0 +1,129 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:24Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2038",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1995,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2038"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2038"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2038",
+    "creator": {
+        "id": 373012181,
+        "value": "Smale, M.",
+        "type": "person",
+        "uri": "/cimmyt/person/373012181"
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2038/1/44258.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1202612
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2038/2/44258.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 68218
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2038/3/44258.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7554
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2038/1/44258.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2038/2/44258.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2038/3/44258.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2038"
+        }
+    },
+    "extent": "",
+    "page": "819-831",
+    "coverage": [
+        "Malawi",
+        "Southern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

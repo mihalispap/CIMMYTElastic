@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "0261-2194",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:40Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1797",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1797"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1797"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1797",
+    "creator": [
+        {
+            "id": 1321923889,
+            "value": "Tende, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1321923889"
+        },
+        {
+            "id": 1170808127,
+            "value": "Mugo, S.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1170808127"
+        },
+        {
+            "id": 1869811707,
+            "value": "Nderitu, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1869811707"
+        },
+        {
+            "id": 299077750,
+            "value": "Olubayo, F.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/299077750"
+        },
+        {
+            "id": 188070373,
+            "value": "Songa, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/188070373"
+        },
+        {
+            "id": 1764441777,
+            "value": "Bergvinson, D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1764441777"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1797/1/93671.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 157142
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1797/2/93671.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36520
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1797/3/93671.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6069
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1797/1/93671.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1797/2/93671.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1797/3/93671.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1797"
+        }
+    },
+    "extent": "",
+    "page": "115-120",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

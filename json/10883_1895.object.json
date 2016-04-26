@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "High-throughput phenotyping and genomic selection: The frontiers of crop breeding converge",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:54Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "high-throughput phenotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nirs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snps",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6655
+            ],
+            "value": "phenotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5776"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Genomic selection (GS) and high-throughput phenotyping have recently been captivating the interest of the crop breeding community from both the public and private sectors world-wide. Both approaches promise to revolutionize the prediction of complex traits, including growth, yield and adaptation to stress. Whereas high-throughput phenotyping may help to improve understanding of crop physiology, most powerful techniques for high-throughput field phenotyping are empirical rather than analytical and comparable to genomic selection. Despite the fact that the two methodological approaches represent the extremes of what is understood as the breeding process (phenotype versus genome), they both consider the targeted traits (e.g. grain yield, growth, phenology, plant adaptation to stress) as a black box instead of dissecting them as a set of secondary traits (i.e. physiological) putatively related to the target trait. Both GS and high-throughput phenotyping have in common their empirical approach enabling breeders to use genome profile or phenotype without understanding the underlying biology. This short review discusses the main aspects of both approaches and focuses on the case of genomic selection of maize flowering traits and near-infrared spectroscopy (NIRS) and plant spectral reflectance as high-throughput field phenotyping methods for complex traits such as crop growth and yield.",
+        "lang": "eng"
+    },
+    "appid": "10883_1895",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1895"
+}}

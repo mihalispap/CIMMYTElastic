@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Phylogenetic and multivariate analyses to determine the effects of different tillage and residue management practices on soil bacterial communities",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6974
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8511"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7058
+            ],
+            "value": "tillage",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7771"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Bacterial communities are important not only in the cycling of organic compounds but also in maintaining ecosystems. Specific bacterial groups can be affected as a result of changes in environmental conditions caused by human activities, such as agricultural practices. The aim of this study was to analyze the effects of different forms of tillage and residue management on soil bacterial communities by using phylogenetic and multivariate analyses. Treatments involving zero tillage (ZT) and conventional tillage (CT) with their respective combinations of residue management, i.e., removed residue (_R) and kept residue (_R), and maize/wheat rotation, were selected from a long-term field trial started in 1991. Analysis of bacterial diversity showed that soils under zero tillage and crop residue retention (ZT/_R) had the highest levels of diversity and richness. Multivariate nalysis showed that beneficial bacterial groups such as fluorescent Pseudomonas spp. and Burkholderiales were favored by residue retention (ZT/_R and CT/_R) and negatively affected by residue removal (ZT/_R). Zero-tillage treatments (ZT/_R and ZT/_R) had a positive effect on the Rhizobiales group, with its main representatives related to Methylosinus spp. known as methane-oxidizing bacteria. It can be concluded that practices that include reduced tillage and crop residue retention can be adopted as safer agricultural practices to preserve and improve the diversity of soil bacterial communities.",
+        "lang": "eng"
+    },
+    "appid": "10883_1538",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1538"
+}}

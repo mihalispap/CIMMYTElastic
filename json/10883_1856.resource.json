@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kenya",
+        "uri": [
+            "http://sws.geonames.org/192950",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:48Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1856",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1856"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1856"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1856",
+    "creator": [
+        {
+            "id": 212810810,
+            "value": "Long-Xi Yu",
+            "type": "person",
+            "uri": "/cimmyt/person/212810810"
+        },
+        {
+            "id": 1290413341,
+            "value": "Lorenz, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1290413341"
+        },
+        {
+            "id": 1211099916,
+            "value": "Rutkoski, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1211099916"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        },
+        {
+            "id": 2102556432,
+            "value": "Bhavani, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/2102556432"
+        },
+        {
+            "id": 1393075174,
+            "value": "Huerta-Espino, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1393075174"
+        },
+        {
+            "id": 837505512,
+            "value": "Sorrells, M.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/837505512"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1856/1/95469.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 606364
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1856/2/95469.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 56385
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1856/3/95469.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5788
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1856/1/95469.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1856/2/95469.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1856/3/95469.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1856"
+        }
+    },
+    "extent": "",
+    "page": "1257-1268",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

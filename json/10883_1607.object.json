@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of three field-based methods for quantifying soil carbon",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-06-07T20:59:25Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "soil",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8794,
+            "value": "carbon",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1301"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "evaluation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2736"
+        }
+    ],
+    "description": {
+        "value": "Three advanced technologies to measure soil carbon (C) density (g C m&#8722;2) are deployed in the field and the results compared against those obtained by the dry combustion (DC) method. The advanced methods are: a) Laser Induced Breakdown Spectroscopy (LIBS), b) Diffuse Reflectance Fourier Transform Infrared Spectroscopy (DRIFTS), and c) Inelastic Neutron Scattering (INS). The measurements and soil samples were acquired at Beltsville, MD, USA and at Centro International para el Mejoramiento del Maíz y el Trigo (CIMMYT) at El Batán, Mexico. At Beltsville, soil samples were extracted at three depth intervals (0?5, 5?15, and 15?30 cm) and processed for analysis in the field with the LIBS and DRIFTS instruments. The INS instrument determined soil C density to a depth of 30 cm via scanning and stationary measurements. Subsequently, soil core samples were analyzed in the laboratory for soil bulk density (kg m&#8722;3), C concentration (g kg&#8722;1) by DC, and results reported as soil C density (kg m&#8722;2). Results from each technique were derived independently and contributed to a blind test against results from the reference (DC) method. A similar procedure was employed at CIMMYT in Mexico employing but only with the LIBS and DRIFTS instruments. Following conversion to common units, we found that the LIBS, DRIFTS, and INS results can be compared directly with those obtained by the DC method. The first two methods and the standard DC require soil sampling and need soil bulk density information to convert soil C concentrations to soil C densities while the INS method does not require soil sampling. We conclude that, in comparison with the DC method, the three instruments (a) showed acceptable performances although further work is needed to improve calibration techniques and (b) demonstrated their portability and their capacity to perform under field conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_1607",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1607"
+}}

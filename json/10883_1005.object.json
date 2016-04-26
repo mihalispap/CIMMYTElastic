@@ -3,7 +3,7 @@
         "value": "Exercises in the economic analysis of agronomic data",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:51Z",
+    "updated": "2016-01-22T23:05:41Z",
     "created": "2012-01-06T05:09:34Z",
     "subject": [
         {
@@ -115,6 +115,12 @@
             ]
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "marginal analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4602"
+        },
+        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -128,12 +134,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_5828"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "marginal analysis",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4602"
         }
     ],
     "description": {

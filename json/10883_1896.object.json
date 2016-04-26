@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Computer simulation in plant breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:54Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "computer simulation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative genetics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding method",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome-wide selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop modeling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "climate change",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "As a bridge between theory and experimentation, computer simulation has become a powerful tool in scientific research, providing not only preliminary validation of theories but also guidelines for empirical experiments. Plant breeding focuses on developing superior genotypes with available genetic and nongenetic resources, and improved plant-breeding methods maximize genetic gain and cost-effectiveness. Computer simulation can lay out the breeding process in silico and identify optimal candidates for various scenarios; empirical validation can then follow. Insights gained from empirical studies, in turn, can be incorporated into computer simulations. In this review, we discuss different applications of computer simulation in plant breeding. First, we briefly summarize the history of plant breeding and computer simulation and how computer simulation can facilitate the breeding process. Next, we partition the utility of computer simulation into different research areas of plant breeding, including breeding method comparison, genetic mapping, gene network and genotype-by-environment interaction simulation, and crop modeling. Then we discuss computational issues involved in simulation. Finally, we offer some perspectives on the future of computer simulation in plant breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_1896",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1896"
+}}

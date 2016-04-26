@@ -1,5 +1,22 @@
 {
-	"settings":{"number_of_shards": "5","number_of_replicas": "1","index.mapping.ignore_malformed": true},
+	"settings":
+	{
+		"number_of_shards": "5","number_of_replicas": "1","index.mapping.ignore_malformed": true,
+
+		"analysis":{
+			"analyzer":
+			{
+				"lowercasespaceanalyzer":
+				{
+					"type":"custom",
+					"tokenizer": "whitespace",
+
+					"filter":["lowercase"]
+				}
+			}
+		}
+
+	},
 	"mappings":
 	{
 		"object":
@@ -8,7 +25,18 @@
 			{
 				"title":
 				{
-					"properties":{"value":{"type":"string"},"lang":{"type":"string"}}
+					"properties":
+					{
+						"value":
+						{
+							"type":"string",
+							"analyzer":"lowercasespaceanalyzer",
+							"tokenizer":"whitespace",
+							"search_analyzer":"whitespace",
+							"filter":["lowercase"]
+						},
+						"lang":{"type":"string"}
+					}
 				},
 				"updated": {"format":"dateOptionalTime","type":"date","ignore_malformed":true},
 				"created": {"format":"dateOptionalTime","type":"date","ignore_malformed":true},
@@ -22,7 +50,17 @@
 				},
 				"description":
 				{
-					"properties":{"value":{"type":"string"},"lang":{"type":"string"}}
+					"properties":
+					{
+						"value":
+						{
+							"type":"string",
+							"analyzer":"lowercasespaceanalyzer",
+                                                        "tokenizer":"whitespace",
+                                                        "search_analyzer":"whitespace",
+                                                        "filter":["lowercase"]
+						},
+						"lang":{"type":"string"}}
 				},
 				"appid": {"type":"string"},
 				"appuri": {"type":"string"}

@@ -1,0 +1,166 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-05T15:45:28Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1444",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2003,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1444"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1444"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1444",
+    "creator": [
+        {
+            "id": 996097175,
+            "value": "Kanampiu, F.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/996097175"
+        },
+        {
+            "id": 1238355979,
+            "value": "Friesen, D.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1238355979"
+        },
+        {
+            "id": 1290442791,
+            "value": "Gressel, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1290442791"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1444/1/79025.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1715313
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1444/2/79025.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 13799
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1444/3/79025.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 20393
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1444/1/79025.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1444/2/79025.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1444/3/79025.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1444"
+        }
+    },
+    "extent": "",
+    "page": "51-53",
+    "coverage": [
+        "Central Africa",
+        "Eastern Africa",
+        "Southern Africa",
+        "West Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT's use of synthetic hexaploid wheat in breeding for adaptation to rainfed environments globally",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "international trial data",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trials",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hexaploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24400"
+        }
+    ],
+    "description": {
+        "value": "The International Maize and Wheat Improvement Center (CIMMYT) has had significant impact on wheat production in rainfed regions of the developing world. During the last decade, yield potential has increased in drought-prone areas partly due to the use of synthetic hexaploid wheat (SHW), produced through interspecific hybridisation of Triticum turgidum spp. and Aegilops tauschii, followed by chromosome doubling. The objectives of this study were to document the use of SHW in wheat breeding at CIMMYT and quantify its potential effect on global wheat adaptation. The first SHWderived lines targetted at rainfed conditions appeared in the 5th Semi-Arid Wheat Yield Trial (SAWYT) representing8%of the lines, increasing to 46% by the 15th SAWYT.During the same period the average coefficient of parentage ofSHWin all synthetically derived crosses decreased from 75 to 19%. Average yield rank of genotypes across locations and years was used as a performance indicator of the SHW-derived lines in SAWYT 5&ndash;12. In the 5th SAWYT the average rank of the SHW-derived lines was 30 (out of 50) increasing to 25 by the 12th SAWYT.SAWYT11 was the first trial to include SHWderived lines bred exclusively for rainfed environments, using directed selection for drought tolerance. International trial data from SAWYT 11 and 12 showed that the SHW-derived line Vorobey was a top-performing line. Vorobey performed well across all environments compared with the best locally adapted check cultivar at each location; trial means ranged from 1 to 8 t/ha. To further exploit genetic diversity for adaptation to drought, SHW has been produced using emmer wheat (T. turgidum L. subsp. dicoccon) as the tetraploid parent. Yield trial data from Mexico show thatSHWderivatives based on emmerwheat improved yield performance under drought compared with their drought-tolerant recurrent parents. Theuse of SHWin wheat breeding for rainfed environments atCIMMYThas increased significantly over the past 10&ndash;15 years and the performance and effect of the derived lines have improved with time.",
+        "lang": "eng"
+    },
+    "appid": "10883_1740",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1740"
+}}

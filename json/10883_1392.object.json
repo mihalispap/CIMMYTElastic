@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Deriving fertilizer recommendations with a flexible function form",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2013-06-05T15:45:19Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fertilizer application",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10795",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "application rates",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16113",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrogen fertilizers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5195",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rainfed farming",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6436",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "argentina",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_603",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fertilizers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2867"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1392",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1392"
+}}

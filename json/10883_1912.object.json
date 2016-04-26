@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "The genetic architecture of flowering time and photoperiod sensitivity in maize as revealed by QTL review and meta analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:56Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6031,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flowering time",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "photoperiod sensitivity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "meta-analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "consensus quantitative trait loci (cqtl)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "photoperiod",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5809"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "The control of flowering is not only important for reproduction, but also plays a key role in the processes of domestication and adaptation. To reveal the genetic architecture for flowering time and photoperiod sensitivity, a comprehensive evaluation of the relevant literature was performed and followed by meta analysis. A total of 25 synthetic consensus quantitative trait loci (QTL) and four hot-spot genomic regions were identified for photoperiod sensitivity including 11 genes related to photoperiod response or flower morphogenesis and development. Besides, a comparative analysis of the QTL for flowering time and photoperiod sensitivity highlighted the regions containing shared and unique QTL for the two traits. Candidate genes associated with maize flowering were identified through integrated analysis of the homologous genes for flowering time in plants and the consensus QTL regions for photoperiod sensitivity in maize (Zea mays L.). Our results suggest that the combination of literature review, meta-analysis and homologous blast is an efficient approach to identify new candidate genes and create a global view of the genetic architecture for maize photoperiodic flowering. Sequences of candidate genes can be used to develop molecular markers for various models of marker-assisted selection, such as marker-assisted recurrent selection and genomic selection that can contribute significantly to crop environmental adaptation.",
+        "lang": "eng"
+    },
+    "appid": "10883_1912",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1912"
+}}

@@ -1,0 +1,264 @@
+{"object": {
+    "title": {
+        "value": "International Intermediate White Hybrid Trial - IIWH0514",
+        "lang": ""
+    },
+    "updated": "2014-12-05T08:00:00Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8679",
+                "http://aims.fao.org/aos/agrovoc/c_8679.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                "http://aims.fao.org/aos/agrovoc/c_8504.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "field experimentation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33990",
+                "http://aims.fao.org/aos/agrovoc/c_33990.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "crop performance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35199",
+                "http://aims.fao.org/aos/agrovoc/c_35199.html"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bare tips",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to anthesis",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to silking",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "ear aspect",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "ear height",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "ear rot total",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "field weight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fusarium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain moisture",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "gray leaf spot",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "head smut",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "husk cover",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "maize streak virus",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "number of ears",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant aspect",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant stand number",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "polysora rust",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "root lodging",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sheath blight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "shelled grain weight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "smut",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "smut carbon",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stalk lodging",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "stem lodging",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "tar spot complex",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize productivity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        }
+    ],
+    "description": {
+        "value": "Summary results and individual trial results from the International Intermediate White Hybrid - IIWH, (Highland Intermediate White Hybrid - CHTHIW) conducted in 2005.",
+        "lang": ""
+    },
+    "appid": "11529_10596",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10596"
+}}

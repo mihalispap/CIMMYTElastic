@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:50Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1872",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1872"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1872"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1872",
+    "creator": [
+        {
+            "id": 2092231213,
+            "value": "Velu, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2092231213"
+        },
+        {
+            "id": 643377647,
+            "value": "Rai, K.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/643377647"
+        },
+        {
+            "id": 1850604898,
+            "value": "Muralidharan, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1850604898"
+        },
+        {
+            "id": 1372499633,
+            "value": "Longvah, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1372499633"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1872/1/95765.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 324043
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1872/2/95765.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 25651
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1872/3/95765.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5383
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1872/1/95765.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1872/2/95765.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1872/3/95765.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1872"
+        }
+    },
+    "extent": "",
+    "page": "251-259",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

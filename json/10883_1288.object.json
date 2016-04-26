@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "Physiological breeding II: a field guide to wheat phenotyping",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:58Z",
+    "created": "2012-02-24T23:09:09Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "canopy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1262",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "temperature",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7657",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "spectral analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_28964",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "photosynthesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "physiological adaptation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27639",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "phenotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5776",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1288",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1288"
+}}

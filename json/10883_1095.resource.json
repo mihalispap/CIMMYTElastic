@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zambia",
+            "uri": [
+                "http://sws.geonames.org/895949",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zambia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:11:38Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Report",
+    "appid": "10883_1095",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1979,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1095"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1095"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1095",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 2013368621,
+        "value": "CIMMYT Eastern African Economics Programme",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2013368621"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1095/1/95333.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2993540
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1095/2/95333.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 113507
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1095/3/95333.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3727
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1095/1/95333.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1095/2/95333.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1095/3/95333.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1095"
+        }
+    },
+    "extent": "No. 4",
+    "page": "36 pags",
+    "coverage": [
+        "Zambia",
+        "Eastern Africa",
+        "Southern Africa",
+        "Central Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

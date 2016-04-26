@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Gene flow among different teosinte taxa and into the domesticated maize gene pool",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:46Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop evolution",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gene flow",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37331",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize (zea mays ssp. mays)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "teosinte",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15476",
+                "http://aims.fao.org/aos/agrovoc/c_15476",
+                "http://aims.fao.org/aos/agrovoc/c_15476",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "Maize (Zea mays L. ssp. mays) was domesticated from one wild species ancestor, the Balsas teosinte (Zea mays ssp. parviglumis) about 9000 years ago. Higher levels of gene diversity are found in teosinte taxa compared to maize, following domestication and selection bottlenecks. Diversity in maize can be increased via gene flow from teosinte, which has certainly occurred from various taxa, but the rate of flow from different teosinte taxa and the final impact on maize evolution has been difficult to measure. One hundred populations from six Zea taxa, both domesticated (maize) and wild (teosinte), including domesticated landraces from Asia, Africa, and the Americas, were genotyped with 17 SSR markers using 15 individuals per population. Overall levels of diversity were high, and populations could be distinguished based on markers. Relationships between populations followed most published reports, or can now help resolve previously conflicting reports. Gene flow into maize from different teosinte groups, and gene flow between different teosintes, was estimated. Evidence for contributions from the Balsas teosintes and from Chalco teosintes (Z. mays ssp. mexicana) to the maize gene pool was found, as well as from Chalco into ssp. mexicana race \"Durango\" and Z. mays ssp. huehuetenengensis. These contributions are almost certainly the result of post-domestication (and ongoing) exchanges. This information must give more impetus to in situ conservation of teosinte species, and use of these teosintes to continue to direct the evolution of maize, especially in response to new diseases, insect pests, and other biotic and abiotic stresses.",
+        "lang": "eng"
+    },
+    "appid": "10883_1837",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1837"
+}}

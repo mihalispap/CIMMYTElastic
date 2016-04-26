@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "1674-7305",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:42Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1810",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1810"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1810"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1810",
+    "creator": [
+        {
+            "id": 2021152402,
+            "value": "Li Lin",
+            "type": "person",
+            "uri": "/cimmyt/person/2021152402"
+        },
+        {
+            "id": 2021155879,
+            "value": "Li Hui",
+            "type": "person",
+            "uri": "/cimmyt/person/2021155879"
+        },
+        {
+            "id": 1062464853,
+            "value": "Li JiYing",
+            "type": "person",
+            "uri": "/cimmyt/person/1062464853"
+        },
+        {
+            "id": 503200894,
+            "value": "Xu ShuTu",
+            "type": "person",
+            "uri": "/cimmyt/person/503200894"
+        },
+        {
+            "id": 1244231938,
+            "value": "Yang XiaoHong",
+            "type": "person",
+            "uri": "/cimmyt/person/1244231938"
+        },
+        {
+            "id": 646971706,
+            "value": "Li JianSheng",
+            "type": "person",
+            "uri": "/cimmyt/person/646971706"
+        },
+        {
+            "id": 931882958,
+            "value": "Jianbing Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/931882958"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1810/1/94111.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 330839
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1810/2/94111.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 47728
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1810/3/94111.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4784
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1810/1/94111.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1810/2/94111.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1810/3/94111.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1810"
+        }
+    },
+    "extent": "",
+    "page": "690-700",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

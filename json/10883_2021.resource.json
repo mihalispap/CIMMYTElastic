@@ -1,0 +1,167 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-828X",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2021",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Newsletter / Bulletin",
+    "date": 1992,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2021"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2021"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2021",
+    "creator": [
+        {
+            "id": 373012181,
+            "value": "Smale, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/373012181"
+        },
+        {
+            "id": 1200874255,
+            "value": "Kaunda, Z.H.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1200874255"
+        },
+        {
+            "id": 1596874815,
+            "value": "Makina, H.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1596874815"
+        },
+        {
+            "id": 1211469273,
+            "value": "Mkandawire, M.M.M.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1211469273"
+        },
+        {
+            "id": 1386287847,
+            "value": "Msowoya, M.N.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1386287847"
+        },
+        {
+            "id": 2127283042,
+            "value": "Mwale, D.J.E.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2127283042"
+        },
+        {
+            "id": 21740988,
+            "value": "Heisey, P.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/21740988"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2021/1/40031.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 336669
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2021/2/40031.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 16719
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2021/3/40031.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2363
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2021/1/40031.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2021/2/40031.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2021/3/40031.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2021"
+        }
+    },
+    "extent": "",
+    "page": "14-17",
+    "coverage": [
+        "Malawi",
+        "Southern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Nucleotide diversity and molecular evolution of the PSY1 gene in Zea mays compared to some other grass species",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "spermatophyta",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7286",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "angiospermae",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_330268",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "monocotyledones",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gramineae",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular evolution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nucleotide",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7066
+            ],
+            "value": "coix",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1735"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7667
+            ],
+            "value": "tripsacum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7940"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Phytoene synthase (PSY), which is encoded by the phytoene synthase 1 (PSY1) gene, is the first rate-limiting enzyme in the plant carotenoid biosynthetic pathway. In order to examine the genetic diversity and evolution pattern of PSY1 within the Andropogoneae, sequences of 76 accessions from 5 species (maize, teosinte, tripsacum, coix, and sorghum) of the Andropogoneae were tested, along with 4 accessions of rice (Oryza sativa L.) included as outliers. Both the number and the order of exons and introns were relatively conserved across the species tested. Three domains were identified in the coding sequence, including signal peptide (SP), PSY, and highly conserved squalene synthase (SQS) domain. Although no positive selection signal was detected at an overall coding level among all species tested, the SP domain and the region upstream of the SQS-PSY domain appear to have undergone rapid evolution, as evidenced by a high d (N)/d (S) ratio (>1.0). At the nucleotide level, positive selection and balancing selection were detected only among the yellow maize germplasm and the white maize germplasm, respectively. The phylogenetic tree based on full-length sequences of PSY1-like regions supported the monophyletic theory of the Andropogoneae and the closest relationship between Zea and Tripsacum among the Andropogoneae. Coix, which was theorized to have a closer relationship with maize due to similarities in morphology and chromosome number, has been shown in this study to have diverged relatively early from the other Andropogoneae, including maize.",
+        "lang": "eng"
+    },
+    "appid": "10883_1774",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1774"
+}}

@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "1918-1833",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:44Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1824",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1824"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1824"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1824",
+    "creator": [
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        },
+        {
+            "id": 1013937293,
+            "value": "Joshi, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013937293"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1824/1/94479.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 234588
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1824/2/94479.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 62568
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1824/3/94479.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6387
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1824/1/94479.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1824/2/94479.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1824/3/94479.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1824"
+        }
+    },
+    "extent": "",
+    "page": "561-574",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

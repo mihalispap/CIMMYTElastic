@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Validation of the effects of molecular marker polymorphisms in LcyE and CrtRB1 on provitamin A concentrations for 26 tropical maize populations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:54Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6172
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "provitamins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13634"
+        }
+    ],
+    "description": {
+        "value": "Vitamin A deficiency (VAD) compromises immune function and is the leading cause of preventable blindness in children in many developing countries. Biofortification, or breeding staple food crops that are rich in micronutrients, provides a sustainable way to fight VAD and other micronutrient malnutrition problems. Polymorphisms, with associated molecular markers, have recently been identified for two loci, LcyE (lycopene epsilon cyclase) and CrtRB1 (¦Â-carotene hydroxylase 1) that govern critical steps in the carotenoid biosynthetic pathway in maize endosperm, thereby enabling the opportunity to integrate marker-assisted selection (MAS) into carotenoid breeding programs. We validated the effects of 3 polymorphisms (LcyE5¡äTE, LcyE3¡äIndel and CrtRB1-3¡äTE) in 26 diverse tropical genetic backgrounds. CrtRB1-3¡äTE had a two-ten fold effect on enhancing beta-carotene (BC) and total provitamin A (proA) content. Reduced-function, favorable polymorphisms within LcyE resulted in 0¨C30 % reduction in the ratio of alpha- to beta-branch carotenoids, and increase in proA content (sometimes statistically significant). CrtRB1-3¡äTE had large, significant effect on enhancing BC and total ProA content, irrespective of genetic constitution for LcyE5¡äTE. Genotypes with homozygous favorable CrtRB1-3¡äTE alleles had much less zeaxanthin and an average of 25 % less total carotenoid than other genotypes, suggesting that feedback inhibition may be reducing the total flux into the carotenoid pathway. Because this feedback inhibition was most pronounced in the homozygous favorable LcyE (reduced-function) genotypes, and because maximum total proA concentrations were achieved in genotypes with homozygous unfavorable or heterozygous LcyE, we recommend not selecting for both reduced-function genes in breeding programs. LcyE exhibited significant segregation distortion (SD) in all the eight, while CrtRB1 in five of eight digenic populations studied, with favorable alleles of both the genes frequently under-represented. MAS using markers reported herein can efficiently increase proA carotenoid concentration in maize.",
+        "lang": "eng"
+    },
+    "appid": "10883_1898",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1898"
+}}

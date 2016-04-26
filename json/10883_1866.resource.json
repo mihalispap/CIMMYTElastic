@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:49Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1866",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1866"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1866"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1866",
+    "creator": [
+        {
+            "id": 666231749,
+            "value": "Van Schalkwyk, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/666231749"
+        },
+        {
+            "id": 264533052,
+            "value": "Wenzl, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/264533052"
+        },
+        {
+            "id": 307443372,
+            "value": "Smit, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/307443372"
+        },
+        {
+            "id": 235131557,
+            "value": "Lopez-Cobollo, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/235131557"
+        },
+        {
+            "id": 1834248855,
+            "value": "Kilian, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1834248855"
+        },
+        {
+            "id": 1235705192,
+            "value": "Bishop, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1235705192"
+        },
+        {
+            "id": 1971713813,
+            "value": "Hefer, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1971713813"
+        },
+        {
+            "id": 26809190,
+            "value": "Berger, D.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/26809190"
+        }
+    ],
+    "publisher": {
+        "id": 1158470824,
+        "value": "http://link.springer.com/article/10.1007/s00122-011-1759-5#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1158470824"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1866/1/95715.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 508823
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1866/2/95715.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48870
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1866/3/95715.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5585
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1866/1/95715.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1866/2/95715.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1866/3/95715.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1866"
+        }
+    },
+    "extent": "",
+    "page": "947-956",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

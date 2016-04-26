@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Searching an Ex Situ collection of wheat genetic resources",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:31Z",
+    "created": "2013-06-07T21:02:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "genetic resources",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3218",
+                "http://aims.fao.org/aos/agrovoc/c_3218",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gene banks",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11116",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1633",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1633"
+}}

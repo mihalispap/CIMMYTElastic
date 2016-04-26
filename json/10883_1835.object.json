@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Characterization of a global germplasm collection and its potential utilization for analysis of complex quantitative traits in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic relatedness",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenotypic variation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6001
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Association mapping is a powerful approach for exploring the molecular basis of phenotypic variations in plants. A maize (Zea mays L.) association mapping panel including 527 inbred lines with tropical, subtropical and temperate backgrounds, representing the global maize diversity, was genotyped using 1,536 single nucleotide polymorphisms (SNPs). In total, 926 SNPs with minor allele frequencies of ¡Ý0.1 were used to estimate the pattern of genetic diversity and relatedness among individuals. The analysis revealed broad phenotypic diversity and complex genetic relatedness in the maize panel. Two different Bayesian approaches identified three specific subpopulations, which were then reconfirmed by principal component analysis (PCA) and tree-based analyses. Marker¨Ctrait associations were performed to assess the suitability of different models for false-positive correction by population structure (Q matrix/PCA) and familial kinship (K matrix) alone or in combination in this panel. The K, Q + K and PCA + K models could reduce the false positives, and the Q + K model performed slightly better for flowering time, ear height and ear diameter. Our findings suggest that this maize panel is suitable for association mapping in order to understand the relationship between genotypic and phenotypic variations for agriculturally complex quantitative traits using optimal statistical methods.",
+        "lang": "eng"
+    },
+    "appid": "10883_1835",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1835"
+}}

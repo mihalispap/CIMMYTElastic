@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:54Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1898",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1898"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1898"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1898",
+    "creator": [
+        {
+            "id": 2130038142,
+            "value": "Babu, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2130038142"
+        },
+        {
+            "id": 1038491171,
+            "value": "Palacios Rojas, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1038491171"
+        },
+        {
+            "id": 1469134564,
+            "value": "Gao, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1469134564"
+        },
+        {
+            "id": 931882958,
+            "value": "Jianbing Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/931882958"
+        },
+        {
+            "id": 767522288,
+            "value": "Pixley, K.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/767522288"
+        }
+    ],
+    "publisher": {
+        "id": 176018405,
+        "value": "http://www.springerlink.com/content/785645014872h637/",
+        "type": "organization",
+        "uri": "/cimmyt/organization/176018405"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1898/1/97232.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 354400
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1898/2/97232.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 50102
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1898/3/97232.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5866
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1898/1/97232.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1898/2/97232.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1898/3/97232.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1898"
+        }
+    },
+    "extent": "",
+    "page": "389\u2013399",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

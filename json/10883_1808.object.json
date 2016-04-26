@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Multifunctional crop trait ontology for breeders' data: Field book, annotation, data discovery and semantic enrichment of the literature",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7368
+            ],
+            "value": "cgiar",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_33462"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6781
+            ],
+            "value": "ontology",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49845"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Background and aims Agricultural crop databases maintained in gene banks of the Consultative Group on International Agricultural Research (CGIAR) are valuable sources of information for breeders. These databases provide comparative phenotypic and genotypic information that can help elucidate functional aspects of plant and agricultural biology. To facilitate data sharing within and between these databases and the retrieval of information, the crop ontology (CO) database was designed to provide controlled vocabulary sets for several economically important plant species. Methodology Existing public ontologies and equivalent catalogues of concepts covering the range of crop science information and descriptors for crops and crop-related traits were collected from breeders, physiologists, agronomists, and researchers in the CGIAR consortium. For each crop, relationships between terms were identified and crop-specific trait ontologies were constructed following the Open Biomedical Ontologies (OBO) format standard using the OBO-Edit tool. All terms within an ontology were assigned a globally unique CO term identifier. Principal results The CO currently comprises crop-specific traits for chickpea (Cicer arietinum), maize (Zea mays), potato (Solanum tuberosum), rice (Oryza sativa), sorghum (Sorghum spp.) and wheat (Triticum spp.). Several plant-structure and anatomy-related terms for banana (Musa spp.), wheat and maize are also included. In addition, multi-crop passport terms are included as controlled vocabularies for sharing information on germplasm. Two web-based online resources were built to make these COs available to the scientific community: the ?CO Lookup Service? for browsing the CO; and the ?Crops Terminizer?, an ontology text mark-up tool. Conclusions The controlled vocabularies of the CO are being used to curate several CGIAR centres' agronomic databases. The use of ontology terms to describe agronomic phenotypes and the accurate mapping of these descriptions into databases will be important steps in comparative phenotypic and genotypic studies across species and gene-discovery experiments.",
+        "lang": "eng"
+    },
+    "appid": "10883_1808",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1808"
+}}

@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "1380-3743",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:55Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1908",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1908"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1908"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1908",
+    "creator": [
+        {
+            "id": 1210426489,
+            "value": "Becerra Lopez-Lavalle, L.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1210426489"
+        },
+        {
+            "id": 1906027124,
+            "value": "Gillespie, V.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1906027124"
+        },
+        {
+            "id": 1813688394,
+            "value": "Tate, W.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1813688394"
+        },
+        {
+            "id": 1765974730,
+            "value": "Ellis, M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1765974730"
+        },
+        {
+            "id": 1442803328,
+            "value": "Stiller, W.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1442803328"
+        },
+        {
+            "id": 526554152,
+            "value": "Llewellyn, D.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/526554152"
+        },
+        {
+            "id": 1802508168,
+            "value": "Wilson, I.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1802508168"
+        }
+    ],
+    "publisher": {
+        "id": 329485391,
+        "value": "http://rd.springer.com/article/10.1007/s11032-012-9705-z#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/329485391"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1908/1/97596.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 419455
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1908/2/97596.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43115
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1908/3/97596.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5606
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1908/1/97596.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1908/2/97596.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1908/3/97596.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1908"
+        }
+    },
+    "extent": "",
+    "page": "1181-1191",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

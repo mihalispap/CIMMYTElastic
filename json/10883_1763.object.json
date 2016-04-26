@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Biplot analysis of genotype x environment interaction: Proceed with caution",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:36Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7718
+            ],
+            "value": "analysis",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49928"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Biplot analysis has been used for studying genotype x environment interaction (GE) or any two-way table. Its descriptive and visualization capabilities along with the availability of user-friendly software have enabled plant scientists to examine any two-way data by a click on a computer button. Despite widespread use, the validity and limitations of biplot analysis have not been completely examined. Here we identify and briefly discuss six key issues surrounding overutilization or abuse of biplot analysis. We question (i) whether the retention of the first two multiplicative terms in the biplot analyses is adequate; (ii) whether the biplot can be more than a simple descriptive technique; (iii) how realistic a \"which-won-where\" pattern is identified from a biplot; (iv) what if genotypes and/or environments are random effects; (v) how relevant biplot analysis is to the understanding of the nature and causes of interaction; and (vi) how much the biplot analysis can contribute to detection of crossover interaction. We stress the need for use of confidence regions for individual genotype and environment scores in biplots to make critical decisions on genotype selection or cultivar recommendation based on a statistical test. We conclude that the biplot analysis is simply a visually descriptive statistical tool and researchers should proceed with caution if using biplot analysis beyond this simple function",
+        "lang": "eng"
+    },
+    "appid": "10883_1763",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1763"
+}}

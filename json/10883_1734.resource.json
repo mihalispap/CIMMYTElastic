@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "country",
+        "uri": [
+            "http://sws.geonames.org/geonameid",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/country"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:32Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1734",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1734"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1734"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1734",
+    "creator": [
+        {
+            "id": 1408765690,
+            "value": "Mahalakshmi, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1408765690"
+        },
+        {
+            "id": 1965426742,
+            "value": "Ng, Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1965426742"
+        },
+        {
+            "id": 2074040635,
+            "value": "Lawson, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2074040635"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": 1223586794,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1433788&fulltextType=RA&fileId=S1479262107837166",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1223586794"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1734/1/90295.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 85345
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1734/2/90295.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 29296
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1734/3/90295.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4268
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1734/1/90295.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1734/2/90295.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1734/3/90295.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1734"
+        }
+    },
+    "extent": "",
+    "page": "113-119",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

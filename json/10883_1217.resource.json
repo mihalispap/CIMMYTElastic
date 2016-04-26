@@ -1,0 +1,115 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:17:07Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1217",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1997,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1217"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1217"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1217",
+    "creator": [
+        {
+            "id": 1828907020,
+            "value": "Bimb, H.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1828907020"
+        },
+        {
+            "id": 1534803863,
+            "value": "Johnson, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1534803863"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1217/1/63731.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 749318
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1217/2/63731.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57426
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1217/3/63731.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5699
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1217/1/63731.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1217/2/63731.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1217/3/63731.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1217"
+        }
+    },
+    "extent": "No. 41",
+    "page": "iv, 20 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-81-0",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

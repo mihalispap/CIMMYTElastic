@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Simulation modeling in crop breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding strategy and method",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "computer simulation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simulation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5209"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simulation models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24242"
+        }
+    ],
+    "description": {
+        "value": "Along with the fast developments in molecular biology and biotechnology, a large amount of biological data is available from genetic studies of important breeding traits in plants, which in turn provides an opportunity for undertaking genotypic selection in the breeding process. However, gene information has not been effectively used in crop improvement due to the lack of appropriate tools. The simulation approach can utilize the vast and diverse genetic information, predict the cross performance and compare different selection methods. Hence, the best performing crosses and effective breeding strategies can be identified. QuLine and QuHybrid are computer tools capable of defining a range from simple to complex genetic models and simulating breeding processes for developing final advanced lines and hybirds. Based on the results from simulation experiments, breeders can optimize their breeding methodology and greatly improve the breeding efficiency. In this paper, we first introduce the underlying principles of simulation modeling in crop enhancement, and then summarize several applications of QuLine in comparing different selection strategies, precision parental selection using known gene information, and the design approach in breeding. Breeding simulation allows the definition of complicated genetic models consisting of multiple alleles, pleiotropy, epistasis and gene-by-environment interaction, and provides a useful tool to efficiently use the wide spectrum of genetic data and information available to the breeders",
+        "lang": "eng"
+    },
+    "appid": "10883_1861",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1861"
+}}

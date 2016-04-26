@@ -1,0 +1,159 @@
+{"object": {
+    "title": {
+        "value": "A method for combining molecular markers and phenotypic attributes for classifying plant genotypes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2013-06-07T21:02:18Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sampling",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6774",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "analytical methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1513",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "models",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4881",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plants",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "variants",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27623",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "usa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8114",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        }
+    ],
+    "description": {
+        "value": "Abstract Classifying genotypes into clusters based on DNA fingerprinting, and/or agronomic attributes, for studying genetic and phenotypic diversity is a common practice. Researchers are interested in knowing the minimum number of fragments (and markers) needed for finding the underlying structural patterns of diversity in a population of interest, and using this information in conjunction with the phenotypic attributes to obtain more precise clusters of genotypes. The objectives of this study are to present: (1) a retrospective method of analysis for selecting a minimum number of fragments (and markers) from a study needed to produce the same classification of genotypes as that obtained using all the fragments (and markers), and (2) a classification strategy for genotypes that allows the combination of the minimum set of fragments with available phenotypic attributes. Results obtained on seven experimental data sets made up of different plant species, number of individuals per species' and number of markers, showed that the retrospective analysis did indeed find few relevant fragments (and markers) that best discriminated the genotypes. In two data sets, the classification strategy of combining the information on the relevant minimum fragments with the available morpho-agronomic attributes produced compact and well-differentiated groups of genotypes.",
+        "lang": "eng"
+    },
+    "appid": "10883_1638",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1638"
+}}

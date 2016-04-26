@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:23Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2027",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1993,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2027"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2027"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2027",
+    "creator": [
+        {
+            "id": 1643081466,
+            "value": "Byerlee, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1643081466"
+        },
+        {
+            "id": 425616018,
+            "value": "Husain, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/425616018"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2027/1/42380.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 951294
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2027/2/42380.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 17
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2027/3/42380.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4478
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2027/1/42380.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2027/2/42380.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2027/3/42380.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2027"
+        }
+    },
+    "extent": "",
+    "page": "155-171",
+    "coverage": [
+        "Pakistan",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

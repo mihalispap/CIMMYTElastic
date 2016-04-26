@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Caracterisation des menages producteurs de mais en zone de savane seche au Benin",
+        "lang": "(Other)"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2012-03-15T22:06:15Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "seed production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6937",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "benin",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_875"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1301",
+    "language": {
+        "value": "(Other)",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1301"
+}}

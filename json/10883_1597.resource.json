@@ -1,0 +1,197 @@
+{"resource": {
+    "citation": "",
+    "issn": "1996-0808",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T20:59:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1597",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1597"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1597"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1597",
+    "creator": [
+        {
+            "id": 963241244,
+            "value": "Vazquez Nuñez, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/963241244"
+        },
+        {
+            "id": 1761678980,
+            "value": "Bens, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761678980"
+        },
+        {
+            "id": 1148104552,
+            "value": "Valenzuela-Encinas, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1148104552"
+        },
+        {
+            "id": 1237218939,
+            "value": "Alcantara-Hernandez, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1237218939"
+        },
+        {
+            "id": 1946316203,
+            "value": "Zavala-Diaz de la Serna, F.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1946316203"
+        },
+        {
+            "id": 806428353,
+            "value": "Govaerts, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/806428353"
+        },
+        {
+            "id": 1551205290,
+            "value": "Marsch, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1551205290"
+        },
+        {
+            "id": 1245222294,
+            "value": "Luna-Guido, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1245222294"
+        },
+        {
+            "id": 1509066607,
+            "value": "Castro-Silva, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1509066607"
+        },
+        {
+            "id": 1666819609,
+            "value": "Ruiz-Valdiviezo, V.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1666819609"
+        },
+        {
+            "id": 299334255,
+            "value": "Verhulst, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/299334255"
+        },
+        {
+            "id": 868413406,
+            "value": "Dendooven, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/868413406"
+        }
+    ],
+    "publisher": {
+        "id": 1909820194,
+        "value": "http://www.academicjournals.org/ajmr/abstracts/abstracts/abstracts2012/13Nov/Núñez%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1909820194"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1597/1/97531.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 939053
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1597/2/97531.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46743
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1597/3/97531.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7058
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1597/1/97531.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1597/2/97531.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1597/3/97531.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1597"
+        }
+    },
+    "extent": "",
+    "page": "7048-7058",
+    "coverage": [
+        "Mexico",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

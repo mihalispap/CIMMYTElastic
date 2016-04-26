@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "A genome-wide survey of maize lipid-related genes: Candidate genes mining, digital gene expression profiling and co-location with QTL for maize kernel oil",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "lipid metabolism",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4361",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "in silico gene cloning",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "in silico gene expression profiling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantative trait locus(qtl)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7768
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gene cloning",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27694"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gene expression",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27527"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        }
+    ],
+    "description": {
+        "value": "Lipids play an important role in plants due to their abundance and their extensive participation in many metabolic processes. Genes involved in lipid metabolism have been extensively studied in Arabidopsis and other plant species. In this study, a total of 1003 maize lipid-related genes were cloned and annotated, including 42 genes with experimental validation, 732 genes with full-length cDNA and protein sequences in public databases and 229 newly cloned genes. Ninety-seven maize lipid-related genes with tissue-preferential expression were discovered by in silico gene expression profiling based on 1984483 maize Expressed Sequence Tags collected from 182 cDNA libraries. Meanwhile, 70 QTL clusters for maize kernel oil were identified, covering 34.5% of the maize genome. Fifty-nine (84%) QTL clusters co-located with at least one lipid-related gene, and the total number of these genes amounted to 147. Interestingly, thirteen genes with kernel-preferential expression profiles fell within QTL clusters for maize kernel oil content. All the maize lipid-related genes identified here may provide good targets for maize kernel oil QTL cloning and thus help us to better understand the molecular mechanism of maize kernel oil accumulation.",
+        "lang": "eng"
+    },
+    "appid": "10883_1810",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1810"
+}}

@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Effects of tillage mode on soil erosion on rain-fed cropland in Inner Mongolia",
+        "lang": "zho"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "soil erosion",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2651",
+                "http://aims.fao.org/aos/agrovoc/c_2651",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tillage mode",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rain-fed cropland",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.9297,
+                ""
+            ],
+            "value": "inner mongolia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5103",
+                "http://aims.fao.org/aos/agrovoc/c_5103",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "tillage",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7771"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "cropland",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2808"
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1543",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1543"
+}}

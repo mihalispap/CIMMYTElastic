@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Guatemala",
+            "uri": [
+                "http://sws.geonames.org/3595528",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Guatemala"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:07:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1957",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1998,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1957"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1957"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1957",
+    "creator": [
+        {
+            "id": 268920858,
+            "value": "Castellanos, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/268920858"
+        },
+        {
+            "id": 534869655,
+            "value": "Hallauer, A.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/534869655"
+        },
+        {
+            "id": 132163603,
+            "value": "Córdova, H.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/132163603"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1957/1/67169.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 481058
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1957/2/67169.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46912
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1957/3/67169.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5586
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1957/1/67169.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1957/2/67169.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1957/3/67169.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1957"
+        }
+    },
+    "extent": "",
+    "page": "217-226",
+    "coverage": [
+        "Guatemala",
+        "Mexico",
+        "Mexico",
+        "Central America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

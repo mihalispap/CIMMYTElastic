@@ -1,0 +1,246 @@
+{"object": {
+    "title": {
+        "value": "Wheat Derived Synthetics Heat Tolerance Evaluation 2011-2012",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9678,
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain yield",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to flowering",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to maturity",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "crop performance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35199"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                "",
+                null
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                null
+            ],
+            "value": "heat tolerance",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11486"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synthetic hexaploid wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "derived synthetic wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9133
+            ],
+            "value": "hexaploids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24400"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trials",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9742
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7503,
+            "value": "late sowing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16208"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6871
+            ],
+            "value": "materials",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92337"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9742,
+            "value": "backcrossing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_763"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "height",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3536"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maturity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4656"
+        }
+    ],
+    "description": {
+        "value": "The materials in this trial were subjected to very severe heat stress that significantly impacted yield so all results should be analyzed with caution. In this trial derived synthetic wheat lines were tested for heat tolerance via late sowing in Ciudad Obregon in the 2011-2012 growing season. These materials were derived from bi-parental crosses, backcrosses, or topcrosses between bread wheat lines and synthetic hexaploid wheat lines. The results presented are the uncurated raw data from one season of planting. The trial contained 1695 unique materials and 2296 total entries.",
+        "lang": ""
+    },
+    "appid": "11529_10394",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10394"
+}}

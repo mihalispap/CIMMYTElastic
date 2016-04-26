@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "18th Semi-Arid Wheat Yield Trial Genotyping-by-sequencing Data",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8679",
+                "http://aims.fao.org/skosmos/agrovoc/en/search?clang=&q=agricultural+research"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/skosmos/agrovoc/en/page/c_7951"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "genotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3225",
+                "http://aims.fao.org/skosmos/agrovoc/en/search?clang=&q=genotypes"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping-by-sequencing (gbs)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/skosmos/agrovoc/en/search?clang=&q=bread+wheat"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "11529_10183",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10183"
+}}

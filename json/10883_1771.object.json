@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Core Hunter: an algorithm for sampling genetic resources based on multiple genetic measures",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9429
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic distance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27530"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic resources",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3218"
+        }
+    ],
+    "description": {
+        "value": "BACKGROUND: Existing algorithms and methods for forming diverse core subsets currently address either allele representativeness (breeder's preference) or allele richness (taxonomist's preference). The main objective of this paper is to propose a powerful yet flexible algorithm capable of selecting core subsets that have high average genetic distance between accessions, or rich genetic diversity overall, or a combination of both. RESULTS: We present Core Hunter, an advanced stochastic local search algorithm for selecting core subsets. Core Hunter is able to find core subsets having more genetic diversity and better average genetic distance than the current state-of-the-art algorithms for all genetic distance and diversity measures we evaluated. Furthermore, Core Hunter can attempt to optimize any number of genetic measures simultaneously, based on the preference of the user. Notably, Core Hunter is able to select significantly smaller core subsets, which retain all unique alleles from a reference collection, than state-of-the-art algorithms. CONCLUSION: Core Hunter is a highly effective and flexible tool for sampling genetic resources and establishing core subsets. Our implementation, documentation, and source code for Core Hunter is available at http://corehunter.org.",
+        "lang": "eng"
+    },
+    "appid": "10883_1771",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1771"
+}}

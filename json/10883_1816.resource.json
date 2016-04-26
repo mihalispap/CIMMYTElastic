@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "0717-3458",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:43Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1816",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1816"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1816"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1816",
+    "creator": [
+        {
+            "id": 1361982940,
+            "value": "Semagn, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1361982940"
+        },
+        {
+            "id": 137461576,
+            "value": "Bjornstad, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/137461576"
+        },
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        }
+    ],
+    "publisher": {
+        "id": 1092560746,
+        "value": "http://www.ejbiotechnology.info/index.php/ejbiotechnology/article/view/v13n5-14",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1092560746"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1816/1/94279.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1095604
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1816/2/94279.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 163317
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1816/3/94279.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4014
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1816/1/94279.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1816/2/94279.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1816/3/94279.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1816"
+        }
+    },
+    "extent": "",
+    "page": "1-45 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -89,6 +89,17 @@
                 "http://sws.geonames.org/3530839",
                 "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Vietnam"
             ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southeast Asia",
+            "uri": [
+                "http://sws.geonames.org/1562822",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+            ]
         }
     ],
     "updatedDate": "2012-01-06T05:10:13Z",
@@ -100,6 +111,11 @@
             "id": 1403840553,
             "type": "collection",
             "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
         },
         {
             "id": 403613914,
@@ -191,6 +207,8 @@
         "Vietnam",
         "India",
         "China",
+        "Southeast Asia",
+        "East Asia",
         "South Asia"
     ],
     "contributor": {

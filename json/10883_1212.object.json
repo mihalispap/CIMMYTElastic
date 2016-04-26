@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Lines tested in the International Spring Wheat Yield Nurseries (ISWYN) 1964-1994",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2012-01-06T05:17:00Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant nurseries",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5973",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spring crops",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selection",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1212",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1212"
+}}

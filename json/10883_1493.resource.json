@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Europe",
+        "uri": [
+            "http://sws.geonames.org/EU",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+        ]
+    },
+    "updatedDate": "2013-06-05T15:45:35Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1493",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1493"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1493"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1493",
+    "creator": [
+        {
+            "id": 1850772225,
+            "value": "Tuberosa, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1850772225"
+        },
+        {
+            "id": 827667429,
+            "value": "Giuliani, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/827667429"
+        },
+        {
+            "id": 1683168274,
+            "value": "Parry, M.A.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1683168274"
+        },
+        {
+            "id": 1325692744,
+            "value": "Araus, J.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1325692744"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1493/1/89952.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 81143
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1493/2/89952.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 28509
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1493/3/89952.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4124
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1493/1/89952.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1493/2/89952.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1493/3/89952.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1493"
+        }
+    },
+    "extent": "",
+    "page": "157-162",
+    "coverage": "Europe",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:16:46Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Informe Especial de Trigo",
+    "appid": "10883_1202",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1994,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1202"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1202"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1202",
+    "creator": [
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 1483250975,
+            "value": "Sayre, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1483250975"
+        },
+        {
+            "id": 967795753,
+            "value": "Vivar, H.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/967795753"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1202/1/55224.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1136414
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1202/2/55224.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41541
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1202/3/55224.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 1415
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1202/1/55224.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1202/2/55224.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1202/3/55224.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1202"
+        }
+    },
+    "extent": "No. 26b",
+    "page": "17 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-16-0",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

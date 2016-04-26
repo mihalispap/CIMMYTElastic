@@ -1,0 +1,252 @@
+{"object": {
+    "title": {
+        "value": "Replication data for Identification of QTL for early vigor and stay-green conferring tolerance to drought in two connected advanced backcross populations in tropical maize (Zea mays L.)",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8679",
+                "http://aims.fao.org/aos/agrovoc/c_8679.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                "http://aims.fao.org/aos/agrovoc/c_8504.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "field experimentation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33990",
+                "http://aims.fao.org/aos/agrovoc/c_33990.html"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "crop performance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35199",
+                "http://aims.fao.org/aos/agrovoc/c_35199.html"
+            ]
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to anthesis",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to silking",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "ear height",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "ear rot total",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "faw",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "field weight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "fusarium moniliforme",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain texture",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "husk cover",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lodging",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "number of ears",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant stand number",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rolling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "root lodging",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "senescence",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "shelled grain weight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stalk lodging",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stalk rot",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "stem lodging",
+            "uri": "http://www.cropontology.org/ontology/CO_322/Maize"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.972,
+            "value": "vigor",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37512"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "anthesis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2992"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "silk",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7063"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ears",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2436"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rots",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6667"
+        }
+    ],
+    "description": {
+        "value": "Replication data for: Identification of QTL for early vigor and stay-green conferring tolerance to drought in two connected advanced backcross populations in tropical maize (Zea mays L.)\n\nWe aimed to identify quantitative trait loci (QTL) for secondary traits related to grain yield (GY) in two BC1F2:3 backcross populations (LPSpop and DTPpop) under well-watered (4 environments; WW) and drought stressed (6; DS) conditions to facilitate breeding efforts towards drought tolerant maize. Out of the 105 detected QTL, 53 were overdominant indicative of strong heterosis. For 14 out of 18 detected vigor QTL, as well as for eight flowering time QTL the trait increasing allele was derived from CML491. Improving drought tolerance while at the same time maintaining yield potential could be achieved by combining alleles conferring early vigor from the recurrent parent with alleles advancing flowering from the donor. \nThe highest yielding ten entries for all population-by-irrigation treatment combination (except LPSpop WW) used in this study outyielded the best check (CML312/CML444) by 32.5% (DTPpop WW) to 60% (DTPpop DS). Moreover three entries (((CML491/DTPWC9F104)//CML491)B2/CML503; ((CML491/LPSC7F64)//CML491)B154/CML503; ((CML491/LPSC7F64)//CML491)B218/CML503) ranked within the top ten across irrigation treatments. Best performing entries identified here under drought can therefore be used as new trait donor using phenotypic and/or molecular selection.",
+        "lang": ""
+    },
+    "appid": "11529_10612",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10612"
+}}

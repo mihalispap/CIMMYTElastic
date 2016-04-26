@@ -1,0 +1,179 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:15:06Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Regional Wheat Workshop for Eastern, Central and Southern Africa",
+    "appid": "10883_1137",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Proceedings",
+        "Grey literature"
+    ],
+    "date": 1990,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1137"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1137"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1137",
+    "creator": [
+        {
+            "id": 1966943519,
+            "value": "Tanner, D.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1966943519"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        },
+        {
+            "id": 1761530427,
+            "value": "Mwangi, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761530427"
+        }
+    ],
+    "publisher": {
+        "id": 1844249868,
+        "value": "CIMMYT*CIDA",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1844249868"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1137/1/24106.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 7729671
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1137/2/24106.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 842144
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1137/3/24106.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6297
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1137/1/24106.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1137/2/24106.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1137/3/24106.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1137"
+        }
+    },
+    "extent": "No. 6",
+    "page": "vii, 344 pags",
+    "coverage": [
+        "Eastern Africa",
+        "Southern Africa",
+        "Central Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6127-45-3",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

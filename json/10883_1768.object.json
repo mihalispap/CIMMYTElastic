@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Predicting quantitative traits with regression models for dense molecular markers and pedigree",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.835
+            ],
+            "value": "shrinkage",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25209"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        }
+    ],
+    "description": {
+        "value": "The availability of genomewide dense markers brings opportunities and challenges to breeding programs. An important question concerns the ways in which dense markers and pedigrees, together with phenotypic records, should be used to arrive at predictions of genetic values for complex traits. If a large number of markers are included in a regression model, marker-specific shrinkage of regression coefficients may be needed. For this reason, the Bayesian least absolute shrinkage and selection operator (LASSO) (BL) appears to be an interesting approach for fitting marker effects in a regression model. This article adapts the BL to arrive at a regression model where markers, pedigrees, and covariates other than markers are considered jointly. Connections between BL and other marker-based regression models are discussed, and the sensitivity of BL with respect to the choice of prior distributions assigned to key parameters is evaluated using simulation. The proposed model was fitted to two data sets from wheat and mouse populations, and evaluated using cross-validation methods. Results indicate that inclusion of markers in the regression further improved the predictive ability of models. An R program that implements the proposed model is freely available.",
+        "lang": "eng"
+    },
+    "appid": "10883_1768",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1768"
+}}

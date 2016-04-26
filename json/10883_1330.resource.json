@@ -1,0 +1,135 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "China",
+        "uri": [
+            "http://sws.geonames.org/1814991",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+        ]
+    },
+    "updatedDate": "2012-06-12T21:49:36Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1330",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1330"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1330"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1330",
+    "creator": [
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        },
+        {
+            "id": 1306487499,
+            "value": "Bonjean, A.P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1306487499"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/1/94077.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2368315
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/3/94077.pdf.jpg",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 4240
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/4/94077.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 508168
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/1/94077.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/3/94077.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1330/4/94077.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1330"
+        }
+    },
+    "extent": "",
+    "page": "viii, 118 pags",
+    "coverage": [
+        "China",
+        "East Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-970-648-177-1",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

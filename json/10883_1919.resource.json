@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "1735-6814",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Nigeria",
+        "uri": [
+            "http://sws.geonames.org/2328926",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nigeria"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:57Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1919",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1919"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1919"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1919",
+    "creator": [
+        {
+            "id": 1249771091,
+            "value": "Biemond, P.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1249771091"
+        },
+        {
+            "id": 1077916041,
+            "value": "Stomph, T.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1077916041"
+        },
+        {
+            "id": 847077062,
+            "value": "Kamara, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/847077062"
+        },
+        {
+            "id": 202644984,
+            "value": "Abdoulaye, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/202644984"
+        },
+        {
+            "id": 539435916,
+            "value": "Hearne, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/539435916"
+        },
+        {
+            "id": 2033704381,
+            "value": "Struik, P.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/2033704381"
+        }
+    ],
+    "publisher": {
+        "id": 580696,
+        "value": "http://ijpp.gau.ac.ir//?_action=articleInfo&article=771",
+        "type": "organization",
+        "uri": "/cimmyt/organization/580696"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1919/1/97722.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 218930
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1919/2/97722.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1919/3/97722.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3983
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1919/1/97722.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1919/2/97722.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1919/3/97722.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1919"
+        }
+    },
+    "extent": "",
+    "page": "367-386",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

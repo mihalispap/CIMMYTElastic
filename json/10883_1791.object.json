@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Identification and characterization of large-effect quantitative trait loci for grain yield under lowland drought stress in rice using bulk-segregant analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7971
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6066
+            ],
+            "value": "lowland",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4453"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "An F4:5 population of 490 recombinant inbred lines (RILs) from the cross Apo/2 Swarna was used to detect quantitative trait loci (QTL) with large effects on grain yield under drought stress using bulk-segregant analysis (BSA). Swarna is an important rainfed lowland rice variety grown on millions of hectares in Asia, but is highly susceptible to drought and aerobic soil conditions. Apo is an aerobic-adapted variety with moderate tolerance to drought. Two rice microsatellite (RM) markers, RM324, and RM416, located on chromosomes 2 and 3, respectively, were shown via BSA to be strongly associated with yield under lowland drought stress. The effects of these QTL were tested in a total of eight hydrological environments over a period of 3 years. The QTL linked to RM416 (DTY 3.1) had a large effect on grain yield under severe lowland drought stress, explaining about 31% of genetic variance for the trait (P < 0.0001). It also explained considerable variance for yield under mild stress in lowland conditions and aerobic environments. To our knowledge this is the first reported QTL that has a large effect on yield in both lowland drought and aerobic environments. The QTL linked to RM324 (DTY 2.1.) had a highly significant effect on grain yield in lowland drought stress (R 2 = 13?16%) and in two aerobic trials. The effect of these QTL on grain yield was verified to be not mainly due to phenology differences. Effects of DTY 3.1. on yield under stress have been observed in several other rice mapping populations studied at IRRI. Results of this study indicate that BSA is an effective method of identifying QTL alleles with large effects on rice yield under severe drought stress. The Apo alleles for these large-effect QTL for grain yield under drought and aerobic conditions may be immediately exploited in marker-assisted-breeding to improve the drought tolerance of Swarna",
+        "lang": "eng"
+    },
+    "appid": "10883_1791",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1791"
+}}

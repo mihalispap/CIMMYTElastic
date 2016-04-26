@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "First detection of Pseudomonas fuscovaginae on maize and sorghum in Burundi",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:07:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "isolation techniques",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3965",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sorghum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7244",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant disease manifestations",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "burundi",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1159",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pseudomonas fuscovaginae",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33829"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1928",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1928"
+}}

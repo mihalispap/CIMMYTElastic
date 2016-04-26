@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:53Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1894",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1894"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1894"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1894",
+    "creator": [
+        {
+            "id": 1016491067,
+            "value": "Arief, V.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1016491067"
+        },
+        {
+            "id": 150567925,
+            "value": "DeLacy, I.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150567925"
+        },
+        {
+            "id": 264533052,
+            "value": "Wenzl, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/264533052"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1009083093,
+            "value": "Dieters, M.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1009083093"
+        },
+        {
+            "id": 586346479,
+            "value": "Basford, K.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/586346479"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1894/1/96963.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 803785
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1894/2/96963.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36072
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1894/3/96963.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4058
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1894/1/96963.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1894/2/96963.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1894/3/96963.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1894"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

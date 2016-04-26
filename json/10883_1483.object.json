@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Microbial biomass C measurements in soil of the central highlands of Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chloroform fumigation extraction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mexican soils",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microbial biomass",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ninhydrin-positive compounds",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "biomass",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_926"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6318
+            ],
+            "value": "chloroform",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_29696"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fumigation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3142"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "soil",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7156"
+        }
+    ],
+    "description": {
+        "value": "Microbial biomass is the key factor in nutrient dynamics in soil, but no information exist about it in soils of the central highlandsof Mexico, a major agricultural area.We determined the microbial biomass in soils with a wide range of organic C and belonging to three soil texture classes. Twenty-four soils under different types of cultivation were sampled while microbial biomass C was measured with the chloroform fumigation incubation (CFI) and extraction technique (CFE). Microbial biomass C as measured with the CFI technique ranged from 138 to 2195 mg C kg-1. The ninhydrin-positive compounds (NPC) and extractable C released with CFE increased with increased time of exposure to chloroform and on average 53% of NPC and 83% of extractable C was released after 1 day compared to that released after 10 days. The ratio of microbial biomass C as measured with the CFI method related to the NPC was 31.8 after 1 day and 20.0 after 10 days while the relationship with extractable C was 3.18 and 2.69, respectively. The relationship between microbial biomass C as measured by the chloroform fumigation incubation technique and the soluble C and ninhydrin-N rendered extractable after 1 and 10 days of chloroform fumigation for soils of the central highlands of Mexico were comparable to values reported for soils in other regions of the world. The factors determined in this study can thus be used to determine microbial biomass.",
+        "lang": "eng"
+    },
+    "appid": "10883_1483",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1483"
+}}

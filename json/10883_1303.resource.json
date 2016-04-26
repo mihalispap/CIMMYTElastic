@@ -1,0 +1,168 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mali",
+        "uri": [
+            "http://sws.geonames.org/2453866",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mali"
+        ]
+    },
+    "updatedDate": "2012-03-15T23:06:12Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Country Report",
+    "appid": "10883_1303",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1303"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1303"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1303",
+    "creator": [
+        {
+            "id": 1171645068,
+            "value": "Fofana, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1171645068"
+        },
+        {
+            "id": 202644984,
+            "value": "Abdoulaye, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/202644984"
+        },
+        {
+            "id": 1012726982,
+            "value": "Coulibaly, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1012726982"
+        },
+        {
+            "id": 1438216395,
+            "value": "Sanogo, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1438216395"
+        },
+        {
+            "id": 1719769734,
+            "value": "Langyintuo, A.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1719769734"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2247565,
+            "value": "IITA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2247565"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/1/95614.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1247701
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/3/95614.pdf.jpg",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 2998
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/4/95614.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 111568
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/1/95614.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/3/95614.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1303/4/95614.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1303"
+        }
+    },
+    "extent": "",
+    "page": "ix, 42 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-978-50004-6-7",
+    "quality": "",
+    "place": "Ibadan (Nigeria)",
+    "doi": ""
+}}

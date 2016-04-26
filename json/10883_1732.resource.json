@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:32Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1732",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1732"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1732"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1732",
+    "creator": [
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        },
+        {
+            "id": 1804276971,
+            "value": "Iwanaga, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1804276971"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 76425066,
+            "value": "Wu Huixia",
+            "type": "person",
+            "uri": "/cimmyt/person/76425066"
+        },
+        {
+            "id": 150234408,
+            "value": "Crouch, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150234408"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1732/1/90293.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 438514
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1732/2/90293.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 55271
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1732/3/90293.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4983
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1732/1/90293.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1732/2/90293.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1732/3/90293.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1732"
+        }
+    },
+    "extent": "",
+    "page": "30 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

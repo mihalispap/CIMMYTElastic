@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Semi-parametric genomic-enabled prediction of genetic values using reproducing kernel Hilbert spaces methods",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9259
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24030"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8267
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8098
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "Prediction of genetic values is a central problem in quantitative genetics. Over many decades, such predictions have been successfully accomplished using information on phenotypic records and family structure usually represented with a pedigree. Dense molecular markers are now available in the genome of humans, plants and animals, and this information can be used to enhance the prediction of genetic values. However, the incorporation of dense molecular marker data into models poses many statistical and computational challenges, such as how models can cope with the genetic complexity of multi-factorial traits and with the curse of dimensionality that arises when the number of markers exceeds the number of data points. Reproducing kernel Hilbert spaces regressions can be used to address some of these challenges. The methodology allows regressions on almost any type of prediction sets (covariates, graphs, strings, images, etc.) and has important computational advantages relative to many parametric approaches. Moreover, some parametric models appear as special cases. This article provides an overview of the methodology, a discussion of the problem of kernel choice with a focus on genetic applications, algorithms for kernel selection and an assessment of the proposed methods using a collection of 599 wheat lines evaluated for grain yield in four mega environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_1825",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1825"
+}}

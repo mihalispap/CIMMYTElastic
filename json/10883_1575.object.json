@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Greenhouse gas emissions under conservation agriculture compared to traditional cultivation of maize in the central highlands of Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "greenhouse gas emissions",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "net global warming potential",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "soil carbon content",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "soil mineral n and water content",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7572
+            ],
+            "value": "soil fertility",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7170"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "co2",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1302"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "greenhouses",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3379"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "global warming",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34836"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "carbon",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1301"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "water content",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4886"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "In 1991, the International Maize and Wheat Improvement Center (CIMMYT) started a field experiment in the rain fed Mexican highlands to investigate conservation agriculture (CA) as a sustainable alternative for conventional maize production practices (CT). CT techniques, characterized by deep tillage, monoculture and crop residue removal, have deteriorated soil fertility and reduced yields. CA, which combines minimum tillage, crop rotations and residue retention, restores soil fertility and increases yields. Soil organic matter increases in CA compared to CT, but increases in greenhouse gas emissions (GHG) in CA might offset the gains obtained to mitigate global warming. Therefore, CO2, CH4 and N2O emissions, soil temperature, C and water content were monitored in CA and CT treatments in 2010?2011. The cumulative GHG emitted were similar for CA and CT in both years, but the C content in the 0?60 cm layer was higher in CA (117.7 Mg C ha&#8722; 1) than in CT (69.7 Mg C ha&#8722; 1). The net global warming potential (GWP) of CA (considering soil C sequestration, GHG emissions, fuel use, and fertilizer and seeds production) was &#8722; 7729 kg CO2 ha&#8722; 1 y&#8722; 1 in 2008?2009 and &#8722; 7892 kg CO2 ha&#8722; 1 y&#8722; 1 in 2010?2011, whereas that of CT was 1327 and 1156 kg CO2 ha&#8722; 1 y&#8722; 1. It was found that the contribution of CA to GWP was small compared to that of CT.",
+        "lang": "eng"
+    },
+    "appid": "10883_1575",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1575"
+}}

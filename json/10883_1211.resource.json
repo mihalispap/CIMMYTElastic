@@ -1,0 +1,118 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:16:58Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1211",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Books and monographs",
+        "Guidelines and manuals"
+    ],
+    "date": 1996,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1211"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1211"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1211",
+    "creator": [
+        {
+            "id": 2056980550,
+            "value": "Wilcoxson, R.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/2056980550"
+        },
+        {
+            "id": 1167353840,
+            "value": "Saari, E.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1167353840"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1211/1/61965.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 3254822
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1211/2/61965.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 378333
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1211/3/61965.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 9678
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1211/1/61965.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1211/2/61965.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1211/3/61965.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1211"
+        }
+    },
+    "extent": "",
+    "page": "vi, 66 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-37-3",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

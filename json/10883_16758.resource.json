@@ -1,0 +1,107 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2016-04-14T18:07:28Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_16758",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Guidelines and manuals",
+    "date": 2016,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/16758"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/16758"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_16758",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/16758/1/57830.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5484
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/16758/3/57830.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 216060
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/16758/2/57830.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 3672556
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/16758/1/57830.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/16758/3/57830.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/16758/2/57830.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/16758"
+        }
+    },
+    "extent": "",
+    "page": 111,
+    "coverage": "",
+    "contributor": {
+        "id": 393518401,
+        "value": "Centro Internacional de Mejoramiento de Maiz y Trigo (CIMMYT)",
+        "type": "person",
+        "uri": "/cimmyt/person/393518401"
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico",
+    "doi": ""
+}}

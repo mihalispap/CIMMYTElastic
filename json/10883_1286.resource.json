@@ -1,0 +1,165 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Tanzania",
+            "uri": [
+                "http://sws.geonames.org/149590",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tanzania"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-02-24T21:56:07Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Country Report",
+    "appid": "10883_1286",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1286"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1286"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1286",
+    "creator": [
+        {
+            "id": 199288124,
+            "value": "Temu, A.E.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/199288124"
+        },
+        {
+            "id": 233070505,
+            "value": "Manyama, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/233070505"
+        },
+        {
+            "id": 76876453,
+            "value": "Mgeni, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/76876453"
+        },
+        {
+            "id": 1719769734,
+            "value": "Langyintuo, A.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1719769734"
+        },
+        {
+            "id": 1243198694,
+            "value": "Waized, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1243198694"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1286/1/96162.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 243659
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1286/2/96162.pdf.jpg",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1918
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1286/3/96162.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 46404
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1286/1/96162.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1286/2/96162.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1286/3/96162.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1286"
+        }
+    },
+    "extent": "",
+    "page": "vii, 15 P.",
+    "coverage": [
+        "Tanzania",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

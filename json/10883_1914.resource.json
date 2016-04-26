@@ -1,0 +1,157 @@
+{"resource": {
+    "citation": "",
+    "issn": "1836-0947",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:56Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1914",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1914"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1914"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1914",
+    "creator": [
+        {
+            "id": 796770404,
+            "value": "Real, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/796770404"
+        },
+        {
+            "id": 1499113279,
+            "value": "Sandral, G.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1499113279"
+        },
+        {
+            "id": 374440318,
+            "value": "Rebuffo, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/374440318"
+        },
+        {
+            "id": 937967857,
+            "value": "Hughes, S.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/937967857"
+        },
+        {
+            "id": 1817912876,
+            "value": "Kelman, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1817912876"
+        },
+        {
+            "id": 705890896,
+            "value": "Mieres, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/705890896"
+        },
+        {
+            "id": 951143217,
+            "value": "Dods, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/951143217"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": {
+        "id": 1360510868,
+        "value": "http://www.publish.csiro.au/paper/CP12173.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1360510868"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1914/1/97645.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 143176
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1914/2/97645.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53116
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1914/3/97645.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5942
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1914/1/97645.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1914/2/97645.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1914/3/97645.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1914"
+        }
+    },
+    "extent": "",
+    "page": "848-857",
+    "coverage": "Australia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

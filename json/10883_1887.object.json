@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Estimation of statistical power and false discovery rate of QTL mapping methods through computer simulation",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "false discovery rate (fdr)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inclusive composite interval mapping (icim)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "interval mapping (im)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "power simulation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Many QTL mapping methods have been developed in the past two decades. Statistically, the best method should have a high detection power but a low false discovery rate (FDR). Power and FDR cannot be derived theoretically for most QTL mapping methods, but they can be properly evaluated using computer simulations. In this paper, we used four genetic models (two for independent loci and two for linked loci) to illustrate power and FDR estimation for interval mapping (IM) and inclusive composite interval mapping (ICIM). For each model, we simulated 1000 populations each of 200 doubled haploids. A support interval (SI) was first defined to indicate to which predefined QTL the significant QTL belonged. Power was calculated by counting the number of simulation runs with significant peaks higher than the logarithm of odds (LOD) threshold in the SI. Quantitative trait loci not identified in any SIs were viewed as false positives. The FDR is the rate at which QTLs are identified as significant when they are actually non-significant. Simulation results allowed us to estimate power and FDR of IM and ICIM for two independent and two linkage genetic models. Our estimates allowed us to readily compare the efficiencies of different statistical methods for QTL mapping, including the ability to separate linkage, under a wide range of genetic models. We used IM and ICIM as examples of how to estimate power and FDR, but the principles shown in this paper can be used for power analysis and comparison of any other QTL mapping methods, especially those based on interval tests.",
+        "lang": "eng"
+    },
+    "appid": "10883_1887",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1887"
+}}

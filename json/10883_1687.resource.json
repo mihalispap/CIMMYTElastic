@@ -1,0 +1,153 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Oman",
+        "uri": [
+            "http://sws.geonames.org/286963",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Oman"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1687",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2006,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1687"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1687"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1687",
+    "creator": [
+        {
+            "id": 540721182,
+            "value": "Zhang, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/540721182"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 2101861379,
+            "value": "Buerkert, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2101861379"
+        },
+        {
+            "id": 925310606,
+            "value": "Alkhanjari, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/925310606"
+        },
+        {
+            "id": 2064679648,
+            "value": "Melchinger, A.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2064679648"
+        },
+        {
+            "id": 1572659283,
+            "value": "Warburton, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1572659283"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1687/1/82939.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 328640
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1687/2/82939.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38285
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1687/3/82939.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4646
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1687/1/82939.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1687/2/82939.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1687/3/82939.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1687"
+        }
+    },
+    "extent": "",
+    "page": "1351-1360",
+    "coverage": [
+        "Oman",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

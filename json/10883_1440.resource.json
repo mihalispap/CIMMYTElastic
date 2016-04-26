@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-05T15:45:28Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1440",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2001,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1440"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1440"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1440",
+    "creator": [
+        {
+            "id": 587208508,
+            "value": "Pérez, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/587208508"
+        },
+        {
+            "id": 2022909166,
+            "value": "Trumbore, S.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2022909166"
+        },
+        {
+            "id": 1241799282,
+            "value": "Tyler, S.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1241799282"
+        },
+        {
+            "id": 430489777,
+            "value": "Matson, P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/430489777"
+        },
+        {
+            "id": 957768179,
+            "value": "Ortiz-Monasterio, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/957768179"
+        },
+        {
+            "id": 150433763,
+            "value": "Rahn, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/150433763"
+        },
+        {
+            "id": 1026873358,
+            "value": "Griffith, D.W.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1026873358"
+        }
+    ],
+    "publisher": {
+        "id": 997740032,
+        "value": "http://onlinelibrary.wiley.com/doi/10.1029/2000JD900809/abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/997740032"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1440/1/78837.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1337624
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1440/2/78837.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 10
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1440/3/78837.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7550
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1440/1/78837.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1440/2/78837.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1440/3/78837.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1440"
+        }
+    },
+    "extent": "",
+    "page": "9869-9878",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

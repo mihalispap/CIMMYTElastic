@@ -1,17 +1,41 @@
 {"resource": {
     "citation": "",
     "issn": "",
-    "location": {
-        "vocabulary": [
-            "geonames",
-            "faogeopolitical"
-        ],
-        "value": "South America",
-        "uri": [
-            "http://sws.geonames.org/SA",
-            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
-        ]
-    },
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/NA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/SA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/7729892",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
     "updatedDate": "2012-01-06T05:09:37Z",
     "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
     "relation": "",
@@ -21,6 +45,11 @@
             "id": 1403840553,
             "type": "collection",
             "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
         },
         {
             "id": 403613914,
@@ -112,7 +141,11 @@
     },
     "extent": "",
     "page": "x, 45 pags",
-    "coverage": "South America",
+    "coverage": [
+        "Central America",
+        "North America",
+        "South America"
+    ],
     "contributor": {
         "id": "",
         "value": "",

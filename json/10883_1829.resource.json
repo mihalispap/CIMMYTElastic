@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "0018-0661",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:44Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1829",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1829"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1829"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1829",
+    "creator": [
+        {
+            "id": 258929798,
+            "value": "Xinxia Sui",
+            "type": "person",
+            "uri": "/cimmyt/person/258929798"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        },
+        {
+            "id": 663623980,
+            "value": "Yaming Lu",
+            "type": "person",
+            "uri": "/cimmyt/person/663623980"
+        },
+        {
+            "id": 1966318647,
+            "value": "Zhenlin Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1966318647"
+        },
+        {
+            "id": 1937449740,
+            "value": "Xianchun Xia",
+            "type": "person",
+            "uri": "/cimmyt/person/1937449740"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1829/1/94524.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 329631
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1829/2/94524.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 31387
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1829/3/94524.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6623
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1829/1/94524.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1829/2/94524.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1829/3/94524.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1829"
+        }
+    },
+    "extent": "",
+    "page": "176-182",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

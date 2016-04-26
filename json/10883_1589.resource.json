@@ -1,0 +1,143 @@
+{"resource": {
+    "citation": "",
+    "issn": "1742-1705",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T20:59:20Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1589",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1589"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1589"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1589",
+    "creator": [
+        {
+            "id": 953305271,
+            "value": "Ngwira, A.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/953305271"
+        },
+        {
+            "id": 1823058277,
+            "value": "Thierfelder, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1823058277"
+        },
+        {
+            "id": 1455199140,
+            "value": "Lambert, D.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1455199140"
+        }
+    ],
+    "publisher": {
+        "id": 1100674566,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8681469&fulltextType=RA&fileId=S1742170512000257",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1100674566"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1589/1/97099.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1265147
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1589/2/97099.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 66653
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1589/3/97099.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3813
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1589/1/97099.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1589/2/97099.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1589/3/97099.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1589"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "Malawi",
+        "Southern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Conceptual framework for drought phenotyping during molecular breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:39Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8443,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        }
+    ],
+    "description": {
+        "value": "Drought is a major threat to agricultural production and drought tolerance is a prime target for molecular approaches to crop improvement. To achieve meaningful results, these approaches must be linked with suitable phenotyping protocols at all stages, such as the screening of germplasm collections, mutant libraries, mapping populations, transgenic lines and breeding materials and the design of OMICS and quantitative trait loci (QTLs) experiments. Here we present a conceptual framework for molecular breeding for drought tolerance based on the Passioura equation of expressing yield as the product of water use (WU), water use efficiency (WUE) and harvest index (HI). We identify phenotyping protocols that address each of these factors, describe their key features and illustrate their integration with different molecular approaches.",
+        "lang": "eng"
+    },
+    "appid": "10883_1786",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1786"
+}}

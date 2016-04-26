@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Three new teosintes (Zea spp., Poaceae) from Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "poaceae",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3354",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "teosinte",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15476",
+                "http://aims.fao.org/aos/agrovoc/c_15476",
+                "http://aims.fao.org/aos/agrovoc/c_15476",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27440",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "Premise of the study : Teosinte species are the closest relatives of maize and represent an important but increasingly rare genetic resource for maize improvement and the study of evolution by domestication. Three morphologically and ecologically distinct teosinte populations were recently discovered in M é xico. The taxonomic status of these rare and endangered populations was investigated by detailed comparisons to previously characterized wild Zea species. Methods : Three new teosinte populations were compared to known teosinte taxa on the basis of morphological, ecogeographic, cytological, and molecular characteristics. Phenetic and phylogenetic analyses were performed using morphological and molecular data, respectively. Key results : The newly discovered populations are distinct from each other and from other Zea species to represent three new entities based on their unique combinations of morphological, ecological, ploidy, and DNA markers. A perennial diploid population from Nayarit is distinguished by early maturing plants, and having male infl orescences with few tassel branches and long spikelets. A perennial tetraploid population from Michoac á n is characterized by tall and late maturing plants, and having male infl orescences with many branches. An annual diploid population from Oaxaca is characterized by having male infl orescences with fewer branches and longer spikelets than those found in the sister taxa Z. luxurians and Z. nicaraguensis , plants with high thermal requirements, and very long seed dormancy. Conclusions : Evidence from multiple independent sources suggests placement of the three new populations of teosinte as distinct entities within section Luxuriantes of the genus Zea . However, more extensive DNA marker or sequence data are required to resolve the taxonomy of this genus.",
+        "lang": "eng"
+    },
+    "appid": "10883_1852",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1852"
+}}

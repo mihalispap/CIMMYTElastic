@@ -1,0 +1,154 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Peru",
+            "uri": [
+                "http://sws.geonames.org/4905770",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Peru"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/3932488",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:35Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1752",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1752"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1752"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1752",
+    "creator": [
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        },
+        {
+            "id": 1461848916,
+            "value": "Sevilla, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1461848916"
+        },
+        {
+            "id": 1967761045,
+            "value": "Alvarado, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1967761045"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1752/1/90676.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 299017
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1752/2/90676.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38041
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1752/3/90676.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5573
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1752/1/90676.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1752/2/90676.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1752/3/90676.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1752"
+        }
+    },
+    "extent": "",
+    "page": "1055-1064",
+    "coverage": [
+        "Peru",
+        "South America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

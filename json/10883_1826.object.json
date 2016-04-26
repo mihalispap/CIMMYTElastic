@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Effects of missing marker and segregation distortion on QTL mapping in F2 populations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8444
+            ],
+            "value": "genetic variance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24847"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7302
+            ],
+            "value": "segregation",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6947"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Missing marker and segregation distortion are commonly encountered in actual quantitative trait locus (QTL) mapping populations. Our objective in this study was to investigate the impact of the two factors on QTL mapping through computer simulations. Results indicate that detection power decreases with increasing levels of missing markers, and the false discovery rate increases. Missing markers have greater effects on smaller effect QTL and smaller size populations. The effect of missing markers can be quantified by a population with a reduced size similar to the marker missing rate. As for segregation distortion, if the distorted marker is not closely linked with any QTL, it will not have significant impact on QTL mapping; otherwise, the impact of the distortion will depend on the degree of dominance of QTL, frequencies of the three marker types, the linkage distance between the distorted marker and QTL, and the mapping population size. Sometimes, the distortion can result in a higher genetic variance than that of non-distortion, and therefore benefits the detection of linked QTL. A formula of the ratio of genetic variance explained by QTL under distortion and non-distortion was given in this study, so as to easily determine whether the segregation distortion marker (SDM) increases or decreases the QTL detection power. The effect of SDM decreases rapidly as its linkage relationship with QTL becomes looser. In general, distorted markers will not have a great effect on the position and effect estimations of QTL, and their effects can be ignored in large-size mapping populations.",
+        "lang": "eng"
+    },
+    "appid": "10883_1826",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1826"
+}}

@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Central America",
+        "uri": [
+            "http://sws.geonames.org/7729892",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2025",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1993,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2025"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2025"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2025",
+    "creator": [
+        {
+            "id": 1405953482,
+            "value": "Saín, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1405953482"
+        },
+        {
+            "id": 222560899,
+            "value": "Borbon Castro, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/222560899"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2025/1/42331.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 659126
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2025/2/42331.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 22984
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2025/3/42331.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5404
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2025/1/42331.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2025/2/42331.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2025/3/42331.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2025"
+        }
+    },
+    "extent": "",
+    "page": "10-14 pags",
+    "coverage": "Central America",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

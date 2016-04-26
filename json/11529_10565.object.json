@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of Seeds of Discovery-MasAgro Biodiversidad Testcross Germplasm in 2011B in Tlaltizapán, México",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "zea mays",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8504"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        }
+    ],
+    "description": {
+        "value": "Testcrosses generated using accessions from the CIMMYT Maize Germplasm Bank were planted in soils with low and optimal levels of nitrogen, however several experimental factors may have affected the level of nitrogen available to the plants in the two fields. First, the low nitrogen field had only been subjected to three years of nitrogen depletion and the absolute level of nitrogen present in the soil was not measured. Second, stover from the previous season was left on the optimal nitrogen field but not the low nitrogen field. This stover may have contributed to the sequestration of nitrogen and may have reduced that amount available for the maize plants. Third, a foliar ferrous sulfate solution was applied to the low nitrogen materials but this application also contained seaweed agar. It may have introduced higher than expected levels of nitrogen to the low nitrogen experiment. In addition, there was some significant bird damage to some of the plots.<br /><br />\n\nBased on the factors that interfered with the proper execution of a fully controlled experiment, the phenotypic results from this experiment do not represent the expected results for low nitrogen conditions and these data should be not be used to evaluate the low nitrogen adaptation of these materials.<br /><br />\n\nThe analyzed BLUPs from this trial are presented in this study.",
+        "lang": ""
+    },
+    "appid": "11529_10565",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10565"
+}}

@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "The bacterial diseases of wheat: Concepts and methods of disease management",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2012-01-06T05:17:21Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4788",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bacterioses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bacterial diseases",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_770"
+        }
+    ],
+    "description": {
+        "value": "The most common bacterial pathogens that attack wheat are grouped under the names Xanthomonas translucens and Pseudomonas syringae. Pathovars (bacterial strains pathogenic to a specific host or hosts) included in X. translucens can cause significant crop losses, while the ones grouped under P. syringae may severely affect the grain quality of wheat and are widely distributed in many temperate and subtropical wheat-growing regions. There is also a range of other bacterial diseases that have a more limited distribution or may cause crop losses just in certain localities. All of these are the subject of the present manual, which focuses on identifying and managing wheat bacterial diseases. It presents concepts and methods that will help those not familiar with bacterial diseases to correctly identify and diagnose them. Despite numerous reports of bacterial diseases on wheat worldwide, the study of bacterial diseases on wheat and triticale has been limited, and information on how to handle them is rarely available. Managing bacterial diseases is somewhat complex and often requires an integrated approach combining adequate control measures and breeding for genetic resistance. The authors of this manual have therefore included general principles and guidelines to help breeders and pathologists to both control these diseases and select for genetic resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_1227",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1227"
+}}

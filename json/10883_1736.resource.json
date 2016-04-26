@@ -1,0 +1,160 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Peru",
+            "uri": [
+                "http://sws.geonames.org/4905770",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Peru"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/3932488",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:32Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1736",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1736"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1736"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1736",
+    "creator": [
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1729213603,
+            "value": "Franco, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1729213603"
+        },
+        {
+            "id": 1461848916,
+            "value": "Sevilla, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1461848916"
+        },
+        {
+            "id": 1925111982,
+            "value": "Burgueño, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1925111982"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1736/1/90329.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 320795
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1736/2/90329.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43579
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1736/3/90329.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5510
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1736/1/90329.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1736/2/90329.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1736/3/90329.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1736"
+        }
+    },
+    "extent": "",
+    "page": "151-162",
+    "coverage": [
+        "Peru",
+        "South America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

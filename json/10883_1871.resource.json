@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "1836-0947",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:50Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1871",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1871"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1871"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1871",
+    "creator": [
+        {
+            "id": 910348402,
+            "value": "Mathews, K.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/910348402"
+        },
+        {
+            "id": 1464248480,
+            "value": "Trethowan, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1464248480"
+        },
+        {
+            "id": 1796204979,
+            "value": "Milgate, A.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1796204979"
+        },
+        {
+            "id": 96867704,
+            "value": "Payne, T.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/96867704"
+        },
+        {
+            "id": 1754768184,
+            "value": "van Ginkel, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1754768184"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 196804507,
+            "value": "DeLacy, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/196804507"
+        },
+        {
+            "id": 452300239,
+            "value": "Cooper, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/452300239"
+        },
+        {
+            "id": 1554018336,
+            "value": "Chapman, S.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1554018336"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1871/1/95763.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 565538
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1871/2/95763.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 76627
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1871/3/95763.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 17405
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1871/1/95763.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1871/2/95763.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1871/3/95763.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1871"
+        }
+    },
+    "extent": "",
+    "page": "313-327",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

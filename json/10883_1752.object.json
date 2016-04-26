@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Numerical classification of related Peruvian highland maize races using internal ear traits",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cob",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cupule",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype × environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "glume",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "modified location model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pith",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ears",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2436"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8793,
+            "value": "broad-sense heritability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1373982832607"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6429
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Maize (Zea mays L.) landraces are an important source for the genetic improvement of the crop. Classification of genetic resources requires both appropriate descriptors as well as sound numerical and statistical methods. This research was undertaken to assess the use of six internal ear traits for classifying a set of four related Peruvian highland maize races comprising a total of 24 accessions. Several accessions of the four races were included in field trials planted in Peru&rsquo;s inter-Andean valley. The trials were sown on two planting dates (normal and late) in two consecutive years. Variance components among races and among accessions with races were used to estimate broad-sense heritability and repeatability for each internal ear trait. The Ward-Modified Location model (MLM) and canonical analysis were undertaken for clustering the 24 accessions. For most traits, the variance components among races were more important than the accession within races, and the variance components for race × environment or accession within race × environment were, for the most part, negligible. Results suggest that internal ear traits such as cob and pith diameter, as well as cupule sizes and glume texture, are among the most appropriate for clustering these materials in their respective races. The numerical classification maintained the structure of the more differentiated races but identified two distinct accessions in one race and separated them into a homogeneous group. The Ward-MLM numerical method produced groups with distinct characteristics in terms of internal ear variables.",
+        "lang": "eng"
+    },
+    "appid": "10883_1752",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1752"
+}}

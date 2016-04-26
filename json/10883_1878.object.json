@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Genetic characterization of a core set of a tropical maize race Tuxpeño for further use in maize improvement",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:51Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7432
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The tropical maize race Tuxpeño is a well-known race of Mexican dent germplasm which has greatly contributed to the development of tropical and subtropical maize gene pools. In order to investigate how it could be exploited in future maize improvement, a panel of maize germplasm accessions was assembled and characterized using genome-wide Single Nucleotide Polymorphism (SNP) markers. This panel included 321 core accessions of Tuxpeño race from the International Maize and Wheat Improvement Center (CIMMYT) germplasm bank collection, 94 CIMMYT maize lines (CMLs) and 54 U.S. Germplasm Enhancement of Maize (GEM) lines. The panel also included other diverse sources of reference germplasm: 14 U.S. maize landrace accessions, 4 temperate inbred lines from the U.S. and China, and 11 CIMMYT populations (a total of 498 entries with 795 plants). Clustering analyses (CA) based on Modified Rogers Distance (MRD) clearly partitioned all 498 entries into their corresponding groups. No sub clusters were observed within the Tuxpeño core set. Various breeding strategies for using the Tuxpeño core set, based on grouping of the studied germplasm and genetic distance among them, were discussed. In order to facilitate sampling diversity within the Tuxpeño core, a minicore subset of 64 Tuxpeño accessions (20% of its usual size) representing the diversity of the core set was developed, using an approach combining phenotypic and molecular data. Untapped diversity represents further use of the Tuxpeño landrace for maize improvement through the core and/or minicore subset available to the maize community.",
+        "lang": "eng"
+    },
+    "appid": "10883_1878",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1878"
+}}

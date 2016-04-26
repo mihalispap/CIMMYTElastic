@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:34Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1749",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1749"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1749"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1749",
+    "creator": [
+        {
+            "id": 951621090,
+            "value": "Hernandez-Suarez, C.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/951621090"
+        },
+        {
+            "id": 2059167828,
+            "value": "Montesinos-Lopez, O.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2059167828"
+        },
+        {
+            "id": 489296853,
+            "value": "McLaren, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/489296853"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": {
+        "id": 1412220581,
+        "value": "http://bit.ly/12NgkrK",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1412220581"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1749/1/90514.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1125735
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1749/2/90514.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 13
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1749/3/90514.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7036
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1749/1/90514.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1749/2/90514.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1749/3/90514.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1749"
+        }
+    },
+    "extent": "",
+    "page": "77-89",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

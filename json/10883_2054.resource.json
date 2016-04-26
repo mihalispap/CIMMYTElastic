@@ -1,0 +1,130 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Bangladesh",
+        "uri": [
+            "http://sws.geonames.org/1210997",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:27Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2054",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1996,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2054"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2054"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2054",
+    "creator": [
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        },
+        {
+            "id": 1099449857,
+            "value": "Chowdhury, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1099449857"
+        },
+        {
+            "id": 570848197,
+            "value": "Meisner, C.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/570848197"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2054/1/63217.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1456931
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2054/2/63217.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 59908
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2054/3/63217.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5143
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2054/1/63217.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2054/2/63217.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2054/3/63217.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2054"
+        }
+    },
+    "extent": "",
+    "page": "541-560",
+    "coverage": [
+        "Bangladesh",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

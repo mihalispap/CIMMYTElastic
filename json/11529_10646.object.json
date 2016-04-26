@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "A Genomic Bayesian Multi-trait and Multi-environment Model",
+        "lang": ""
+    },
+    "updated": "2016-04-05T09:00:00Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6596
+            ],
+            "value": "models",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4881"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6899
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "When plant scientists record information on multiple genotypes evaluated in multiple environments, a multi-environment single trait for assessing genotype × environment interaction (G×E) model is usually employed. Comprehensive models that simultaneously take into account the correlated traits and trait × genotype × environment interaction (T×G×E) are lacking. In this research, we propose a Bayesian model for analyzing multiple traits and multiple environments for whole-genome prediction (WGP). For this model, we used Half- priors on each standard deviation term and uniform priors on each correlation of the covariance matrix of traits to achieve non-informativity and posterior inferences that are not sensitive to the choice of hyperparameters. We also developed a computationally efficient Markov Chain Monte Carlo (MCMC) under the above priors, which allows us to obtain all required full conditional distributions of the parameters leading to an exact Gibbs sampling for the posterior distribution. We used two real data sets for implementing and evaluating the proposed Bayesian method and found that when the correlation between traits was high (>0.5), the proposed model (with unstructured variance-covariance) improved prediction accuracy, compared to the model with diagonal and identity variance-covariance structures.",
+        "lang": ""
+    },
+    "appid": "11529_10646",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10646"
+}}

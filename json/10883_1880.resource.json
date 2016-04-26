@@ -1,0 +1,201 @@
+{"resource": {
+    "citation": "",
+    "issn": "1735-6814",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "CUBA",
+            "uri": [
+                "http://sws.geonames.org/3562981",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/CUBA"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:51Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1880",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1880"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1880"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1880",
+    "creator": [
+        {
+            "id": 522555705,
+            "value": "Karaya, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/522555705"
+        },
+        {
+            "id": 1253831899,
+            "value": "Njoroge, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1253831899"
+        },
+        {
+            "id": 1170808127,
+            "value": "Mugo, S.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1170808127"
+        },
+        {
+            "id": 1968895094,
+            "value": "Ariga, E.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1968895094"
+        },
+        {
+            "id": 360974252,
+            "value": "Kanampiu, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/360974252"
+        },
+        {
+            "id": 1869811707,
+            "value": "Nderitu, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1869811707"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1880/1/96498.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 137543
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1880/2/96498.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 32686
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1880/3/96498.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4473
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1880/1/96498.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1880/2/96498.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1880/3/96498.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1880"
+        }
+    },
+    "extent": "",
+    "page": "209-224",
+    "coverage": [
+        "Central Africa",
+        "Eastern Africa",
+        "Southern Africa",
+        "West Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

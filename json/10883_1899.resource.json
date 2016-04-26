@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0019-5200",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:54Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1899",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1899"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1899"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1899",
+    "creator": [
+        {
+            "id": 840515763,
+            "value": "Sukhwinder Singh",
+            "type": "person",
+            "uri": "/cimmyt/person/840515763"
+        },
+        {
+            "id": 1335402141,
+            "value": "Chahal G.S",
+            "type": "person",
+            "uri": "/cimmyt/person/1335402141"
+        },
+        {
+            "id": 1566287928,
+            "value": "Singh P.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1566287928"
+        },
+        {
+            "id": 979092795,
+            "value": "Gill B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/979092795"
+        }
+    ],
+    "publisher": {
+        "id": 1764290490,
+        "value": "http://www.indianjournals.com/ijor.aspx?target=ijor:ijgpb&volume=72&issue=3&article=003",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1764290490"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1899/1/97238.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 44620
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1899/2/97238.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30239
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1899/3/97238.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6429
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1899/1/97238.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1899/2/97238.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1899/3/97238.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1899"
+        }
+    },
+    "extent": "",
+    "page": "271-277",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

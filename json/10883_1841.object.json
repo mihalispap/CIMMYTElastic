@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis of heat tolerance at anthesis in rice",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:46Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spikelets",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7301"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7975,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "anthesis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2992"
+        }
+    ],
+    "description": {
+        "value": "Genetic analysis of heat tolerance will help breeders produce rice (Oryza sativa L.) varieties adapted to future climates. An F6 population of 181 recombinant inbred lines of Bala (tolerant) x Azucena (susceptible) was screened for heat tolerance at anthesis by measuring spikelet fertility at 30°C (control) and 38°C (high temperature) in experiments conducted in the Philippines and the United Kingdom. The parents varied significantly for absolute spikelet fertility under control (79-87%) and at high temperature (2.9-47.1%), and for relative spikelet fertility (high temperature/control) at high temperature (3.7-54.9%). There was no correlation between spikelet fertility in control and high-temperature conditions and no common quantitative trait loci (QTLs) were identified. Two QTLs for spikelet fertility under control conditions were identified on chromosomes 2 and 4. Eight QTLs for spikelet fertility under high-temperature conditions were identified on chromosomes 1, 2, 3, 8, 10, and 11. The most significant heat-responsive QTL, contributed by Bala and explaining up to 18% of the phenotypic variation, was identified on chromosome 1 (38.35 mega base pairs on the rice physical genome map). This QTL was also found to influence plant height, explaining 36.6% of the phenotypic variation. A comparison with other studies of abiotic (drought, cold, salinity) stresses showed QTLs at similar positions on chromosomes 1, 3, 8, and 10, suggesting common underlying stress-responsive regions of the genome.",
+        "lang": "eng"
+    },
+    "appid": "10883_1841",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1841"
+}}

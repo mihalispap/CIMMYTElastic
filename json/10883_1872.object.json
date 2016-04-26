@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Gene effects and heterosis for grain iron and zinc density in pearl millet (Pennisetum glaucum (L.) R. Br)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:50Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "combining ability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15954",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain iron and zinc density",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene action",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7578,
+                0.7578,
+                0.7578,
+                0.7578,
+                1,
+                ""
+            ],
+            "value": "heterosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pearl millet",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "pennisetum glaucum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_13199",
+                "http://aims.fao.org/aos/agrovoc/c_13199",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "micronutrients",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7834"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zinc",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8517"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "millets",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4838"
+        }
+    ],
+    "description": {
+        "value": "Pearl millet [Pennisetum glaucum (L.) R. Br.] is a major warm-season cereal, grown primarily for grain production in the arid and semi-arid tropical regions of Asia and Africa. Iron (Fe) and zinc (Zn) deficiencies have been reported to be a food-related primary health problem affecting nearly two billion people worldwide. Improving Fe and Zn densities of staple crops by breeding offers a cost-effective and sustainable solution to reducing micronutrient malnutrition in resource poor communities. An understanding of the genetics of these micronutrients can help to accelerate the breeding process, but little is known about the genetics and heterosis pattern of Fe and Zn densities in pearl millet. In the present study, ten inbred lines and their full diallel crosses were used to study the nature of gene action and heterosis for these micronutrients. The general combining ability (GCA) effects of parents and specific combining ability (SCA) effects of hybrids showed significant differences for both of the micronutrients. However, the predictability ratio (2ó2gca/(2ó2gca + ó2sca)) was around unity both for Fe and Zn densities, implying preponderance of additive gene action. Further, highly significant positive correlation between mid-parent values and hybrid performance, and no correlation between mid-parent values and mid-parent heterosis confirmed again the predominant role of additive gene action for these micronutrients. Barring a few exceptions with one parent, hybrids did not outperform the parents having high Fe and Zn levels. This showed that there would be little opportunity, if any, to exploit heterosis for these mineral micronutrients in pearl millet. In general, high Fe and Zn levels in both of the parental lines would be required to increase the probability of breeding high Fe and Zn hybrids.",
+        "lang": "eng"
+    },
+    "appid": "10883_1872",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1872"
+}}

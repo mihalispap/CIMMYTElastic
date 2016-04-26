@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Narrowing the agronomic yield gap with improved nitrogen use efficiency: A modeling approach",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agronomic efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gaseous n emissions",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrate leaching",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen use efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "site-specific nitrogen management",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wnmm model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "nitrogen",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5192"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "efficiency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2491"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "emission",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331377"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "leaching",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15591"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "use efficiency",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_36789"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yield gap",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330609"
+        }
+    ],
+    "description": {
+        "value": "Improving nitrogen use efficiency (NUE) in the major cereals is critical for more sustainable nitrogen use in high-input agriculture, but our understanding of the potential for NUE improvement is limited by a paucity of reliable on-farm measurements. Limited on-farm data suggest that agronomic NUE (AE(N)) is lower and more variable than data from trials conducted at research stations, on which much of our understanding of AE(N) has been built. The purpose of this study was to determine the magnitude and causes of variability in AE(N) across an agricultural region, which we refer to as the achievement distribution of AE(N). The distribution of simulated AE(N) in 80 farmers' fields in an irrigated wheat system in the Yaqui Valley, Mexico, was compared with trials at a local research center (International Wheat and Maize Improvement Center; CIMMYT). An agroecosystem simulation model WNMM was used to understand factors controlling yield, AE(N), gaseous N emissions, and nitrate leaching in the region. Simulated AE(N) in the Yaqui Valley was highly variable, and mean on-farm AE(N) was 44% lower than trials with similar fertilization rates at CIMMYT. Variability in residual N supply was the most important factor determining simulated AE(N). Better split applications of N fertilizer led to almost a doubling of AE(N), increased profit, and reduced N pollution, and even larger improvements were possible with technologies that allow for direct measurement of soil N supply and plant N demand, such as site-specific nitrogen management",
+        "lang": "eng"
+    },
+    "appid": "10883_1539",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1539"
+}}

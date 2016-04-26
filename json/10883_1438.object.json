@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "Multi-site, multi-season field tests demostrate that herbicide seed-coating herbicide-resitance maize controls Striga spp. and increases yields in several African countries",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2013-06-05T15:45:27Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "herbicides",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7055,
+                1,
+                ""
+            ],
+            "value": "striga hermonthica",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_32339",
+                "http://aims.fao.org/aos/agrovoc/c_32339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7724,
+                0.7724,
+                1,
+                ""
+            ],
+            "value": "imazapyr",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34855",
+                "http://aims.fao.org/aos/agrovoc/c_34855",
+                "http://aims.fao.org/aos/agrovoc/c_34855",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "coating",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1701",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "experimentation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kenya",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "malawi",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tanzania",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zimbabwe",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "striga",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7453"
+        }
+    ],
+    "description": {
+        "value": "Plant parasitic Striga (witchweed) species have not been controlled in susceptible host crops prior to exerting damage. High dose, localized herbicide levels can be applied on or near maize seed bearing acetolactate synthase (ALS) target-site resistance. Such seed coating was cost-effective in preventing damage from parasitic witchweeds Striga hermonthica and S. asiatica in Kenya, Malawi, Tanzania, and Zimbabwe. Imazapyr at 30&ndash;45 g ha-1 and pyrithiobac at 11&ndash;21 g ha-1 were used at 3 experiment stations and in 93 farmers&rsquo; fields over six seasons to further evaluate the effectiveness of this technology. Seed coating with imazapyr and pyrithiobac gave season-long Striga control in most cases resulting in a 3&ndash;4-fold increased maize yield when Striga density was high. Once herbicide resistant maize has been produced using locally adapted varieties, this technology should greatly benefit small-scale farmers in sub-Sahara Africa.",
+        "lang": "eng"
+    },
+    "appid": "10883_1438",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1438"
+}}

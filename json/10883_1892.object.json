@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Screening experimental designs for quantitative trait loci, association mapping, genotype-by environment interaction, and other investigations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multi-environment trials",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "augmented experimental designs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype × environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait loci (qtl)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trials",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "experimental design",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29466"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_37974"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Crop breeding programs using conventional approaches, as well as new biotechnological tools, rely heavily on data resulting from the evaluation of genotypes in different environmental conditions (agronomic practices, locations, and years). Statistical methods used for designing field and laboratory trials and for analyzing the data originating from those trials need to be accurate and efficient. The statistical analysis of multi-environment trails (MET) is useful for assessing genotype×environment interaction (GEI), mapping quantitative trait loci (QTLs), and studying QTL×environment interaction (QEI). Large populations are required for scientific study of QEI, and for determining the association between molecular markers and quantitative trait variability. Therefore, appropriate control of local variability through efficient experimental design is of key importance. In this chapter we present and explain several classes of augmented designs useful for achieving control of variability and assessing genotype effects in a practical and efficient manner. A popular procedure for unreplicated designs is the one known as ?systematically spaced checks.? Augmented designs contain ?c? check or standard treatments replicated ?r? times, and ?n? new treatments or genotypes included once (usually) in the experiment.",
+        "lang": "eng"
+    },
+    "appid": "10883_1892",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1892"
+}}

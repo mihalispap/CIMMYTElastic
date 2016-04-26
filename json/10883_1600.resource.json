@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0140-1963",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Southern Africa",
+        "uri": [
+            "http://sws.geonames.org/9406051",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T20:59:23Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1600",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2013,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1600"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1600"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1600",
+    "creator": [
+        {
+            "id": 652425383,
+            "value": "Mupangwa, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/652425383"
+        },
+        {
+            "id": 48682274,
+            "value": "Twomlow, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/48682274"
+        },
+        {
+            "id": 724458491,
+            "value": "Walker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/724458491"
+        }
+    ],
+    "publisher": {
+        "id": 1150234685,
+        "value": "http://www.sciencedirect.com/science/article/pii/S014019631200314X",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1150234685"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1600/1/97630.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 475353
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1600/2/97630.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41544
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1600/3/97630.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6274
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1600/1/97630.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1600/2/97630.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1600/3/97630.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1600"
+        }
+    },
+    "extent": "",
+    "page": "45-52",
+    "coverage": "Southern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

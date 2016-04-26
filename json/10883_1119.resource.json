@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:14:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "AERU Quetta Staff Paper",
+    "appid": "10883_1119",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1988,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1119"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1119"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1119",
+    "creator": [
+        {
+            "id": 2142670010,
+            "value": "Ahmad, Q.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2142670010"
+        },
+        {
+            "id": 271353305,
+            "value": "Farooq, U.",
+            "type": "person",
+            "uri": "/cimmyt/person/271353305"
+        },
+        {
+            "id": 261277147,
+            "value": "Longmire, J.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/261277147"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2448354,
+            "value": "PARC",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2448354"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1119/1/15350.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 789161
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1119/2/15350.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 20259
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1119/3/15350.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5805
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1119/1/15350.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1119/2/15350.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1119/3/15350.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1119"
+        }
+    },
+    "extent": "No. 89-2",
+    "page": "iv, 12 pags",
+    "coverage": [
+        "Pakistan",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Islamabad (Pakistan)",
+    "doi": ""
+}}

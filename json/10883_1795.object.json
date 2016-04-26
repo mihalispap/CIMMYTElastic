@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Characterization of the effect of a QTL for drought resistance in rice, qtl12.1 , over a range of environments in the Philippines and eastern India",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype x environment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl × environment",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7423
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6503
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        }
+    ],
+    "description": {
+        "value": "A large-effect QTL for grain yield under drought conditions (qtl12.1) was reported in a rice mapping population derived from Vandana and Way Rarem. Here, we measured the effect of qtl12.1 on grain yield and associated traits in 21 field trials: ten at IRRI in the Philippines and 11 in the target environment of eastern India. The relative effect of the QTL on grain yield increased with increasing intensity of drought stress, from having no effect under well-watered conditions to having an additive effect of more than 40% of the trial mean in the most severe stress treatments. The QTL improved grain yield in nine out of ten direct-seeded upland trials where drought stress was severe or moderate, but no effect was measured under well-watered aerobic conditions or under transplanted lowland conditions. These trials confirm that qtl12.1 has a large and consistent effect on grain yield under upland drought stress conditions, in a wide range of environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_1795",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1795"
+}}

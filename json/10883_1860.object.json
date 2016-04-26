@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Joint QTL linkage mapping for multiple-cross mating design sharing one common parent",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7377
+            ],
+            "value": "linkage mapping",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331006"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8159
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8476,
+            "value": "arabidopsis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33291"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "*Background:  Nested association mapping (NAM) is a novel genetic mating design that combines the advantages of linkage analysis and association mapping. This design provides opportunities to study the inheritance of complex traits, but also requires more advanced statistical methods. In this paper, we present the detailed algorithm of a QTL linkage mapping method suitable for genetic populations derived from NAM designs. This method is called joint inclusive composite interval mapping (JICIM). Simulations were designed on the detected QTL in a maize NAM population and an Arabidopsis NAM population so as to evaluate the efficiency of the NAM design and the JICIM method.\r\n*Principal Findings  Fifty-two QTL were identified in the maize population, explaining 89% of the phenotypic variance of days to silking, and nine QTL were identified in the Arabidopsis population, explaining 83% of the phenotypic variance of flowering time. Simulations indicated that the detection power of these identified QTL was consistently high, especially for large-effect QTL. For rare QTL having significant effects in only one family, the power of correct detection within the 5 cM support interval was around 80% for 1-day effect QTL in the maize population, and for 3-day effect QTL in the Arabidopsis population. For smaller-effect QTL, the power diminished, e.g., it was around 50% for maize QTL with an effect of 0.5 day. When QTL were linked at a distance of 5 cM, the likelihood of mapping them as two distinct QTL was about 70% in the maize population. When the linkage distance was 1 cM, they were more likely mapped as one single QTL at an intermediary position.  Conclusions Because it takes advantage of the large genetic variation among parental lines and the large population size, NAM is a powerful multiple-cross design for complex trait dissection. JICIM is an efficient and specialty method for the joint QTL linkage mapping of genetic populations derived from the NAM design.",
+        "lang": "eng"
+    },
+    "appid": "10883_1860",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1860"
+}}

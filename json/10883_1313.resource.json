@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/1699805",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2012-04-03T17:13:29Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1313",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Proceedings",
+        "Books and monographs"
+    ],
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1313"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1313"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1313",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/1/96380.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 775417
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/3/96380.pdf.png",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 27931
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/5/96380.pdf.jpg",
+                "label": "",
+                "type": "image/png",
+                "size": 3708
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/4/96380.pdf.txt",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 185100
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/1/96380.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/3/96380.pdf.png"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/5/96380.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1313/4/96380.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1313"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "Mexico",
+        "Global"
+    ],
+    "contributor": [
+        {
+            "id": 1846594505,
+            "value": "Reynolds, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1846594505"
+        },
+        {
+            "id": 1425057956,
+            "value": "Braun, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1425057956"
+        },
+        {
+            "id": 955477805,
+            "value": "Quilligan, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/955477805"
+        }
+    ],
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

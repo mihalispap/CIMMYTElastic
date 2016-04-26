@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Effects of Bacillus thuringiensis CRY1A(c) d-endotoxin on growth, nodulation and productivity of beans [Phaseolus vulgaris (L.) and siratro (Macroptilium atropurpureum DC.)]",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bacillus thuringiensis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_761",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bt cry1a(c) delta-endotoxin",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "macroptilium atropurpureum (dc.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "nodulation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6643",
+                "http://aims.fao.org/aos/agrovoc/c_6643",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6306
+            ],
+            "value": "siratro",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4501"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "endotoxins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2564"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "macroptilium atropurpureum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4501"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The recent introduction of Bt maize and Bt cotton transgenic crops into Africa has raised concerns on their potential short and long-term ecological effects on the environment. The effects of Bacillus thuringiensis (Bt) Cry1A(c) d-endotoxin on the growth, nodulation and productivity of two leguminous plants grown in clay soil were evaluated. Bt Cry1A(c) d-endotoxin from a local B. thuringiensis isolate (ICIPE L1-2) active against Chilo partellus (Swinhoe) was used. Beans (Phaseolus vulgaris L.) and Siratro (Macroptilium atropurpureum DC.) seedlings were grown in pots treated with Bt Cry1A(c) dendotoxin solution (100 ìg/ml). Control experiments were treated with water. The plants were maintained in the greenhouse until nodulation (8 weeks) and maturity (14 weeks) stages when sampling was done for measurements of morphological, productivity and nodulation traits. Nodulation was observed in both plants species. Nitrogen content in treatments for both bean and siratro plants, with and without Bt-toxin not were significantly different. Leaf area, plant dry weight, number of pods per plants and number of seeds per pod observed in treatments with and without Bt-toxin for both bean and siratro plants were also not significantly different. This shows that Bt Cry1A(c) delta-endotoxin does not interfere with the host plant growth, nodulation and productivity in clay soil. Findings will provide researchers with data to design more robust experiments and will inform the decisions of diverse stakeholders regarding the safety of transgenic crops.",
+        "lang": "eng"
+    },
+    "appid": "10883_1836",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1836"
+}}

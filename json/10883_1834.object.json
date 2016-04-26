@@ -1,0 +1,150 @@
+{"object": {
+    "title": {
+        "value": "Genetic analyses and association studies of yield components and kernel sugar concentration in sweet corn",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9125,
+                0.9125,
+                0.9125,
+                0.9125,
+                1,
+                1,
+                ""
+            ],
+            "value": "sweet corn",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7552",
+                "http://aims.fao.org/aos/agrovoc/c_7552",
+                "http://aims.fao.org/aos/agrovoc/c_7552",
+                "http://aims.fao.org/aos/agrovoc/c_7552",
+                "http://aims.fao.org/aos/agrovoc/c_7552",
+                "http://aims.fao.org/aos/agrovoc/c_7552",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sugar concentration",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "combining ability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15954",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7399,
+                0.7399,
+                0.7399,
+                1,
+                ""
+            ],
+            "value": "heterosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7472
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8611
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7279,
+            "value": "yield components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24419"
+        }
+    ],
+    "description": {
+        "value": "A set of sweet corn genotypes generated using line × tester (7 × 3) mating design, were evaluated at two locations (Hyderabad and Delhi) for estimating combining ability and heterosis of the genotypes and degree of association of sugar concentration with yield and its component traits. Genetic analyses revealed the importance of both additive and non-additive gene action for kernel sugar concentration, yield and its component traits, with relative predominance of dominance variance over additive variance. Significant effect of the environment on kernel sugar concentration and almost all the yield related traits indicated prominent role of environment in determining the extent of expression of these traits. L6 (RIL62) was identified as the best general combiner at both the locations for sugar concentration as well as yield traits. Some promising sweet corn genotypes, namely L6 (RIL62), L3 (DMR-2320) and L7 (RIL91) at Hyderabad and L4 (DMR 2322), L5 (RIL10), L6 (RIL62) and L7 (RIL91) were found to be promising general combiners for kernel sugar concentration at Delhi station only. Among the testers, T3 (Madhuri) was observed to be the best genotype for kernel sugar concentration and other agronomic traits. L6 × T3 (RIL62 × Madhuri) among the crosses was observed to be the best specific combiner for sweet corn trait at both the locations followed by L7 × T3 (RIL91 × Madhuri) and L5 × T2 (RIL10 × Winorange). Analysis of heterosis for sugar concentration over the popular sweet corn composites (Priya, WinOrange and Madhuri) identified L6 × T3 (RIL62 × Madhuri) as the best cross combination with a heterosis value of 48.47%, 38.82% and 24.83% at Hyderabad and 74.30%, 60.94% and 114.15% at Delhi over Priya, WinOrange and Madhuri, respectively. The analysis also showed that kernel sugar concentration was not significantly correlated with any of the grain yield and its component traits, suggesting the scope of genetic improvement of kernel sugar concentration independent of grain yield",
+        "lang": "eng"
+    },
+    "appid": "10883_1834",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1834"
+}}

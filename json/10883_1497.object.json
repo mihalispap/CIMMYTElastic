@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Influence of tillage, residue management, and crop rotation on soil microbial biomass and catabolic diversity",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7771",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop rotation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "residue management",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microbial biomass",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "catabolic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1497",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1497"
+}}

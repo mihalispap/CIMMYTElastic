@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "1939-8425",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:46Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1843",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1843"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1843"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1843",
+    "creator": [
+        {
+            "id": 1291891868,
+            "value": "This, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1291891868"
+        },
+        {
+            "id": 512822931,
+            "value": "Comstock, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/512822931"
+        },
+        {
+            "id": 98313682,
+            "value": "Courtois, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/98313682"
+        },
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        },
+        {
+            "id": 957359092,
+            "value": "Ahmadi, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/957359092"
+        },
+        {
+            "id": 1013890602,
+            "value": "Vonhof, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013890602"
+        },
+        {
+            "id": 279230739,
+            "value": "Fleet, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/279230739"
+        },
+        {
+            "id": 1876891629,
+            "value": "Setter, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1876891629"
+        },
+        {
+            "id": 172822969,
+            "value": "McCouch, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/172822969"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1843/1/94742.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 402481
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1843/2/94742.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 67820
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1843/3/94742.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5186
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1843/1/94742.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1843/2/94742.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1843/3/94742.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1843"
+        }
+    },
+    "extent": "",
+    "page": "72-86",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Ciencia para los agricultores y un mejor futuro en la alimentacion",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2012-12-04T21:57:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "history",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3635",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research institutions",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6514",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agriculture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "para",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5556"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1355",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1355"
+}}

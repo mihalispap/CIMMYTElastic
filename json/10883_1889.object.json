@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Genome-enabled prediction of genetic values using radial basis function neural networks",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.921
+            ],
+            "value": "models",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4881"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9161
+            ],
+            "value": "neural networks",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_37467"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The availability of high density panels of molecular markers has prompted the adoption of genomic selection (GS) methods in animal and plant breeding. In GS, parametric, semi-parametric and non-parametric regressions models are used for predicting quantitative traits. This article shows how to use neural networks with radial basis functions (RBFs) for prediction with dense molecular markers. We illustrate the use of the linear Bayesian LASSO regression model and of two non-linear regression models, reproducing kernel Hilbert spaces (RKHS) regression and radial basis function neural networks (RBFNN) on simulated data and real maize lines genotyped with 55,000 markers and evaluated for several trait?environment combinations. The empirical results of this study indicated that the three models showed similar overall prediction accuracy, with a slight and consistent superiority of RKHS and RBFNN over the additive Bayesian LASSO model. Results from the simulated data indicate that RKHS and RBFNN models captured epistatic effects; however, adding non-signal (redundant) predictors (interaction between markers) can adversely affect the predictive accuracy of the non-linear regression models.",
+        "lang": "eng"
+    },
+    "appid": "10883_1889",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1889"
+}}

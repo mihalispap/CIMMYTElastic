@@ -1,0 +1,183 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping as a tool for pre-emptive breeding for resistance to the exotic barley pathogen, Puccinia striiformis f. sp. hordei",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:21Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic maps",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24002",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "barley",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "pathogenesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24881",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8899,
+                1,
+                1,
+                ""
+            ],
+            "value": "puccinia striiformis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27339",
+                "http://aims.fao.org/aos/agrovoc/c_27339",
+                "http://aims.fao.org/aos/agrovoc/c_27339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "industry",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3848",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "australia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_714",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7143,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6992
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Barley stripe rust (BSR), caused by Puccinia striiformis f. sp. hordei, has been a major disease problem to the barley industry worldwide that has not, to date, been detected in Australia. This paper describes the mapping of stripe rust resistance genes in Tallon/Kaputar (TK) and Arapiles/Franklin (AF) populations. The paper also reports on the usefulness of markers associated with alternative sources of resistance previously identified in the varieties Orca and Shyri in the USA. Stripe rust screening was conducted at the adult plant stage in Toluca, Mexico, for 2 years. Two major quantitative trait loci (QTLs) were found on chromosomes 2H and 5H in both populations. One region on chromosome 5H was highly significantly associated with resistance to stripe rust (R2 = 68% and 34% in TK and AF, respectively). The QTL on chromosome 2H accounted for 36% of the variation in TK and 10% of the variation in the AF population. These associations were consistent over both years. Further work will involve screening for additional markers in the target regions to identify polymorphism that can be used to select for multiple resistances in the absence of the pathogen.",
+        "lang": "eng"
+    },
+    "appid": "10883_1657",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1657"
+}}

@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:22Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1663",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2004,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1663"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1663"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1663",
+    "creator": [
+        {
+            "id": 319255276,
+            "value": "Sawkins, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/319255276"
+        },
+        {
+            "id": 1181096430,
+            "value": "Farmer, A.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1181096430"
+        },
+        {
+            "id": 583713299,
+            "value": "Hoisington, D.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/583713299"
+        },
+        {
+            "id": 853144095,
+            "value": "Sullivan S.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/853144095"
+        },
+        {
+            "id": 1071981879,
+            "value": "Tolopko, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1071981879"
+        },
+        {
+            "id": 1699268921,
+            "value": "Jiang Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/1699268921"
+        },
+        {
+            "id": 101284018,
+            "value": "Ribaut, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/101284018"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1663/1/81121.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 580817
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1663/2/81121.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 61933
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1663/3/81121.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4305
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1663/1/81121.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1663/2/81121.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1663/3/81121.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1663"
+        }
+    },
+    "extent": "",
+    "page": "465-480",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

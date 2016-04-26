@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Variance effective population size for Dioecious species",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:50Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sex ratio",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7014"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6325
+            ],
+            "value": "sampling",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6774"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7321,
+            "value": "germplasm collections",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36739"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "species",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7280"
+        }
+    ],
+    "description": {
+        "value": "The concept of effective population size (Ne) is an important measure of representativeness in many areas. In this research, we consider the statistical properties of the number of contributed gametes under practical situations by adapting Crow and Denninston's (1988) Ne formulas for dioecious species. Three sampling procedures were considered. In all circumstances, results show that as the offspring sex ratio (r) deviates from 0.5, Ne values become smaller, and the efficiency of gametic control for increasing Ne is reduced. For finite populations, where all individuals are potentially functional parents, the reduction in Ne due to an unequal sex ratio can be compensated for through female gametic control when 0.28 ¡Ü r ¡Ü 0.72. This outcome is important when r is unknown. When only a fraction of the individuals in a population is taken for reproduction, Ne is meaningful only if the size of the reference population is clearly defined. Gametic control is a compensating factor in accession regeneration when the viability of the accession is around 70 or 75%. For germplasm collection, when parents are a very small fraction of the population, maximum Ne will be approximately 47 and 57% of the total number of offspring sampled, with female gametic control, r varying between 0.3 and 0.5, and being constant over generations.",
+        "lang": "eng"
+    },
+    "appid": "10883_1873",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1873"
+}}

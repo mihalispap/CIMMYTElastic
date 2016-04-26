@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "A general Bayesian estimation method of linear-bilinear models applied to plant breeding trials with genotype × environment interaction",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bayesian inference",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bilinear interaction terms",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "two-way table with interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "von mises-fisher",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Statistical analyses of two-way tables with interaction arise in many different fields of research. This study proposes the von Mises?Fisher distribution as a prior on the set of orthogonal matrices in a linear?bilinear model for studying and interpreting interaction in a two-way table. Simulated and empirical plant breeding data were used for illustration; the empirical data consist of a multi-environment trial established in two consecutive years. For the simulated data, vague but proper prior distributions were used, and for the real plant breeding data, observations from the first year were used to elicit a prior for parameters of the model for data of the second year trial. Bivariate Highest Posterior Density (HPD) regions for the posterior scores are shown in the biplots, and the significance of the bilinear terms was tested using the Bayes factor. Results of the plant breeding trials show the usefulness of this general Bayesian approach for breeding trials and for detecting groups of genotypes and environments that cause significant genotype × environment interaction. The present Bayes inference methodology is general and may be extended to other linear?bilinear models by fixing certain parameters equal to zero and relaxing some model constraints.",
+        "lang": "eng"
+    },
+    "appid": "10883_1867",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1867"
+}}

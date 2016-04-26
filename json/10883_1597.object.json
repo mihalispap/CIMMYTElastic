@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Bacterial diversity as affected by tillage practice in a raised bed planting system",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-06-07T20:59:22Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bacterial identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation versus conventional agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dgge analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic libraries",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6664
+            ],
+            "value": "soil",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7771"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6611,
+            "value": "actinomycetales",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_112"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7107,
+            "value": "zero tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8511"
+        }
+    ],
+    "description": {
+        "value": "Carbon and nitrogen dynamics are altered by tillage so it was hypothesized that the composition of the microbial population that control these processes was affected too. Soil was sampled from conventional beds (CB) tilled and reformed each year with crop residue incorporation and permanent raised beds (PB) with zero tillage seeding and residue retention on the top soil, while the bacterial community composition was investigated with a phylogenetic analysis of the 16S rDNA. Five phyla were detected in both treatments, that is, Acidobacteria, Actinobacteria, Chloroflexi, Gemmatimonadetes and Proteobacteria with Acidobacteria and Proteobacteria the most abundant. In PB, the GP6 class belonging to the Acidobacteria with a relative proportion of 42.0%, Sphingomonadales with 17.3% and the Xanthomonadales with 10.7% were the most abundant. In CB, Xanthomonadales with a relative proportion of 31.5%, GP6 with 24.5% and Sphingomonadales with 13.3% were the most abundant groups. Other groups found in both treatments were GP3, Caldilineales, Caulobacteriales, Gemmatimonadales, Pseudomonadales and Rhizobiales. Oceanospirillales, GP4, GP17 and GP22 were only found in the PB soil, whereas GP1, Actinomycetales, Anaerolineales, Myxococcales, Burkholderiales and Rhodospirillales in the CB soil. It was found that tillage did not change the most abundant bacterial groups, but it did affect their relative proportion.",
+        "lang": "eng"
+    },
+    "appid": "10883_1597",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1597"
+}}

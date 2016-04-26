@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:40Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1793",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1793"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1793"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1793",
+    "creator": [
+        {
+            "id": 913095302,
+            "value": "Navabi, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/913095302"
+        },
+        {
+            "id": 2139075580,
+            "value": "Mather, D.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2139075580"
+        },
+        {
+            "id": 766694737,
+            "value": "Bernier, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/766694737"
+        },
+        {
+            "id": 1086897354,
+            "value": "Spaner, D.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1086897354"
+        },
+        {
+            "id": 1350992135,
+            "value": "Atlin, G.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1350992135"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1793/1/93591.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 320722
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1793/2/93591.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48540
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1793/3/93591.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5692
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1793/1/93591.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1793/2/93591.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1793/3/93591.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1793"
+        }
+    },
+    "extent": "",
+    "page": "347-358",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

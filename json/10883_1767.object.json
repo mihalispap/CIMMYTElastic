@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Generalizing the sites regression model to three-way interaction including multi-attributes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:36Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        }
+    ],
+    "description": {
+        "value": "When a multienvironment trial (MET) is established across several locations and years, the interaction is referred to as a three-way array. Three-way interaction can be studied by means of three-way principal components analysis. In this study, the three-way principal components analysis is adapted to the sites regression model (three-way SREG). The three-way SREG with location and year combines the effects of genotype, genotype x location, genotype x year, and genotype x location x year. The objective of this study is to show how the three-way SREG can be put to practical use in agriculture and breeding. We utilized two wheat (Triticum aestivum L) data sets that have already been used for fitting a three-way additive main effects and multiplicative interaction model. One data set had genotype (25) x location (4) x sowing times (4) and eight attributes, and the other data set included genotype (20) x irrigation level x year on grain yield. The three-way SREG applied simultaneously to eight attributes facilitates the interpretation of genotypic performance for all traits in specific locations and across locations for a selected sowing time. Results of the three-way SREG for both data sets show the different response patterns of genotypes for locations and sowing dates (Data Set 1), as well as genotypic responses across irrigation levels in different years (Data Set 2). Using Data Set 1, we show that fitting a three-way data structure to a three-way SREG model is more effective for detecting important interaction patterns than using the two-way SREG",
+        "lang": "eng"
+    },
+    "appid": "10883_1767",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1767"
+}}

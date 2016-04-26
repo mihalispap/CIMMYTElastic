@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Genomic selection and prediction in plant breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:48Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding values",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "prediction bayesian estimates",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "parametric and non-parametric regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "best linear unbiased predictors (blup)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6637,
+            "value": "exserohilum turcicum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27374"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "breeding value",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16117"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        }
+    ],
+    "description": {
+        "value": "The availability of thousands of genome-wide molecular markers has made possible the use of genomic selection in plants and animals. However, the evaluation of models for genomic selection in plant breeding populations remains limited. In this study, we provide an overview of several models for genomic selection, whose predictive ability we investigate using two plant data sets. The first data set comprises historical phenotypic records of a series of wheat (Triticum aestivum L.) trials evaluated in 10 environments and recently generated genomic data. The second data set pertains to international maize (Zea mays L.) trials in which two disease traits ( Exserohilum turcicum and Cercospora zeae-maydis) of maize lines evaluated in five environments were measured. Results showed that models including marker information yielded important gains in predictive ability relative to that of a pedigree-based model, this with a modest number of markers. Estimates of marker effects were different across environmental conditions, indicating that genotype × environment interaction was an important component of genetic variability. Overall, the study provided evidence from real populations indicating that genomic selection could be an effective tool for improving traits of economic importance in commercial crops.",
+        "lang": "eng"
+    },
+    "appid": "10883_1857",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1857"
+}}

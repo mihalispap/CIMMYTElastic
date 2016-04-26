@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "1479-2621",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Panama",
+            "uri": [
+                "http://sws.geonames.org/3703430",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Panama"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/3703443",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:47Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1850",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1850"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1850"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1850",
+    "creator": [
+        {
+            "id": 989611977,
+            "value": "Love, B. E.",
+            "type": "person",
+            "uri": "/cimmyt/person/989611977"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 608951563,
+            "value": "Spaner, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/608951563"
+        }
+    ],
+    "publisher": {
+        "id": 2053672683,
+        "value": "http://bit.ly/XuQGnA",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2053672683"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1850/1/95083.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 169601
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1850/2/95083.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33487
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1850/3/95083.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 15294
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1850/1/95083.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1850/2/95083.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1850/3/95083.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1850"
+        }
+    },
+    "extent": "",
+    "page": "105-112",
+    "coverage": [
+        "Panama",
+        "Central America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

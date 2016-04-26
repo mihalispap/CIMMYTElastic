@@ -1,0 +1,249 @@
+{"object": {
+    "title": {
+        "value": "Inbred line evaluation nurseries and their role in maize breeding at CIMMYT",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:47Z",
+    "created": "2013-06-07T21:07:52Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "hybrids",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3707",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7538,
+                0.7538,
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "evaluation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2736",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7452",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "trials",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24039",
+                "http://aims.fao.org/aos/agrovoc/c_24039",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "insect control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3885",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7702
+            ],
+            "value": "fusarium",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9418,
+            "value": "spodoptera frugiperda",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25452"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "diatraea saccharalis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30310"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6811,
+            "value": "maize streak virus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33375"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9306,
+            "value": "puccinia polysora",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27333"
+        }
+    ],
+    "description": {
+        "value": "CIMMYT initiated its hybrid maize (Zea mays) research programme in 1985 in response to the growing needs of the national programmes for hybrid-oriented source germplasm. Since 1991 CIMMYT has released a total of 424 inbreds that are widely distributed and used by public and private sector researchers around the world. Inbred line evaluation nurseries are an important component of a hybrid research programme. At CIMMYT, inbreds are routinely evaluated for various biotic and abiotic stresses, their yield potential and other agronomic attributes. Several promising lines have been identified for specific stresses, although they were not selected during the development process which can be attributed to the genetic diversity of CIMMYT's source germplasm. Resistant/tolerant lines have been identified for abiotic stresses (drought, low-N use efficiency and acid soils). In addition, resistant lines have been identified for biotic stresses, including fusarium ear/stalk rot (Fusarium spp.), banded leaf and sheath blight (Rhizoctonia spp.), tar spot (Phyllachora maydis), grey leaf spot (Cercospora zeae-maydis), rust (Puccinia polysora), maize streak virus (MSV), fall armyworm (Spodoptera frugiperda), sugarcane borer (Diatraea saccharalis) and Striga. Lines with above average general combining ability and yield stability were identified. These lines are available for public use",
+        "lang": "eng"
+    },
+    "appid": "10883_1962",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1962"
+}}

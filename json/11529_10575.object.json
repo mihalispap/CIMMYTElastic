@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Genomic Bayesian Prediction Model for Count Data with Genotype × Environment Interaction",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "Genomic tools allow the study of the whole genome and are facilitating the study of genotype-environment combinations and their relationship with the phenotype. However, most genomic prediction models developed so far are appropriate for Gaussian phenotypes. For this reason, appropriate genomic prediction models are needed for count data, since the conventional regression models used on count data with a large sample size (n) and a small number of parameters (p) cannot be used for genomic-enabled prediction where the number of parameters (p) is larger than the sample size (n). Here we propose a Bayesian mixed negative binomial (BMNB) genomic regression model for counts that takes into account genotype by environment (G×E) interaction. We also provide all the full conditional distributions to implement a Gibbs sampler. We evaluated the proposed models using a simulated data set and a real maize data set from the International Maize and Wheat Improvement Center (CIMMYT). Results indicate that our BMNB model is a viable alternative for analyzing count data.",
+        "lang": ""
+    },
+    "appid": "11529_10575",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10575"
+}}

@@ -1,0 +1,142 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-3774",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Senegal",
+        "uri": [
+            "http://sws.geonames.org/2245662",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Senegal"
+        ]
+    },
+    "updatedDate": "2013-06-07T20:59:21Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1593",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1593"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1593"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1593",
+    "creator": [
+        {
+            "id": 199054752,
+            "value": "Krupnik, T.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/199054752"
+        },
+        {
+            "id": 1251303440,
+            "value": "Rodenburg, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1251303440"
+        },
+        {
+            "id": 2059335935,
+            "value": "Haden, van R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2059335935"
+        },
+        {
+            "id": 1008938550,
+            "value": "Mbaye, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1008938550"
+        },
+        {
+            "id": 206774460,
+            "value": "Shennan, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/206774460"
+        }
+    ],
+    "publisher": {
+        "id": 2145456767,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378377412002302",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2145456767"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1593/1/97323.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 800001
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1593/2/97323.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 63364
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1593/3/97323.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5588
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1593/1/97323.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1593/2/97323.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1593/3/97323.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1593"
+        }
+    },
+    "extent": "",
+    "page": "156-166",
+    "coverage": [
+        "Senegal",
+        "West Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

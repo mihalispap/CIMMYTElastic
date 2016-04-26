@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Influence of the soil physical environment on rice (Oryza sativa L.) response to drought stress and its implications for drought research",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "drought stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype  × environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "root growth",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7903
+            ],
+            "value": "soil",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "oryza sativa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5438"
+        }
+    ],
+    "description": {
+        "value": "Plant performance under drought stress is not solely defined by an inadequate water supply but by an interaction among many factors, including climatic, edaphic, and biological factors. An important interacting factor affecting root growth, and therefore the ability of a plant to access and take up water, is the soil physical environment. Soil penetration resistance can restrict, or even halt, root system growth. For rice, a soil penetration resistance of 1.4MPa is sufficient to inhibit root system expansion. This review describes the effects of the soil physical environment on root growth and its interaction with drought stress. A large variation in soil penetration resistance exists among rainfed rice-growing areas of South and Southeast Asia and within experimental stations used for managed-drought field phenotyping. This variability may influence genotypic performance across experimental sites/countries and the response of crop genotypes to drought stress. A case study is presented in which differences in the soil physical environment may partially elucidate differences in experimental results between two field studies conducted at different locations. These results highlight the need for increased knowledge of environmental interactions to allow the outputs of genomics to increase drought tolerance at the field level.",
+        "lang": "eng"
+    },
+    "appid": "10883_1865",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1865"
+}}

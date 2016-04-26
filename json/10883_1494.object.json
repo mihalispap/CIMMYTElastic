@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Conservation Agriculture in South Asia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:35Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6145
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "resource conservation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6523"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7553,
+            "value": "agronomic practices",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330610"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "south asia",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29172"
+        }
+    ],
+    "description": {
+        "value": "The Green Revolution era focused on enhancing the production and productivity of rice and wheat. New challenges demand that the issues of efficient resource use and resource conservation receive high priority to ensure that past gains can be sustained and further enhanced to meet the emerging needs. Extending some of the resource-conserving interventions developed for wheat to rice culture is a major challenge for researchers and farmers alike. The present paper shares recent research experiences on resource conservation technologies involving tillage and crop establishment options and associated agronomic practices which enable farmers in reducing production costs, increase profitability and help them move forward in the direction of adopting conservation agriculture.",
+        "lang": "eng"
+    },
+    "appid": "10883_1494",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1494"
+}}

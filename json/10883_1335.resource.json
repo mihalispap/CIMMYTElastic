@@ -1,0 +1,157 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2012-07-12T20:59:13Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1335",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Books and monographs",
+        "Guidelines and manuals"
+    ],
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1335"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1335"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1335",
+    "creator": [
+        {
+            "id": 1655599573,
+            "value": "Banziger, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1655599573"
+        },
+        {
+            "id": 1751153310,
+            "value": "Edmeades, G.O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1751153310"
+        },
+        {
+            "id": 255188619,
+            "value": "Beck, D.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/255188619"
+        },
+        {
+            "id": 1752007571,
+            "value": "Bellon, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1752007571"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/1/96673.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1850333
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/3/96673.pdf.jpg",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 4811
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/4/96673.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 228245
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/1/96673.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/3/96673.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1335/4/96673.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1335"
+        }
+    },
+    "extent": "",
+    "page": "v, 61 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-607-95844-4-3",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

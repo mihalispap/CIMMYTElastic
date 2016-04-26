@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "META: A suite of sas programs to analyze multienvironment breeding trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:54Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multi-environment trial",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "blue",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "blup",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "best linear unbiased predictor",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16525"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trials",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        }
+    ],
+    "description": {
+        "value": "Multi-environment trials (METs) enable the evaluation of the same genotypes in a variety of environments and management conditions. We present here META (Multi Environment Trial Analysis), a suite of 31 SAS programs that analyze METs with complete or incomplete block designs, with or without adjustment by a covariate. The entire program is run through a graphical user interface. The program can produce boxplots or histograms for all traits, as well as univariate statistics. It also calculates Best Linear Unbiased Estimators (BLUEs) and Best Linear Unbiased Predictors (BLUPs) for the main response variable and BLUEs for all other traits. For all traits it calculates variance components by Restricted Maximum Likelihood (REML), Least Significant Differences (LSD), Coefficient of Variation (CV), and broad-sense heritability using PROC MIXED. The program can analyze each location separately, combine the analysis by management conditions, or combine all locations. The flexibility and simplicity of use of this program makes it a valuable tool for the analysis of METs in breeding and agronomy. The META program can be used by researcher knowing few principles of SAS.",
+        "lang": "eng"
+    },
+    "appid": "10883_1900",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1900"
+}}

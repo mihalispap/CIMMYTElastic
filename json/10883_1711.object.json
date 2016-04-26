@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Analysis of a three-way interaction including multi-attributes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:29Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "three-mode interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "principal component analyses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "The additive main effect and multiplicative interaction (AMMI) has been widely used for studying and interpreting genotype×environment interaction (GEI) in agricultural experiments using multi-environment trials (METs). When METs are performed across several years the interaction is referred to as a 3-mode (3-way) data array, inwhich the modes are genotypes, environments, and years. The 3-way array can be applied to other conditions or factors artificially created by the researcher, such as different sowing dates or plant densities, etc. Three-way interaction data can be studied using the AMMI analysis. The objective of this study is to apply the 3-mode AMMI to 2 datasets. Dataset 1 comprises genotype (25)×location (4)×sowing time (4) interaction; 8 traits were measured. The structure of dataset 2 is genotype (20)×irrigation regimes (4)×year (3) on grain yield. Results of the 3-way AMMI on dataset 1 show that several important 3-way interactions were not detected when condensing location (4)×sowing time (4) into environments (16). An alternative 3-way array, genotype×attribute×locations for the early sowing date in Year 1, is considered. Results of the 3-way AMMI on dataset 2 show that different patterns of response of genotypes can be found at different irrigation methods and years.",
+        "lang": "eng"
+    },
+    "appid": "10883_1711",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1711"
+}}

@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Uganda",
+        "uri": [
+            "http://sws.geonames.org/226074",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Uganda"
+        ]
+    },
+    "updatedDate": "2012-03-15T16:53:18Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Country Report",
+    "appid": "10883_1294",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1294"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1294"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1294",
+    "creator": [
+        {
+            "id": 730763354,
+            "value": "Mugisha, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/730763354"
+        },
+        {
+            "id": 235093213,
+            "value": "Diiro, G.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/235093213"
+        },
+        {
+            "id": 143740157,
+            "value": "Ekere, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/143740157"
+        },
+        {
+            "id": 1719769734,
+            "value": "Langyintuo, A.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1719769734"
+        },
+        {
+            "id": 1761530427,
+            "value": "Mwangi, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761530427"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1294/1/95601.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1443163
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1294/2/95601.pdf.jpg",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2123
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1294/3/95601.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 91574
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1294/1/95601.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1294/2/95601.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1294/3/95601.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1294"
+        }
+    },
+    "extent": "",
+    "page": "vii, 32 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

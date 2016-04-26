@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping for resistance to pea rust caused by Uromyces fabae (Pers.) de-Bary",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9892
+            ],
+            "value": "peas",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_13177"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9531
+            ],
+            "value": "uromyces fabae",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35522"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Pea rust caused by Uromyces fabae (Pers.) de-Bary is a major problem in warm humid regions causing huge economic losses. A mapping population of 136 F6:7 recombinant inbred lines (RILs) derived from the cross between pea genotypes, HUVP 1 (susceptible) and FC 1 (resistant) was evaluated in polyhouse as well as under field conditions during two consecutive years. Infection frequency (IF) and area under disease progress curve (AUDPC) were used for evaluation of rust reaction of the RILs. A linkage map was constructed with 57 polymorphic loci selected from 148 simple sequence repeats (SSRs), 3 sequence tagged sites (STS), and 2 random amplified polymorphic (RAPD) markers covering 634 cM of genetic distance on the seven linkage groups of pea with an average interval length of 11.3 cM. Composite interval mapping (CIM) revealed one major (Qruf) and one minor (Qruf1) QTL for rust resistance on LGVII. The LOD (5.2-15.8) peak for Qruf was flanked by SSR markers, AA505 and AA446 (10.8 cM), explaining 22.2-42.4% and 23.5-58.8% of the total phenotypic variation for IF and AUDPC, respectively. The minor QTL was environment-specific, and it was detected only in the polyhouse (LOD values 4.2 and 4.8). It was flanked by SSR markers, AD146 and AA416 (7.3 cM), and explained 11.2-12.4% of the total phenotypic variation. The major QTL Qruf was consistently identified across all the four environments. Therefore, the SSR markers flanking Qruf would be useful for marker-assisted selection for pea rust (U. fabae) resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_1858",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1858"
+}}

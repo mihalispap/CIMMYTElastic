@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Italy",
+            "uri": [
+                "http://sws.geonames.org/3175395",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Italy"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:32Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1733",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1733"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1733"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1733",
+    "creator": [
+        {
+            "id": 1408765690,
+            "value": "Mahalakshmi, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1408765690"
+        },
+        {
+            "id": 1965426742,
+            "value": "Ng, Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1965426742"
+        },
+        {
+            "id": 728542926,
+            "value": "Atalobhor, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/728542926"
+        },
+        {
+            "id": 92275008,
+            "value": "Ogunsola, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/92275008"
+        },
+        {
+            "id": 2074040635,
+            "value": "Lawson, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2074040635"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1733/1/90294.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 179353
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1733/2/90294.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33314
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1733/3/90294.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5595
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1733/1/90294.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1733/2/90294.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1733/3/90294.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1733"
+        }
+    },
+    "extent": "",
+    "page": "1817-1825",
+    "coverage": "West Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

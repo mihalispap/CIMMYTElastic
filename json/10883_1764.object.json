@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Visualisation of plastids in endosperm, pollen and roots of transgenic wheat expressing modified GFP fused to transit peptides from wheat SSU RubisCO, rice FtsZ and maize ferredoxin III proteins",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "microscopy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4810",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "plastids",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5999",
+                "http://aims.fao.org/aos/agrovoc/c_5999",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "targeting",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "The ability to target marker proteins to specific subcellular compartments is a powerful research tool to study the structure and development of organelles. Here transit sequences from nuclear-encoded, plastid proteins, namely rice FtsZ, maize non-photosynthetic ferredoxin III (FdIII) and the small subunit of RubisCO were used to target a modified synthetic GFP (S65G, S72A) to plastids. The localisations of the fusion proteins expressed in transgenic wheat plants and under the control of the rice actin promoter were compared to an untargeted GFP control. GFP fluorescence was localised to non-green plastids in pollen, roots and seed endosperm and detected in isolated leaf chloroplasts using a GFP-specific antibody. Transit peptides appeared to influence the relative fluorescence intensities of plastids in different tissues. This is consistent with differential targeting and/or turnover of GFP fusion proteins in different plastid types. Replacement of GFP sequences with alternative coding regionsenables immediate applications of our vectors for academic research and commercial applications.",
+        "lang": "eng"
+    },
+    "appid": "10883_1764",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1764"
+}}

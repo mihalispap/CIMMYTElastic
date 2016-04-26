@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "0008-0845",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:49Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1864",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1864"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1864"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1864",
+    "creator": [
+        {
+            "id": 1624233773,
+            "value": "Mulvaney, D.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1624233773"
+        },
+        {
+            "id": 199054752,
+            "value": "Krupnik, T.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/199054752"
+        },
+        {
+            "id": 1124256440,
+            "value": "Koffler, K.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1124256440"
+        }
+    ],
+    "publisher": {
+        "id": 111904644,
+        "value": "http://californiaagriculture.ucanr.org/landingpage.cfm?article=ca.E.v065n03p161&fulltext=yes",
+        "type": "organization",
+        "uri": "/cimmyt/organization/111904644"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1864/1/95678.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1701527
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1864/2/95678.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 44240
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1864/3/95678.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4930
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1864/1/95678.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1864/2/95678.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1864/3/95678.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1864"
+        }
+    },
+    "extent": "",
+    "page": "161-167",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

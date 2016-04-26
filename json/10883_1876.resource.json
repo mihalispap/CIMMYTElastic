@@ -1,0 +1,169 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:51Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1876",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1876"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1876"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1876",
+    "creator": [
+        {
+            "id": 1240297414,
+            "value": "Ferguson, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1240297414"
+        },
+        {
+            "id": 539435916,
+            "value": "Hearne, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/539435916"
+        },
+        {
+            "id": 645807178,
+            "value": "Close, T.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/645807178"
+        },
+        {
+            "id": 816577674,
+            "value": "Wanamaker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/816577674"
+        },
+        {
+            "id": 1885085187,
+            "value": "Moskal, W.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1885085187"
+        },
+        {
+            "id": 1017780581,
+            "value": "Town, C.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1017780581"
+        },
+        {
+            "id": 1619735065,
+            "value": "Joe de Young",
+            "type": "person",
+            "uri": "/cimmyt/person/1619735065"
+        },
+        {
+            "id": 1597466589,
+            "value": "Marri, P.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1597466589"
+        },
+        {
+            "id": 958191064,
+            "value": "Rabbi, I.Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/958191064"
+        },
+        {
+            "id": 1001958452,
+            "value": "Villiers, E.P.de",
+            "type": "person",
+            "uri": "/cimmyt/person/1001958452"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1876/1/96310.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 302764
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1876/2/96310.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46751
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1876/3/96310.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5647
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1876/1/96310.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1876/2/96310.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1876/3/96310.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1876"
+        }
+    },
+    "extent": "",
+    "page": "685-695",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

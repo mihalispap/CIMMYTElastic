@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "2041-2851",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:42Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1808",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1808"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1808"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1808",
+    "creator": [
+        {
+            "id": 1668099054,
+            "value": "Shrestha, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1668099054"
+        },
+        {
+            "id": 2007395632,
+            "value": "Arnaud, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2007395632"
+        },
+        {
+            "id": 1857735703,
+            "value": "Mauleon, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1857735703"
+        },
+        {
+            "id": 1357318029,
+            "value": "Senger, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1357318029"
+        },
+        {
+            "id": 675286302,
+            "value": "Davenport, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/675286302"
+        },
+        {
+            "id": 262276569,
+            "value": "Hancock, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/262276569"
+        },
+        {
+            "id": 786785377,
+            "value": "Morrison, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/786785377"
+        },
+        {
+            "id": 846047808,
+            "value": "Bruskiewich, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/846047808"
+        },
+        {
+            "id": 489296853,
+            "value": "McLaren, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/489296853"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1808/1/93890.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 285059
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1808/2/93890.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48822
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1808/3/93890.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7054
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1808/1/93890.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1808/2/93890.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1808/3/93890.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1808"
+        }
+    },
+    "extent": "",
+    "page": "11 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

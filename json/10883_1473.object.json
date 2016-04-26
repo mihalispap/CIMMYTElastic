@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "A minimum data set for soil quality assessment of wheat and maize cropping in the highlands of Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:32Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7069,
+            "value": "highlands",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3614"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6758,
+            "value": "assessment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330990"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7636,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1473",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1473"
+}}

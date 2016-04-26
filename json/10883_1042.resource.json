@@ -18,6 +18,17 @@
                 "geonames",
                 "faogeopolitical"
             ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
             "value": "Eastern Africa",
             "uri": [
                 "http://sws.geonames.org/7729889",
@@ -36,14 +47,14 @@
             "uri": "/cimmyt/collection/1403840553"
         },
         {
-            "id": 403613914,
-            "type": "collection",
-            "uri": "/cimmyt/collection/403613914"
-        },
-        {
             "id": 403613916,
             "type": "collection",
             "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
         }
     ],
     "format": "",
@@ -119,6 +130,7 @@
     "page": "24 pags",
     "coverage": [
         "Malawi",
+        "Southern Africa",
         "Eastern Africa"
     ],
     "contributor": {

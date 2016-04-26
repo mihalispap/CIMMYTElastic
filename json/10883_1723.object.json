@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Application of identified QTL-marker associations in rice quality improvement through a design-breeding approach",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:30Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9564,
+            "value": "rice",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6599"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7067,
+            "value": "improvement",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330895"
+        }
+    ],
+    "description": {
+        "value": "A permanent mapping population of rice consisting of 65 non-idealized chromosome segment substitution lines (denoted as CSSL1 to CSSL65) and 82 donor parent chromosome segments (denoted as M1 to M82) was used to identify QTL with additive effects for two rice quality traits, area of chalky endosperm (ACE) and amylose content (AC), by a likelihood ratio test based on stepwise regression. Subsequently, the genetics and breeding simulation tool QuLine was employed to demonstrate the application of the identified QTL in rice quality improvement. When a LOD threshold of 2.0 was used, a total of 16 chromosome segments were associated with QTL for ACE, and a total of 15 segments with QTL for AC in at least one environment. Four target genotypes denoted as DG1 to DG4 were designed based on the identified QTL, and according to low ACE and high AC breeding objectives. Target genotypes DG1 and DG2 can be achieved via a topcross (TC) among the three lines CSSL4, CSSL28, and CSSL49. Results revealed that TC2: (CSSL4 CSSL49) CSSL28 and TC3: (CSSL28 CSSL49) CSSL4 resulted in higher DG1 frequency in their doubled haploid populations, whereas TC1: (CSSL4 · CSSL28) CSSL49 resulted in the highest DG2 frequency. Target genotypes DG3 and DG4 can be developed by a double cross among the four lines CSSL4, CSSL28, CSSL49, and CSSL52. In a double cross, the order of parents affects the frequency of target genotype to be selected. Results suggested that the double cross between the two single crosses (CSSL4 · CSSL28) and (CSSL49 · CSSL52) resulted in the highest frequency for DG3 and DG4 genotypes in its derived doubled haploid derivatives. Using an enhancement selection methodology, alternative ways were investigated to increase the target genotype frequency without significantly increasing the total cost of breeding operations.",
+        "lang": "eng"
+    },
+    "appid": "10883_1723",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1723"
+}}

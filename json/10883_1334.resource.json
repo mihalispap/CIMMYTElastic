@@ -1,0 +1,176 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Guatemala",
+            "uri": [
+                "http://sws.geonames.org/3595528",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Guatemala"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Honduras",
+            "uri": [
+                "http://sws.geonames.org/3608932",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Honduras"
+            ]
+        }
+    ],
+    "updatedDate": "2012-07-03T22:10:48Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1334",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1997,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1334"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1334"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1334",
+    "creator": [
+        {
+            "id": 307595072,
+            "value": "Scherr, S.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/307595072"
+        },
+        {
+            "id": 927853248,
+            "value": "Miranda, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/927853248"
+        },
+        {
+            "id": 70481972,
+            "value": "Neidecker-Gonzalez, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/70481972"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 2247038,
+            "value": "IICA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2247038"
+        },
+        {
+            "id": 69581898,
+            "value": "IFPRI",
+            "type": "organization",
+            "uri": "/cimmyt/organization/69581898"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/1/96837.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 17785137
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/3/96837.pdf.txt",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 672688
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/4/96837.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 9579
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/1/96837.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/3/96837.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1334/4/96837.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1334"
+        }
+    },
+    "extent": "",
+    "page": "338 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "San Salvador (El Salvador)",
+    "doi": ""
+}}

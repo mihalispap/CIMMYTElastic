@@ -1,0 +1,203 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Tanzania",
+            "uri": [
+                "http://sws.geonames.org/149590",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tanzania"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Sudan",
+            "uri": [
+                "http://sws.geonames.org/366755",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Sudan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/8068761",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:18:24Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1258",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Proceedings",
+        "Books and monographs"
+    ],
+    "date": 2006,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1258"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1258"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1258",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1258/1/82917.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2224678
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1258/2/82917.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 611544
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/1258/3/82917.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8898
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1258/1/82917.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1258/2/82917.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/1258/3/82917.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1258"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "Kenya",
+        "Sudan",
+        "Tanzania",
+        "Ethiopia",
+        "Eastern Africa",
+        "Southern Africa",
+        "Central Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-135-4",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

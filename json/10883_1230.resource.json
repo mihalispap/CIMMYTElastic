@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:17:26Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1230",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1998,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1230"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1230"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1230",
+    "creator": [
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        },
+        {
+            "id": 1606486241,
+            "value": "Trethowan, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1606486241"
+        },
+        {
+            "id": 1210585933,
+            "value": "Cukadar, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1210585933"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1230/1/65041.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 879323
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1230/2/65041.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 65545
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1230/3/65041.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5756
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1230/1/65041.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1230/2/65041.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1230/3/65041.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1230"
+        }
+    },
+    "extent": "No. 5",
+    "page": "32 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-002-1",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

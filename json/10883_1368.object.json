@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Operational manual for multi-crop zero till planter",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2013-02-14T21:03:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "planters",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_25759",
+                "http://aims.fao.org/aos/agrovoc/c_25759",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fertilizers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2867",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "planting",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maintenance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4524",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1368",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1368"
+}}

@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Genomic prediction of genetic values for resistance to wheat rusts",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:55Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "Durable resistance to the rust diseases of wheat (Triticum aestivum L.) can be achieved by developing lines that have race-nonspecific adult plant resistance conferred by multiple minor slow-rusting genes. Genomic selection (GS) is a promising tool for accumulating favorable alleles of slow-rusting genes. In this study, five CIMMYT wheat populations evaluated for resistance were used to predict resistance to stem rust (Puccinia graminis) and yellow rust (Puccinia striiformis) using Bayesian least absolute shrinkage and selection operator (LASSO) (BL), ridge regression (RR), and support vector regression with linear or radial basis function kernel models. All parents and populations were genotyped using 1400 Diversity Arrays Technology markers and different prediction problems were assessed. Results show that prediction ability for yellow rust was lower than for stem rust, probably due to differences in the conditions of infection of both diseases. For within population and environment, the correlation between predicted and observed values (Pearson?s correlation [ñ]) was greater than 0.50 in 90% of the evaluations whereas for yellow rust, ñ ranged from 0.0637 to 0.6253. The BL and RR models have similar prediction ability, with a slight superiority of the BL confirming reports about the additive nature of rust resistance. When making predictions between environments and/or between populations, including information from another environment or environments or another population or populations improved prediction.",
+        "lang": "eng"
+    },
+    "appid": "10883_1910",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1910"
+}}

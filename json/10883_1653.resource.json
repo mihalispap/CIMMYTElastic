@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:20Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1653",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2004,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1653"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1653"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1653",
+    "creator": [
+        {
+            "id": 1572659283,
+            "value": "Warburton, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1572659283"
+        },
+        {
+            "id": 207840719,
+            "value": "Brown-Guedira, G.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/207840719"
+        },
+        {
+            "id": 761097681,
+            "value": "Nelson, R.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/761097681"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1653/1/79654.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 76528
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1653/2/79654.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 15040
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1653/3/79654.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 21350
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1653/1/79654.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1653/2/79654.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1653/3/79654.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1653"
+        }
+    },
+    "extent": "",
+    "page": "1501-1502",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

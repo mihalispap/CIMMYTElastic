@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Molecular characterization of soil bacterial communities in contrasting zero tillage systems",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "residues management",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "16s rdna",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phylogenetic analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7896
+            ],
+            "value": "crop residues",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16118"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6554
+            ],
+            "value": "monoculture",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4915"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rdna",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1354098656894"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        }
+    ],
+    "description": {
+        "value": "It is well known that agricultural practices change the physical and chemical characteristics of soil. As a result, microbial populations can also be affected. The aim of this study was to analyze the effect on soil bacterial communities of zero tillage (ZT) under maize monoculture (MM) with crop residue removal (-R) (MM/-R treatment), compared to a ZT system under wheat monoculture (WW) with crop retention (+R) (WW/+R treatment). Phylogenetic analysis was used to characterize soil bacterial communities. Phylogenetic groups found exclusively in MM/-R were Caldilineales, Chromatiales, Oscillatoriales, Legionellales, Nitrosomonadales and unclassified  Ý-Proteobacteria, while Bacillales, Burkholderiales, Pseudomonadales and Rubrobacteriales were found only in WW/+R. Sequences of bacteria related to fluorescent Pseudomonas sp. were detected only in WW/+R. Acidobacteria, a largely unknown group of bacteria, were the dominant group in both treatments with a relative proportion of 0.703 and 0.517 for MM/+R and WW/-R respectively. It was found that zero tillage with removal of crop residue in soil cultivated with a monoculture of maize strongly reduced microbial diversity (H&#8201;=&#8201;3.30; D&#8201;=&#8201;0.9040) compared to soil where crop residue was retained in a wheat zero tillage situation (H&#8201;=&#8201;4.15; D&#8201;=&#8201;0.9848).",
+        "lang": "eng"
+    },
+    "appid": "10883_1536",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1536"
+}}

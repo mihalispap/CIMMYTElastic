@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Minimum resources for phenotyping morphological traits of maize (Zea mays L.) genetic resources",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ear traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "heritability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3570",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenotypic variance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant descriptors",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative variation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "replication number",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "replication",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_17857"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ears",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2436"
+        }
+    ],
+    "description": {
+        "value": "The aim of this research was to use variance components to calculate total phenotypic variation for 12 vegetative and reproductive maize traits. A set of 59 accessions, belonging to nine Peruvian highland maize races, were grown at two consecutive planting seasons in 2 years at one inter-Andean site in northern Peru. The trial data provided a means for calculating the variance components using the restricted maximum-likelihood method. The variance components were assumed to be stable while the number of environments and replications varied to simulate phenotypic variation for each trait. The least number of environments and replications, which does not affect the precision of phenotyping, was selected for assessing each trait. Tabulated data provide the number of environments and replications that can be used as a reference for Peruvian highland trials to assess quantitative variation in plant and reproductive traits. The results suggest that fewer environments and replications are needed for reproductive than for plant traits because the former show higher heritability than vegetative traits.",
+        "lang": "eng"
+    },
+    "appid": "10883_1750",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1750"
+}}

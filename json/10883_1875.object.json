@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Factors affecting the accuracy of genotype imputation in populations from several maize breeding programs",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:51Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7361,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Genomic selection and association mapping offer great potential to increase rates of genetic progress in plants. The prediction of genomic breeding values usually requires that missing genotypes be imputed because a proportion of genotypes is usually uncalled by the genotyping algorithm, different individuals may be genotyped using different platforms, or low cost genotyping strategies can involve genotyping some individuals at high density and others at low density. The objective of this paper was to quantify the accuracy of imputation in a maize (Zea mays L.) data set and explore some of the factors that affect it. The factors studied were the density of the low-density platform, level of linkage disequilibrium, minor allele frequency of the marker being imputed, and degree of genetic relationship between the line being imputed and the training population. The accuracy of imputation was high even when only 8774 genotypes constitute the low-density platform. The correlation between the true and imputed genotypes was 0.87. However, there was a dramatic reduction in the accuracy of imputation when the low-density platforms had fewer than 8774 genotypes. Genetic relatedness between an individual having its genotypes imputed and the individuals genotyped with the high-density platform was important. The design of an information nucleus that incorporates imputation for the purposes of implementing genomic selection and association mapping in small independent breeding programs was discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_1875",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1875"
+}}

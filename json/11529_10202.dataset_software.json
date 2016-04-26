@@ -1,0 +1,92 @@
+{"dataset_software": {
+    "citation": "Rodríguez, Francisco; Alvarado, Gregorio; Pacheco, Ángela; Crossa, José; Burgueño, Juan, 2015-06-08, \"AGD-R (Analysis of Genetic Designs with R for Windows) Version 2.0\", http://hdl.handle.net/11529/10202 International Maize and Wheat Improvemente Center [Distributor] V8 [Version]",
+    "timePeriod": "",
+    "funding": "",
+    "kindOfData": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "relation": "",
+    "rights": [
+        "For further information, please contact CIMMYT at  CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.",
+        "Copyright © 2015 Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT).\n\n\nThis program is based in some components from Java, developed by ORACLE AMERICA, INC. and R, developed by Kurt Hornik. Any Java component of this program is hereby licensed under the Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX made available by Oracle (available at http://www.oracle.com/technetwork/java/javase/terms/license/index.html). Any R component of this program as well as the program as a whole developed by CIMMYT are hereby licensed as per the terms of the GNU General Public License version 3(available at http://www.gnu.org/licenses/gpl-3.0.html), as specified below.\n\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or any later version.\n\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n\n\nYou should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA."
+    ],
+    "appid": "11529_10202",
+    "collection": {
+        "id": "",
+        "type": "",
+        "uri": ""
+    },
+    "type": "",
+    "date": "2015-06-01",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/11529/10202"
+        },
+        {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10202"
+        }
+    ],
+    "appuri": "/cimmyt/dataset_software/11529_10202",
+    "creator": [
+        {
+            "id": 948882521,
+            "value": "Rodríguez, Francisco",
+            "type": "person",
+            "uri": "/cimmyt/person/948882521"
+        },
+        {
+            "id": 275461210,
+            "value": "Alvarado, Gregorio",
+            "type": "person",
+            "uri": "/cimmyt/person/275461210"
+        },
+        {
+            "id": 1305449775,
+            "value": "Pacheco, Ángela",
+            "type": "person",
+            "uri": "/cimmyt/person/1305449775"
+        },
+        {
+            "id": 632625680,
+            "value": "Crossa, José",
+            "type": "person",
+            "uri": "/cimmyt/person/632625680"
+        },
+        {
+            "id": 1098218526,
+            "value": "Burgueño, Juan",
+            "type": "person",
+            "uri": "/cimmyt/person/1098218526"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": {
+            "category": "",
+            "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/AGD-R_v2.0_setup.exe?fileId=879",
+            "label": "AGD-R_v2.0_setup.exe",
+            "type": "",
+            "size": ""
+        },
+        "shownBy": {
+            "broken": false,
+            "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/AGD-R_v2.0_setup.exe?fileId=879"
+        },
+        "shownAt": {
+            "broken": false,
+            "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10202"
+        }
+    },
+    "coverage": "",
+    "notes": ""
+}}

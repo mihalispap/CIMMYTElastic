@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Identification and characterization of CACTA transposable elements capturing gene fragments in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cacta elements",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene fragment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome distribution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chimeric transcripts",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9216
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "transposons",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36188"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "elements",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2526"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        }
+    ],
+    "description": {
+        "value": "Transposable elements (TEs)-mediated gene sequence movement is thought to play an important role in genome expansion and origin of genes with novel functions. In this study, a gene, HGGT, involved in vitamin E synthesis was used in a case study to discover and characterize transposons carrying gene fragments in maize. A total of 69 transposons that are distributed across the 10 chromosomes and have an average length of 3689 bp were identified from the maize sequence database by using the BLAST search algorithm. Three of these carry gene fragments from the progenitor HGGT gene, while the rest (66) contain gene fragments from other cellular genes. Nine of the 69 transposons contain fragments derived from two locations in the genome. By querying the maize Expressed Sequence Tag (EST) database, we found that at least thirteen out of the 69 TEs had corresponding transcripts. More interestingly, two transposons that carry gene fragments from two different chromosomal loci could be expressed as chimeric transcripts.",
+        "lang": "eng"
+    },
+    "appid": "10883_1766",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1766"
+}}

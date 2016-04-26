@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis and characterization of a new maize association mapping panel for quantitative trait loci dissection",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.928
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.709
+            ],
+            "value": "models",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4881"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6088
+            ],
+            "value": "analysis",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49928"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8395
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Association mapping based on the linkage disequilibrium provides a promising tool to identify genes responsible for quantitative variations underlying complex traits. Presented here is a maize association mapping panel consisting of 155 inbred lines with mainly temperate germplasm, which was phenotyped for 34 traits and genotyped using 82 SSRs and 1,536 SNPs. Abundant phenotypic and genetic diversities were observed within the panel based on the phenotypic and genotypic analysis. A model-based analysis using 82 SSRs assigned all inbred lines to two groups with eight subgroups. The relative kinship matrix was calculated using 884 SNPs with minor allele frequency C20% indicating that no or weak relationships were identified for most individual pairs. Three traits (total tocopherol content in maize kernel, plant height and kernel length) and 1,414 SNPs with missing data \\20% were used to evaluate the performance of four models for association mapping analysis. For all traits, the model controlling relative kinship (K) performed better than the model controlling population structure (Q), and similarly to the model controlling both population structure and relative kinship (Q ? K) in this panel. Our results suggest this maize panel can be used for association mapping analysis targeting multiple agronomic and quality traits with optimal association model.",
+        "lang": "eng"
+    },
+    "appid": "10883_1811",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1811"
+}}

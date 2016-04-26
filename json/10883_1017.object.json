@@ -3,7 +3,7 @@
         "value": "Including dietary concerns in On-farm research: An example from Imbabura, Ecuador",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:51Z",
+    "updated": "2016-01-22T23:05:41Z",
     "created": "2012-01-06T05:09:50Z",
     "subject": [
         {
@@ -43,10 +43,25 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6544
+            ],
             "value": "ecuador",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2485"
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2485"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7501,
+            "value": "experimentation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
         }
     ],
     "description": {

@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Hierarchical multiple-factor analysis for classifying genotypes based on phenotypic and genetic data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8462
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7968,
+            "value": "factor analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_10728"
+        }
+    ],
+    "description": {
+        "value": "A numerical classification problem encountered by breeders and gene-bank curators is how to partition the original heterogeneous population of genotypes into non-overlapping homogeneous subpopulations. The measure of distance that may be defined depends on the type of variables measured (i.e., continuous and/or discrete). The key points are whether and how a distance may be defined using all types of variables to achieve effective classification. The objective of this research was to propose an approach that combines the use of hierarchical multiple-factor analysis (HMFA) and the two-stage Ward Modified Location Model (Ward-MLM) classification strategy that allows (i) combining different types of phenotypic and genetic data simultaneously; (ii) balancing out the effects of the different phenotypic, genetic, continuous, and discrete variables; and (iii) measuring the contribution of each original variable to the new principal axes (PAs). Of the two strategies applied for developing PA scores to be used for clustering genotypes, the strategy that used the first few PA scores to which phenotypic and genetic variables each contributed 50% (i.e., a balanced contribution) formed better groups than those formed by the strategy that used a large number of PA scores explaining 95% of total variability. Phenotypic variables account for much variability in the initial PA; then their contributions decrease. The importance of genetic variables increases in later PAs. Results showed that various phenotypic and genetic variables made important contributions to the new PA. The HMFA uses all phenotypic and genetic variables simultaneously and, in conjunction with the Ward-MLM method, it offers an effective unifying approach for the classification of breeding genotypes into homogeneous groups and for the formation of core subsets for genetic resource conservation.",
+        "lang": "eng"
+    },
+    "appid": "10883_1770",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1770"
+}}

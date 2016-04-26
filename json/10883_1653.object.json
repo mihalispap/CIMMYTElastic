@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Registration of LG92-4208, LG94-1128, LG94-1906, and LG94-4667 Soybean germplasm",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soybeans",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14477",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "experimentation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1653",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1653"
+}}

@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Economics of wheat production in Bangladesh",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-07T21:09:27Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "bangladesh",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_810",
+                "http://aims.fao.org/aos/agrovoc/c_810",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "production economics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26808",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "economic analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2469",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                0.9051,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3025",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "This paper reports the results of a study undertaken to assess the economics of wheat production in Bangladesh, In financial terms, bore (winter) rice is the most profitable crop in irrigated zones, but wheat often generates the highest returns in non-irrigated zones and in areas that are unsuitable for bore rice production, When inputs and outputs are assigned economic prices, wheat production represents the most efficient use of domestic resources in most non-irrigated zones and in one irrigated zone, Should present trends continue and Bangladesh become self-sufficient in rice, wheat production would become even more attractive, In view of these findings, recent calls to scale back wheat promotion activities and curtail investment in wheat research must be questioned",
+        "lang": "eng"
+    },
+    "appid": "10883_2054",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2054"
+}}

@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:17:23Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1228",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Special Pubs/Reports",
+        "Books and monographs"
+    ],
+    "date": 1997,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1228"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1228"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1228",
+    "creator": [
+        {
+            "id": 1483250975,
+            "value": "Sayre, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1483250975"
+        },
+        {
+            "id": 341615087,
+            "value": "Moreno Ramos, O.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/341615087"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1228/1/64885.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 544369
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1228/2/64885.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51947
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1228/3/64885.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5677
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1228/1/64885.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1228/2/64885.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1228/3/64885.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1228"
+        }
+    },
+    "extent": "No. 31",
+    "page": "36 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "970-648-000-5",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

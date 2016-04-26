@@ -29,6 +29,17 @@
                 "geonames",
                 "faogeopolitical"
             ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
             "value": "Eastern Africa",
             "uri": [
                 "http://sws.geonames.org/7729889",
@@ -55,6 +66,11 @@
             "id": 403613916,
             "type": "collection",
             "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
         }
     ],
     "format": "",
@@ -130,6 +146,7 @@
     "page": "ii, 49 pags",
     "coverage": [
         "Zambia",
+        "Southern Africa",
         "Eastern Africa"
     ],
     "contributor": {

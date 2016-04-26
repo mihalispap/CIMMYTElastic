@@ -1,0 +1,174 @@
+{"object": {
+    "title": {
+        "value": "Breeding resilient and productive genotypes adapted to drought-prone rainfed ecosystem of India",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "managed screening",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "correlation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heritability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8318
+            ],
+            "value": "stress",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7452"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7328
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9787
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14914"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "screening",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330877"
+        }
+    ],
+    "description": {
+        "value": "Drought is the predominant cause of yield reduction in rainfed rice production systems, but until recently, little systematic effort has been made to breed drought-tolerant cultivars. The complex nature of drought tolerance, genotype × environment interaction, and the difficulty of effective drought tolerance screening complicate the development of drought tolerant varieties. This study reports on progress made by a collaborative network of Indian rice breeding programs, in partnership with International Rice Research Institute (IRRI), to develop lines combining high yield potential with drought tolerance by employing direct selection for grain yield under drought stress, and testing their performance in rainy season managed-drought screenings (RSMDS) of different stress severity levels at several locations during the main season in rainfed rice production areas in India. Advanced-generation breeding lines of less than 100 days, 100?120 days, and greater than 120 days duration generated at eight national institutes and IRRI using diverse drought tolerant donors were evaluated in 2005?2007 under RSMDS. Stress was imposed at the reproductive stage, either by draining paddies shortly after transplanting for lowland trials, or by stopping irrigation before flowering for upland trials. Yield reduction of 34?53% under moderate stress and 65?88% under severe stress was achieved in comparison to irrigated controls. Several varieties that have been widely grown in rainfed environments in India for many years, including IR 36, IR 64, Mahamaya, Sambha Mahsuri, and Swarna, were shown to be highly susceptible. Breeding lines were identified that perform consistently better than these and other widely grown rainfed varieties under both moderate and severe drought stress without any yield penalty under fully irrigated conditions. In the combined analysis over locations and years, these promising breeding lines outyielded the widely grown controls by about 0.5 t ha&#8722;1 under moderate stress and 0.7?1.0 t ha&#8722;1 under severe stress. IRRI breeding lines contributed to the network were developed using a selection protocol involving replicated dry season managed-drought screening (DSMDS) in dry season at Los Banos, Philippines. For a subset of lines extensively tested both at IRRI and in India, correlations between yield under DSMDS in the Philippine and yield in RSMDS in India were moderately high, indicating the efficacy of dry-season MS screening at IRRI in identifying tolerant lines for India. Drought tolerant lines developed by the network members have been released in several Indian states and in the Philippines. Overall, these results indicate that managed stress screening for drought tolerance, with a focus on selection for yield under stress, is effective in generating drought-tolerant cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_1549",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1549"
+}}

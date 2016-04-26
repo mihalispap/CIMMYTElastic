@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:17:21Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1227",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Books and monographs",
+        "Guidelines and manuals"
+    ],
+    "date": 1997,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1227"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1227"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1227",
+    "creator": [
+        {
+            "id": 2008532749,
+            "value": "Duveiller, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2008532749"
+        },
+        {
+            "id": 1762574854,
+            "value": "Fucikovsky, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1762574854"
+        },
+        {
+            "id": 1648204077,
+            "value": "Rudolph, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1648204077"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1227/1/64767.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 3686338
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1227/2/64767.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 280437
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1227/3/64767.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8027
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1227/1/64767.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1227/2/64767.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1227/3/64767.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1227"
+        }
+    },
+    "extent": "",
+    "page": "84 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-73-X",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Herbicidal effect on the growth and yield of wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "herbicide",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "weeds control",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7998
+            ],
+            "value": "hand weeding",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11451"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7174
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7589
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6264,
+            "value": "cynodon dactylon",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2069"
+        }
+    ],
+    "description": {
+        "value": "A field trial was conducted at Regional Wheat Research Center, Shyampur, Rajshahi during winter season of 2004-2005 to make certain a suitable herbicide for weed control as well as increase the yield of wheat. Effect of twelve treatment combinations i.e. Lintur 70 WG at two, four and six leaves stage of three doses, 2-4,D Amine at four leaves stage, one hand weeding and control on wheat variety Shatabdi were studied. The major weeds observed were Chenopodium album, Cyprus rotundus, Cynodon dactylon and Echinochloa crusgalli. The population and dry weight of weeds were minimum in Lintur 70 WG @ 375 g/ha at two leave stage and maximum in control plot i.e. no weeding. Weed control efficiency (%) was maximum in Lintur 70 WG @375 g/ha at two leave stage which was at par with hand weeding. Yield and yield components significantly responded to different treatments. Lintur 70 WG @ 375 g/ha at two leave stage sprayed significant effects on weeds. The maximum grain yield (3.4 t/ha) was obtained by Lintur 70 WG @ 375 g/ha at two leave stage which was at par with hand weeding due to lower weed-crop competition resulted higher absorption of nutrients and sufficient interception of sunlight as well as air. The lowest grain yield (2.4 t/ha) was found in control plot (No weeding) due to weed-crop competition from first to last resulted sharing of nutrient, air and sunlight. Significantly more wheat yield was recorded in weed free treatment. Wheat yield was gradually decreasing with the increasing of weed populations.",
+        "lang": "eng"
+    },
+    "appid": "10883_1551",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1551"
+}}

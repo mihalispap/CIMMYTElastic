@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Distribution of Vp-1 alleles in Chinese white-grained landraces, historical and current wheat cultivars",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vp-1 alleles",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pre-harvest sprouting",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "seed dormancy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14168",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sprouting",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15923"
+        }
+    ],
+    "description": {
+        "value": "Genotypes with various Vp-1B alleles perform different levels of pre-harvest sprouting (PHS) tolerance. In this study, 217 white-grained wheat cultivars, including 75 landraces, 39 historical cultivars, and 103 modern cultivars from five major regions of China, were examined to characterize the diversity of the Viviparous-1B (Vp-1B) locus associated with PHS tolerance. Four Vp-1B alleles were identified, three (Vp-1Ba, Vp-1Bb and Vp-1Bc) of which were previously reported in Chinese wheat cultivars. A new allele, Vp-1Be, was identified in the PHS tolerant landrace Hongheshangtou. Sequence analysis showed that Vp-1Be had an insertion of a 4-bp fragment, two SNPs, and a deletion of an 83-bp fragment compared with the nucleotide sequence of Vp-1Ba (AJ400713), all located in the third intron. Vp-1Be shared 97.80% similarity with the nucleotide sequence of AJ400713. The frequencies of Vp-1Ba, Vp-1Bb, and Vp-1Bc were 36.0%, 5.3%, and 57.3% in landraces; 23.1%, 7.7%, and 69.2% in historical cultivars; and 52.4%, 0%, and 47.6% in current cultivars, respectively.",
+        "lang": "eng"
+    },
+    "appid": "10883_1775",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1775"
+}}

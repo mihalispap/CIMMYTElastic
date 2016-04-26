@@ -1,0 +1,116 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:16Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1990",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1990,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1990"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1990"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1990",
+    "creator": {
+        "id": 1099788077,
+        "value": "Renkow, M.",
+        "type": "person",
+        "uri": "/cimmyt/person/1099788077"
+    },
+    "publisher": {
+        "id": 68014380,
+        "value": "http://ajae.oxfordjournals.org/content/72/3/664.abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/68014380"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1990/1/23412.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1150056
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1990/2/23412.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 52430
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1990/3/23412.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7724
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1990/1/23412.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1990/2/23412.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1990/3/23412.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1990"
+        }
+    },
+    "extent": "",
+    "page": "664-675",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Analysis of genetic factors influencing the developmental rate of globally important CIMMYT wheat cultivars",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:25Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6234
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24030"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7752
+            ],
+            "value": "earliness",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2435"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6912
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8012
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6806
+            ],
+            "value": "vernalization",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16059"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6211,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6222,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "The rate at which wheat (Triticum aestivum L.) reaches anthesis and other developmental stages depends largely on the variation of three major factors: vernalization (Vrn), photoperiod (Ppd), and earliness per se (Eps). The objectives of this study were to characterize a set of genotypes for the presence of developmental genes and their potential association to adaptability and to identify diagnostic molecular markers for the vernalization gene Vrn-D1. Fifty-one genotypes were crossed with testers containing known Vrn and Ppd genes. To determine earliness per se and its interaction with temperature, genotypes were vernalized for 8 wk and placed in a 24-h photoperiod regime at two temperatures. To validate molecular markers for Vrn-D1, the cultivars were genotyped with closely linked SSR markers Xgwm292-5D and Xgwm212-5D. Segregation analysis on F2 populations of field-grown plants showed that Vrn-D1 was present in 66% of the cultivars, while Vrn-A1, Vrn-B1, and Vrn4 were found in 41, 39, and 8% of the lines, respectively, either solely or in combination with other Vrn genes. A low percentage of cultivars appeared to have a constitutive genetic character for early flowering (Eps), while most of the cultivars may have temperature-sensitive genes that respond to local environmental changes. Vrn-D1 was reliably detected in 76.5% of the genotypes using the 215-bp allele of microsatellite marker Xgwm292-5D, whereas Xgwm212-5D did not reveal sufficient allelic variation within the tested wheats",
+        "lang": "eng"
+    },
+    "appid": "10883_1683",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1683"
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Genetic structure, linkage disequilibrium and signature of selection in sorghum: Lessons from physically anchored dart markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6076
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "sorghum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7244"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9583,
+            "value": "genetic structures",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331002"
+        }
+    ],
+    "description": {
+        "value": "Population structure, extent of linkage disequilibrium (LD) as well as signatures of selection were investigated in sorghum using a core sample representative of worldwide diversity. A total of 177 accessions were genotyped with 1122 informative physically anchored DArT markers. The properties of DArTs to describe sorghum genetic structure were compared to those of SSRs and of previously published RFLP markers. Model-based (STRUCTURE software) and Neighbor-Joining diversity analyses led to the identification of 6 groups and confirmed previous evolutionary hypotheses. Results were globally consistent between the different marker systems. However, DArTs appeared more robust in terms of data resolution and bayesian group assignment. Whole genome linkage disequilibrium as measured by mean r2 decreased from 0.18 (between 0 to 10 kb) to 0.03 (between 100 kb to 1 Mb), stabilizing at 0.03 after 1 Mb. Effects on LD estimations of sample size and genetic structure were tested using i. random sampling, ii. the Maximum Length SubTree algorithm (MLST), and iii. STRUCTURE groups. Optimizing population composition by the MLST reduced the biases in small samples and seemed to be an efficient way of selecting samples to make the best use of LD as a genome mapping approach in structured populations. These results also suggested that more than 100,000 markers may be required to perform genome-wide association studies in collections covering worldwide sorghum diversity. Analysis of DArT markers differentiation between the identified genetic groups pointed out outlier loci potentially linked to genes controlling traits of interest, including disease resistance genes for which evidence of selection had already been reported. In addition, evidence of selection near a homologous locus of FAR1 concurred with sorghum phenotypic diversity for sensitivity to photoperiod.",
+        "lang": "eng"
+    },
+    "appid": "10883_1920",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1920"
+}}

@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/SA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/NA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/7729892",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:07:53Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1967",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2001,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1967"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1967"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1967",
+    "creator": [
+        {
+            "id": 1027573986,
+            "value": "Kosarek, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1027573986"
+        },
+        {
+            "id": 1580439509,
+            "value": "Garcia, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1580439509"
+        },
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1967/1/75684.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 106641
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1967/2/75684.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54010
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1967/3/75684.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2355
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1967/1/75684.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1967/2/75684.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1967/3/75684.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1967"
+        }
+    },
+    "extent": "",
+    "page": "267-280",
+    "coverage": [
+        "Central America",
+        "South America",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

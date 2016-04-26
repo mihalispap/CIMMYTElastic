@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0099-2240",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:51Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1879",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1879"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1879"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1879",
+    "creator": [
+        {
+            "id": 59824481,
+            "value": "Xue, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/59824481"
+        },
+        {
+            "id": 110179143,
+            "value": "Serohijos, R.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/110179143"
+        },
+        {
+            "id": 11934566,
+            "value": "Devare, M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/11934566"
+        },
+        {
+            "id": 181405276,
+            "value": "Thies, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/181405276"
+        }
+    ],
+    "publisher": {
+        "id": 2075543162,
+        "value": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028697/?tool=pubmed",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2075543162"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1879/1/96404.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 681525
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1879/2/96404.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51516
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1879/3/96404.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6317
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1879/1/96404.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1879/2/96404.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1879/3/96404.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1879"
+        }
+    },
+    "extent": "",
+    "page": "839-846",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

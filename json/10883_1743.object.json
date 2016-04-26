@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "An analysis of population structure and linkage disequilibrium using multilocus data in 187 maize inbred lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "linkage disequilibrium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize (zea mays l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "population structure",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "This study analyzes population structure and linkage disequilibrium (LD) among 187 commonly used Chinese maize inbred lines, representing the genetic diversity among public, commercial and historically important lines for corn breeding. Seventy SSR loci, evenly distributed over 10 chromosomes, were assayed for polymorphism. The identified 290 alleles served to estimate population structure and analyze the genome-wide LD. The population of lines was highly structured, showing 6 subpopulations: BSSS (American BSSS including Reid), PA (group A germplasm derived from modern U.S. hybrids in China), PB (group B germplasm derived from modern U.S. hybrid in China), Lan (Lancaster Surecrop), LRC (derivative lines from Lvda Reb Cob, a Chinese landrace) and SPT (derivative lines from Si-ping-tou, a Chinese landrace). Forty lines, which formerly had an unknown and/or miscellaneous origin and pedigree record, were assigned to the appropriate group. Relationship estimates based on SSR marker data were quantified in a Q matrix, and this information will inform breeder&rsquo;s decisions regarding crosses. Extensive inter- and intra-chromosomal LD was detected between 70 microsatellite loci for the investigated maize lines (2109 loci pairs in LD with D' > 0.1 and 93 out of them at P < 0.01).This suggests that rapidly evolving microsatellites may track recent population structure. Interlocus LD decay among the diverse maize germplasm indicated that association studies in QTLs and/or candidate genes might avoid nonfunctional and spurious associations since most of the LD blocks were broken between diverse germplasm. The defined population structure and the LD analysis present the basis for future association mapping",
+        "lang": "eng"
+    },
+    "appid": "10883_1743",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1743"
+}}

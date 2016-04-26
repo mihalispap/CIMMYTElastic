@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Isolation, fine mapping and expression profiling of a lesion mimic genotype, splNF4050-8 that confers blast resistance in rice",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:43Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.665
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9313
+            ],
+            "value": "mutants",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5013"
+            ]
+        }
+    ],
+    "description": {
+        "value": "We evaluated a large collection of Tos17 mutant panel lines for their reaction to three different races of Magnaporthe oryzae and identified a lesion mimic mutant, NF4050-8, that showed lesions similar to naturally occurring spl5 mutant and enhanced resistance to all the three blast races tested. Nested modified-AFLP using Tos17-specific primers and southern hybridization experiments of segregating individuals indicated that the lesion mimic phenotype in NF4050-8 is most likely due to a nucleotide change acquired during the culturing process and not due to Tos17 insertion per se. Inheritance and genetic analyses in two japonica × indica populations identified an overlapping genomic region of 13 cM on short arm of chromosome 7 that was linked with the lesion mimic phenotype. High-resolution genetic mapping using 950 F3 and 3,821 F4 plants of NF4050-8 × CO39 delimited a 35 kb region flanked by NBARC1 (5.262 Mb) and RM8262 (5.297 Mb), which contained 6 ORFs; 3 of them were ?resistance gene related? with typical NBS?LRR signatures. One of them harbored a NB?ARC domain, which had been previously demonstrated to be associated with cell death in animals. Microarray analysis of NF4050-8 revealed significant up-regulation of numerous defense/pathogenesis-related genes and down-regulation of heme peroxidase genes. Real-time PCR analysis of WRKY45 and PR1b genes suggested possible constitutive activation of a defense signaling pathway downstream of salicylic acid but independent of NH1 in these mutant lines of rice.",
+        "lang": "eng"
+    },
+    "appid": "10883_1818",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1818"
+}}

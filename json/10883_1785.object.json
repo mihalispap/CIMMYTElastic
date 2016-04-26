@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Leaf-level water use efficiency determined by carbon isotope discrimination in rice seedlings: genetic variation associated with population structure and QTL mapping",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:39Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "oryza",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5435"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8084
+            ],
+            "value": "tillering",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7773"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.654
+            ],
+            "value": "rice",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6599"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8991
+            ],
+            "value": "nitrogen content",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5193"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8677,
+            "value": "genetic variation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15975"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6867,
+            "value": "seedlings",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6945"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "water use efficiency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36790"
+        }
+    ],
+    "description": {
+        "value": "Increasing the water use efficiency (WUE) of our major crop species is an important target of agricultural research. Rice is a major water consumer in agriculture and it is also an attractive genetic model. We evaluated leaf-level WUE in young rice seedlings using carbon isotope discrimination (&#8710;13C) as an indicator of the trait. A survey of &#8710;13C was undertaken in 116 diverse germplasm accessions representing O. sativa, O. glaberrima and four wild Oryza species. O. sativa cultivars were classified into sub-populations based on SSR markers, and significant differences in &#8710;13C were observed among the five genetically defined groups. While individual accessions explained a greater proportion of the variation than did sub-population, indica rice varieties had the lowest &#8710;13C values overall, indicating superior WUE, while temperate japonica had the highest &#8710;13C. O sativa accessions had a similar or greater range of &#8710;13C values than wild Oryza species, while domesticated O. glaberrima had a narrower range. Correlation analysis identified leaf morphological and physiological traits that were significantly associated with &#8710;13C, including longer leaves, more drooping leaves, higher tillering ability, and lower leaf nitrogen content. These trait associations were investigated by quantitative trait locus (QTL) mapping using backcross inbred lines derived from a cross between Nipponbare (temperate japonica) and Kasalath (aus). Seven QTL for &#8710;13C were identified using composite interval analysis, located in five chromosomal regions. The QTL with the largest additive effect came from Kasalath and co-localized with QTL for leaf length, tiller number and nitrogen content.",
+        "lang": "eng"
+    },
+    "appid": "10883_1785",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1785"
+}}

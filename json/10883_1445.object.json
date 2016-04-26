@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Simulated wheat growth affected by rising temperature, increased water deficit and elevated atmospheric CO2",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:28Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant physiology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_25189",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "growth period",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15981",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environmental factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2594",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "temperature inversion",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7658",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water availability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8310",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "atmospheric co2",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35478"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1445",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1445"
+}}

@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "The rate of crop varietal replacement on farms: measures and empirical results for wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-07T21:09:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "trials",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "seed longevity",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6934",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "viability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8210",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "weight",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8349",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "measurement",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4668",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7462
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2328"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The rate of crop varietal replacement on [arms is an important measure of the impacts of plant breeding programmes, the degree of varietal diversification over time, and the potential exposure to disease epidemics due to breakdown in disease resistance of  older varieties. This paper proposes a simple measure, the weighted average age of varieties, for determining the rate of varietal replacement. This measure is used to compare the rate of wheat varietal replacement across countries/regions and over time in several developing and developed countries. The results indicate an average age of varieties of about 7 years, a figure close to the expected longevity of disease resistance of  wheat varieties in many environments. However, the average age varies from less than 4 years in the Yaqui Valley in Mexico to over 10 years in the Punjab of Pakistan. Finally, the weighted average age is divided into the lag between varietal release and adoption initiation, and the speed of diffusion, once adoption is initiated. Differences in the relative sizes of these lags were noted between countries/regions, implying different policy interventions to increase the rate of varietal replacement.",
+        "lang": "eng"
+    },
+    "appid": "10883_2008",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2008"
+}}

@@ -1,0 +1,112 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:20Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1652",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2004,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1652"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1652"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1652",
+    "creator": {
+        "id": 853144095,
+        "value": "Sullivan S.N.",
+        "type": "person",
+        "uri": "/cimmyt/person/853144095"
+    },
+    "publisher": {
+        "id": 2088986983,
+        "value": "http://www.plantphysiol.org/content/135/1/10.full",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2088986983"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1652/1/79566.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 71185
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1652/2/79566.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 34047
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1652/3/79566.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6685
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1652/1/79566.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1652/2/79566.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1652/3/79566.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1652"
+        }
+    },
+    "extent": "",
+    "page": "10-15 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

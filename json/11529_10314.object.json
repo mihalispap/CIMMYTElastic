@@ -1,0 +1,342 @@
+{"object": {
+    "title": {
+        "value": "13th Semi-Arid Wheat Yield Trial",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "agronomic score",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to heading",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "days to maturity",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "other worms per  plot",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "powdery mildew",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "early vigor",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain colour",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grains spike",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "grain yield",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "helminthosporium_species",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "helminthosporium sativum leaf",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "h tritici repentis",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "lodging percent harvested area",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "stem rust",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stripe rust on leaf",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "relative plant height",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "relative maturity",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selected check mark",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "septoria nodorum blotch",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "spikes m2",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "spike length",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "spikelets spike",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "sprouting tolerance",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "septoria tritici blotch",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "test weight",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "1000 grain weight",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sawyt",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "13th sawyt",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "agricultural research",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8679"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mega environment 4",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "leaf rust",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "stripe rust on leaf",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "Crop Ontology",
+            "score": null,
+            "value": "selected check mark",
+            "uri": "http://www.cropontology.org/ontology/CO_321/Wheat"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "CIMMYT",
+            "score": null,
+            "value": "mega environment 4",
+            "uri": "http://repository.cimmyt.org/xmlui/handle/10883/644"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8075
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7095
+            ],
+            "value": "rainfall",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6435"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8073
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9362
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The Semi-Arid Wheat Yield Trial (SAWYT) is a replicated yield trial that contains spring bread wheat (Triticum aestivum) germplasm adapted to low rainfall, drought prone environments typically receiving less than 500 mm of water available during the cropping cycle. The combination of water-use efficiency and water responsive broad adaptation plus yield potential is important in drought environments where rainfall is frequently erratic across and within years. Stripe rust, leaf rust and stem rust, root rots, nematodes, and bunts are the key biotic constraints. Typical target environments include winter rain or Mediterranean-type drought associated with post-flowering moisture stress and heat stress such as those found at Aleppo (Syria), Settat (Morocco) and Marcos Juarez (Argentina), all classified by CIMMYT within Wheat Mega Environment 4 (Low rainfall, semi-arid environment; ME4: SA). It is distributed to 150 locations, and contains 50 entries.",
+        "lang": ""
+    },
+    "appid": "11529_10314",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10314"
+}}

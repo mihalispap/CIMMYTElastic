@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:38Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1784",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1784"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1784"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1784",
+    "creator": [
+        {
+            "id": 1508327757,
+            "value": "Cairns, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1508327757"
+        },
+        {
+            "id": 231154987,
+            "value": "Namuco, O.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/231154987"
+        },
+        {
+            "id": 179034599,
+            "value": "Torres, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/179034599"
+        },
+        {
+            "id": 525280893,
+            "value": "Simborio, F.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/525280893"
+        },
+        {
+            "id": 98313682,
+            "value": "Courtois, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/98313682"
+        },
+        {
+            "id": 37633645,
+            "value": "Aquino, G.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/37633645"
+        },
+        {
+            "id": 1772314926,
+            "value": "Johnson, D.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1772314926"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1784/1/93454.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 258764
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1784/2/93454.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 56238
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1784/3/93454.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6154
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1784/1/93454.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1784/2/93454.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1784/3/93454.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1784"
+        }
+    },
+    "extent": "",
+    "page": "207-217",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

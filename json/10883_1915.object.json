@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Bridging the phenotypic and genetic data useful for integrated breeding through a data annotation using the Crop Ontology developed by the crop communities of practice",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:56Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop ontology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding trait",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant phenotype",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "trait dictionaries",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding fieldbook",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "data annotation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "integrated breeding platform",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop community of practice",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "ontology",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49845"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "phenotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5776"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "dictionaries",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49852"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "data",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49816"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The Crop Ontology (CO) of the Generation Challenge Program (GCP) (http://cropontology.org/) is developed for the Integrated Breeding Platform (IBP) (https://www.integratedbreeding.net/) by several centers of The Consultative Group on International Agricultural Research (CGIAR): bioversity, CIMMYT, CIP, ICRISAT, IITA, and IRRI. Integrated breeding necessitates that breeders access genotypic and phenotypic data related to a given trait. The CO provides validated trait names used by the crop communities of practice (CoP) for harmonizing the annotation of phenotypic and genotypic data and thus supporting data accessibility and discovery through web queries. The trait information is completed by the description of the measurement methods and scales, and images. The trait dictionaries used to produce the Integrated Breeding (IB) fieldbooks are synchronized with the CO terms for an automatic annotation of the phenotypic data measured in the field. The IB fieldbook provides breeders with direct access to the CO to get additional descriptive information on the traits. Ontologies and trait dictionaries are online for cassava, chickpea, common bean, groundnut, maize, Musa, potato, rice, sorghum, and wheat. Online curation and annotation tools facilitate (http://cropontology.org) direct maintenance of the trait information and production of trait dictionaries by the crop communities. An important feature is the cross referencing of CO terms with the Crop database trait ID and with their synonyms in Plant Ontology (PO) and Trait Ontology (TO). Web links between cross referenced terms in CO provide online access to data annotated with similar ontological terms, particularly the genetic data in Gramene (University of Cornell) or the evaluation and climatic data in the Global Repository of evaluation trials of the Climate Change, Agriculture and Food Security programme (CCAFS). Cross-referencing and annotation will be further applied in the IBP.",
+        "lang": "eng"
+    },
+    "appid": "10883_1915",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1915"
+}}

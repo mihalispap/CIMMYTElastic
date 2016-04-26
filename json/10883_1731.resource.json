@@ -1,0 +1,186 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:32Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1731",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1731"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1731"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1731",
+    "creator": [
+        {
+            "id": 840746041,
+            "value": "Harjes, C.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/840746041"
+        },
+        {
+            "id": 1431891128,
+            "value": "Rocheford, T.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1431891128"
+        },
+        {
+            "id": 1253554400,
+            "value": "Ling Bai",
+            "type": "person",
+            "uri": "/cimmyt/person/1253554400"
+        },
+        {
+            "id": 1426446770,
+            "value": "Brutnell, T.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1426446770"
+        },
+        {
+            "id": 1763969707,
+            "value": "Bermudez Kandianis, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1763969707"
+        },
+        {
+            "id": 1206944807,
+            "value": "Sowinski, S.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1206944807"
+        },
+        {
+            "id": 1426174444,
+            "value": "Stapleton, A.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1426174444"
+        },
+        {
+            "id": 1422104359,
+            "value": "Vallabhaneni, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1422104359"
+        },
+        {
+            "id": 1308083803,
+            "value": "Williams, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1308083803"
+        },
+        {
+            "id": 731676616,
+            "value": "Wurtzel, E.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/731676616"
+        },
+        {
+            "id": 931882958,
+            "value": "Jianbing Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/931882958"
+        },
+        {
+            "id": 357553558,
+            "value": "Buckler, E.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/357553558"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1731/1/90279.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 270366
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1731/2/90279.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 29544
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1731/3/90279.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 23869
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1731/1/90279.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1731/2/90279.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1731/3/90279.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1731"
+        }
+    },
+    "extent": "",
+    "page": "330-333",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

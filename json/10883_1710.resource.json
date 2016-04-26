@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:28Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1710",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2006,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1710"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1710"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1710",
+    "creator": [
+        {
+            "id": 1723510688,
+            "value": "Morales-Nieto, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1723510688"
+        },
+        {
+            "id": 695486092,
+            "value": "Quero-Carrillo, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/695486092"
+        },
+        {
+            "id": 788713941,
+            "value": "Le-Blanc, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/788713941"
+        },
+        {
+            "id": 662537335,
+            "value": "Hernandez-Garay, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/662537335"
+        },
+        {
+            "id": 380901009,
+            "value": "Perez-Perez, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/380901009"
+        },
+        {
+            "id": 68794090,
+            "value": "Gonzalez-Muñoz, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/68794090"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1710/1/89555.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 401064
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1710/2/89555.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 49163
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1710/3/89555.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6156
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1710/1/89555.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1710/2/89555.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1710/3/89555.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1710"
+        }
+    },
+    "extent": "",
+    "page": "711-720",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

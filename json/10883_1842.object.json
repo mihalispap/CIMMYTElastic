@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Increased food and ecosystem security via perennial grains",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6545
+            ],
+            "value": "annuals",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_28997"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7585
+            ],
+            "value": "grain crops",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3348"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ecosystems",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2482"
+        }
+    ],
+    "description": {
+        "value": "Despite doubling of yields of major grain crops since the 1950s, more than one in seven people suffer from malnutrition (1). Global population is growing; demand for food, especially meat, is increasing; much land most suitable for annual crops is already in use; and production of nonfood goods (e.g., biofuels) increasingly competes with food production for land (2). The best lands have soils at low or moderate risk of degradation under annual grain production but make up only 12.6% of global land area (16.5 million km2) (3). Supporting more than 50% of world population is another 43.7 million km2 of marginal lands (33.5% of global land area), at high risk of degradation under annual grain production but otherwise capable of producing crops (3). Global food security depends on annual grains?cereals, oilseeds, and legumes?planted on almost 70% of croplands, which combined supply a similar portion of human calories (4, 5). Annual grain production, though, often compromises essential ecosystem services, pushing some beyond sustainable boundaries (5). To ensure food and ecosystem security, farmers need more options to produce grains under different, generally less favorable circumstances than those under which increases in food security were achieved this past century. Development of perennial versions of important grain crops could expand options.",
+        "lang": "eng"
+    },
+    "appid": "10883_1842",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1842"
+}}

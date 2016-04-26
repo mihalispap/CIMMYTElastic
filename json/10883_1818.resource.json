@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:43Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1818",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1818"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1818"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1818",
+    "creator": [
+        {
+            "id": 2130038142,
+            "value": "Babu, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2130038142"
+        },
+        {
+            "id": 1581645257,
+            "value": "Chang-Jie Jiang",
+            "type": "person",
+            "uri": "/cimmyt/person/1581645257"
+        },
+        {
+            "id": 1675321696,
+            "value": "Xin Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/1675321696"
+        },
+        {
+            "id": 801407869,
+            "value": "Kameswara Rao Kottapalli",
+            "type": "person",
+            "uri": "/cimmyt/person/801407869"
+        },
+        {
+            "id": 761482232,
+            "value": "Hiroshi Takatsuji",
+            "type": "person",
+            "uri": "/cimmyt/person/761482232"
+        },
+        {
+            "id": 981931525,
+            "value": "Akio Miyao",
+            "type": "person",
+            "uri": "/cimmyt/person/981931525"
+        },
+        {
+            "id": 1298776831,
+            "value": "Hirohiko Hirochika",
+            "type": "person",
+            "uri": "/cimmyt/person/1298776831"
+        },
+        {
+            "id": 1300147693,
+            "value": "Shinji Kawasaki",
+            "type": "person",
+            "uri": "/cimmyt/person/1300147693"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1818/1/94470.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1135075
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1818/2/94470.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 97225
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1818/3/94470.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6158
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1818/1/94470.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1818/2/94470.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1818/3/94470.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1818"
+        }
+    },
+    "extent": "",
+    "page": "831-854",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

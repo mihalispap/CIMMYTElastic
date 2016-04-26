@@ -1,0 +1,143 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:19Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1643",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1999,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1643"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1643"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1643",
+    "creator": [
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 365278348,
+            "value": "Eeuwijk, F.A. van",
+            "type": "person",
+            "uri": "/cimmyt/person/365278348"
+        },
+        {
+            "id": 1468081456,
+            "value": "Ramirez., M.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1468081456"
+        },
+        {
+            "id": 1483250975,
+            "value": "Sayre, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1483250975"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1643/1/76575.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 261111
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1643/2/76575.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 73007
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1643/3/76575.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7120
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1643/1/76575.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1643/2/76575.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1643/3/76575.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1643"
+        }
+    },
+    "extent": "",
+    "page": "955-967",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

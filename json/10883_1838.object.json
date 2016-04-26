@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "An accurate DNA marker assay for stem rust resistance gene Sr2 in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9923
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8136
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27327"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "The stem rust resistance gene Sr2 has provided broad-spectrum protection against stem rust (Puccinia graminis Pers. f. sp. tritici) since its wide spread deployment in wheat from the 1940s. Because Sr2 confers partial resistance which is difficult to select under field conditions, a DNA marker is desirable that accurately predicts Sr2 in diverse wheat germplasm. Using DNA sequence derived from the vicinity of the Sr2 locus, we developed a cleaved amplified polymorphic sequence (CAPS) marker that is associated with the presence or absence of the gene in 115 of 122 (95%) diverse wheat lines. The marker genotype predicted the absence of the gene in 100% of lines which were considered to lack Sr2. Discrepancies were observed in lines that were predicted to carry Sr2 but failed to show the CAPS marker. Given the high level of accuracy observed, the marker provides breeders with a selection tool for one of the most important disease resistance genes of wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_1838",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1838"
+}}

@@ -1,0 +1,134 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "country",
+            "uri": [
+                "http://sws.geonames.org/geonameid",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/country"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:23Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2031",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1993,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2031"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2031"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2031",
+    "creator": [
+        {
+            "id": 1643081466,
+            "value": "Byerlee, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1643081466"
+        },
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2031/1/43173.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1037374
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2031/2/43173.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53770
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2031/3/43173.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6092
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2031/1/43173.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2031/2/43173.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2031/3/43173.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2031"
+        }
+    },
+    "extent": "",
+    "page": "381-393",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

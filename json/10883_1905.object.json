@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Physical mapping of Puroindoline b-2 genes in wheat using 'Chinese spring' chromosome group 7 deletion lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:55Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8583
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6328,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7938,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7751,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "The puroindoline genes (Puroindoline a-D1 and Puroindoline b-D1), located very near to the distal end of the short arm of chromosome 5D (distal to fraction arm length of 0.78) have a significant effect on grain hardness. Puroindoline b-2 (Pinb-2) is another puroindoline gene family that exists as a homoeologous series on group 7 chromosomes. However, a more detailed localization (physical mapping) of the Pinb-2 genes has not been conducted. In the present study, 24 group 7 long-arm chromosome deletion stocks of ?Chinese Spring? were used to physically map three Pinb-2 variant genes: Pinb-2v1, Pinb-2v2, and Pinb-2v4. All three genes were found to be physically located on the most distal 0.11 to 0.16 fraction arm length of chromosomes 7AL, 7BL, and 7DL in Chinese Spring. These results contribute insight into wheat (Triticum aestivum L.) genome synteny, structure, and organization and provide a useful metric for germplasm and population relationships. Future studies may further resolve the physical mapping of Pinb-2 genes at the ends of group 7 chromosomes and contribute to a better understanding of the molecular and genetic basis of kernel hardness.",
+        "lang": "eng"
+    },
+    "appid": "10883_1905",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1905"
+}}

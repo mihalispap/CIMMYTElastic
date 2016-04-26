@@ -1,0 +1,34 @@
+{"object": {
+    "title": {
+        "value": "Investigating the efficiency of the single backcrossing breeding strategy through computer simulation",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:35Z",
+    "subject": {
+        "vocabulary": [
+            "",
+            "agrovoc"
+        ],
+        "score": [
+            "",
+            1
+        ],
+        "value": "backcrossing",
+        "uri": [
+            "",
+            "http://aims.fao.org/aos/agrovoc/c_763"
+        ]
+    },
+    "description": {
+        "value": "A strategy combining single backcrossing with selected bulk breeding has been successfully used in wheat improvement at CIMMYT to introgress rust resistant genes from donor parents to elite adapted cultivars. In this research, the efficiency of this breeding strategy was compared to other crossing and selection strategies through computer simulation. Results indicated this breeding strategy has advantages in retaining or improving the adaptation of the recurrent parents, and at the same time transferring most of the desired donor genes in a wide range of scenarios. Two rounds of backcrossing have advantages when the adaptation of donor parents is much poorer than that of the adapted parents, but the advantage of three rounds of backcrossing over two rounds is minimal. We recommend using the single backcrossing breeding strategy (SBBS) when three conditions are met: (1) multiple genes govern the phenotypic traits to be transferred from donor parents to adapted parents, (2) the donor parents have some favorable genes that may contribute to the improvement of adaptation in the recipient parents, and (3) conventional phenotypic selection is being applied, or individual genotypes cannot be precisely identified. We envisage that all three conditions commonly exist in modern breeding programs, and therefore believe that SBBS could be applied widely. However, we do not exclude the use of repeated backcrossing if the transferred genes can be precisely identified by closely linked molecular markers, and the donor parents have extremely poor adaptation.",
+        "lang": "eng"
+    },
+    "appid": "10883_1756",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1756"
+}}

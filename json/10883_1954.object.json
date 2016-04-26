@@ -1,0 +1,165 @@
+{"object": {
+    "title": {
+        "value": "Efficiency of high-nitrogen selection environments for improving maize for low-nitrogen target environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:07:51Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6783,
+                0.6783,
+                0.6783,
+                0.6783,
+                0.6783,
+                0.6783,
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "resistance to injurious factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6520",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "nitrogen",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8294
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        }
+    ],
+    "description": {
+        "value": "Most maize (Zea mays L.) in the tropics is grown under low-nitrogen (N) conditions, raising the need to assess efficient breeding strategies for such conditions. This study assesses the value of low-N vs. high-N selection environments for improving lowland tropical maize for low-N target environments. Fourteen replicated trials grown under low (no N applied) and high (200 kg N ha(-1) applied) N at CIMMYT, Mexico, between 1986 and 1995 were analyzed for broad-sense heritability of grain yield, genetic correlation between grain yields under low and high N, and predicted response of grain yield under low N to selection under either low or high N, Broad-sense heritabilities for grain yield under low N were on average 29% smaller than under high N because of lower genotypic variances under low N, Error variances were similar at low and high N, Genetic correlations between grain yields under low and high N were generally positive, They decreased with increasing relative yield reduction under low N, indicating that specific adaptation to either low or high N became more important the more low-N and high-N experiments differed in grain yield. Selection under high N for performance under low N was predicted significantly less efficient than selection under low N when relative yield reduction due to N stress exceeded 43%, Maize breeding programs targeting low-N environments in the tropics should include low-N selection environments to maximize selection gains",
+        "lang": "eng"
+    },
+    "appid": "10883_1954",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1954"
+}}

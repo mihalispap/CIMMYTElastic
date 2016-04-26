@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Wheat cultivars in India: names, pedigrees, origins, and adaptations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2012-01-06T05:16:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "provenance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16022",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.681,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "terminology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24907",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1199",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1199"
+}}

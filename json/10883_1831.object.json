@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Isolated chromosomes as a new and efficient source of DArT markers for the saturation of genetic maps",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:44Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic maps",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24002"
+        }
+    ],
+    "description": {
+        "value": "We describe how the diversity arrays technology (DArT) can be coupled with chromosome sorting to increase the density of genetic maps in specific genome regions. Chromosome 3B and the short arm of chromosome 1B (1BS) of wheat were isolated by flow cytometric sorting and used to develop chromosome- and chromosome arm-enriched genotyping arrays containing 2,688 3B clones and 384 1BS clones. Linkage analysis showed that 553 of the 711 polymorphic 3B-derived markers (78%) mapped to chromosome 3B, and 59 of the 68 polymorphic 1BS-derived markers (87%) mapped to chromosome 1BS, confirming the efficiency of the chromosome-sorting approach. To demonstrate the potential for saturation of genetic maps, we constructed a consensus map of chromosome 3B using 19 mapping populations, including some that were genotyped with the 3B-enriched array. The 3B-derived DArT markers doubled the number of genetic loci covered. The resulting consensus map, probably the densest genetic map of 3B available to this date, contains 939 markers (779 DArTs and 160 other markers) that segregate on 304 genetically distinct loci. Importantly, only 2,688 3B-derived clones (probes) had to be screened to obtain almost twice as many polymorphic 3B markers (510) as identified by screening approximately 70,000 whole genome-derived clones (269). Since an enriched DArT array can be developed from less than 5 ng of chromosomal DNA, a quantity which can be obtained within 1 h of sorting, this approach can be readily applied to any crop for which chromosome sorting is available.",
+        "lang": "eng"
+    },
+    "appid": "10883_1831",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1831"
+}}

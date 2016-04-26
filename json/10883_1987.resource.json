@@ -1,0 +1,115 @@
+{"resource": {
+    "citation": "",
+    "issn": "0004-5608",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:09:15Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1987",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1990,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1987"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1987"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1987",
+    "creator": [
+        {
+            "id": 1251160491,
+            "value": "Bebbington, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1251160491"
+        },
+        {
+            "id": 904220307,
+            "value": "Carney, J.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/904220307"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1987/1/18907.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1503071
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1987/2/18907.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 65517
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1987/3/18907.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6849
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1987/1/18907.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1987/2/18907.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1987/3/18907.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1987"
+        }
+    },
+    "extent": "",
+    "page": "34-48",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

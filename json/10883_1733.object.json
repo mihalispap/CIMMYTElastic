@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Development of a West African yam Dioscorea spp. core collection",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:32Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8474,
+                0.8474,
+                0.8474,
+                1,
+                ""
+            ],
+            "value": "dioscorea",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2288",
+                "http://aims.fao.org/aos/agrovoc/c_2288",
+                "http://aims.fao.org/aos/agrovoc/c_2288",
+                "http://aims.fao.org/aos/agrovoc/c_2288",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ex situ conservation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genebank",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic resources",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sampling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yams",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8478"
+        }
+    ],
+    "description": {
+        "value": "Yams (Dioscorea spp.) are important crops in some West African locations. The West African yam collections held at the IITA were characterized using the standard descriptor list for this crop (IPGRI/IITA. 1997. Descriptors for yam (Dioscorea spp.). International Institute of Tropical Agriculture, Ibadan, Nigeria/International Plant Genetic Resources Institute, Rome, Italy) to assess the extent of diversity and develop a core collection employing 77 out of 86 descriptors and the Shannon&ndash;Weaver diversity index. The core collection consists of 391 accessions (13% of entire collection). It represents all the six cultivated and two wild Dioscorea taxa. The appropriateness of the procedure was confirmed by comparing the mean and diversity distributions of 11 (out of 13) quantitative traits. This article explains the relevance of this core collection of yams for West Africa yam cropping and improvement.",
+        "lang": "eng"
+    },
+    "appid": "10883_1733",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1733"
+}}

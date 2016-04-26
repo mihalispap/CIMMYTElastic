@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping of grain length in rice (Oryza sativa L.) using chromosome segment substitution lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:29Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.651
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "oryza sativa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5438"
+        }
+    ],
+    "description": {
+        "value": "Chromosome segment substitution (CSS) lines have the potential for use in QTL fine mapping and map-based cloning. The standard t-test used in the idealized case that each CSS line has a single segment from the donor parent is not suitable for non-idealized CSS lines carrying several substituted segments from the donor parent. In this study, we present a likelihood ratio test based on stepwise regression (RSTEP-LRT) that can be used for QTL mapping in a population consisting of non-idealized CSS lines. Stepwise regression is used to select the most important segments for the trait of interest, and the likelihood ratio test is used to calculate the LOD score of each chromosome segment. This method is statistically equivalent to the standard t-test with idealized CSS lines. To further improve the power of QTL mapping, a method is proposed to decrease multicollinearity among markers (or chromosome segments). QTL mapping with an example CSS population in rice consisting of 65 non-idealized CSS lines and 82 chromosome segments indicated that a total of 18 segments on eight of the 12 rice chromosomes harboured QTLs affecting grain length under the LOD threshold of 2.5. Three major stable QTLs were detected in all eight environments. Some minor QTLs were not detected in all environments, but they could increase or decrease the grain length constantly. These minor genes are also useful in marker-assisted gene pyramiding.",
+        "lang": "eng"
+    },
+    "appid": "10883_1714",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1714"
+}}

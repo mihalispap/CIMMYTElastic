@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "1051-0761",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-06-05T15:45:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1539",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1539"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1539"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1539",
+    "creator": [
+        {
+            "id": 1810152567,
+            "value": "Ahrens, T.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1810152567"
+        },
+        {
+            "id": 1276865072,
+            "value": "Lobell, D.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1276865072"
+        },
+        {
+            "id": 918894784,
+            "value": "Ortiz Monasterio, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/918894784"
+        },
+        {
+            "id": 2020837754,
+            "value": "Li, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/2020837754"
+        },
+        {
+            "id": 430489777,
+            "value": "Matson, P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/430489777"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1539/1/94090.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 553039
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1539/2/94090.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43886
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1539/3/94090.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5599
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1539/1/94090.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1539/2/94090.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1539/3/94090.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1539"
+        }
+    },
+    "extent": "",
+    "page": "91-100",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

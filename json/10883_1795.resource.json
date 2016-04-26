@@ -1,0 +1,209 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Philippines",
+            "uri": [
+                "http://sws.geonames.org/1694008",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Philippines"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southeast Asia",
+            "uri": [
+                "http://sws.geonames.org/6942346",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:40Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1795",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1795"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1795"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1795",
+    "creator": [
+        {
+            "id": 766694737,
+            "value": "Bernier, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/766694737"
+        },
+        {
+            "id": 467553813,
+            "value": "Kumar, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/467553813"
+        },
+        {
+            "id": 109272381,
+            "value": "Venuprasad, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/109272381"
+        },
+        {
+            "id": 608951563,
+            "value": "Spaner, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/608951563"
+        },
+        {
+            "id": 2063462385,
+            "value": "Verulkar, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/2063462385"
+        },
+        {
+            "id": 1747990713,
+            "value": "Mandal, N.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1747990713"
+        },
+        {
+            "id": 1184826874,
+            "value": "Sinha, P.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1184826874"
+        },
+        {
+            "id": 1884989948,
+            "value": "Peeraju, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1884989948"
+        },
+        {
+            "id": 1484173435,
+            "value": "Dongre, P.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1484173435"
+        },
+        {
+            "id": 482023521,
+            "value": "Mahto, R.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/482023521"
+        },
+        {
+            "id": 1350992135,
+            "value": "Atlin, G.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1350992135"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1795/1/93593.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 289419
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1795/2/93593.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 37913
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1795/3/93593.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5634
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1795/1/93593.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1795/2/93593.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1795/3/93593.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1795"
+        }
+    },
+    "extent": "",
+    "page": "207-217",
+    "coverage": [
+        "Philippines",
+        "India",
+        "South Asia",
+        "Southeast Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

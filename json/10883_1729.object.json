@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Genetic distance based on SSR markers and testcross performance of maize inbred lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:31Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic distance-maize (zea mays l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "midparent heterosis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simple sequence repeats (ssrs)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "specific combining ability (sca)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield prediction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heterosis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3705"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simple sequence repeats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "combining ability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15954"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        }
+    ],
+    "description": {
+        "value": "The identification of parental inbred lines to develop superior hybrids is a rather costly and time-consuming step in maize breeding. In some cases, pedigree information has been used to select diverse parental lines. In the case of Iranian maize inbred lines, this information is not fully available. In this study we investigated the genetic distance (GD) based on Simple sequence Repeats (SSR) markers between pairs of five maize testers and 28 inbred lines and assessed the relationship between GD and F1 hybrid performance, specific combining ability (SCA) and midparent heterosis (MPH). One hundred and forty testcrosses were evaluated for grain yield in 2003, 2004 and 2005 at two locations, Karaj and Gorgan (only 2004), Iran. Significant positive but low correlations were found between GD and F1 performance, SCA and MPH (0.27**, 0.39** and 0.28**, respectively). Testers affected the magnitude of correlations, with relatively high values revealed in the Mo17 crosses (0.54**, 0.61** and 0.61** for F1, SCA and MPH, respectively) and lowest values in the B73 crosses. Although GD between parents correlated significantly with hybrid performance, the estimates of GD did not consistently identify the best crosses.",
+        "lang": "eng"
+    },
+    "appid": "10883_1729",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1729"
+}}

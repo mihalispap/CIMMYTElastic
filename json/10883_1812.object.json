@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "Targeting of early to intermediate maize hybrids for yield performance and yield stability using SREG model",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype x environment interactions",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gge biplots",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize hybrids",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "site regression model (sreg)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8333
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6744
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7731
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9818
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The effectiveness of targeting and predicting maize (Zea mays.L) hybrid performance is difficult when the magnitude of genotype x environment (GE) interaction and yield prediction cannot be interpreted and is only based on genotypes (G) and GE means. The traditional analysis of variance (ANOVA) is not sufficient in predicting and giving information into the patterns of genotypes and environments that give rise to GE interaction. The objectives of this study were to show the usefulness of G plus GE interaction (GGE) using the properties of GGE biplot based on the site regression (SREG) model analysis of a biplot in predicting yield performance and stability of early to intermediate maturing hybrids (EIHYB) grown in southern Africa. The SREG analysis model was based on regional trial data of EIHYB from three seasons (2005 - 2007) across 30 environments under four different management practices: well fertilized/rain fed conditions, managed nitrogen stress, managed drought stress, and managed low pH stress. GGE biplots were constructed using the first two principal components (PC1 and PC2) derived from singular value decomposition of environment-centered multi-environmental trials. The PC1 scores of the hybrids and the environments were plotted against their respective PC2 scores to effectively show mean performance and stability for grain yield across years and environments; discriminativeness vs. representativeness of test locations across the years and which-won-where. The SREG model showed that maize hybrids were under major environmental and GE interactions. In spite of large variation from year to year maize hybrids responded positively to better environmental conditions relative to grain yield performance and key environmental patterns could be established.",
+        "lang": "eng"
+    },
+    "appid": "10883_1812",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1812"
+}}

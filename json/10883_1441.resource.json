@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malaysia",
+            "uri": [
+                "http://sws.geonames.org/1733045",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malaysia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southeast Asia",
+            "uri": [
+                "http://sws.geonames.org/6942346",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-05T15:45:28Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1441",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2003,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1441"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1441"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1441",
+    "creator": [
+        {
+            "id": 1132633998,
+            "value": "Faruq, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1132633998"
+        },
+        {
+            "id": 738006793,
+            "value": "Hadjim, M.O.",
+            "type": "person",
+            "uri": "/cimmyt/person/738006793"
+        },
+        {
+            "id": 570848197,
+            "value": "Meisner, C.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/570848197"
+        }
+    ],
+    "publisher": {
+        "id": 2007324348,
+        "value": "http://bit.ly/ZhvAX4",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2007324348"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1441/1/78845.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 31881
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1441/2/78845.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 13751
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1441/3/78845.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6058
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1441/1/78845.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1441/2/78845.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1441/3/78845.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1441"
+        }
+    },
+    "extent": "",
+    "page": "230-232",
+    "coverage": [
+        "Malaysia",
+        "Southeast Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

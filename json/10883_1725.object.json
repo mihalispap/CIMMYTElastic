@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "The molecularization of public sector crop breeding: Progress, problems, and prospects",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8078
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7748
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6253,
+            "value": "germplasm collections",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36739"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6963,
+            "value": "abiotic stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35768"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6708
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "public sector",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_32526"
+        }
+    ],
+    "description": {
+        "value": "Molecular markers and genetic maps are available for most important food crops. Marker-trait associations have been established for a diverse array of traits in these crops, and research on marker/quantitative trait loci (QTL) validation and refinement is increasingly common. Researchers are now routinely using candidate gene-based mapping and genome-wide linkage disequilibrium and association analysis in addition to classical QTL mapping to identify markers broadly applicable to breeding programs. Marker-assisted selection (MAS) is practiced for enhancing various host plant resistances, several quality traits, and a number of abiotic stress tolerances in many well-researched crops. Markers are also increasingly used to transfer yield or quality- enhancing QTL alleles from wild relatives to elite cultivars. Large-scale MAS-based breeding programs for crops such as rice, maize, wheat, barley, pearl millet, and common bean have already been initiated worldwide. Advances in &ldquo;omics&rdquo; technologies are now assisting researchers to address complex biological issues of significant agricultural importance: modeling genotype-by-environment interaction; fine-mapping, cloning, and pyramiding of QTL; gene expression analysis and gene function elucidation; dissecting the genetic structure of germplasm collections to mine novel alleles and develop genetically structured trait-based core collections; and understanding the molecular basis of heterosis. The challenge now is to translate and integrate this knowledge into appropriate tools and methodologies for plant breeding programs. The role of computational tools in achieving this is becoming increasingly important. It is expected that harnessing the outputs of genomics research will be an important component in successfully addressing the challenge of doubling world food production by 2050.",
+        "lang": "eng"
+    },
+    "appid": "10883_1725",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1725"
+}}

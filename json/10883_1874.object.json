@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "Whole-genome strategies for marker-assisted plant breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:51Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "whole-genome strategies",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted recurrent selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping platform",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "precision phenotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environmental assay (e-typing)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding informatics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "decision support tools",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9623
+            ],
+            "value": "strategies",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330991"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9431
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6225
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "selection",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "recurrent selection",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27595"
+        }
+    ],
+    "description": {
+        "value": "Molecular breeding for complex traits in crop plants requires understanding and manipulation of many factors influencing plant growth, development and responses to an array of biotic and abiotic stresses. Molecular marker-assisted breeding procedures can be facilitated and revolutionized through whole-genome strategies, which utilize full genome sequencing and genome-wide molecular markers to effectively address various genomic and environmental factors through a representative or complete set of genetic resources and breeding materials. These strategies are now increasingly based on understanding of specific genomic regions, genes/alleles, haplotypes, linkage disequilibrium (LD) block(s), gene networks and their contribution to specific phenotypes. Large-scale and high-density genotyping and genome-wide selection are two important components of these strategies. As components of whole-genome strategies, molecular breeding platforms and methodologies should be backed up by high throughput and precision phenotyping and e-typing (environmental assay) with strong support systems such as breeding informatics and decision support tools. Some basic strategies are discussed in this article, including (1) seed DNA-based genotyping for simplifying marker-assisted selection (MAS), reducing breeding cost and increasing scale and efficiency, (2) selective genotyping and phenotyping, combined with pooled DNA analysis, for capturing the most important contributing factors, (3) flexible genotyping systems, such as genotyping by sequencing and arraying, refined for different selection methods including MAS, marker-assisted recurrent selection and genomic selection (GS), (4) marker-trait association analysis using joint linkage and LD mapping, and (5) sequence-based strategies for marker development, allele mining, gene discovery and molecular breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_1874",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1874"
+}}

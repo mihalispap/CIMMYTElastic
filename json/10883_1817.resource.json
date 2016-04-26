@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "1369-5266",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:43Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1817",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1817"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1817"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1817",
+    "creator": [
+        {
+            "id": 101284018,
+            "value": "Ribaut, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/101284018"
+        },
+        {
+            "id": 53356309,
+            "value": "de Vicente, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/53356309"
+        },
+        {
+            "id": 273067288,
+            "value": "Delannay, X.",
+            "type": "person",
+            "uri": "/cimmyt/person/273067288"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1817/1/94296.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 242797
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1817/2/94296.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33410
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1817/3/94296.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7430
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1817/1/94296.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1817/2/94296.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1817/3/94296.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1817"
+        }
+    },
+    "extent": "",
+    "page": "213-218",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

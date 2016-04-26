@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Comparison of SSRs and SNPs in assessment of genetic relatedness in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:56Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snp",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "population structure",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kinship",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pca",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Advances in high-throughput SNP genotyping and genome sequencing technologies have enabled genome-wide association mapping in dissecting the genetic basis of complex quantitative traits. In this study, 82 SSRs and 884 SNPs with minor allele frequencies (MAF) over 0.20 were used to compare their ability to assess population structure, principal component analysis (PCA) and relative kinship in a maize association panel consisting of 154 inbred lines. Compared to SNPs, SSRs provided more information on genetic diversity. The expected heterozygosity (He) of SSRs and SNPs averaged 0.65 and 0.44, and the polymorphic information content of these two markers was 0.61 and 0.34 in this panel, respectively. Additionally, SSRs performed better at clustering all lines into groups using STRUCTURE and PCA approaches, and estimating relative kinship. For both marker systems, the same clusters were observed based on PCA and the first two eigenvectors accounted for similar percentage of genetic variations in this panel. The correlation coefficients of each eigenvector from SSRs and SNPs decreased sharply when the eigenvector varied from 1 to 3, but kept around 0 when the eigenvector were over 3. The kinship estimates based on SSRs and SNPs were moderately correlated (r 2 = 0.69). All these results suggest that SSR markers with moderate density are more informative than SNPs for assessing genetic relatedness in maize association mapping panels.",
+        "lang": "eng"
+    },
+    "appid": "10883_1911",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1911"
+}}

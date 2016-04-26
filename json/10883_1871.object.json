@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Indirect selection using reference and probe genotype performance in multi-environment trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environment characterisation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype-by-environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "response to selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7616
+            ],
+            "value": "trials",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2758"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9821
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "selection",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6951"
+        }
+    ],
+    "description": {
+        "value": "There is a substantial challenge in identifying appropriate cultivars from databases for introduction into a breeding program. We propose an indirect selection procedure that illustrates how strategically designed multi-environment trials, linked to historical performance databases, can identify germplasm to meet objectives of plant breeding programs. Two strategies for indirect selection of germplasm from the International Wheat and Maize Improvement Center?s (CIMMYT) trial database were developed based on reference and probe genotype sets included in the International Adaptation Trial (IAT). The IAT was designed to improve the understanding of relationships among global spring wheat (Triticum spp.) locations. Grain yield (t/ha) data were collated from 183 IAT trials grown in 40 countries (including Australia) between 2001 and 2004. The reference genotype set strategy used the genetic correlations among locations in the IAT to identify locations similar to a target environment. For a key southern Australian breeding location, Roseworthy, the number of cultivars targeted for selection was reduced to 35% of the original 1252. The Irrigated Winter Cereals Trials (2008?09) aimed to identify high yield potential lines in south-eastern Australian irrigated environments. Thirty-five CIMMYT cultivars identified using the reference genotype selection strategy were grown in this trial series. In all trials, the proportion of CIMMYT cultivars in the top 20% yielding lines exceeded the expected proportion, 0.20. The probe genotype strategy utilised contrasting line yield responses to assess the occurrence of soil-borne stresses such as root lesion nematode (Pratylenchus thorneii) and boron toxicity. For these stresses, the number of targeted cultivars was reduced to 25% and 83% of the original 1252, respectively.",
+        "lang": "eng"
+    },
+    "appid": "10883_1871",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1871"
+}}

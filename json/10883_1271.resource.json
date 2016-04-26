@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:18:54Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1271",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1271"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1271"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1271",
+    "creator": [
+        {
+            "id": 963002460,
+            "value": "Coyne, D.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/963002460"
+        },
+        {
+            "id": 1895644386,
+            "value": "Nicol, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1895644386"
+        },
+        {
+            "id": 1765336462,
+            "value": "Claudius-Cole, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1765336462"
+        }
+    ],
+    "publisher": {
+        "id": 1455407986,
+        "value": "CIMMYT *SP-IPM *IITA *CTA",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1455407986"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1271/1/94220.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 3046329
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1271/2/94220.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 123207
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1271/3/94220.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7827
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1271/1/94220.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1271/2/94220.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1271/3/94220.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1271"
+        }
+    },
+    "extent": "",
+    "page": "vi, 82 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-131-337-4",
+    "quality": "",
+    "place": "Cotonou (Benin)",
+    "doi": ""
+}}

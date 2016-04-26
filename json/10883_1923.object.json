@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Performance prediction of F1 hybrids between recombinant inbred lines derived from two elite maize inbred lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.795
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7727
+            ],
+            "value": "models",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4881"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8691
+            ],
+            "value": "hybrids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3707"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Selection of recombinant inbred lines (RILs) from elite hybrids is a key method in maize breeding especially in developing countries. The RILs are normally derived by repeated self-pollination and selection. In this study, we first investigated the accuracy of different models in predicting the performance of F1 hybrids between RILs derived from two elite maize inbred lines Zong3 and 87-1, and then compared these models through simulation using a wider range of genetic models. Results indicated that appropriate prediction models depended on genetic architecture, e.g., combined model using breeding value and genome-wide prediction (BV+GWP) has the highest prediction accuracy for high VD/VA ratio (>0.5) traits. Theoretical studies demonstrated that different components of genetic variance were captured by different prediction models, which in turn explained the accuracy of these models in predicting the F1 hybrid performance. Based on genome-wide prediction model (GWP), 114 untested F1 hybrids possibly having higher grain yield than the original F1 hybrid Yuyu22 (the single cross between Zong3 and 87-1) have been identified and recommended for further field test",
+        "lang": "eng"
+    },
+    "appid": "10883_1923",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1923"
+}}

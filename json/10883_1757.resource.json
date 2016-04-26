@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:35Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1757",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1757"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1757"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1757",
+    "creator": [
+        {
+            "id": 1385211229,
+            "value": "Ceron-Rojas, J.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1385211229"
+        },
+        {
+            "id": 1009382168,
+            "value": "Castillo-Gonzalez, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1009382168"
+        },
+        {
+            "id": 1089862405,
+            "value": "Sahagun-Castellanos, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1089862405"
+        },
+        {
+            "id": 843273856,
+            "value": "Santacruz-Varela, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/843273856"
+        },
+        {
+            "id": 810391883,
+            "value": "Benitez-Riquelme, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/810391883"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1757/1/91453.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 179899
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1757/2/91453.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 52210
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1757/3/91453.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6411
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1757/1/91453.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1757/2/91453.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1757/3/91453.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1757"
+        }
+    },
+    "extent": "",
+    "page": "547-557",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Are soil conservation technologies \"win-win?\" A case study of Anjeni in the north-western Ethiopian highlands",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ethiopia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "value of crop income",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil conservation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "propensity score matching",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agro-ecology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "terraces",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28166"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8606
+            ],
+            "value": "soil erosion",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2651"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        }
+    ],
+    "description": {
+        "value": "This study measures the impact of fanya juu terraces on the net value of crop income in a high-rainfall area in the Ethiopian highlands using cross-sectional multiple plot observations. Using propensity score matching methods we find that the net value of crop income for plots with fanya juu terraces is lower than for plots without fanya juu terraces. This finding makes it difficult to avoid concluding that while the technologies might reduce soil erosion and associated off-site effects, they do so at the expense of poor farmers in the Ethiopian highlands. Therefore, fanya juu terraces cannot be characterized as a ?win-win? measure to reduce soil erosion. New agricultural technologies need to be profitable to the farmer if they are to be adopted and sustained.",
+        "lang": "eng"
+    },
+    "appid": "10883_1563",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1563"
+}}

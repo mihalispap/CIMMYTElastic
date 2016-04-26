@@ -1,0 +1,174 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:29Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1715",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1715"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1715"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1715",
+    "creator": [
+        {
+            "id": 95521771,
+            "value": "Hysing, S-C",
+            "type": "person",
+            "uri": "/cimmyt/person/95521771"
+        },
+        {
+            "id": 982334229,
+            "value": "Hsam, S.L.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/982334229"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        },
+        {
+            "id": 1393075174,
+            "value": "Huerta-Espino, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1393075174"
+        },
+        {
+            "id": 1425281691,
+            "value": "Boyd, L.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1425281691"
+        },
+        {
+            "id": 1242449131,
+            "value": "Koebner, R.M.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1242449131"
+        },
+        {
+            "id": 1088945651,
+            "value": "Cambron, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1088945651"
+        },
+        {
+            "id": 1772494230,
+            "value": "Johnson, J.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1772494230"
+        },
+        {
+            "id": 965219668,
+            "value": "Bland, D.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/965219668"
+        },
+        {
+            "id": 1786818520,
+            "value": "Liljeroth, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1786818520"
+        },
+        {
+            "id": 172752863,
+            "value": "Merker, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/172752863"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1715/1/89740.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 96642
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1715/2/89740.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43196
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1715/3/89740.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7499
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1715/1/89740.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1715/2/89740.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1715/3/89740.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1715"
+        }
+    },
+    "extent": "",
+    "page": "254-260",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

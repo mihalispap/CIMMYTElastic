@@ -1,0 +1,168 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:39Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1791",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1791"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1791"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1791",
+    "creator": [
+        {
+            "id": 109272381,
+            "value": "Venuprasad, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/109272381"
+        },
+        {
+            "id": 1001656328,
+            "value": "Dalid, C.O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1001656328"
+        },
+        {
+            "id": 135464134,
+            "value": "Del Valle, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/135464134"
+        },
+        {
+            "id": 1368875302,
+            "value": "Zhao, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1368875302"
+        },
+        {
+            "id": 1727829300,
+            "value": "Espiritu, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1727829300"
+        },
+        {
+            "id": 948109917,
+            "value": "Sta Cruz, M.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/948109917"
+        },
+        {
+            "id": 178152095,
+            "value": "Amante, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/178152095"
+        },
+        {
+            "id": 467553813,
+            "value": "Kumar, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/467553813"
+        },
+        {
+            "id": 1350992135,
+            "value": "Atlin, G.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1350992135"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1791/1/93589.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 289003
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1791/2/93589.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 63697
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1791/3/93589.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5272
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1791/1/93589.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1791/2/93589.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1791/3/93589.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1791"
+        }
+    },
+    "extent": "",
+    "page": "177-190",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

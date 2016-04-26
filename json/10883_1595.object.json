@@ -1,0 +1,144 @@
+{"object": {
+    "title": {
+        "value": "Impact of conservation agriculture on catchment runoff and soil loss under changing climate conditions in May Zeg-zeg (Ethiopia)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-06-07T20:59:22Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "curve number",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "infiltration",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26789",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "organic carbon",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "permanent bed",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ponding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "water conservation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6949
+            ],
+            "value": "soil",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7156"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6209
+            ],
+            "value": "rill erosion",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27001"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9936
+            ],
+            "value": "runoff",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35388"
+            ]
+        }
+    ],
+    "description": {
+        "value": "This study evaluates the practice of conservation agriculture (CA) in the May Zeg-zeg catchment (MZZ; 187 ha) in the North Ethiopian Highlands as a soil management technique for reducing soil loss and runoff, and assesses the consequences of future large-scale implementation on soil and hydrology at catchment-level. The study of such practice is important especially under conditions of climate change, since EdGCM (Educational Global Climate Model) simulation predicts by 2040 an increase in precipitation by more than 100 mm yr&#8722;1 in the study area. Firstly, field-saturated infiltration rates, together with soil texture and soil organic carbon contents, were measured. The relation with local topography allows to generate a pedotransfer function for field-saturated infiltration rate, and spatial interpolation with Linear Regression Mapping was used to map field-saturated infiltration rates optimally within the catchment. Secondly, on several farmlands, CA was checked against plain tillage (PT) for values of field-saturated infiltration rates, soil organic carbon, runoff and soil loss. Results show no significant differences for infiltration rates but significant differences for runoff and soil loss (as measured in the period 2005?2011). Runoff coefficients were 30.4% for PT and 18.8% for CA; soil losses were 35.4 t ha&#8722;1 yr&#8722;1 for PT and 14.4 t ha&#8722;1 yr&#8722;1 for CA. Thirdly, all collected information was used to predict future catchment hydrological response for full-implementation of CA under the predicted wetter climate (simulation with EdGCM). Curve Numbers for farmlands with CA were calculated. An area-weighted Curve Number allows the simulation of the 2011 rainy season runoff, predicting a total runoff depth of 23.5 mm under CA and 27.9 mm under PT. Furthermore, the Revised Universal Soil Loss Equation management factor P was calibrated for CA. Results also show the important influence of increased surface roughness on water ponding, modeled with a hydrologic conservation balance. By coupling this model with the infiltration rate map, a ?ponding map? of the catchment was established. Finally, a sediment budget for a full future implementation scenario of CA has been estimated, predicting a large impact of CA on sheet and rill erosion rates, since total soil loss due to sheet and rill erosion in cropland would become 581 t yr&#8722;1 instead of 1109 t yr&#8722;1, if CA would be practiced in MZZ. Simulation of several policy scenarios shows that especially under a future wetter North-East-African climate, CA would be a beneficial alternative for the current plain tillage, as it will increase infiltration and keep runoff coefficients under control.",
+        "lang": "eng"
+    },
+    "appid": "10883_1595",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1595"
+}}

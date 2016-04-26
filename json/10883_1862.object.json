@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Does susceptibility to heat stress confound screening for drought tolerance in rice?",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flowering",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spikelet fertility",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tissue temperature",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7249
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14914"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7271
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6153
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spikelets",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7301"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tissue",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49880"
+        }
+    ],
+    "description": {
+        "value": "Drought affected rice areas are predicted to double by the end of this century, demanding greater tolerance in widely adapted mega-varieties. Progress on incorporating better drought tolerance has been slow due to lack of appropriate phenotyping protocols. Furthermore, existing protocols do not consider the effect of drought and heat interactions, especially during the critical flowering stage, which could lead to false conclusion about drought tolerance. Screening germplasm and mapping-populations to identify quantitative trait loci (QTL)/candidate genes for drought tolerance is usually conducted in hot dry seasons where water supply can be controlled. Hence, results from dry season drought screening in the field could be confounded by heat stress, either directly on heat sensitive processes such as pollination or indirectly by raising tissue temperature through reducing transpirational cooling under water deficit conditions. Drought-tolerant entries or drought-responsive candidate genes/QTL identified from germplasm highly susceptible to heat stress during anthesis/flowering have to be interpreted with caution. During drought screening, germplasm tolerant to water stress but highly susceptible to heat stress has to be excluded during dry and hot season screening. Responses to drought and heat stress in rice are compared and results from field and controlled environment experiments studying drought and heat tolerance and their interaction are discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_1862",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1862"
+}}

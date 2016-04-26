@@ -1,0 +1,25 @@
+{"object": {
+    "title": {
+        "value": "A Hierarchical Bayesian Estimation Model for Multi-Environment Plant Breeding Trials in Successive Years",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": {
+        "vocabulary": "",
+        "score": "",
+        "value": "",
+        "uri": ""
+    },
+    "description": {
+        "value": "In agriculture and plant breeding, multi-environment trials over multiple years are conducted to evaluate and predict genotypic performance under different environmental conditions, and to analyze, study, and interpret genotype × environment interaction (G×E). In this study, we propose a hierarchical Bayesian formulation of a linear-bilinear model, where the conditional conjugate prior for the bilinear (multiplicative) G×E interaction term is the matrix von Mises-Fisher distribution (with environments and sites defined as synonymous). A hierarchical normal structure is assumed for linear effects of genotypes and sites, and priors for precision parameters are assumed to follow gamma distributions. Bivariate Highest Posterior Density (HPD) regions for the posterior multiplicative components of the interaction are shown within the usual biplots. Simulated and real maize breeding multi-site data sets were analyzed. Results showed that the proposed model facilitates identifying groups of genotypes and sites that cause G×E across years and within years, since the hierarchical Bayesian structure allows using plant breeding data from different years by borrowing information among them. This model offers the researcher valuable information about the G×E interaction patterns not only for each one-year period of the breeding trials but also for the general process that originates the response across these periods.",
+        "lang": ""
+    },
+    "appid": "11529_10463",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10463"
+}}

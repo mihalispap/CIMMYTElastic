@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "An 11-bp insertion in Zea mays fatb reduces the palmitic acid content of fatty acids in Maize grain",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:48Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "unsaturated fatty acids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29245"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9843
+            ],
+            "value": "palmitic acid",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5517"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The ratio of saturated to unsaturated fatty acids in maize kernels strongly impacts human and livestock health, but is a complex trait that is difficult to select based on phenotype. Map-based cloning of quantitative trait loci (QTL) is a powerful but time-consuming method for the dissection of complex traits. Here, we combine linkage and association analyses to fine map QTL-Pal9, a QTL influencing levels of palmitic acid, an important class of saturated fatty acid. QTL-Pal9 was mapped to a 90-kb region, in which we identified a candidate gene, Zea mays fatb (Zmfatb), which encodes acyl-ACP thioesterase. An 11-bp insertion in the last exon of Zmfatb decreases palmitic acid content and concentration, leading to an optimization of the ratio of saturated to unsaturated fatty acids while having no effect on total oil content. We used three-dimensional structure analysis to explain the functional mechanism of the ZmFATB protein and confirmed the proposed model in vitro and in vivo. We measured the genetic effect of the functional site in 15 different genetic backgrounds and found a maximum change of 4.57 mg/g palmitic acid content, which accounts for ~20?60% of the variation in the ratio of saturated to unsaturated fatty acids. A PCR-based marker for QTL-Pal9 was developed for marker-assisted selection of nutritionally healthier maize lines. The method presented here provides a new, efficient way to clone QTL, and the cloned palmitic acid QTL sheds lights on the genetic mechanism of oil biosynthesis and targeted maize molecular breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_1853",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1853"
+}}

@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "Screening of tolerant spring barleys for terminal heat stress: Different importance of yield components in barleys with different row type",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6228,
+                0.6228,
+                0.6228,
+                0.6228,
+                1,
+                1,
+                ""
+            ],
+            "value": "barley",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spike type",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yield components",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24419",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop-physiological traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "terminal heat stress",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stress indices",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8335
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spikes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24086"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7452"
+        }
+    ],
+    "description": {
+        "value": "To comparing barleys with different spike type in terms of yield and substantial yield components under terminal heat stress, 12 spring barley genotypes were tested at two levels of sowing dates i.e., normal (5 Dec) and late sowing (20 Jan) during the years 2005-2007. The crop-physiological status of plants was remarkably affected by terminal heat stress which ultimately reduced grain yield. Optimum Plant Height (PLH) of two types of barleys were about 90 and 80 cm under optimum and heat stress condition, respectively indicating that under heat stress, the genes for reduced height may have increased the portion of assimilate to grain rather than to the stem. Observed difference in yield of 2-row genotypes was primarily caused by heat-induced reduction of S m-2 and GW, instead of reduction of G S-1, whereas in 6-row barleys, G S-1 has higher contribution to grain yield than GW. According to comparing genotypes and using stress indices, genotypes which have higher grain yield in both stress and optimum conditions, such as L6 and L8 were identified as heat-tolerant genotypes.",
+        "lang": "eng"
+    },
+    "appid": "10883_1863",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1863"
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Global map of wheat mega-environments",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                null
+            ],
+            "value": "global positioning systems",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36733",
+                "http://oek1.fao.org/skosmos/agrovoc/en/page/c_36733"
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        }
+    ],
+    "description": {
+        "value": "Global map of maize mega-environments. The map show twelve different mega-environments around the world.",
+        "lang": ""
+    },
+    "appid": "11529_10625",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10625"
+}}

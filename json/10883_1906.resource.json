@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "2095-3119",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:55Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1906",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1906"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1906"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1906",
+    "creator": [
+        {
+            "id": 145307012,
+            "value": "Dong Chang-hai",
+            "type": "person",
+            "uri": "/cimmyt/person/145307012"
+        },
+        {
+            "id": 1715671705,
+            "value": "Ma Zhi-ying",
+            "type": "person",
+            "uri": "/cimmyt/person/1715671705"
+        },
+        {
+            "id": 1965699741,
+            "value": "Xia Xian-Chun",
+            "type": "person",
+            "uri": "/cimmyt/person/1965699741"
+        },
+        {
+            "id": 1783012206,
+            "value": "Zhang Li-Ping",
+            "type": "person",
+            "uri": "/cimmyt/person/1783012206"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        }
+    ],
+    "publisher": {
+        "id": 429883236,
+        "value": "http://www.sciencedirect.com/science/article/pii/S2095311912600999",
+        "type": "organization",
+        "uri": "/cimmyt/organization/429883236"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1906/1/97516.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 790785
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1906/2/97516.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 26183
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1906/3/97516.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 14238
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1906/1/97516.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1906/2/97516.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1906/3/97516.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1906"
+        }
+    },
+    "extent": "",
+    "page": "1067-1074",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:35Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1755",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1755"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1755"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1755",
+    "creator": [
+        {
+            "id": 882626768,
+            "value": "Ndjiondjop, M.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/882626768"
+        },
+        {
+            "id": 1361982940,
+            "value": "Semagn, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1361982940"
+        },
+        {
+            "id": 545925340,
+            "value": "Sie, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/545925340"
+        },
+        {
+            "id": 460989026,
+            "value": "Cissoko, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/460989026"
+        },
+        {
+            "id": 2019780053,
+            "value": "Fatondji, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2019780053"
+        },
+        {
+            "id": 1411025036,
+            "value": "Jones, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1411025036"
+        }
+    ],
+    "publisher": {
+        "id": 1434787982,
+        "value": "http://www.academicjournals.org/AJB/abstracts/abs2008/3Dec/Ndjiondjop%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1434787982"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1755/1/91169.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 311339
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1755/2/91169.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40768
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1755/3/91169.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7333
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1755/1/91169.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1755/2/91169.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1755/3/91169.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1755"
+        }
+    },
+    "extent": "",
+    "page": "4219-4229",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1672-9072",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:54Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1895",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1895"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1895"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1895",
+    "creator": [
+        {
+            "id": 151571400,
+            "value": "Cabrera-Bosquet, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/151571400"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1291549717,
+            "value": "Zitzewitz, J. von",
+            "type": "person",
+            "uri": "/cimmyt/person/1291549717"
+        },
+        {
+            "id": 1294360768,
+            "value": "Serret, M.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1294360768"
+        },
+        {
+            "id": 1325692744,
+            "value": "Araus, J.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1325692744"
+        }
+    ],
+    "publisher": {
+        "id": 363958730,
+        "value": "http://onlinelibrary.wiley.com/doi/10.1111/j.1744-7909.2012.01116.x/abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/363958730"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1895/1/96998.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 795500
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1895/2/96998.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 44673
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1895/3/96998.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 19977
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1895/1/96998.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1895/2/96998.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1895/3/96998.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1895"
+        }
+    },
+    "extent": "",
+    "page": "312-320",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

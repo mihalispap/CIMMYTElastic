@@ -1,0 +1,135 @@
+{"resource": {
+    "citation": "",
+    "issn": "1355-770X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:44Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1828",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1828"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1828"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1828",
+    "creator": [
+        {
+            "id": 546701206,
+            "value": "Krishna, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/546701206"
+        },
+        {
+            "id": 740525300,
+            "value": "PASCUAL, U.",
+            "type": "person",
+            "uri": "/cimmyt/person/740525300"
+        },
+        {
+            "id": 1232831622,
+            "value": "Zilberman, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1232831622"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1828/1/94516.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 196174
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1828/2/94516.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 73484
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1828/3/94516.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4749
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1828/1/94516.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1828/2/94516.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1828/3/94516.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1828"
+        }
+    },
+    "extent": "",
+    "page": "127-151",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

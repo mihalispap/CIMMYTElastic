@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "A method of assessing the yield stability of crop genotypes",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:31Z",
+    "created": "2013-06-07T21:02:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1972",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "chemicophysical properties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1521",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "stability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36930",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1631",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1631"
+}}

@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Genetic characterization and linkage disequilibrium estimation of a global maize collection using SNP markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7935
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6839,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7772
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6167
+            ],
+            "value": "decay",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27464"
+            ]
+        }
+    ],
+    "description": {
+        "value": "A newly developed maize Illumina GoldenGate Assay with 1536 SNPs from 582 loci was used to genotype a highly diverse global maize collection of 632 inbred lines from temperate, tropical, and subtropical public breeding programs. A total of 1229 informative SNPs and 1749 haplotypes within 327 loci was used to estimate the genetic diversity, population structure, and familial relatedness. Population structure identified tropical and temperate subgroups, and complex familial relationships were identified within the global collection. Linkage disequilibrium (LD) was measured overall and within chromosomes, allelic frequency groups, subgroups related by geographic origin, and subgroups of different sample sizes. The LD decay distance differed among chromosomes and ranged between 1 to 10 kb. The LD distance increased with the increase of minor allelic frequency (MAF), and with smaller sample sizes, encouraging caution when using too few lines in a study. The LD decay distance was much higher in temperate than in tropical and subtropical lines, because tropical and subtropical lines are more diverse and contain more rare alleles than temperate lines. A core set of inbreds was defined based on haplotypes, and 60 lines capture 90% of the haplotype diversity of the entire panel. The defined core sets and the entire collection can be used widely for different research targets.",
+        "lang": "eng"
+    },
+    "appid": "10883_1802",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1802"
+}}

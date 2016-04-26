@@ -1,0 +1,171 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-05T15:45:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1421",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2000,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1421"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1421"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1421",
+    "creator": [
+        {
+            "id": 691745551,
+            "value": "Esilaba, A.O.",
+            "type": "person",
+            "uri": "/cimmyt/person/691745551"
+        },
+        {
+            "id": 721041620,
+            "value": "Reda, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/721041620"
+        },
+        {
+            "id": 1367302285,
+            "value": "Ransom, J.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1367302285"
+        },
+        {
+            "id": 1471567514,
+            "value": "Bayu, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1471567514"
+        },
+        {
+            "id": 1960625375,
+            "value": "Woldewahid, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1960625375"
+        },
+        {
+            "id": 1036810468,
+            "value": "Zemichael, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1036810468"
+        }
+    ],
+    "publisher": {
+        "id": 803054799,
+        "value": "http://www.bioline.org.br/abstract?id=cs00042&lang=en",
+        "type": "organization",
+        "uri": "/cimmyt/organization/803054799"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1421/1/74393.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 67953
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1421/2/74393.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 27579
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1421/3/74393.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8315
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1421/1/74393.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1421/2/74393.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1421/3/74393.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1421"
+        }
+    },
+    "extent": "",
+    "page": "403-410",
+    "coverage": [
+        "Ethiopia",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "1021-9730/2000",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

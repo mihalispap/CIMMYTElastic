@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:24Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1680",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1680"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1680"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1680",
+    "creator": [
+        {
+            "id": 1826118403,
+            "value": "Urrea, C.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1826118403"
+        },
+        {
+            "id": 1278977138,
+            "value": "Horsley, R.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1278977138"
+        },
+        {
+            "id": 1916921609,
+            "value": "Steffenson, B.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1916921609"
+        },
+        {
+            "id": 412501980,
+            "value": "Schwarz, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/412501980"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1680/1/82035.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 80288
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1680/2/82035.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38758
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1680/3/82035.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7355
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1680/1/82035.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1680/2/82035.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1680/3/82035.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1680"
+        }
+    },
+    "extent": "",
+    "page": "1235-1245",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

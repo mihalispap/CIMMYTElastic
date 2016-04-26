@@ -1,0 +1,116 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Bangladesh",
+        "uri": [
+            "http://sws.geonames.org/1210997",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:15:55Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1168",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1992,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1168"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1168"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1168",
+    "creator": {
+        "id": 570848197,
+        "value": "Meisner, C.A.",
+        "type": "person",
+        "uri": "/cimmyt/person/570848197"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1168/1/42770.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 943856
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1168/2/42770.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30609
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1168/3/42770.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4423
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1168/1/42770.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1168/2/42770.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1168/3/42770.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1168"
+        }
+    },
+    "extent": "No. 3",
+    "page": "15 pags",
+    "coverage": [
+        "Bangladesh",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6127-98-4",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

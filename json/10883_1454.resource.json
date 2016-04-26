@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-05T15:45:30Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1454",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2004,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1454"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1454"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1454",
+    "creator": [
+        {
+            "id": 342879509,
+            "value": "Gutiérrez Rodríguez, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/342879509"
+        },
+        {
+            "id": 150978955,
+            "value": "Escalante Estrada, J.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/150978955"
+        },
+        {
+            "id": 1535596962,
+            "value": "Rodriguez gonzalez, M.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1535596962"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        }
+    ],
+    "publisher": {
+        "id": 1560628427,
+        "value": "http://www.chapingo.mx/terra/contenido/22/4/tc.html",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1560628427"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1454/1/80859.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 78911
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1454/2/80859.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30893
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1454/3/80859.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6912
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1454/1/80859.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1454/2/80859.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1454/3/80859.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1454"
+        }
+    },
+    "extent": "",
+    "page": "409-416",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Meta-analysis of constitutive and adaptive QTL for drought tolerance in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8464,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "The response of plants to drought stress is very complex and involves expression of a lot of genes and pathways for diverse mechanisms and interactions with environments. Many quantitative trait loci(QTL) mapping experiments have given heterogeneous results due to use of different genotypes and populations tested in various environments. Our purpose was to identify some important constitutive and adaptive QTL using meta-analysis and to find specific genes and their families for speculating on drought tolerance networks. A total of 239 QTL detected under water-stressed conditions and 160 detected under control conditions from 12 populations tested in 22 experiments were compiled and compared, resulting in identification of 39 consensus QTL under water stress, and 36 under control conditions. Of them, 32 consensus QTL were supposed to be adaptive while others were constitutive QTL. The consensus QTL on chromosomes 1, 2, 3, 5, 6 and 9 were highly overlapped with several different traits and could be identified under multiple environments, most of which were related to traits of high phenotypic variance. Moreover, 48 candidate genes related to stress tolerance were located in silico in these consensus QTL regions what should facilitate the construction of QTL networks and help to understand the mechanisms related to drought tolerance.",
+        "lang": "eng"
+    },
+    "appid": "10883_1844",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1844"
+}}

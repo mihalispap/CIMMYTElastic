@@ -1,0 +1,129 @@
+{"object": {
+    "title": [
+        {
+            "value": "Safe Movement of Germlasm (SGM) database",
+            "lang": "eng"
+        },
+        {
+            "value": "Safe Transfer of Germplasm (STOG) database",
+            "lang": ""
+        }
+    ],
+    "updated": "2015-05-28T16:33:31Z",
+    "created": "2012-07-17T15:38:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "phytopathology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9461
+            ],
+            "value": "databases",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24833"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6828
+            ],
+            "value": "information",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330966"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6723
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Database with information on pests and diseases and different country requirements for phytopathological certificates. The 'Safe Germplasm Movement' (SGM) database has been developed by CIMMYT. It allows to manage and update the information regarding import and export requirements for shipping seed of CGIAR mandate crops for all countries in the world. The information included in the database is based on the information received by Germplasm/Seed health Units managers in each center. Most data for wheat and maize have been entered as of December 2009, and information for several other crops has been entered. Each Center has now the opportunity to populate and update the database for its mandate crop(s). It is an on-going process",
+        "lang": "eng"
+    },
+    "appid": "10883_566",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_566"
+}}

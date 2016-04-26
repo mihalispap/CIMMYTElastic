@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Conservation agriculture, increased organic carbon in the top-soil macro-aggregates and reduced soil CO2 emissions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-06-07T20:59:22Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "aggregate stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "soil co2 emissions",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "monoculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4915"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "co2",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1302"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "soil",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7156"
+        }
+    ],
+    "description": {
+        "value": "Background and aims:  Conservation agriculture, the combination of minimal soil movement (zero or reduced tillage), crop residue retention and crop rotation, might have the potential to increase soil organic C content and reduce emissions of CO2.  Methods:  Three management factors were analyzed: (1) tillage (zero tillage (ZT) or conventional tillage (CT)), (2) crop rotation (wheat monoculture (W), maize monoculture (M) and maize-wheat rotation (R)), and (3) residue management (with (+r), or without (&#8722;r) crop residues). Samples were taken from the 0?5 and 5?10 cm soil layers and separated in micro-aggregates (< 0.25 mm), small macro-aggregates (0.25 to 1 mm) and large macro-aggregates (1 to 8 mm). The carbon content of each aggregate fraction was determined.  Results:  Zero tillage combined with crop rotation and crop residues retention resulted in a higher proportion of macro-aggregates. In the 0?5 cm layer, plots with a crop rotation and monoculture of maize and wheat in ZT+r had the greatest proportion of large stable macro-aggregates (40%) and highest mean weighted diameter (MWD) (1.7 mm). The plots with CT had the largest proportion of micro-aggregates (27%). In the 5?10 cm layer, plots with residue retention in both CT and ZT (maize 1 mm and wheat 1.5 mm) or with monoculture of wheat in plots under ZT without residues (1.4 mm) had the greatest MWD. The 0?10 cm soil layer had a greater proportion of small macroaggregates compared to large macro-aggregates and micro-aggregates. In the 0?10 cm layer of soil with residues retention and maize or wheat, the greatest C content was found in the small and large macro-aggregates. The small macro-aggregates contributed most C to the organic C of the sample. For soil cultivated with maize, the CT treatments had significantly higher CO2 emissions than the ZT treatments. For soil cultivated with wheat, CTR-r had significantly higher CO2 emissions than all other treatments.  Conclusion:  Reduction in soil disturbance combined with residue retention increased the C retained in the small and large macro-aggregates of the top soil due to greater aggregate stability and reduced the emissions of CO2 compared with conventional tillage without residues retention and maize monoculture (a cultivation system normally used in the central highlands of Mexico).",
+        "lang": "eng"
+    },
+    "appid": "10883_1598",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1598"
+}}

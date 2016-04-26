@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-05T15:45:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1509",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1509"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1509"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1509",
+    "creator": [
+        {
+            "id": 1144909355,
+            "value": "Pullemen, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1144909355"
+        },
+        {
+            "id": 286719450,
+            "value": "Hellin, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/286719450"
+        },
+        {
+            "id": 978852860,
+            "value": "Flores Velazquez, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/978852860"
+        },
+        {
+            "id": 244811837,
+            "value": "Lopez Baez, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/244811837"
+        }
+    ],
+    "publisher": {
+        "id": 439826433,
+        "value": "http://subscriptions.leisa.info/index.php?url=article-details.tpl&p%5B_id%5D=209095",
+        "type": "organization",
+        "uri": "/cimmyt/organization/439826433"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1509/1/90502.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 339323
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1509/2/90502.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 17576
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1509/3/90502.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7471
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1509/1/90502.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1509/2/90502.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1509/3/90502.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1509"
+        }
+    },
+    "extent": "",
+    "page": "6-8 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

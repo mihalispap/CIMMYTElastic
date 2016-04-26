@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:35Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1754",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1754"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1754"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1754",
+    "creator": [
+        {
+            "id": 1977617214,
+            "value": "Valdez-Ojeda, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1977617214"
+        },
+        {
+            "id": 1373921093,
+            "value": "Hernandez-Stefanoni, J.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1373921093"
+        },
+        {
+            "id": 897878549,
+            "value": "Aguilar-Espinosa, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/897878549"
+        },
+        {
+            "id": 1291835707,
+            "value": "Rivera-Madrid, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1291835707"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        },
+        {
+            "id": 816168456,
+            "value": "Quiros, C.F.",
+            "type": "person",
+            "uri": "/cimmyt/person/816168456"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1754/1/90974.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 255880
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1754/2/90974.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 29355
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1754/3/90974.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7552
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1754/1/90974.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1754/2/90974.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1754/3/90974.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1754"
+        }
+    },
+    "extent": "",
+    "page": "2013-2017",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:49Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1862",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1862"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1862"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1862",
+    "creator": [
+        {
+            "id": 2041508139,
+            "value": "Jagadish, K.S.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/2041508139"
+        },
+        {
+            "id": 1508327757,
+            "value": "Cairns, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1508327757"
+        },
+        {
+            "id": 467553813,
+            "value": "Kumar, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/467553813"
+        },
+        {
+            "id": 451372237,
+            "value": "Somayanda, I.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/451372237"
+        },
+        {
+            "id": 2045389995,
+            "value": "Craufurd , P.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/2045389995"
+        }
+    ],
+    "publisher": {
+        "id": 1168114658,
+        "value": "http://www.publish.csiro.au/nid/102/paper/FP10224.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1168114658"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1862/1/95574.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 487504
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1862/2/95574.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 50966
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1862/3/95574.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 17795
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1862/1/95574.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1862/2/95574.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1862/3/95574.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1862"
+        }
+    },
+    "extent": "",
+    "page": "261-269",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

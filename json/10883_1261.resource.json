@@ -1,0 +1,189 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bangladesh",
+            "uri": [
+                "http://sws.geonames.org/1210997",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Brazil",
+            "uri": [
+                "http://sws.geonames.org/3469034",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Brazil"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Thailand",
+            "uri": [
+                "http://sws.geonames.org/1605651",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Thailand"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/4254884",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southeast Asia",
+            "uri": [
+                "http://sws.geonames.org/SA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/6255150",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:18:36Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1261",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": 1988,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1261"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1261"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1261",
+    "creator": {
+        "id": 859554781,
+        "value": "Klatt, A.R.",
+        "type": "person",
+        "uri": "/cimmyt/person/859554781"
+    },
+    "publisher": {
+        "id": 1844790926,
+        "value": "CIMMYT*UNDP",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1844790926"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1261/1/9015.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 24898244
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1261/2/9015.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 993458
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1261/3/9015.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6747
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1261/1/9015.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1261/2/9015.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1261/3/9015.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1261"
+        }
+    },
+    "extent": "",
+    "page": "vii, 410 pags",
+    "coverage": [
+        "Thailand",
+        "Brazil",
+        "Bangladesh",
+        "South America",
+        "Southeast Asia",
+        "Central America",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6127-22-4",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

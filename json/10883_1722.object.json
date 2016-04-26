@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Development, characterization and utilization of microsatellite markers in pigeonpea",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cajanus cajan",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1185",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8985,
+                0.8985,
+                0.8985,
+                1,
+                1,
+                ""
+            ],
+            "value": "microsatellites",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simple sequence repeat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7611
+            ],
+            "value": "loci",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simple sequence repeats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        }
+    ],
+    "description": {
+        "value": "Pigeonpea is a major legume of the semi-arid tropics that has been neglected in terms of molecular breeding. The objectives of this study were to develop microsatellite markers and evaluate their potential for use in pigeonpea genetics and breeding. Two hundred and eightmicrosatellite loci were isolated by screening a non-enriched partial genomic library. Primers were designed for 39 microsatellite loci, 20 of which amplified polymerase chain reaction products of the expected size. Nineteen of the primer pairs were polymorphic amongst 15 cultivated and nine wild pigeonpea accessions providing evidence for cross-species transferability within the genus Cajanus. A total of 98 alleles were detected at the 19 polymorphic loci with an average of 4.9 alleles per locus. The observed heterozygosity ranged from 0.17 to 0.80 with a mean of 0.42 per locus. Less allelic variation (31 alleles) was observed within the cultivated species than across the wild species (92 alleles). The diversity analysis readily distinguished all wild relatives from each other and from the cultivated germplasm. Development of more microsatellites is recommended for future genomic studies in pigeonpea.",
+        "lang": "eng"
+    },
+    "appid": "10883_1722",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1722"
+}}

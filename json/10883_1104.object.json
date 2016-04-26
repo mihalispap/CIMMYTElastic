@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "The increasing role of wheat consumption and imports in the developing world",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:44Z",
+    "created": "2012-01-06T05:14:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "production possibilities",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6207",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "income",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3820",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "consumer behaviour",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1821",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food consumption",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3016",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.7558,
+                ""
+            ],
+            "value": "imports",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3815",
+                "http://aims.fao.org/aos/agrovoc/c_3815",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "developing countries",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food preferences",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_29779",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "urban areas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8511,
+            "value": "consumption",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1827"
+        }
+    ],
+    "description": {
+        "value": "This study presents in detail the themes explored in the CIMMYT publication, World Wheat Facts and Trends, Report 2 (1983). It looks at changes in wheat consumption in developing countries, examines the increasing importance of wheat imports in these countries, and provides some interpretations for these trends.",
+        "lang": "eng"
+    },
+    "appid": "10883_1104",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1104"
+}}

@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Probability models for detecting transgenic plants",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adventitious presence of transgenic plants",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "binomial distribution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "negative binomial distribution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pool number",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pool size",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sample size",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "individuals",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49823"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "transgenic plants",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27619"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "distribution",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2338"
+            ]
+        }
+    ],
+    "description": {
+        "value": "When detecting the adventitious presence of transgenic plants (AP), it is important to use an appropriate testing method in the laboratory. Dorfman's group testing method is effective for reducing the number of laboratory analyses, but does not consider the case where AP is diluted below the sensitivity of the analyses, which causes the rate of false negatives to increase. The objective of this study is to propose binomial and negative binomial probabilistic models for determining the required sample size (n), number of pools (g), and size of the pool (k) for detecting individuals possessing AP with a probability = (1 - a) (for a small a) given: (1) pool size (k); (2) estimated proportion of individuals with AP in the population (p); (3) concentration of the trait of interest (AP) in individual seeds (w); and (4) detection limit of the test (c) (AP concentration in a pool below which it cannot be detected). The proposed models consider the different rates of false positives (d) and false negatives (?), and the assessment of consumer and producer risks. Results have shown that when using the negative binomial, a required sample size n can be determined that guarantees a high probability that m individuals or g pools containing AP will be found. The pools formed have an optimum size, such that one element with AP will be detected at a low cost. The negative binomial distribution should be used when it is known that the proportion of individuals with AP in the population is p < 0.1; thus, it is guaranteed that m individuals or g pools of individuals with AP will be detected with high probability.",
+        "lang": "eng"
+    },
+    "appid": "10883_1749",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1749"
+}}

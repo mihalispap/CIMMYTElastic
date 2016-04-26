@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Empirical comparison of simple sequence repeats and single nucleotide polymorphisms in assessment of maize diversity and relatedness",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:31Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8195
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6119,
+            "value": "genetic markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6766
+            ],
+            "value": "simple sequence repeats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_36574"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6386
+            ],
+            "value": "measure",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330493"
+            ]
+        }
+    ],
+    "description": {
+        "value": "While Simple Sequence Repeats (SSRs) are extremely useful genetic markers, recent advances in technology have produced a shift toward use of single nucleotide polymorphisms (SNPs). The different mutational properties of these two classes of markers result in differences in heterozygosities and allele frequencies that may have implications for their use in assessing relatedness and evaluation of genetic diversity. We compared analyses based on 89 SSRs (primarily dinucleotide repeats) to analyses based on 847 SNPs in individuals from the same 259 inbred maize lines, which had been chosen to represent the diversity available among current and historic lines used in breeding. The SSRs performed better at clustering germplasm into populations than did a set of 847 SNPs or 554 SNP haplotypes, and SSRs provided more resolution in measuring genetic distance based on allele-sharing. Except for closely related pairs of individuals, measures of distance based on SSRs were only weakly correlated with measures of distance based on SNPs. Our results suggest that 1) large numbers of SNP loci will be required to replace highly polymorphic SSRs in studies of diversity and relatedness and 2) relatedness among highly-diverged maize lines is difficult to measure accurately regardless of the marker system.",
+        "lang": "eng"
+    },
+    "appid": "10883_1728",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1728"
+}}

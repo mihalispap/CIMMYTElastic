@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Genomic Prediction of Marker × Environment Interaction Kernel Regression Models",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "kernels",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25387"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "The marker × environment interaction (M×E) decomposes the marker effects into main effects and interaction environmental-specific effects. The M×E interaction may be modeled through a linear kernel (Genomic Best Linear Unbiased Predictor, GBLUP) or with non-linear Gaussian kernels. In this paper we proposed to use two non-linear Gaussian kernels, one is the Reproducing Kernel Hilbert Space with Kernel Averaging (RKHS KA) and the other is the Gaussian kernel with the bandwidth estimated through an empirical Bayesian method (GKb). The three methods (GBLUP, RKHS KA, and GKb) were used to model single-environment and were extended to account for the M×E interaction (GBLUP-ME, RKHS KA-ME and GKb-ME) in wheat and maize data sets. Prediction accuracy was assessed by a c cross validation scheme that predicts the performance of lines in environments where the lines were not observed. For the single-environment analyses of wheat and maize data sets, GKb and RKHS KA had higher prediction accuracy than the GBLUP for all environments. For wheat data set, RKHS KA-ME and GKb-ME model did not show any advantage over the single-environment model for pair of environments with zero or negative correlations but up to 68% superiority for pairs of environments with positive correlation. For wheat data, the M×E interaction models with Gaussian kernels had accuracies up to 17% over that of the GBLUP-ME.  Prediction accuracy of GKb-ME and RKHS KA-ME were up to 12% higher than those of the GBLUP-ME. The superiority of the Gaussian kernel models over the linear kernel couple with the M×E model is due to a more flexible kernels that allow to account for  more complex small marker main effects and marker specific interaction effects.",
+        "lang": ""
+    },
+    "appid": "11529_10580",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10580"
+}}

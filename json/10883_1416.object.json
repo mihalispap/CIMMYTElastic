@@ -1,0 +1,210 @@
+{"object": {
+    "title": {
+        "value": "Integration of environmental, agronomic, and economic aspects of fertilizer management",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:24Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.809,
+                0.809,
+                1,
+                ""
+            ],
+            "value": "fertilization",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2863",
+                "http://aims.fao.org/aos/agrovoc/c_2863",
+                "http://aims.fao.org/aos/agrovoc/c_2863",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6719,
+                1,
+                ""
+            ],
+            "value": "nitrogen fertilizers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5195",
+                "http://aims.fao.org/aos/agrovoc/c_5195",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fertilizer application",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10795",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "application methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_542",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "application rates",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16113",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "technology transfer",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7645",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "innovation adoption",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3878",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "economic analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2469",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7652,
+            "value": "nitrous oxide",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12838"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7061,
+            "value": "nitric oxide",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36996"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9839,
+            "value": "economic aspects",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28674"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fertilizers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2867"
+        }
+    ],
+    "description": {
+        "value": "Nitrogen fertilization is a substantial source of nitrogen-containing trace gases that have both regional and global consequences, In the intensive wheat systems of Mexico, typical fertilization practices lead to extremely high fluxes of nitrous oxide (N2O) and nitric oxide (NO). In experiments, lower rates of nitrogen fertilizer, applied later in the crop cycle, reduced the loss of nitrogen without affecting yield and grain quality. Economic analyses projected this alternative practice to save 12 to 17 percent of after-tax profits, A knowledge-intensive approach to fertilizer management can substitute for higher levels of inputs, saving farmers money and reducing environmental costs.",
+        "lang": "eng"
+    },
+    "appid": "10883_1416",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1416"
+}}

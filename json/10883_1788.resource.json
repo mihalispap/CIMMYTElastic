@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "South America",
+        "uri": [
+            "http://sws.geonames.org/SA",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:39Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1788",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1788"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1788"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1788",
+    "creator": [
+        {
+            "id": 975950170,
+            "value": "Mahuku, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/975950170"
+        },
+        {
+            "id": 1441188673,
+            "value": "Iglesias, A.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1441188673"
+        },
+        {
+            "id": 632861819,
+            "value": "Jara, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/632861819"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1788/1/93502.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 283706
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1788/2/93502.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53691
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1788/3/93502.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5647
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1788/1/93502.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1788/2/93502.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1788/3/93502.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1788"
+        }
+    },
+    "extent": "",
+    "page": "381-396",
+    "coverage": "South America",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

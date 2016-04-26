@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Identifying QTLs and epistasis in structured plant populations using adaptive mixed LASSO",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "oracle property",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "penalized regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "shrinkage estimation",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Association analysis in important crop species has generated heightened interest for its potential in dissecting complex traits by utilizing diverse mapping populations. However, the mixed linear model approach is currently limited to single marker analysis, which is not suitable for studying multiple QTL effects, epistasis and gene by environment interactions. In this paper, we propose the adaptive mixed LASSO method that can incorporate a large number of predictors (genetic markers, epistatic effects, environmental covariates, and gene by environment interactions) while simultaneously accounting for the population structure. We show that the adaptive mixed LASSO estimator possesses the oracle property of adaptive LASSO. Algorithms are developed to iteratively estimate the regression coefficients and variance components. Our results demonstrate that the adaptive mixed LASSO method is very promising in modeling multiple genetic effects when a large number of markers are available and the population structure cannot be ignored. It is expected to be a powerful tool for studying the architecture of complex traits in important plant species. Supplemental materials for this article are available from the journal website.",
+        "lang": "eng"
+    },
+    "appid": "10883_1823",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1823"
+}}

@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:15:51Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1165",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1991,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1165"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1165"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1165",
+    "creator": [
+        {
+            "id": 498511541,
+            "value": "Burnett, P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/498511541"
+        },
+        {
+            "id": 2080785056,
+            "value": "Robinson, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2080785056"
+        },
+        {
+            "id": 83483977,
+            "value": "Skovmand, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/83483977"
+        },
+        {
+            "id": 1353557133,
+            "value": "Mujeeb-Kazi, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1353557133"
+        },
+        {
+            "id": 1651208989,
+            "value": "Hettel, G.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1651208989"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1165/1/42764.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 646170
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1165/2/42764.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53161
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1165/3/42764.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5398
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1165/1/42764.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1165/2/42764.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1165/3/42764.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1165"
+        }
+    },
+    "extent": "No. 1",
+    "page": "27 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6127-78-X",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

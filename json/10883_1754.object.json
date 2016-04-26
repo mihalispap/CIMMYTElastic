@@ -1,0 +1,144 @@
+{"object": {
+    "title": {
+        "value": "Assessing morphological and genetic variation in annatto (Bixa orellana L.) by sequence-related amplified polymorphism and cluster analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bixin",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7928,
+                0.7928,
+                ""
+            ],
+            "value": "genetic improvement",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11119",
+                "http://aims.fao.org/aos/agrovoc/c_11119",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "two-step cluster",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "amova",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7622
+            ],
+            "value": "genetic variation",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_15975"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6465
+            ],
+            "value": "analysis",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49928"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6272
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bixa orellana",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_943"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        }
+    ],
+    "description": {
+        "value": "Annatto (Bixa orellana L.) is the sole source of bixin, a seed-specific red apocarotenoid pigment used worldwide. Genetic improvement of annatto has focused on increasing bixin content as well as fostering traits that favor higher content such as pod indehiscence and flower color, among others. Eighty-seven samples collected from two separate important agricultural regions of the southeast of Mexico were characterized morphologically and analyzed genetically for the first time. The sequence-related amplified polymorphism was used for genetic analysis. Two-step cluster analysis of the individuals based on morphological traits produced three groups: one containing individuals with desired morphological characteristics and two others with complementary traits. Like the morphological analysis, the genetic analysis indicated high genetic variation, although the dendrogram based on Nei and Li's similarity coefficient showed them to be dispersed by collection site. However, calculated similarity index values indicated all individuals exhibited high genetic variation. The results are an important advance toward a more effective genetic improvement of annatto because crosses between the different morphological and/or genetic groups described here have the potential to produce a recombination of desired traits in hybrid offspring.",
+        "lang": "eng"
+    },
+    "appid": "10883_1754",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1754"
+}}

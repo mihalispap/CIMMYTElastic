@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:26Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1688",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1688"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1688"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1688",
+    "creator": [
+        {
+            "id": 1799491126,
+            "value": "Wang, L.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1799491126"
+        },
+        {
+            "id": 434494983,
+            "value": "Liu, W.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/434494983"
+        },
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        },
+        {
+            "id": 1663784579,
+            "value": "He, Y.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1663784579"
+        },
+        {
+            "id": 1156999968,
+            "value": "Luo, L.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1156999968"
+        },
+        {
+            "id": 28631367,
+            "value": "Xing, Y.Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/28631367"
+        },
+        {
+            "id": 798480163,
+            "value": "Xu, C.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/798480163"
+        },
+        {
+            "id": 427109177,
+            "value": "Zhang Qifa",
+            "type": "person",
+            "uri": "/cimmyt/person/427109177"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1688/1/82971.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 320119
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1688/2/82971.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57773
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1688/3/82971.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5765
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1688/1/82971.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1688/2/82971.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1688/3/82971.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1688"
+        }
+    },
+    "extent": "",
+    "page": "463-476",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

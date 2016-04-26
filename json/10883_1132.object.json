@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "La rouille quantification",
+        "lang": "fra"
+    },
+    "updated": "2016-01-22T23:05:44Z",
+    "created": "2012-01-06T05:14:59Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6354",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rusts",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "evaluation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cereals",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1132",
+    "language": {
+        "value": "fra",
+        "uri": "http://lexvo.org/id/iso639-3/fra"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1132"
+}}

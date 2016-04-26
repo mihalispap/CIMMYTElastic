@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:07:51Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1953",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1996,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1953"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1953"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1953",
+    "creator": [
+        {
+            "id": 1668578117,
+            "value": "Chiduza, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1668578117"
+        },
+        {
+            "id": 943329178,
+            "value": "Waddington, S.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/943329178"
+        },
+        {
+            "id": 2007757249,
+            "value": "Mariga, I.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2007757249"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1953/1/62228.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 513029
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1953/2/62228.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 11
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1953/3/62228.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3842
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1953/1/62228.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1953/2/62228.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1953/3/62228.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1953"
+        }
+    },
+    "extent": "",
+    "page": "33-43",
+    "coverage": [
+        "Zimbabwe",
+        "Southern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

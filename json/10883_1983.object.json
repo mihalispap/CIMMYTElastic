@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "An analysis of the economic potential of some innovations in a wheat breeding programme",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-07T21:09:14Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic engineering",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cost benefit analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1919",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1983",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1983"
+}}

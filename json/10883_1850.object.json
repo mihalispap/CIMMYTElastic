@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Collection and characterization of maize and upland rice populations cropped by poor farmers in the uplands of Panama's Azuero region",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "classification",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1653",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "naming practices",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenotypes",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7002
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6183
+            ],
+            "value": "upland rice",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8076"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        }
+    ],
+    "description": {
+        "value": "The conservation of crop genetic resources is an international priority and requires the continued collection and characterization of farmer varieties. We collected and characterized maize and upland rice populations cropped by farmers in Panama's Azuero region. The objective of our study was to evaluate the crop genetic diversity of farmer varieties of maize and upland rice grown by poor farmers in Panama. We found that: (1) farmers' naming practices only partially corresponded to genetic relationships and were the strongest for rice populations; (2) farmers' classification of populations as modern or \"traditional\" was reflected in phenotypic differences; (3) Panamanian maize populations were molecularly distinct from populations collected elsewhere in Latin America; and (4) heterogeneous rice populations were common and heterogeneity was often due to admixture of recognized farmer varieties. Our results indicate that poor farmers in Panama continue to farm \"traditional\" varieties that harbour genetic diversity of interest. There has, however, been substantial adoption of \"modern\" varieties.",
+        "lang": "eng"
+    },
+    "appid": "10883_1850",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1850"
+}}

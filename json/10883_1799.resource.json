@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "1380-3743",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:40Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1799",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1799"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1799"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1799",
+    "creator": [
+        {
+            "id": 283115836,
+            "value": "Yanping Sun",
+            "type": "person",
+            "uri": "/cimmyt/person/283115836"
+        },
+        {
+            "id": 1031538120,
+            "value": "Jiankang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1031538120"
+        },
+        {
+            "id": 150234408,
+            "value": "Crouch, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150234408"
+        },
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1799/1/93775.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1371261
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1799/2/93775.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 72326
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1799/3/93775.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5285
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1799/1/93775.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1799/2/93775.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1799/3/93775.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1799"
+        }
+    },
+    "extent": "",
+    "page": "493-511",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Regulation of secondary metabolism by the carbon-nitrogen status in tobacco: nitrate inhibits large sectors of phenylpropanoid metabolism",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:29Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carbon-nutrient hypothesis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6777,
+                0.6777,
+                0.6777,
+                0.6777,
+                1,
+                ""
+            ],
+            "value": "nicotine",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5179",
+                "http://aims.fao.org/aos/agrovoc/c_5179",
+                "http://aims.fao.org/aos/agrovoc/c_5179",
+                "http://aims.fao.org/aos/agrovoc/c_5179",
+                "http://aims.fao.org/aos/agrovoc/c_5179",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrate reductase",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_29520",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenylpropanopids",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "secondary metabolism",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8529
+            ],
+            "value": "nitrogen",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5192"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrates",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5187"
+        }
+    ],
+    "description": {
+        "value": "Interactions between nitrogen and carbon metabolism modulate many aspects of the metabolism, physiology and development of plants. This paper investigates the contribution of nitrate and nitrogen metabolism to the regulation of phenylpropanoid and nicotine synthesis. Wild-type tobacco was grown on 12 or 0.2 mM nitrate and compared with a nitrate reductase-deficient mutant [Nia30(145)] growing on 12 mM nitrate. Nitratedeficient wild-type plants accumulate high levels of a range of phenylpropanoids including chlorogenic acid, contain high levels of rutin, are highly lignified, but contain less nicotine than nitrogen-replete wild-type tobacco. Nia30(145) resembles nitrate-deficient wild-type plants with respect to the levels of amino acids, but accumulates large amounts of nitrate. The levels of phenylpropanoids, rutin and lignin resemble those in nitrogen-replete wild-type plants, whereas the level of nicotine resembles that in nitrate-deficient wild-type plants. Expression arrays and real time RT-PCR revealed that a set of genes required for phenylpropanoid metabolism including PAL, 4CL and HQT are induced in nitrogen-deficient wild-type plants but not in Nia30(145). It is concluded that nitrogen deficiency leads to a marked shift from the nitrogen-containing alkaloid nicotine to carbon-rich phenylpropanoids. The stimulation of phenylpropanoid metabolism is triggered by changes of nitrate, rather than downstream nitrogen metabolites, and is mediated by induction of a set of enzymes in the early steps of the phenylpropanoid biosynthetic pathway.",
+        "lang": "eng"
+    },
+    "appid": "10883_1718",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1718"
+}}

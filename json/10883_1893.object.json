@@ -1,0 +1,25 @@
+{"object": {
+    "title": {
+        "value": "Sample size with finite populations and imperfect diagnostic tests for pooled samples",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": {
+        "vocabulary": "",
+        "score": "",
+        "value": "",
+        "uri": ""
+    },
+    "description": {
+        "value": "Group testing methods are used for classifying and estimating a proportion when the response is binary (0 or 1) and the proportion to be estimated is lower than 10%. Group testing techniques are becoming increasingly popular due to their considerable savings in time and money compared to more traditional testing methods. Until now, group testing formulas derived for determining sample size when classifying or estimating a proportion have been based on the assumption of an infinite population. However, in many cases, the population is finite and appropriate formulas are needed to  determine sample size. For this reason, a new formula is proposed to determine the required sample size for estimating the proportion (p) that ensures narrow confidence intervals (CI) in finite populations with imperfect diagnostic tests (tests whose sensitivity and specificity are less than 100%). With this formula there is a ¦Ã probability that the (1¨C¦Á)100% confidence interval will be narrower than a specified value, ¦Ø. «¥e proposed formula determines the number of groups (¨ÀF) needed to estimate the proportion of interest and ensures with high probability that the observed CI will be narrower than ¦Ø. We show how to use the proposed formula and provide tables relevant for practical applications. Finally, we present an R program that may be used to determine sample size for finite group testing problems.",
+        "lang": "eng"
+    },
+    "appid": "10883_1893",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1893"
+}}

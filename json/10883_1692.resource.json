@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:26Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1692",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1692"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1692"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1692",
+    "creator": [
+        {
+            "id": 703679759,
+            "value": "Buhariwalla, H.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/703679759"
+        },
+        {
+            "id": 1269363656,
+            "value": "Jarret, R.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1269363656"
+        },
+        {
+            "id": 623403906,
+            "value": "Jayashree, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/623403906"
+        },
+        {
+            "id": 150234408,
+            "value": "Crouch, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150234408"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1692/1/89064.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 253901
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1692/2/89064.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1692/3/89064.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5847
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1692/1/89064.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1692/2/89064.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1692/3/89064.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1692"
+        }
+    },
+    "extent": "",
+    "page": "327-330",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

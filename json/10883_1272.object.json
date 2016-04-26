@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Guia practica para la identificacion de algunas enfermedades de trigo y cebada",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:58Z",
+    "created": "2012-01-06T05:18:56Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4788",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "hordeum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3660",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mycoses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "epidemiology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "research projects",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1272",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1272"
+}}

@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "The statistical power of inclusive composite interval mapping in detecting digenic epistasis showing common F2 segregation ratios",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6664,
+                0.6664,
+                1,
+                ""
+            ],
+            "value": "epistasis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_32461",
+                "http://aims.fao.org/aos/agrovoc/c_32461",
+                "http://aims.fao.org/aos/agrovoc/c_32461",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "false discovery rate",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inclusive composite interval mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "power analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simulation study",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Epistasis is a commonly observed genetic phenomenon and an important source of variation of complex traits, which could maintain additive variance and therefore assure the long-term genetic gain in breeding. Inclusive composite interval mapping (ICIM) is able to identify epistatic quantitative trait loci (QTLs) no matter whether the two interacting QTLs have any additive effects. In this article, we conducted a simulation study to evaluate detection power and false discovery rate (FDR) of ICIM epistatic mapping, by considering F2 and doubled haploid (DH) populations, different F2 segregation ratios and population sizes. Results indicated that estimations of QTL locations and effects were unbiased, and the detection power of epistatic mapping was largely affected by population size, heritability of epistasis, and the amount and distribution of genetic effects. When the same likelihood of odd (LOD) threshold was used, detection power of QTL was higher in F2 population than power in DH population; meanwhile FDR in F2 was also higher than that in DH. The increase of marker density from 10 cM to 5 cM led to similar detection power but higher FDR. In simulated populations, ICIM achieved better mapping results than multiple interval mapping (MIM) in estimation of QTL positions and effect. At the end, we gave epistatic mapping results of ICIM in one actual population in rice (Oryza sativa L.).",
+        "lang": "eng"
+    },
+    "appid": "10883_1888",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1888"
+}}

@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Supplying wheat for Asia's increasingly westernized diets",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:27Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "asia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3025",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food supply",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3029",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "technology transfer",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7645",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "innovation adoption",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3878",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6863,
+            "value": "diet",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2261"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2060",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2060"
+}}

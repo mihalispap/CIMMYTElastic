@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:54Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1901",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1901"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1901"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1901",
+    "creator": [
+        {
+            "id": 331902037,
+            "value": "Rebetzke, G.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/331902037"
+        },
+        {
+            "id": 1765974730,
+            "value": "Ellis, M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1765974730"
+        },
+        {
+            "id": 1678471235,
+            "value": "Bonnett, D.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1678471235"
+        },
+        {
+            "id": 1835077639,
+            "value": "Mickelson, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1835077639"
+        },
+        {
+            "id": 2022172439,
+            "value": "Condon, A.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2022172439"
+        },
+        {
+            "id": 569284327,
+            "value": "Richards, R.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/569284327"
+        }
+    ],
+    "publisher": {
+        "id": 32798032,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429011003376",
+        "type": "organization",
+        "uri": "/cimmyt/organization/32798032"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1901/1/97419.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 413988
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1901/2/97419.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 64552
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1901/3/97419.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5888
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1901/1/97419.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1901/2/97419.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1901/3/97419.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1901"
+        }
+    },
+    "extent": "",
+    "page": "87-96",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

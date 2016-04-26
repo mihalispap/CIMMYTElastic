@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:16:30Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1190",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1994,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1190"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1190"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1190",
+    "creator": [
+        {
+            "id": 2090798858,
+            "value": "Delgado, M.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/2090798858"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 1130726190,
+            "value": "Larque Saavedra, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1130726190"
+        },
+        {
+            "id": 550308870,
+            "value": "Nava Sanchez, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/550308870"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1190/1/53065.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1270272
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1190/2/53065.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46653
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1190/3/53065.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5416
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1190/1/53065.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1190/2/53065.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1190/3/53065.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1190"
+        }
+    },
+    "extent": "No. 30",
+    "page": "iii, 17 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-24-1",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

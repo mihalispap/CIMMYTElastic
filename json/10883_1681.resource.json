@@ -1,0 +1,141 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:24Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1681",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1681"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1681"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1681",
+    "creator": [
+        {
+            "id": 1031538120,
+            "value": "Jiankang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1031538120"
+        },
+        {
+            "id": 1613861558,
+            "value": "Eagles, H.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1613861558"
+        },
+        {
+            "id": 1843311085,
+            "value": "Trethowan R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1843311085"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1681/1/82048.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 146076
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1681/2/82048.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38594
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1681/3/82048.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2980
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1681/1/82048.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1681/2/82048.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1681/3/82048.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1681"
+        }
+    },
+    "extent": "",
+    "page": "465-473",
+    "coverage": [
+        "Australia",
+        "Global"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

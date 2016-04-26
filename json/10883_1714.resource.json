@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:29Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1714",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2006,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1714"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1714"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1714",
+    "creator": [
+        {
+            "id": 1031538120,
+            "value": "Jiankang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1031538120"
+        },
+        {
+            "id": 552691350,
+            "value": "Xiangyuan Wan",
+            "type": "person",
+            "uri": "/cimmyt/person/552691350"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 150234408,
+            "value": "Crouch, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150234408"
+        },
+        {
+            "id": 139813565,
+            "value": "Jianfeng Weng",
+            "type": "person",
+            "uri": "/cimmyt/person/139813565"
+        },
+        {
+            "id": 1348292261,
+            "value": "Huqu Zhai",
+            "type": "person",
+            "uri": "/cimmyt/person/1348292261"
+        },
+        {
+            "id": 1279030442,
+            "value": "Jianmin Wan",
+            "type": "person",
+            "uri": "/cimmyt/person/1279030442"
+        }
+    ],
+    "publisher": {
+        "id": 1466175694,
+        "value": "http://bit.ly/10Qygxy",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1466175694"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1714/1/89690.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 176506
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1714/2/89690.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 63448
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1714/3/89690.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5706
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1714/1/89690.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1714/2/89690.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1714/3/89690.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1714"
+        }
+    },
+    "extent": "",
+    "page": "93-104",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

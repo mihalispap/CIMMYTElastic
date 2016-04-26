@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:40Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1794",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1794"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1794"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1794",
+    "creator": [
+        {
+            "id": 766694737,
+            "value": "Bernier, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/766694737"
+        },
+        {
+            "id": 789326059,
+            "value": "Serraj, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/789326059"
+        },
+        {
+            "id": 467553813,
+            "value": "Kumar, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/467553813"
+        },
+        {
+            "id": 109272381,
+            "value": "Venuprasad, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/109272381"
+        },
+        {
+            "id": 372820380,
+            "value": "Impa, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/372820380"
+        },
+        {
+            "id": 2122651504,
+            "value": "Veeresh Gowda R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/2122651504"
+        },
+        {
+            "id": 619566791,
+            "value": "Oane, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/619566791"
+        },
+        {
+            "id": 608951563,
+            "value": "Spaner, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/608951563"
+        },
+        {
+            "id": 1350992135,
+            "value": "Atlin, G.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1350992135"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1794/1/93592.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 246308
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1794/2/93592.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 49180
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1794/3/93592.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6227
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1794/1/93592.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1794/2/93592.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1794/3/93592.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1794"
+        }
+    },
+    "extent": "",
+    "page": "139-146",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

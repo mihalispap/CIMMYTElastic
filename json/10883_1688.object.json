@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Genetic basis of 17 traits and viscosity parameters characterizing the eating and cooking quality of rice grain",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "viscosity",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_15219"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cooking quality",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330711"
+        }
+    ],
+    "description": {
+        "value": "A recombinant inbred line population derived from a cross between Zhenshan 97 and Delong 208 was used to analyze the genetic basis of the cooking and eating quality of rice as reflected by 17 traits (or parameters). These traits include amylose content (AC), gel consistency (GC), alkali spreading value (ASV), cooked rice elongation (CRE), and 13 parameters from the viscosity profile. All the traits, except peak paste viscosity (PKV), time needed from gelatinization to peak (BAtime), and CRE, can be divided into two classes according to their interrelationship. The first class consists of AC, GC, and most of the paste viscosity parameters that form a major determinant of eating quality. The second class includes ASV, pasting temperature (Atemp) and pasting time (Atime), which characterize cooking process. We identified 26 QTL (quantitative trait locus or loci) in 2 years; nine QTL clusters emerged. The two major clusters, which correspond to the Wx and Alk loci, control the traits in the first and second classes, respectively. Some QTL are co-located for the traits belonging to the same class and also for the traits to a different class. The Wx locus also affects on ASV while the Alk locus also makes minor contributions to GC and some paste viscosity parameters. The QTL clusters on other chromosomes are similar to the Wx locus or Alk locus, although the variations they explained are relatively minor. QTL for CRE and PKV are dispersed and independent of the Wx locus. Low paste viscosity corresponds to low AC and soft gel, which represents good eating quality for most Chinese consumers; high ASV and low Atemp, together with reduced time to gelatinization and PKV, indicate preferred cooking quality. The genetic basis of Atemp, Atime, BAtime, peak temperature, peak time, paste viscosity at 95°C, and final paste viscosity is newly examined to reveal a complete and dynamic viscosity profile.",
+        "lang": "eng"
+    },
+    "appid": "10883_1688",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1688"
+}}

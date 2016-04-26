@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "A multivariate method for classifying cultivars and studying group x environment x trait interaction",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:18Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant genetics and breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "phenotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5776",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gene banks",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11116",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cropping systems",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1971",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_31858",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "plant genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49985"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1640",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1640"
+}}

@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Long-Term CA Trials in Mozambique - Cabango",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "AGROVOC"
+            ],
+            "score": [
+                1,
+                1,
+                null
+            ],
+            "value": "agronomy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_211",
+                "http://aims.fao.org/aos/agrovoc/c_211",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "mozambique",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4964"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Long-term comparison trials between conventional and conservation agriculture practices across different agroecologies in  Mozambique - Cabango research Center",
+        "lang": ""
+    },
+    "appid": "11529_10256",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10256"
+}}

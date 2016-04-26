@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:39Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1785",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1785"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1785"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1785",
+    "creator": [
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        },
+        {
+            "id": 1291891868,
+            "value": "This, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1291891868"
+        },
+        {
+            "id": 152341743,
+            "value": "Pausch, R.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/152341743"
+        },
+        {
+            "id": 884807883,
+            "value": "Wonhof, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/884807883"
+        },
+        {
+            "id": 607766991,
+            "value": "Coburn, J.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/607766991"
+        },
+        {
+            "id": 1098404875,
+            "value": "Comstock, J.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1098404875"
+        },
+        {
+            "id": 1420853923,
+            "value": "McCouch, S.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1420853923"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1785/1/93471.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 479198
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1785/2/93471.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 78282
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1785/3/93471.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5922
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1785/1/93471.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1785/2/93471.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1785/3/93471.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1785"
+        }
+    },
+    "extent": "",
+    "page": "1065-1081",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

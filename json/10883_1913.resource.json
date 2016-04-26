@@ -1,0 +1,191 @@
+{"resource": {
+    "citation": "",
+    "issn": "1566-0621",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:56Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1913",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1913"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1913"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1913",
+    "creator": [
+        {
+            "id": 472202152,
+            "value": "Mutegi, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/472202152"
+        },
+        {
+            "id": 207725446,
+            "value": "Sagnard, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/207725446"
+        },
+        {
+            "id": 297982530,
+            "value": "Labuschagne, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/297982530"
+        },
+        {
+            "id": 1401675445,
+            "value": "Herselman, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1401675445"
+        },
+        {
+            "id": 337026342,
+            "value": "Fentaye Kassa Semagn",
+            "type": "person",
+            "uri": "/cimmyt/person/337026342"
+        },
+        {
+            "id": 1073318935,
+            "value": "Deu, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1073318935"
+        },
+        {
+            "id": 673300258,
+            "value": "Villiers, S. de",
+            "type": "person",
+            "uri": "/cimmyt/person/673300258"
+        },
+        {
+            "id": 1393568842,
+            "value": "Kanyenji, B.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1393568842"
+        },
+        {
+            "id": 2115026347,
+            "value": "Mwongera, C.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/2115026347"
+        },
+        {
+            "id": 384997527,
+            "value": "Traore, P.C.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/384997527"
+        },
+        {
+            "id": 251266993,
+            "value": "Kiambi, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/251266993"
+        }
+    ],
+    "publisher": {
+        "id": 369478010,
+        "value": "http://link.springer.com/article/10.1007%2Fs10592-012-0353-y#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/369478010"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1913/1/97641.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 629267
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1913/2/97641.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 56761
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1913/3/97641.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5718
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1913/1/97641.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1913/2/97641.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1913/3/97641.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1913"
+        }
+    },
+    "extent": "",
+    "page": "1059-1071",
+    "coverage": [
+        "Kenya",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

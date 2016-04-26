@@ -1,0 +1,134 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:07:53Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1966",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2000,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1966"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1966"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1966",
+    "creator": [
+        {
+            "id": 1655599573,
+            "value": "Banziger, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1655599573"
+        },
+        {
+            "id": 2011034060,
+            "value": "Long, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2011034060"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1966/1/74985.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 73609
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1966/2/74985.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 16291
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1966/3/74985.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4915
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1966/1/74985.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1966/2/74985.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1966/3/74985.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1966"
+        }
+    },
+    "extent": "",
+    "page": "397-400",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

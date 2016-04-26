@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Identification of a new Polerovirus (family Luteoviridae) associated with cotton bunchy top disease in Australia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "cotton",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                "http://aims.fao.org/aos/agrovoc/c_1926",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "aphid",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "virus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "australia",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "polerovirus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "aphids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30757"
+        }
+    ],
+    "description": {
+        "value": "Cotton bunchy top (CBT) disease has caused significant yield losses in Australia and is now managed by control of its vector, the cotton aphid (Aphis gossypii). Its mode of transmission and similarities in symptoms to cotton Blue Disease suggested it may also be caused by a luteovirus or related virus. Degenerate primers to conserved regions of the genomes of the family Luteoviridae were used to amplify viral cDNAs from CBT-affected cotton leaf tissue that were not present in healthy plants. Partial genome sequence of a new virus (Cotton bunchy top virus, CBTV) was obtained spanning part of the RNA-dependent-RNA-polymerase (RdRP), all of the coat protein and part of the aphid-transmission protein. CBTV sequences could be detected in viruliferous aphids able to transmit CBT, but not aphids from non-symptomatic plants, indicating that it is associated with the disease and may be the causal agent. All CBTV open-reading frames had their closest similarity to viruses of the genus Polerovirus. The partial RdRP had 90 % amino acid identity to the RdRP of Cotton leafroll dwarf virus (CLRDV) that causes cotton blue disease, while other parts of the genome were more similar to other poleroviruses. The sequence similarity and genome organization of CBTV suggest that it should be considered a new member of the genus Polerovirus. This partial genome sequence of CBTV opens up the possibility for developing diagnostic tests for detection of the virus in cotton plants, aphids and weeds as well as alternative strategies for engineering CBT resistance in cotton plants through biotechnology.",
+        "lang": "eng"
+    },
+    "appid": "10883_1917",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1917"
+}}

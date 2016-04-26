@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Analysis and answers to frequently asked questions in quantitative trait locus mapping",
+        "lang": "zho"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inclusive composite interval mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "likelihood ratio test",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "power analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "QTL mapping is an important step in gene fine mapping, map-based cloning, and the efficient use of gene information in molecular breeding. Questions are frequently met and asked in the application of QTL mapping in practical genetic populations. Questions related to statistical method of QTL mapping are: what does LOD score mean? What is the relationship between the reliability of detected QTL and the LOD threshold? How to evaluate different QTL mapping methods? How to improve the QTL detection power? Questions related to genetic parameter estimation are: how to calculate the phenotypic variance explained by each detected QTL? How to determine the source of favorable alleles at detected QTL? How efficient is the selective genotyping? Can composite traits be used in QTL mapping? Questions related to linkage map and mapping populations are: does the phenotype of a trait in interest have to follow a normal distribution? Does the increase in marker density greatly improve QTL mapping power? What effects will missing markers have in QTL mapping? What effects will segregation distortion have in QTL mapping? Our objective in this paper was to give an analysis and answer to each of the 12 frequently asked questions, based on our studies in past several years.",
+        "lang": "zho"
+    },
+    "appid": "10883_1827",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1827"
+}}

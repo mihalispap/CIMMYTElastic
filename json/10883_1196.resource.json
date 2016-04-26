@@ -1,0 +1,176 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Sudan",
+            "uri": [
+                "http://sws.geonames.org/8068761",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Sudan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bangladesh",
+            "uri": [
+                "http://sws.geonames.org/1210997",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nepal",
+            "uri": [
+                "http://sws.geonames.org/1282988",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/366755",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:16:38Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1196",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1994,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1196"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1196"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1196",
+    "creator": [
+        {
+            "id": 1465751348,
+            "value": "Saunders, D.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1465751348"
+        },
+        {
+            "id": 1651208989,
+            "value": "Hettel, G.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1651208989"
+        }
+    ],
+    "publisher": {
+        "id": 624908874,
+        "value": "CIMMYT*UNDP*ARC*BARI",
+        "type": "organization",
+        "uri": "/cimmyt/organization/624908874"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1196/1/53543.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 11684887
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1196/2/53543.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1103015
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1196/3/53543.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6728
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1196/1/53543.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1196/2/53543.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1196/3/53543.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1196"
+        }
+    },
+    "extent": "",
+    "page": "402 pags",
+    "coverage": [
+        "India",
+        "Bangladesh",
+        "Nepal",
+        "Sudan",
+        "Global",
+        "South Asia",
+        "Eastern Africa",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6127-87-9",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

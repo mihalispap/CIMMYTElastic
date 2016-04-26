@@ -1,0 +1,209 @@
+{"resource": {
+    "citation": "",
+    "issn": "0002-9122",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:47Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1852",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1852"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1852"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1852",
+    "creator": [
+        {
+            "id": 400133623,
+            "value": "Sanchez G., J.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/400133623"
+        },
+        {
+            "id": 822378424,
+            "value": "De La Cruz L., L.",
+            "type": "person",
+            "uri": "/cimmyt/person/822378424"
+        },
+        {
+            "id": 991006562,
+            "value": "Vidal M., V.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/991006562"
+        },
+        {
+            "id": 663954627,
+            "value": "Ron P.,  J.",
+            "type": "person",
+            "uri": "/cimmyt/person/663954627"
+        },
+        {
+            "id": 842693573,
+            "value": "Taba, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/842693573"
+        },
+        {
+            "id": 1843510731,
+            "value": "Santacruz-Ruvalcaba, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1843510731"
+        },
+        {
+            "id": 1624562560,
+            "value": "Sood, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1624562560"
+        },
+        {
+            "id": 300985172,
+            "value": "Holland, J.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/300985172"
+        },
+        {
+            "id": 305419396,
+            "value": "Ruiz C., J.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/305419396"
+        },
+        {
+            "id": 2107152389,
+            "value": "Carvajal, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/2107152389"
+        },
+        {
+            "id": 1363491087,
+            "value": "Aragon C., F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1363491087"
+        },
+        {
+            "id": 937947363,
+            "value": "Chavez T., V.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/937947363"
+        },
+        {
+            "id": 446623881,
+            "value": "Morales R., M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/446623881"
+        },
+        {
+            "id": 1261468671,
+            "value": "Barba-Gonzalez, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1261468671"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1852/1/95360.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1601231
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1852/2/95360.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 67489
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1852/3/95360.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8720
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1852/1/95360.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1852/2/95360.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1852/3/95360.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1852"
+        }
+    },
+    "extent": "",
+    "page": "1537-1548",
+    "coverage": [
+        "Mexico",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

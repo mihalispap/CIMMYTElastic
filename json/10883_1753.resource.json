@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Brazil",
+        "uri": [
+            "http://sws.geonames.org/3469034",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Brazil"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:35Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1753",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1753"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1753"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1753",
+    "creator": [
+        {
+            "id": 508613702,
+            "value": "Nassar, N.M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/508613702"
+        },
+        {
+            "id": 207272614,
+            "value": "Junior, O.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/207272614"
+        },
+        {
+            "id": 140231788,
+            "value": "Sousa, M.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/140231788"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1753/1/90972.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 430024
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1753/2/90972.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 26714
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1753/3/90972.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6331
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1753/1/90972.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1753/2/90972.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1753/3/90972.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1753"
+        }
+    },
+    "extent": "",
+    "page": "32-38",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

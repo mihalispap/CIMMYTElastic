@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "1369-5266",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:42Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1815",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1815"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1815"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1815",
+    "creator": [
+        {
+            "id": 625478950,
+            "value": "Glaszmann, J.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/625478950"
+        },
+        {
+            "id": 1834248824,
+            "value": "Kilian, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1834248824"
+        },
+        {
+            "id": 1692535074,
+            "value": "Upadhyaya, H.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1692535074"
+        },
+        {
+            "id": 857495591,
+            "value": "Varshney, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/857495591"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1815/1/94247.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 325298
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1815/2/94247.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 44511
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1815/3/94247.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7386
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1815/1/94247.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1815/2/94247.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1815/3/94247.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1815"
+        }
+    },
+    "extent": "",
+    "page": "167-173",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

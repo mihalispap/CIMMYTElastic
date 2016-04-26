@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Conservation agriculture as a sustainable option for the central Mexican highlands",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "aggregate stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "residue management",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "time-to-pond",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ponds",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6105"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "highlands",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3614"
+        }
+    ],
+    "description": {
+        "value": "Tropical highlands of the world are densely populated and intensively cropped. Agricultural sustainability problems resulting from soil erosion and fertility decline have arisen all over this agro-ecological zone. Based on selected soil quality indicators, i.e. time-to-pond, aggregate distribution and stability (expressed as the mean weight diameter (MWD) for dry and wet sieving, respectively) and soil moisture, from a representative long-term sustainability trial initiated in 1991 in Central Mexico (2240 masl; 19.31°N, 98.50°W; Cumulic Phaeozem), some insights into the feasibility of conservation agriculture (CA) as part of a sustainable production system in the tropical highlands are given. Zero tillage plots with crop residue removal showed low aggregate distribution (average MWD = 1.34 mm) and stability (average MWD = 0.99 mm) resulting in top layer slaking, increased erosion and low time-to-pond values. Retaining the residue in the field with zero tillage avoided the above-mentioned negative evolution for both aggregate distribution as stability (average MWD = 2.77 and 1.51 mm, respectively) and even improved the physical conditions of the soil as compared to conventional practice. Throughout the growing season the lowest soil moisture content was found in zero tillage without residue (average over the entire growing season = 20.5% volumetric moisture content), the highest in zero tillage with residue retention (average = 29.7%) while conventional tillage had intermediate soil moisture values (average = 27.4%). Zero tillage without residue retention had most days of soil moisture values under permanent wilting point, while zero tillage with residue retention had the least. Taking into account these results, zero tillage with residue retention can clearly be a part of an integrated watershed management scheme towards sustainable agriculture in the tropical highlands. It is clear that to develop new management practices to improve water use, reduce erosion and enhance human labor/animal power focus must be on the use of conservation agriculture both for rainfed as well as irrigated production systems and be fine tuned for each system.",
+        "lang": "eng"
+    },
+    "appid": "10883_1518",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1518"
+}}

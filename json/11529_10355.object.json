@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Nutritious Maize for Ethiopia (NuME)",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "nutritious",
+            "uri": "http://aims.fao.org/standards/agrovoc"
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6704,
+                0.6704,
+                0.6704,
+                0.6704,
+                ""
+            ],
+            "value": "ethiopia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qpm",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "improved varieties",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "survey",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7605
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Maize is now the major food crop in Ethiopia, but it has poor nutritional quality, in particular inadequate levels of the essential amino acids lysine and tryptophan, which reduces the overall biological value of its protein. In response, quality protein maize (QPM) was developed, combining improved protein quality with storage and agronomic qualities similar to those of conventional maize. Consumption of these varieties leads to greater protein utilization and greater rates of growth among malnourished young children. Adoption of QPM in Ethiopia so far has only been successful in agro-ecological niches where varieties were first released, while farmers expressed a clear demand for later-maturing varieties, similar to the popular BH660 variety. Further breeding at the Ethiopian Institute of Agricultural Research (EIAR) and CIMMYT has resulted in the release of new QPM varieties adapted to all major maize-producing agro-ecologies in Ethiopia. The Nutritional Maize for Ethiopia (NuME) project was therefore developed to bring these QPM varieties to rural households, to increase intake of quality protein and to improve nutritional status and food security.\n\nTo guide the project\u2019s implementation and monitor its progress, a baseline survey was conducted to measure baseline parameters, including adoption of QPM, awareness of its benefits, food consumption, nutritional status, and food insecurity. To inform the project on its gender strategy, intra-household resource allocation was also studied, and to inform the dissemination and information strategy, the sources of information were also analyzed.",
+        "lang": ""
+    },
+    "appid": "11529_10355",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10355"
+}}

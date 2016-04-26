@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Soil fauna and soil function in the fabric of the food web",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil structure",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7196",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "soil fauna",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7169",
+                "http://aims.fao.org/aos/agrovoc/c_7169",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "food web",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "carbon",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1301",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water use efficiency",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36790",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nutrient use efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "soil",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7156"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "food webs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3014"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "use efficiency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36789"
+        }
+    ],
+    "description": {
+        "value": "Over the last four decades, spanning David Coleman&rsquo;s career, and in no small measure thanks to him, soil ecologists have made tremendous progress in describing and understanding the overwhelming complexity of biological, biophysical and biochemical interactions in soil. These interactions shape the soil as a habitat for the soil food web and the vegetation and, thereby, regulate the two main life-supporting processes on Planet Earth: production and decomposition. Changes in decomposition and production processes are governed by (human-induced) changes in vegetation composition/cover, the amounts and quality of organic residues and (in)organic fertilizers entering the soil. Such modifications alter the physical environment and the soil biota. Hence, decomposition and production processes cannot be understood and/or manipulated without explicitly addressing the composition and activity of the soil food web. Using a conceptual model, we argue that quantitative understanding of biophysical interactions, in particular those between soil fauna and soil structure, are paramount to understanding biological and biochemical processes in soil and the availability of water and nutrients to plants. The need to increase the efficiency of crop production worldwide, to reverse soil degradation and to increase soil resilience will set the agenda for soil ecologists in the near future.",
+        "lang": "eng"
+    },
+    "appid": "10883_1485",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1485"
+}}

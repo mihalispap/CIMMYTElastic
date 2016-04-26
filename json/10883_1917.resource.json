@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "0815-3191",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:57Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1917",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1917"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1917"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1917",
+    "creator": [
+        {
+            "id": 1765974730,
+            "value": "Ellis, M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1765974730"
+        },
+        {
+            "id": 1059741975,
+            "value": "Silva, T.F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1059741975"
+        },
+        {
+            "id": 1442803328,
+            "value": "Stiller, W.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1442803328"
+        },
+        {
+            "id": 1802597138,
+            "value": "Wilson, L.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1802597138"
+        },
+        {
+            "id": 1786775009,
+            "value": "Vaslin, M.F.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1786775009"
+        },
+        {
+            "id": 635428393,
+            "value": "Sharman, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/635428393"
+        },
+        {
+            "id": 526554090,
+            "value": "Llewellyn, D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/526554090"
+        }
+    ],
+    "publisher": {
+        "id": 1220412277,
+        "value": "http://link.springer.com/article/10.1007%2Fs13313-012-0177-8#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1220412277"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1917/1/97675.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 400328
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1917/2/97675.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 39077
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1917/3/97675.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6643
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1917/1/97675.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1917/2/97675.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1917/3/97675.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1917"
+        }
+    },
+    "extent": "",
+    "page": "261-269",
+    "coverage": "Australia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

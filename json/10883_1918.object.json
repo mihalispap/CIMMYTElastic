@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "The plant ontology as a tool for comparative plant anatomy and genomic analyses",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant anatomyontology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "comparative genomics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome annotation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bioinformatics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "terpene synthase",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ontology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49845"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "terpenes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27616"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "plant anatomy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5954"
+        }
+    ],
+    "description": {
+        "value": "The Plant Ontology (PO; http://www.plantontology.org/) is a publicly-available, collaborative effort to develop and maintain a controlled, structured vocabulary (?ontology?) of terms to describe plant anatomy, morphology and the stages of plant development. The goals of the PO are to link (annotate) gene expression and phenotype data to plant structures and stages of plant development, using the data model adopted by the Gene Ontology. From its original design covering only rice, maize and Arabidopsis, the scope of the PO has been expanded to include all green plants. The PO was the first multi-species anatomy ontology developed for the annotation of genes and phenotypes. Also, to our knowledge, it was one of the first biological ontology that provides translations (via synonyms) in non-English languages such as Japanese and Spanish. As of Release #18 (July 2012), there are about 2.2 million annotations linking PO terms to over 110,000 unique data objects representing genes or gene models, proteins, RNAs, germplasm and Quantitative Traits Loci (QTLs) from 22 plant species. In this paper, we focus on the plant anatomical entity branch of the PO, describing the organizing principles, resources available to users, and examples of how the PO is integrated into other plant genomics databases and web portals. We also provide two examples of comparative analyses, demonstrating how the ontology structure and PO-annotated data can be used to discover the patterns of expression of the LEAFY (LFY) and terpene synthase (TPS) gene homologs.",
+        "lang": "eng"
+    },
+    "appid": "10883_1918",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1918"
+}}

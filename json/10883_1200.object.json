@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Epidemiology of Karnal bunt of wheat incited by Neovossia indica and an attempt to develop a disease prediction system",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2012-01-06T05:16:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "tilletia indica",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24377",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mycoses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5024",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "epidemiology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2615",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "neovossia indica",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24377"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.838,
+            "value": "karnal bunt",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24475"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1200",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1200"
+}}

@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:33Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1741",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2008,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1741"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1741"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1741",
+    "creator": [
+        {
+            "id": 1402254501,
+            "value": "Dwivedi, S.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1402254501"
+        },
+        {
+            "id": 1692535074,
+            "value": "Upadhyaya, H.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1692535074"
+        },
+        {
+            "id": 445552800,
+            "value": "Stalker, H.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/445552800"
+        },
+        {
+            "id": 381520908,
+            "value": "Blair, M.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/381520908"
+        },
+        {
+            "id": 2016625398,
+            "value": "Bertioli, D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2016625398"
+        },
+        {
+            "id": 1038468378,
+            "value": "Nielen, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1038468378"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1741/1/90432.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 350150
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1741/2/90432.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 153667
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1741/3/90432.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3539
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1741/1/90432.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1741/2/90432.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1741/3/90432.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1741"
+        }
+    },
+    "extent": "",
+    "page": "179-230",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

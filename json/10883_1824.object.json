@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "Linear, bilinear, and linear-bilinear fixed and mixed models for analyzing genotype × environment interaction in plant breeding and agronomy",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "least squares",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "singular value decompositions",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environmental and genotypic covariables",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        }
+    ],
+    "description": {
+        "value": "The purpose of this manuscript is to review various statistical models for analyzing genotype × environment interaction (GE). The objective is to present parsimonious approaches other than the standard analysis of variance of the two-way effect model. Some fixed effects linear-bilinear models such as the sites regression model (SREG) are discussed, and a mixed effects counterpart such as the factorial analytic (FA) model is explained. The role of these linear-bilinear models for assessing crossover interaction (COI) is explained. One class of linear models, namely factorial regression (FR) models, and one class of bilinear models, namely partial least squares (PLS) regression, allows incorporating external environmental and genotypic covariables directly into the model. Examples illustrating the use of various statistical models for analyzing GE in the context of plant breeding and agronomy are given.",
+        "lang": "eng"
+    },
+    "appid": "10883_1824",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1824"
+}}

@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "1380-3743",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:57Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1921",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1921"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1921"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1921",
+    "creator": [
+        {
+            "id": 975950170,
+            "value": "Mahuku, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/975950170"
+        },
+        {
+            "id": 1940433603,
+            "value": "Henriquez, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1940433603"
+        },
+        {
+            "id": 1070290158,
+            "value": "Montoya, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1070290158"
+        },
+        {
+            "id": 632861819,
+            "value": "Jara, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/632861819"
+        },
+        {
+            "id": 595971512,
+            "value": "Teran, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/595971512"
+        },
+        {
+            "id": 1053857708,
+            "value": "Beebe, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1053857708"
+        }
+    ],
+    "publisher": {
+        "id": 1730195619,
+        "value": "http://link.springer.com/article/10.1007/s11032-010-9461-x",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1730195619"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1921/1/97775.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 368078
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1921/2/97775.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57676
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1921/3/97775.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5764
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1921/1/97775.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1921/2/97775.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1921/3/97775.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1921"
+        }
+    },
+    "extent": "",
+    "page": "57-71",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

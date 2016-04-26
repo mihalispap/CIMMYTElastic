@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of Chilo partellus and Busseola fusca susceptibility to Delta-endotoxins in Bt maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bt susceptibility",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bt-maize ä-endotoxins",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stalk borers",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7429,
+                ""
+            ],
+            "value": "chilo partellus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27152",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6473,
+                ""
+            ],
+            "value": "busseola fusca",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27140",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8994
+            ],
+            "value": "endotoxins",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2564"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Susceptibility of Chilo partellus (Lepidoptera, Crambidae) and Busseola fusca (Lepidoptera, Noctuidae) populations to Cry proteins from the bacterium, Bacillus thuringiensis (Bt), the &#228;-endotoxins Cry1Ab and Cry1Ba in Bt-maize, were evaluated under biosafety greenhouse conditions. Larval feeding on Bt-maize was adjusted to deliver sub-lethal doses of &#228;-endotoxins from the two events; survivors were reared on artificial diet to obtain successive generations. Eight generations of three C. partellus populations and five generations of a B. fusca population were screened for susceptibility on each event. Mean proportion of surviving larvae from Bt-maize plants, and the corresponding pupal weights of survivors for each population, were lower for individuals exposed to &#228;-endotoxins. Both Bt Cry proteins expressed in maize leaves controlled C. partellus and showed stability in control, with no indication of a change in susceptibility among generations. Neither toxin, however, provided complete control of B. fusca, but no changes in susceptibility were observed after five generations of selection. Implications for development of future transgenic Bt maize events, and research for East Africa are discussed",
+        "lang": "eng"
+    },
+    "appid": "10883_1797",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1797"
+}}

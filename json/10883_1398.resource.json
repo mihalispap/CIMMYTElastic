@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-05T15:45:20Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1398",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1994,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1398"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1398"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1398",
+    "creator": [
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 1483250975,
+            "value": "Sayre, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1483250975"
+        },
+        {
+            "id": 967795753,
+            "value": "Vivar, H.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/967795753"
+        }
+    ],
+    "publisher": {
+        "id": 1537577652,
+        "value": "http://journals.cambridge.org/action/displayAbstract;jsessionid=4DF38406D202EE7006DA9F71CD21307F.journals?fromPage=online&aid=4788724",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1537577652"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1398/1/53105.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 785185
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1398/4/53105.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41944
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1398/5/53105.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7682
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1398/1/53105.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1398/4/53105.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1398/5/53105.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1398"
+        }
+    },
+    "extent": "",
+    "page": "175-183",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

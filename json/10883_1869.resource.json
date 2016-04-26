@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "0011-183X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:50Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1869",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1869"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1869"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1869",
+    "creator": [
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 743447986,
+            "value": "Perez-Elizalde, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/743447986"
+        },
+        {
+            "id": 1633045922,
+            "value": "Jarquin, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1633045922"
+        },
+        {
+            "id": 519239855,
+            "value": "Cotes, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/519239855"
+        },
+        {
+            "id": 119356706,
+            "value": "Viele, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/119356706"
+        },
+        {
+            "id": 613465372,
+            "value": "Genzhou Liu",
+            "type": "person",
+            "uri": "/cimmyt/person/613465372"
+        },
+        {
+            "id": 534795564,
+            "value": "Cornelius, P.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/534795564"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1869/1/95759.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 860830
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1869/2/95759.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 65124
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1869/3/95759.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7705
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1869/1/95759.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1869/2/95759.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1869/3/95759.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1869"
+        }
+    },
+    "extent": "",
+    "page": "1458-1469",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

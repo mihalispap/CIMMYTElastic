@@ -1,0 +1,175 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:57Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1920",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1920"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1920"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1920",
+    "creator": [
+        {
+            "id": 1854007851,
+            "value": "Bouchet, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1854007851"
+        },
+        {
+            "id": 1272158355,
+            "value": "Pot, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1272158355"
+        },
+        {
+            "id": 1073318935,
+            "value": "Deu, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1073318935"
+        },
+        {
+            "id": 367875140,
+            "value": "Rami, J-F",
+            "type": "person",
+            "uri": "/cimmyt/person/367875140"
+        },
+        {
+            "id": 1291734261,
+            "value": "Billot, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1291734261"
+        },
+        {
+            "id": 1772902805,
+            "value": "Perrier, X.",
+            "type": "person",
+            "uri": "/cimmyt/person/1772902805"
+        },
+        {
+            "id": 541399807,
+            "value": "Rivallan, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/541399807"
+        },
+        {
+            "id": 1924917456,
+            "value": "Gardes, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1924917456"
+        },
+        {
+            "id": 206143622,
+            "value": "Ling Xia,",
+            "type": "person",
+            "uri": "/cimmyt/person/206143622"
+        },
+        {
+            "id": 264533052,
+            "value": "Wenzl, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/264533052"
+        },
+        {
+            "id": 1834248855,
+            "value": "Kilian, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1834248855"
+        },
+        {
+            "id": 1919485877,
+            "value": "Glaszmann, J-C",
+            "type": "person",
+            "uri": "/cimmyt/person/1919485877"
+        }
+    ],
+    "publisher": {
+        "id": 313059707,
+        "value": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0033470",
+        "type": "organization",
+        "uri": "/cimmyt/organization/313059707"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1920/1/97731.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 641926
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1920/2/97731.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 88636
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1920/3/97731.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7358
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1920/1/97731.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1920/2/97731.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1920/3/97731.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1920"
+        }
+    },
+    "extent": "",
+    "page": "e33470",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

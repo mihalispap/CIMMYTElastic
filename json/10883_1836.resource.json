@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "1684-5315",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:46Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1836",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1836"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1836"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1836",
+    "creator": [
+        {
+            "id": 1146328946,
+            "value": "Makonde, H.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1146328946"
+        },
+        {
+            "id": 1846843822,
+            "value": "Lenga, F.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1846843822"
+        },
+        {
+            "id": 1178002366,
+            "value": "Masiga, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1178002366"
+        },
+        {
+            "id": 1170808127,
+            "value": "Mugo, S.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1170808127"
+        },
+        {
+            "id": 1751804070,
+            "value": "Boga, H.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1751804070"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1836/1/94707.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 305977
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1836/2/94707.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 32654
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1836/3/94707.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7295
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1836/1/94707.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1836/2/94707.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1836/3/94707.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1836"
+        }
+    },
+    "extent": "",
+    "page": "017-024",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

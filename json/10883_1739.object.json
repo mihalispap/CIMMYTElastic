@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Use of synthetic hexaploid wheat to increase diversity for CIMMYT bread wheat improvement",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synthetic backcross-derived lines",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "interspecific hybridisation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic changes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selective advantage",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6521
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14386"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6236
+            ],
+            "value": "hexaploids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24400"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7825
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        }
+    ],
+    "description": {
+        "value": "To date, the International Maize and Wheat Improvement Center (CIMMYT) has produced more than 1000 synthetic hexaploid wheats (SHWs), using diverse accessions of the D genome donor species (Aegilops tauschii). Many of these SHWs produced from many different Ae. tauschii have shown resistance or tolerance to various biotic and abiotic stresses, indicating the potential importance of the Ae. tauschii gene pool for breeding purposes. SHWs were backcrossed to CIMMYT improved germplasm to produce synthetic backcross-derived lines (SBLs), which are agronomically similar to the improved parents, but retain the introgressed traits of interest under selection and thereby new diversity. Molecular studies show that SHWs and SBLs are genetically diverse at the DNA level when compared with traditional bread wheat cultivars and preferential transmission of some alleles from the SHW parent has been seen in all genomes, indicating positive selection. Marker analyses of wheat cultivars released over time indicate that SBLs are ideal materials to simultaneously increase yield and diversity for other traits. Following successful diversification of the wheat D genome, CIMMYT has shifted to target improvement of hexaploid wheat via the A and B genomes, focusing on specific traits. Screening the CIMMYT germplasm collection of T. turgidum subsp. dicoccum for Russian wheat aphid resistance and drought tolerance revealed varying levels of phenotypic expression. Promising accessions will be used for the production of new SHWs for future introgressions into elite bread wheat backgrounds.",
+        "lang": "eng"
+    },
+    "appid": "10883_1739",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1739"
+}}

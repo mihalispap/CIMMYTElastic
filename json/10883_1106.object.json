@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Maladies communes der cereales à paille: Guide d'identification",
+        "lang": "fra"
+    },
+    "updated": "2016-01-22T23:05:44Z",
+    "created": "2012-01-06T05:14:19Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "septoria",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "viroses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rusts",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "helminthosporium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "smuts",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bacterioses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cereals",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "segregation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6947"
+        }
+    ],
+    "description": {
+        "value": "Ce guide est destine aux selectonneurs (cereales), aux agronomes et aux jeunes scientifiques en recyclage auxquels on demande d'identifier des maladies, d'enregistrer les resultats d'essais, de selectonner des plantes resistantes aux maladies dans les populations qui manifestent la segregation et de verifier les symptomes des maladies de differents germoplasmes de cereales a petits grains. Il contient l'information necessaire pour identifier plus de 70 maladies qui attaquent le ble tendre, le ble dur, l'orge, l'avoine, le seigle et le triticale. Il decrit aussi les anomalies physiologiques et celles liees a l'environnement, ainsi que les",
+        "lang": "fra"
+    },
+    "appid": "10883_1106",
+    "language": {
+        "value": "fra",
+        "uri": "http://lexvo.org/id/iso639-3/fra"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1106"
+}}

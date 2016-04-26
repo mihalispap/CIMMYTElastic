@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Algeria",
+        "uri": [
+            "http://sws.geonames.org/2589581",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Algeria"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2020",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1981,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2020"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2020"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2020",
+    "creator": [
+        {
+            "id": 1838539645,
+            "value": "Assabah, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1838539645"
+        },
+        {
+            "id": 651860795,
+            "value": "Masson, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/651860795"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2020/1/39752.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 269704
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2020/2/39752.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 7204
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2020/3/39752.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3786
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2020/1/39752.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2020/2/39752.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2020/3/39752.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2020"
+        }
+    },
+    "extent": "",
+    "page": 3,
+    "coverage": [
+        "Algeria",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

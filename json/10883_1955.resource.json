@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:07:51Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1955",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1998,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1955"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1955"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1955",
+    "creator": [
+        {
+            "id": 300985172,
+            "value": "Holland, J.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/300985172"
+        },
+        {
+            "id": 1236354261,
+            "value": "Uhr, D.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1236354261"
+        },
+        {
+            "id": 1963105063,
+            "value": "Jeffers, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1963105063"
+        },
+        {
+            "id": 40513581,
+            "value": "Goodman, M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/40513581"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1955/1/66667.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 836599
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1955/2/66667.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 10
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1955/3/66667.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6928
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1955/1/66667.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1955/2/66667.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1955/3/66667.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1955"
+        }
+    },
+    "extent": "",
+    "page": "232-241",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

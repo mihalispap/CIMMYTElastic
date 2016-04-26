@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "The Rht13 dwarfing gene reduces peduncle length and plant height to increase grain number and yield of wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "heritability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3570",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7884,
+                0.7884,
+                1,
+                ""
+            ],
+            "value": "harvest index",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24854",
+                "http://aims.fao.org/aos/agrovoc/c_24854",
+                "http://aims.fao.org/aos/agrovoc/c_24854",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "establishment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "early vigour",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "coleoptile",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "germplasm",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dwarf",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "physiology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9274
+            ],
+            "value": "height",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3536"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8694
+            ],
+            "value": "internodes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3920"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9386
+            ],
+            "value": "dwarfs",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2421"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The green-revolution Rht-B1b and Rht-D1b dwarfing alleles are usually associated with increased wheat yields but are linked to reduced early growth and poor emergence if sowing conditions are unfavourable. Other dwarfing genes are available but not used in commercial breeding. The Rht13 bread wheat donor, Magnif M1, produces uniquely short peduncle and penultimate internodes to reduce plant height. A set of near-isogenic (NILs) and recombinant inbred (RILs) lines varying for height were developed from the cross of Magnif M1 and the Rht8c-containing Chuan-mai 18, and evaluated for a range of agronomic characteristics across favourable environments. Reductions in plant height were associated with increased grain number (r2 = 0.35**) and harvest index (r2 = 0.62**) in the NILs. Reduced-height RILs containing the Rht13-linked, Xgwm577M microsatellite marker were significantly shorter, produced greater biomass, yield and harvest index, and increased spike and grain number than lines without the marker. Approximately 74 and 7% of the total phenotypic variance in plant height was accounted for by allelic differences in Xgwm577 and Rht8 loci, respectively. The peduncle and penultimate peduncle internodes of Rht13-containing lines were proportionately shorter than Rht8c-containing sibs and lines containing the Rht-B1b dwarfing allele. The unique height-reducing phenotype, increased grain number and yield associated with Rht13 indicate considerable potential for use of this dwarfing allele for improving wheat performance.",
+        "lang": "eng"
+    },
+    "appid": "10883_1903",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1903"
+}}

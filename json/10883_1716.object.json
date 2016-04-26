@@ -1,0 +1,34 @@
+{"object": {
+    "title": {
+        "value": "Modeling additive x environment and additive x additive x environment using genetic covariances of relatives of wheat genotypes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:29Z",
+    "subject": {
+        "vocabulary": [
+            "",
+            "agrovoc"
+        ],
+        "score": [
+            "",
+            1
+        ],
+        "value": "additives",
+        "uri": [
+            "",
+            "http://aims.fao.org/aos/agrovoc/c_118"
+        ]
+    },
+    "description": {
+        "value": "In self-pollinated species, the variance&ndash;covariance matrix of breeding values of the genetic strains evaluated in multienvironment trials (MET) can be partitioned into additive effects, additive 3 additive effects, and their interaction with environments. The additive relationship matrix A can be used to derive the additive 3 additive genetic variance&ndash;covariance relationships among strains,A&tilde; . This study shows how to separate total genetic effects into additive and additive 3 additive and how to model the additive 3 environment interaction and additive 3 additive 3 environment interaction by incorporating variance&ndash;covariance structures constructed as the Kronecker product of a factor-analytic model across sites and the additive (A) and additive 3 additive relationships (A&tilde; ), between strains. Two CIMMYT international trials were used for illustration. Results show that partitioning the total genotypic effects into additive and additive 3 additive and their interactions with environments is useful for identifying wheat (Triticum aestivum L.) lines with high additive effects (to be used in crossing programs) as well as high overall production. Some lines and environments had high positive additive 3 environment interaction patterns, whereas other lines and environments showed a different additive 3 additive 3 environment interaction pattern",
+        "lang": "eng"
+    },
+    "appid": "10883_1716",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1716"
+}}

@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "High-throughput SNP genotyping with the GoldenGate assay in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:37Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "single nucleotide polymorphism",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.83,
+                0.83,
+                0.83,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "goldengate",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "high-throughput",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6652
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "polymorphism",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6088"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.991
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Single nucleotide polymorphisms (SNPs) are abundant and evenly distributed, and they have become an ideal marker system for genetic research in many organisms. Several high throughput platforms have been developed that allow genotyping thousands to a million markers in parallel. In this study, a custom GoldenGate assay containing 1536 SNPs was developed based on public SNP information for maize and used to genotype two recombinant inbred line (RIL) populations (Zong3x87-1 and B73xBy804) and a diversity panel consisting of 154 inbred lines. After scoring, 92% (1414/1536) and 91% (1393/1536) of the SNPs were successfully identified (called) in the diversity panel and two RIL populations respectively, with a genotyping error rate of less than 2%. Of the 1393 successfully called SNPs, 975 SNPs were polymorphic in at least one of the two mapping populations with a polymorphism rate of 38.5% in Zong3x87-1 and 52.6% in B73xBy804. The identified polymorphic SNPs were integrated with previously mapped SSR markers to construct two high-density linkage maps. Alleles with a low frequency were distributed evenly in the 10 continued classes from 0.05 to 0.5 and about 16% of the SNPs had a minor allelic frequency (MAF) of less than 10% in the diversity panel. Polymorphism rates ranged from 0.3% to 63.8% in any two given lines with an average of 36.3%. Because most of the SNPs in the present GoldenGate assay were not present in the low frequency classes, they can be used for QTL mapping, diversity analysis, marker-trait association studies, and marker assisted breeding. The high success rate for SNP calling also implies that the GoldenGate assay platform can be used with diverse maize germplasm. Issues for successful utilization of the GoldenGate assay in maize genomic research are discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_1773",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1773"
+}}

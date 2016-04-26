@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Cluster analysis, an approach to sampling variability in maize accessions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2013-06-07T21:02:17Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "classification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "analytical methods",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sampling",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Cluster analysis is frequently used to classify maize (Zen mays L.) accessions and can be used by breeders and geneticists to identify subsets of accessions which have potential utility for specific breeding or genetic purposes. Phenograms can be utilized to define subsets of accessions on the basis of dissimilarity coefficients. Phenograms created using cluster analysis depend on the clustering method, and on type and number of attributes used to compute associations among individuals. The objectives of this study were to 1) compare several clustering strategies used for grouping Caribbean maize accessions, 2) define groups having similar characteristics, and 3) obtain a representative subset of the total number of accessions evaluated. Four hierarchical clustering strategies were compared: single linkage, unweighted pair-group method using arithmetic averages (UPGMA), using centroids, and Ward's. Each method was evaluated using two data sets, and varying types and numbers of traits. Average euclidean squared distance was used as the dissimilarity measure. Phenogram agreement was evaluated by the cophenetic correlation coefficients. Cophenetic correlation and inspection of phenograms suggested that in preference to the other strategies, UPGMA can be utilized to group maize accessions using agronomic and morphological data. Number of individuals and number of traits affected computation of dissimilarity measures among accessions. For large data sets, it might be useful to include as many traits as possible to compute the dissimilarity measures. In addition to clustering methods, principal component analysis helped to form groups which had particular characteristics that accounted for phenotypic diversity present in the whole population. Groups were formed on basis of common clusters identified by a consensus analysis. Each group was exposed to a stratified sampling process to define a subset in proportion to their number of accessions. A set of 43 entries (23%) was identified as a selected subset representing the 184 accessions evaluated. The relationships among accessions defined by the phenogram, and the associated race classification indicated that phenetic relationship can be used to group maize accessions, and consequently definine subsets, in proportion to the number of accessions",
+        "lang": "eng"
+    },
+    "appid": "10883_1629",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1629"
+}}

@@ -1,0 +1,142 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Pakistan",
+            "uri": [
+                "http://sws.geonames.org/1168579",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bangladesh",
+            "uri": [
+                "http://sws.geonames.org/1210997",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:21Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2017",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1992,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2017"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2017"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2017",
+    "creator": {
+        "id": 1643081466,
+        "value": "Byerlee, D.",
+        "type": "person",
+        "uri": "/cimmyt/person/1643081466"
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2017/1/39688.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1310748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2017/2/39688.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54104
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2017/3/39688.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6098
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2017/1/39688.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2017/2/39688.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2017/3/39688.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2017"
+        }
+    },
+    "extent": "",
+    "page": "477-496",
+    "coverage": [
+        "Pakistan",
+        "India",
+        "Bangladesh",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

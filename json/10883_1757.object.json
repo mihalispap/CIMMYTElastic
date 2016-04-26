@@ -1,0 +1,34 @@
+{"object": {
+    "title": {
+        "value": "A molecular selection index method based on Eigenanalysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:35Z",
+    "subject": {
+        "vocabulary": [
+            "",
+            "agrovoc"
+        ],
+        "score": [
+            "",
+            1
+        ],
+        "value": "selection index",
+        "uri": [
+            "",
+            "http://aims.fao.org/aos/agrovoc/c_24423"
+        ]
+    },
+    "description": {
+        "value": "The traditional molecular selection index (MSI) employed in marker-assisted selection maximizes the selection response by combining information on molecular markers linked to quantitative trait loci (QTL) and phenotypic values of the traits of the individuals of interest. This study proposes an MSI based on an eigenanalysis method (molecular eigen selection index method, MESIM), where the first eigenvector is used as a selection index criterion, and its elements determine the proportion of the trait's contribution to the selection index. This article develops the theoretical framework of MESIM. Simulation results show that the genotypic means and the expected selection response from MESIM for each trait are equal to or greater than those from the traditional MSI. When several traits are simultaneously selected, MESIM performs well for traits with relatively low heritability. The main advantages of MESIM over the traditional molecular selection index are that its statistical sampling properties are known and that it does not require economic weights and thus can be used in practical applications when all or some of the traits need to be improved simultaneously.",
+        "lang": "eng"
+    },
+    "appid": "10883_1757",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1757"
+}}

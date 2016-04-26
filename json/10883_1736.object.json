@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Classification of Peruvian highland maize races using plant traits",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:32Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ear height",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf length",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf number",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf width",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "modified location model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant height",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6038
+            ],
+            "value": "classification",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1653"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ears",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2436"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "length",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4260"
+        }
+    ],
+    "description": {
+        "value": "The maize of Latin America, with its enormous diversity, has played an important role in the development of modern maize cultivars of the American continent. Peruvian highland maize shows a high degree of variation stemming from its history of cultivation by Andean farmers. Multivariate statistical methods for classifying accessions have become powerful tools for classifying genetic resources conservation and the formation of core subsets. This study has two objectives: (1) to use a numerical classification strategy for classifying eight Peruvian highland races of maize based on six vegetative traits evaluated in two years and (2) to compare this classification with the existing racial classification. The numerical classification maintained the main structure of the eight races, but reclassified parts of the races into new groups (Gi). The new groups are more separated and well defined with a decreasing accession within group × environment interaction. Most of the accessions from G1 are from Cusco Gigante, all of the accessions from G3 (except one) are from Confite Morocho, and all of the accessions from G7 are from Chullpi. Group G2 has four accessions from Huayleño and four accessions from Paro, whereas G4 has four accessions from Huayleño and five accessions from San Geronimo. Group G5 has accessions from four races, and G6 and G8 formed small groups with two and one accession each, respectively. These groups can be used for forming core subsets for the purpose of germplasm enhancement and assembling gene pools for further breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_1736",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1736"
+}}

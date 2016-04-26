@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1932-6203",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:48Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1860",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1860"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1860"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1860",
+    "creator": [
+        {
+            "id": 1750072547,
+            "value": "Huihui Li",
+            "type": "person",
+            "uri": "/cimmyt/person/1750072547"
+        },
+        {
+            "id": 2128989375,
+            "value": "Bradbury, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/2128989375"
+        },
+        {
+            "id": 1067833810,
+            "value": "Ersoz, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1067833810"
+        },
+        {
+            "id": 357553558,
+            "value": "Buckler, E.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/357553558"
+        },
+        {
+            "id": 1031538120,
+            "value": "Jiankang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1031538120"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1860/1/95567.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 710590
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1860/2/95567.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 58346
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1860/3/95567.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7267
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1860/1/95567.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1860/2/95567.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1860/3/95567.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1860"
+        }
+    },
+    "extent": "",
+    "page": "13 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

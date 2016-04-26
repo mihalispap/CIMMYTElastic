@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Crop genetic engineering under global climate change",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:36Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hydrological cycle",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11670"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7806,
+            "value": "natural resources management",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9000115"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7007
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9983
+            ],
+            "value": "climate change",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1666"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7656,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7224,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic engineering",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15974"
+        }
+    ],
+    "description": {
+        "value": "Climate change may bring an increased intensity and frequency of storms, drought and flooding, weather extremes, altered hydrological cycles, and precipitation. Such climate vulnerability will threaten the sustainability of farming systems, particularly in the developing world. Stress tolerant bred-germplasm, coupled with sustainable crop and natural resource management as well as sound policy interventions will provide means for farmers to cope with climate change and benefit consumers worldwide. This article reviews advances in genetic engineering for improving traits such as heat tolerance, water productivity, and better use of nutrients that may enhance crop adaptation to the changing climate of the twenty-first century.",
+        "lang": "eng"
+    },
+    "appid": "10883_1760",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1760"
+}}

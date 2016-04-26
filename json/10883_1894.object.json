@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Comparing molecular marker combinations in natural or artificial populations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding population",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "haplotype disequilibrium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic structures",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331002"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Many ecological studies compare the genetic structure of (natural or arti_cial) popula-tions across di_erent (spatial and/or temporal) environments. Genotyping, using modern high-throughput molecular maker technologies, provides abundant information on (large numbers of) markers and (large numbers of) individuals in populations. An ordering of the markers, based on the relationships among them, enhances the description of the genetic structure of each population. Comparisons of the genetic structures of populations across environments will provide information on the adaptation of the populations. A method is presented for ordering bi-allelic markers for populations of self-fertilising plant species which consist of mixtures of related homozygous genotypes. This method provides stable pair-wise marker similarity measures even when marker frequencies are low, identi_cation of marker combinations that reect phenomena that cause di_erentiation (such as selec- tion and migration), and genetic information on the adaptation of the populations to the environments. The method is illustrated using data from a plant breeding program under arti_cial selection. Here inferences can be made about accumulation of desirable genes (such as for disease resistance), changes in selection objectives, and changes in germplasm in successive populations.",
+        "lang": "eng"
+    },
+    "appid": "10883_1894",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1894"
+}}

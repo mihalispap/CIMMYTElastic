@@ -1,0 +1,160 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:16:20Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1184",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1993,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1184"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1184"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1184",
+    "creator": [
+        {
+            "id": 176020457,
+            "value": "Harrington, L.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/176020457"
+        },
+        {
+            "id": 1896294079,
+            "value": "Fujisaka, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1896294079"
+        },
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        },
+        {
+            "id": 1660542106,
+            "value": "Hobbs, P.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1660542106"
+        },
+        {
+            "id": 618967327,
+            "value": "Sharma, H.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/618967327"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        },
+        {
+            "id": 1334475075,
+            "value": "Chaudhary, M.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1334475075"
+        },
+        {
+            "id": 1067009678,
+            "value": "Dhiman, S.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1067009678"
+        }
+    ],
+    "publisher": {
+        "id": 1497478961,
+        "value": "Haryana Agricultural University*ICAR*CIMMYT*IRRI",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1497478961"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1184/1/43733.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2469685
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1184/2/43733.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 133713
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1184/3/43733.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3037
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1184/1/43733.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1184/2/43733.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1184/3/43733.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1184"
+        }
+    },
+    "extent": "",
+    "page": "44 pags",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6127-86-0",
+    "quality": "",
+    "place": "Manila (Philippines)",
+    "doi": ""
+}}

@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "0496-3490",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "China",
+        "uri": [
+            "http://sws.geonames.org/3530839",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:44Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1827",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1827"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1827"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1827",
+    "creator": [
+        {
+            "id": 2008791240,
+            "value": "LI Hui-Hui",
+            "type": "person",
+            "uri": "/cimmyt/person/2008791240"
+        },
+        {
+            "id": 1128813834,
+            "value": "ZHANG Lu-Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/1128813834"
+        },
+        {
+            "id": 1031538120,
+            "value": "Jiankang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1031538120"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1827/1/94507.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 670148
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1827/2/94507.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51823
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1827/1/94507.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1827/2/94507.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1827"
+        }
+    },
+    "extent": "",
+    "page": "918-931",
+    "coverage": [
+        "China",
+        "Global"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

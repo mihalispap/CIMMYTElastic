@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Bin mapping of tomato diversity array (DArT) markers to genomic regions of Solanum lycopersicum x Solanum pennellii introgression lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tomatoes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7805"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "solanum lycopersicum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4475"
+        }
+    ],
+    "description": {
+        "value": "Marker-trait association studies in tomato have progressed rapidly due to the availability of several populations developed between wild species and domesticated tomato. However, in the absence of whole genome sequences for each wild species, molecular marker methods for whole genome comparisons and fine mapping are required. We describe the development and validation of a diversity arrays technology (DArT) platform for tomato using an introgression line (IL) population consisting of wild Solanum pennellii introgressed into Solanum lycopersicum (cv. M82). A tomato diversity array consisting of 6,912 clones from domesticated tomato and twelve wild tomato/Solanaceous species was constructed. We successfully bin-mapped 990 polymorphic DArT markers together with 108 RFLP markers across the IL population, increasing the number of markers available for each S. pennellii introgression by tenfold on average. A subset of DArT markers from ILs previously associated with increased levels of lycopene and carotene were sequenced, and 44% matched protein coding genes. The bin-map position and order of sequenced DArT markers correlated well with their physical position on scaffolds of the draft tomato genome sequence (SL2.40). The utility of sequenced DArT markers was illustrated by converting several markers in both the S. pennellii and S. lycopersicum phases to cleaved amplified polymorphic sequence (CAPS) markers. Genotype scores from the CAPS markers confirmed the genotype scores from the DArT hybridizations used to construct the bin map. The tomato diversity array provides additional \"sequence-characterized\" markers for fine mapping of QTLs in S. pennellii ILs and wild tomato species.",
+        "lang": "eng"
+    },
+    "appid": "10883_1866",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1866"
+}}

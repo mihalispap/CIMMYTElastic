@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Cassava (Manihot esculenta Crantz) genetic resources: a case of high iron and zinc",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:39Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "interspecific hybrids",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "iron",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "manihot esculenta",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "root",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zinc",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6803
+            ],
+            "value": "manihot",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4578"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cassava",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9649"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        }
+    ],
+    "description": {
+        "value": "Cassava hybrids from interspecific crosses with Manihot caerulescens Pohl, M. pseudoglaziovii Pax and Hoffmann and M. dichotoma Ule showed a very high iron and zinc content in both roots and leaves, e.g. 98.15 mg kg&#8722;1 in roots of the interspecific hybrid cassava-M. caerulescens versus 12.17 mg kg&#8722;1 in a cassava cultivar. This promising results show the potential of wild Manihot species for micronutrient enhancement of cassava.",
+        "lang": "eng"
+    },
+    "appid": "10883_1789",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1789"
+}}

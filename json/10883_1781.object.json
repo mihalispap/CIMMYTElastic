@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis of QTL affecting recombination frequency in whole genome of maize and rice",
+        "lang": "zho"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:38Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "recombination frequency",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "map-based gene cloning",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "recombination",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6475"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gene cloning",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27694"
+        }
+    ],
+    "description": {
+        "value": "Objective:  Recombination plays an important role in species evolution as well as plant and animal breeding. Here, the number of crossover breakpoints was used as a trait to map the QTL controlling recombination of genomes. Method:  Total number of crossover breakpoints across all chromosomes (NCAC) was used as the trait. Result:  Seven and eleven QTL were detected in 3 maize and 3 rice genetic populations, respectively. Meanwhile, 12 and 57 more QTL were detected in the maize IBM302 and rice Genetic98 population, respectively, when using the number of crossover breakpoints per chromosome (NCPC) as the trait. The number of QTL detected is strongly correlated with the resolution of the genetic linkage map. Conclusion:  These results not only have provided evidences for the true existence of genes controlling recombination frequency, but also facilitate our further research on map-based gene cloning and molecular breeding.",
+        "lang": "zho"
+    },
+    "appid": "10883_1781",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1781"
+}}

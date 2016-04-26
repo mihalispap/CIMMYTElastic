@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "From genotype x environment interaction to gene x environment interaction",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype x environment interaction (ge)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene x environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environmental and genotypic covariables",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait loci (qtl)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular markers (mm)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomics-enable prediction and selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenotypic variability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "complex traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        }
+    ],
+    "description": {
+        "value": "Historically in plant breeding a large number of statistical models has been developed and used for studying genotype x environment interaction. These models have helped plant breeders to assess the stability of economically important traits and to predict the performance of newly developed genotypes evaluated under varying environmental conditions. In the last decade, the use of relatively low numbers of markers has facilitated the mapping of chromosome regions associated with phenotypic variability (e.g., QTL mapping) and, to a lesser extent, revealed the differetial response of these chromosome regions across environments (i.e., QTL x environment interaction). QTL technology has been useful for marker-assisted selection of simple traits; however, it has not been efficient for predicting complex traits affected by a large number of loci. Recently the appearance of cheap, abundant markers has made it possible to saturate the genome with high density markers and use marker information to predict genomic breeding values, thus increasing the precision of genetic value prediction over that achieved with the traditional use of pedigree information. Genomic data also allow assessing chromosome regions through marker effects and studying the pattern of covariablity of marker effects across differential environmental conditions. In this review, we outline the most important models for assessing genotype x environment interaction, QTL x environment interaction, and marker effect (gene) x environment interaction. Since analyzing genetic and genomic data is one of the most challenging statistical problems researchers currently face, different models from different areas of statistical research must be attempted in order to make significant progress in understanding genetic effects and their interaction with environment",
+        "lang": "eng"
+    },
+    "appid": "10883_1891",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1891"
+}}

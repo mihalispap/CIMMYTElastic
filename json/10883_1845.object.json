@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Identification and mapping of simple sequence repeat markers from common bean (phaseolus vulgaris l.) bacterial artificial chromosome end sequences for genome characterization and genetic-physical map integration",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "microsatellites",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "phaseolus vulgaris",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5767"
+        }
+    ],
+    "description": {
+        "value": "Microsatellite markers or simple sequence repeat (SSR) loci are useful for diversity characterization and genetic?physical mapping. Different in silico microsatellite search methods have been developed for mining bacterial artificial chromosome (BAC) end sequences for SSRs. The overall goal of this study was genome characterization based on SSRs in 89,017 BAC end sequences (BESs) from the G19833 common bean (Phaseolus vulgaris L.) library. Another objective was to identify new SSR taking into account three tandem motif identification programs (Automated Microsatellite Marker Development [AMMD], Tandem Repeats Finder [TRF], and SSRLocator [SSRL]). Among the microsatellite search engines, SSRL identified the highest number of SSRs; however, when primer design was attempted, the number dropped due to poor primer design regions. Automated Microsatellite Marker Development software identified many SSRs with valuable AT/TA or AG/TC motifs, while TRF found fewer SSRs and produced no primers. A subgroup of 323 AT-rich, di-, and trinucleotide SSRs were selected from the AMMD results and used in a parental survey with DOR364 and G19833, of which 75 could be mapped in the corresponding population; these represented 4052 BAC clones. Together with 92 previously mapped BES- and 114 non-BES-derived markers, a total of 280 SSRs were included in the polymerase chain reaction (PCR)-based map, integrating a total of 8232 BAC clones in 162 contigs from the physical map.",
+        "lang": "eng"
+    },
+    "appid": "10883_1845",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1845"
+}}

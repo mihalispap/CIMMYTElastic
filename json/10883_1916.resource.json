@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/SA",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/6255150",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:57Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1916",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2013,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1916"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1916"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1916",
+    "creator": [
+        {
+            "id": 595971512,
+            "value": "Teran, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/595971512"
+        },
+        {
+            "id": 632861819,
+            "value": "Jara, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/632861819"
+        },
+        {
+            "id": 975950170,
+            "value": "Mahuku, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/975950170"
+        },
+        {
+            "id": 1053857708,
+            "value": "Beebe, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1053857708"
+        },
+        {
+            "id": 1009989210,
+            "value": "Singh, S.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1009989210"
+        }
+    ],
+    "publisher": {
+        "id": 2075561318,
+        "value": "http://link.springer.com/article/10.1007%2Fs10681-012-0803-0#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2075561318"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1916/1/97671.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 234561
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1916/2/97671.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45465
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1916/3/97671.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5273
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1916/1/97671.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1916/2/97671.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1916/3/97671.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1916"
+        }
+    },
+    "extent": "",
+    "page": "283-292",
+    "coverage": [
+        "South America",
+        "Central America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:27Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1698",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2006,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1698"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1698"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1698",
+    "creator": [
+        {
+            "id": 1385211229,
+            "value": "Ceron-Rojas, J.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1385211229"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1252114600,
+            "value": "Sahagun Castellanos, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1252114600"
+        },
+        {
+            "id": 528653963,
+            "value": "Castillo Gonzalez, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/528653963"
+        },
+        {
+            "id": 1042257331,
+            "value": "Santacruz Varela, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1042257331"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1698/1/89262.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 170353
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1698/2/89262.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 58425
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1698/3/89262.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7216
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1698/1/89262.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1698/2/89262.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1698/3/89262.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1698"
+        }
+    },
+    "extent": "",
+    "page": "1711-1721",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

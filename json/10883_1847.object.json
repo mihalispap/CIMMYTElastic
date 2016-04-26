@@ -1,0 +1,25 @@
+{"object": {
+    "title": {
+        "value": "Prediction assessment of linear mixed models for multienvironment trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": {
+        "vocabulary": "",
+        "score": "",
+        "value": "",
+        "uri": ""
+    },
+    "description": {
+        "value": "Fixed linear models have been used for describing genotype × environment interaction (GE). Previous attempts have been made to assess the predictive ability of some linear mixed models when GE components are treated as random effects and modeled by the factor analytic (FA) model. This study compares the predictive ability of linear mixed models when the GE is modeled by the FA model with that of simple linear mixed models when the GE is not modeled. A cross-validation scheme is used that randomly deletes some genotypes from sites; the values for these genotypes are then predicted by the different models and correlated with their observed values to assess model accuracy. A total of six multienvironment trials (one potato [Solanum tuberosum L.] trial, three maize [Zea mays L.] trials, and two wheat [Triticum aestivum L.] trials) with GE of varying complexity were used in the evaluation. Results show that for data sets with complex GE, modeling GE using the FA model improved the predictability of the model up to 6%. When GE is not complex, most models (with and without FA) gave high predictability, and models with FA did not seem to lose much predictive ability. Therefore, we concluded that modeling GE with the FA model is a good thing.",
+        "lang": "eng"
+    },
+    "appid": "10883_1847",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1847"
+}}

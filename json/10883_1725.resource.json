@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:30Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1725",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1725"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1725"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1725",
+    "creator": [
+        {
+            "id": 1402254501,
+            "value": "Dwivedi, S.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1402254501"
+        },
+        {
+            "id": 150234408,
+            "value": "Crouch, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150234408"
+        },
+        {
+            "id": 1744484913,
+            "value": "Mackill, D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1744484913"
+        },
+        {
+            "id": 197918756,
+            "value": "Yunbi Xu",
+            "type": "person",
+            "uri": "/cimmyt/person/197918756"
+        },
+        {
+            "id": 381520908,
+            "value": "Blair, M.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/381520908"
+        },
+        {
+            "id": 423593134,
+            "value": "Ragot, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/423593134"
+        },
+        {
+            "id": 1692535074,
+            "value": "Upadhyaya, H.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1692535074"
+        },
+        {
+            "id": 1246780078,
+            "value": "Ortiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246780078"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1725/1/90124.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1137298
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1725/2/90124.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 467512
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1725/3/90124.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4397
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1725/1/90124.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1725/2/90124.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1725/3/90124.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1725"
+        }
+    },
+    "extent": "",
+    "page": "163-318",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

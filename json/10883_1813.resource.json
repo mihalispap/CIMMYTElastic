@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:42Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1813",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1813"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1813"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1813",
+    "creator": [
+        {
+            "id": 1768934036,
+            "value": "Li Qing",
+            "type": "person",
+            "uri": "/cimmyt/person/1768934036"
+        },
+        {
+            "id": 2021152402,
+            "value": "Li Lin",
+            "type": "person",
+            "uri": "/cimmyt/person/2021152402"
+        },
+        {
+            "id": 1244231938,
+            "value": "Yang XiaoHong",
+            "type": "person",
+            "uri": "/cimmyt/person/1244231938"
+        },
+        {
+            "id": 1572659283,
+            "value": "Warburton, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1572659283"
+        },
+        {
+            "id": 1757743190,
+            "value": "Bai Guanghong",
+            "type": "person",
+            "uri": "/cimmyt/person/1757743190"
+        },
+        {
+            "id": 322788518,
+            "value": "Dai JingRui",
+            "type": "person",
+            "uri": "/cimmyt/person/322788518"
+        },
+        {
+            "id": 646971706,
+            "value": "Li JianSheng",
+            "type": "person",
+            "uri": "/cimmyt/person/646971706"
+        },
+        {
+            "id": 931882958,
+            "value": "Jianbing Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/931882958"
+        }
+    ],
+    "publisher": {
+        "id": 904173356,
+        "value": "http://www.biomedcentral.com/1471-2229/10/143",
+        "type": "organization",
+        "uri": "/cimmyt/organization/904173356"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1813/1/94200.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1081932
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1813/2/94200.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 68322
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1813/3/94200.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6215
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1813/1/94200.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1813/2/94200.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1813/3/94200.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1813"
+        }
+    },
+    "extent": "",
+    "page": "143-157",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

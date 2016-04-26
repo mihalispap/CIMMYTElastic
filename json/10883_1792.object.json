@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Genetic loci responding to two cycles of divergent selection for grain yield under drought stress in a rice breeding population",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        }
+    ],
+    "description": {
+        "value": "Molecular marker loci responding to selection under drought stress were monitored in a rice breeding population obtained by crossing a tolerant parent (Apo) to a susceptible parent (IR64). The 40 highest-yielding lines under stress and non-stress conditions obtained after two cycles of divergent selection under drought stress and non-stress conditions, respectively were genotyped using 72 polymorphic and widely distributed SSR markers. Ten loci (RM572, RM6703, RM71, RM3387, RM5686, RM520, RM510, RM256, RM269 and RM511) showing highly significant allele frequency differences between the two sets were identified. Favorable alleles at eight of these loci came from the tolerant parent, and at two (RM3387 and RM510) from the susceptible parent (IR64). Effects of these loci on grain yield were tested in five independent experiments covering a range in soil moisture levels. Results showed that at six loci (RM572, RM6703, RM520, RM256, RM269, and RM511), Apo alleles had highly significant effects on grain yield in at least three of the four stress trials but only two of these loci (RM572 and RM511) also affected grain yield under non-stress conditions. In all these cases, the effects of loci generally increased with stress level. Apo alleles at these loci seem to enhance yield under stress mainly by increasing harvest index and reducing flowering delay. Large-effect quantitative trait loci (QTLs) affecting grain yield under upland drought stress have already been found previously in other populations near RM6703, RM520, and RM511. Thus, these regions appear to be important in explaining genetic variation for upland drought tolerance in rice.",
+        "lang": "eng"
+    },
+    "appid": "10883_1792",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1792"
+}}

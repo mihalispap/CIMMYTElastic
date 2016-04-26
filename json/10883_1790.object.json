@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Host plant resistance to Radopholus similis in a diploid banana hybrid population",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:39Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "burrowing nematode",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "musa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "segregating population",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8111
+            ],
+            "value": "diploids",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2313"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nematodes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5112"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "population",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330887"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "radopholus similis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24799"
+        }
+    ],
+    "description": {
+        "value": "The objective of the research was to study the genetics of host plant resistance to Radopholus similis in a diploid banana population. Screening of a hybrid population and determination of the segregation ratios can provide information on the inheritance and number of alleles controlling this trait in banana. The diploid banana hybrid population used was derived by crossing the diploid hybrids TMB2x 6142-1 and TMB2x 8075-7. The diploid banana hybrid population was evaluated with the individual root inoculation method using an R. similis population from Namulonge, Uganda. Of the 81 hybrids evaluated, 37 hybrids were resistant, 13 hybrids were partially resistant and 31 hybrids were susceptible to R. similis. After chi-square analysis, the results indicated that resistance to R. similis is controlled by two dominant genes, A and B, both with additive and interactive effects, whereby recessive bb suppresses dominant A.",
+        "lang": "eng"
+    },
+    "appid": "10883_1790",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1790"
+}}

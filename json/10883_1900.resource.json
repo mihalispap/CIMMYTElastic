@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "0002-1962",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:54Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1900",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2013,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1900"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1900"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1900",
+    "creator": [
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        },
+        {
+            "id": 204913007,
+            "value": "Combs, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/204913007"
+        },
+        {
+            "id": 1967761045,
+            "value": "Alvarado, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1967761045"
+        },
+        {
+            "id": 1350992135,
+            "value": "Atlin, G.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1350992135"
+        },
+        {
+            "id": 910348402,
+            "value": "Mathews, K.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/910348402"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": {
+        "id": 498727041,
+        "value": "https://www.crops.org/publications/aj/abstracts/0/0/agronj2012.0016",
+        "type": "organization",
+        "uri": "/cimmyt/organization/498727041"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1900/1/97263.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1326024
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1900/2/97263.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41329
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1900/3/97263.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 10527
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1900/1/97263.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1900/2/97263.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1900/3/97263.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1900"
+        }
+    },
+    "extent": "",
+    "page": "1-19 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

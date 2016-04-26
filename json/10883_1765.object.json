@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Gene-specific markers for the wheat gene Lr34/Yr18/Pm38 which confers resistance to multiple fungal pathogens",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:36Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8661
+            ],
+            "value": "polymorphism",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6088"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7331
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6527
+            ],
+            "value": "exons",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331005"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6331,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        }
+    ],
+    "description": {
+        "value": "The locus Lr34/Yr18/Pm38 confers partial and durable resistance against the devastating fungal pathogens leaf rust, stripe rust, and powdery mildew. In previous studies, this broad-spectrum resistance was shown to be controlled by a single gene which encodes a putative ATP-binding cassette transporter. Alleles of resistant and susceptible cultivars differed by only three sequence polymorphisms and the same resistance haplotype was found in the three independent breeding lineages of Lr34/Yr18/Pm38. Hence, we used these conserved sequence polymorphisms as templates to develop diagnostic molecular markers that will assist selection for durable multi-pathogen resistance in breeding programs. Five allele-specific markers (cssfr1?cssfr5) were developed based on a 3 bp deletion in exon 11 of the Lr34-gene, and one marker (cssfr6) was derived from a single nucleotide polymorphism in exon 12. Validation of reference genotypes, well characterized for the presence or absence of the Lr34/Yr18/Pm38 resistance locus, demonstrated perfect diagnostic values for the newly developed markers. By testing the new markers on a larger set of wheat cultivars, a third Lr34 haplotype, not described so far, was discovered in some European winter wheat and spelt material. Some cultivars with uncertain Lr34 status were re-assessed using the newly derived markers. Unambiguous identification of the Lr34 gene aided by the new markers has revealed that some wheat cultivars incorrectly postulated as having Lr34 may possess as yet uncharacterised loci for adult plant leaf and stripe rust resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_1765",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1765"
+}}

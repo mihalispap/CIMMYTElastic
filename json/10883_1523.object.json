@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Needs for and effectiveness of slow release herbicide seed treatment Striga control formulations for protection against early season crop phytotoxicity",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2013-06-05T15:45:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.998,
+                0.998,
+                0.998,
+                1,
+                0.8054,
+                ""
+            ],
+            "value": "striga",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "formulations",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3068",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "seed dressing",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26820",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7692,
+                0.7692,
+                1,
+                ""
+            ],
+            "value": "imazapyr",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34855",
+                "http://aims.fao.org/aos/agrovoc/c_34855",
+                "http://aims.fao.org/aos/agrovoc/c_34855",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "phytotoxicity",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5848",
+                "http://aims.fao.org/aos/agrovoc/c_5848",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Imidazolinone resistant maize seed dressed with imazapyr has been successfully used to control the parasitic weed Striga in many locations, and has begun to be commercially successful in Africa. Despite this, occasionally poor effectiveness of control had been documented in some sites that required explanation. Analysis of the data against rainfall patterns suggested that: 1. poor maize emergence occurred when there was limited rainfall at germination, possibly due to inhibition by a very high herbicide concentration too near the maize seed; 2. there was poor Striga control in seasons of very high rainfall, possibly due to herbicide washout away from the maize root zone where Striga germinates and attaches. These field assessments were matched by experiments suggesting that slow release formulations might alleviate the problems. A series of slow release formulations were synthesized based on binding imazapyr to high capacity anion exchangers and using them to coat maize seed. The best seems to be a polyethyleneimine gel. Epidemiological field data from a multitude of sites support the conclusion that the slow release formulations increased stand establishment across sites and seasons compared to the control where there was low rainfall.",
+        "lang": "eng"
+    },
+    "appid": "10883_1523",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1523"
+}}

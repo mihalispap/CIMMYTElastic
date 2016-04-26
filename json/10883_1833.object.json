@@ -1,0 +1,153 @@
+{"object": {
+    "title": {
+        "value": "Statistical genomics for crop improvement: Opportunities and challenges",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "haplotypes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical genomics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop plants",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6519
+            ],
+            "value": "data",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49816"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.628
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6661
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7236
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7878
+            ],
+            "value": "statistical methods",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7377"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        }
+    ],
+    "description": {
+        "value": "Effective analysis of molecular data in combination with rigorous phenotypic data using appropriate statistical methods can provide enhanced understanding of the genetic and molecular bases of complex phenotypic traits. Coupled with the rapid development related to genome sequencing of crop plants, advances in statistical methods have aided in detecting Quantitative Trait Loci (QTL) influencing an array of traits, including epistatic QTLs, besides analysis of genotype x environment interactions, discovery of ?consensus QTL? through meta-analysis of data, expression-QTL (eQTL) through genetical genomics, and even epigenomic QTL. The profusion of powerful DNA-based markers, particularly single nucleotide polymorphisms (SNPs) and the evolution of statistical algorithms and experimental strategies, including the extension of the concept of linkage disequilibrium (LD)-based association mapping in crop plants, further promises to revolutionize the discovery of marker-trait associations for several important traits. While these exciting advances have brought closer the statisticians, bioinformatics experts, geneticists and molecular biologists, the new focus on genomiscs has also highlighted a significant challenge; how to integrate the different views of the genome given by various types of experimental data and provide a proper biological perspective that can lead to crop improvement. In the article, from the user?s perspective, I shall review some of the ongoing work on the above-mentioned areas in crop plants, especially using maize as a model system, and the opportunities and challenges for application of statistical genomics in molecular plant breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_1833",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1833"
+}}

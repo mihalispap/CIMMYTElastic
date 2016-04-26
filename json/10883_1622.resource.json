@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:15Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1622",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1997,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1622"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1622"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1622",
+    "creator": [
+        {
+            "id": 795058090,
+            "value": "Del Toro, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/795058090"
+        },
+        {
+            "id": 373012181,
+            "value": "Smale, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/373012181"
+        },
+        {
+            "id": 1004409159,
+            "value": "Rajaram, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1004409159"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        },
+        {
+            "id": 881976033,
+            "value": "Landois Palencia, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/881976033"
+        },
+        {
+            "id": 1286038158,
+            "value": "González Cossio, F.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1286038158"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1622/1/448452.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 861042
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1622/2/448452.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 34167
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1622/3/448452.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7354
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1622/1/448452.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1622/2/448452.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1622/3/448452.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1622"
+        }
+    },
+    "extent": "",
+    "page": "111-120",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

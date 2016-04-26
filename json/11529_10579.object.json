@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Maize Grain Quality Analysis for SeeD-MAB GWAS Testcross Panel Materials: 2011-2012",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                null
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "zea mays",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8504"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "protein content",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6251"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "lipid content",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4360"
+            ]
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "carotenoids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1333"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "beta-carotene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9848,
+            "value": "germplasm banks",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35302"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "carotenes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9632"
+        }
+    ],
+    "description": {
+        "value": "Testcrosses generated using accessions from the CIMMYT Maize Germplasm Bank were evaluated for several quality parameters including oil, protein, and starch content, grain color, and carotenoid levels. All seed used in these analyses were generated through hand pollination in Agua Fria, México in the winter of 2012 or in El Batán, México in summer of 2012 and analyzed in the Maize Nutritional Quality and Vegetative Tissue Analysis Laboratory at CIMMYT. The raw, uncurated data are presented in this study.",
+        "lang": ""
+    },
+    "appid": "11529_10579",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10579"
+}}

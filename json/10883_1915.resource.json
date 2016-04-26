@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:56Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1915",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "No"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1915"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1915"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1915",
+    "creator": [
+        {
+            "id": 1668099054,
+            "value": "Shrestha, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1668099054"
+        },
+        {
+            "id": 840142065,
+            "value": "Matteis, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/840142065"
+        },
+        {
+            "id": 58496286,
+            "value": "Skofic, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/58496286"
+        },
+        {
+            "id": 1551610847,
+            "value": "Portugal, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1551610847"
+        },
+        {
+            "id": 489296853,
+            "value": "McLaren, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/489296853"
+        },
+        {
+            "id": 27437244,
+            "value": "Hyman, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/27437244"
+        },
+        {
+            "id": 2007395632,
+            "value": "Arnaud, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2007395632"
+        }
+    ],
+    "publisher": {
+        "id": 1022762717,
+        "value": "http://www.frontiersin.org/Plant_Physiology/10.3389/fphys.2012.00326/abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1022762717"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1915/1/97667.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2094711
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1915/2/97667.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 28591
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1915/3/97667.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6845
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1915/1/97667.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1915/2/97667.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1915/3/97667.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1915"
+        }
+    },
+    "extent": "",
+    "page": "1-14 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

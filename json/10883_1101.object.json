@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Monitoring rice varieties grown in the rice zone of the Punjab: Results from 1985-87",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:44Z",
+    "created": "2012-01-06T05:14:10Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "farm size",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2802",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "irrigated land",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_25194",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "monitoring",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4911",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1101",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1101"
+}}

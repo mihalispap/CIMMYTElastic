@@ -1,0 +1,34 @@
+{"object": {
+    "title": {
+        "value": "Identification, validation and high throughput genotyping of transcribed gene SNPs in cassava",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:51Z",
+    "subject": {
+        "vocabulary": [
+            "",
+            "agrovoc"
+        ],
+        "score": [
+            "",
+            1
+        ],
+        "value": "cassava",
+        "uri": [
+            "",
+            "http://aims.fao.org/aos/agrovoc/c_9649"
+        ]
+    },
+    "description": {
+        "value": "The availability of genomic resources can facilitate progress in plant breeding through the application of advanced molecular technologies for crop improvement. This is particularly important in the case of less researched crops such as cassava, a staple and food security crop for more than 800 million people. Here, expressed sequence tags (ESTs) were generated from five drought stressed and well-watered cassava varieties. Two cDNA libraries were developed: one from root tissue (CASR), the other from leaf, stem and stem meristem tissue (CASL). Sequencing generated 706 contigs and 3,430 singletons. These sequences were combined with those from two other EST sequencing initiatives and filtered based on the sequence quality. Quality sequences were aligned using CAP3 and embedded in a Windows browser called HarvEST:Cassava which is made available. HarvEST:Cassava consists of a Unigene set of 22,903 quality sequences. A total of 2,954 putative SNPs were identified. Of these 1,536 SNPs from 1,170 contigs and 53 cassava genotypes were selected for SNP validation using Illumina's GoldenGate assay. As a result 1,190 SNPs were validated technically and biologically. The location of validated SNPs on scaffolds of the cassava genome sequence (v.4.1) is provided. A diversity assessment of 53 cassava varieties reveals some sub-structure based on the geographical origin, greater diversity in the Americas as opposed to Africa, and similar levels of diversity in West Africa and southern, eastern and central Africa. The resources presented allow for improved genetic dissection of economically important traits and the application of modern genomics-based approaches to cassava breeding and conservation.",
+        "lang": "eng"
+    },
+    "appid": "10883_1876",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1876"
+}}

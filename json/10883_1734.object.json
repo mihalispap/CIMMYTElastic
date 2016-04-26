@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Cowpea [Vigna unguiculata (L.) Walp.] core collection defined by geographical, agronomical and botanical descriptors",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:32Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "core collection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cowpea",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "descriptors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_49841",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sampling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vigna unguiculata",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "cowpeas",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1938"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Cowpea is a drought-tolerant food legume grown in the savannah regions of the tropics and subtropics. The International Institute for Tropical Agriculture (IITA) holds the world collection of 15,003 cultivated cowpea from 89 countries in its genebank. In excess of 12,000 accessions were characterized for 28 agrobotanical descriptors. The entire collection was first stratified by country of origin and biological status. Land race accessions (10,227) with information on origin and characterization data were grouped using clustering procedures. The clustering analysis was based on Euclidean distances between and among accessions. Accessions within each country were then grouped hierarchically, according to their similarity. The number of clusters selected for countries varied from 2 to 20, depending on the size of collection for that country. A percentage number of accessions (5&ndash;25%) was chosen from each country, based on the size of the collection and its proximity to the centre of diversity. The number of accessions from each cluster in a country was then chosen randomly, based on the predetermined percentage. In countries where the numbers of accessions were few (,10), the percentage chosen from those countries would be higher and may go up to 100% to ensure that at least one accession was chosen from every country. Accessions with no characterization information were treated as a group, and accessions were chosen randomly, based on their geographical distribution. In the process of selection, 200 accessions that are known to be resistant to pests and diseases and not originally chosen through the selection processes were, nevertheless, kept as part of the core collection. Following these procedures, a total of 1701 accessions of landraces were chosen from the entire collection. Using the same procedures, a subset of 225 accessions was chosen from 1422 advanced cultivars and breeding or research lines. A third subset of 130 accessions was chosen from 838 accessions that either lack information on origin or biological status, and six accessions of wild and weedy forms from the available 64 wild and weed accessions were added. Thus a core collection of 2062 accessions of cowpea was constituted. The diversity in the core collection was similar to that of the entire collection and correlated traits that may be linked were also preserved in the core collection. This core collection of cowpea provides an opportunity for further exploitation of the cowpea germplasm for improvement of this crop.",
+        "lang": "eng"
+    },
+    "appid": "10883_1734",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1734"
+}}

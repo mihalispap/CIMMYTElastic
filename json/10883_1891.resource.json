@@ -1,0 +1,96 @@
+{"resource": {
+    "citation": "",
+    "issn": "1389-2029",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:53Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1891",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1891"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1891"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1891",
+    "creator": {
+        "id": 1922443943,
+        "value": "Crossa, J.",
+        "type": "person",
+        "uri": "/cimmyt/person/1922443943"
+    },
+    "publisher": {
+        "id": 926876270,
+        "value": "http://www.ingentaconnect.com/content/ben/cg/2012/00000013/00000003/art00006",
+        "type": "organization",
+        "uri": "/cimmyt/organization/926876270"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1891/1/96960.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 773619
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1891/2/96960.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 97285
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1891/1/96960.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1891/2/96960.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1891"
+        }
+    },
+    "extent": "",
+    "page": "225-244",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

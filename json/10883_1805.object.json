@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Statistical properties of QTL linkage mapping in biparental genetic populations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "confidence interval",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "false discovery rate",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inclusive composite interval",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mapping",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1344",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "population size",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical power",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Quantitative trait gene or locus (QTL) mapping is routinely used in genetic analysis of complex traits. Especially in practical breeding programs, questions remain such as how large a population and what level of marker density are needed to detect QTLs that are useful to breeders, and how likely it is that the target QTL will be detected with the data set in hand. Some answers can be found in studies on conventional interval mapping (IM). However, it is not clear whether the conclusions obtained from IM are the same as those obtained using other methods. Inclusive composite interval mapping (ICIM) is a useful step forward that highlights the importance of model selection and interval testing in QTL linkage mapping. In this study, we investigate the statistical properties of ICIM compared with IM through simulation. Results indicate that IM is less responsive to marker density and population size (PS). The increase in marker density helps ICIM identify independent QTLs explaining >5% of phenotypic variance. When PS is >200, ICIM achieves unbiased estimations of QTL position and effect. For smaller PS, there is a tendency for the QTL to be located toward the center of the chromosome, with its effect overestimated. The use of dense markers makes linked QTL isolated by empty marker intervals and thus improves mapping efficiency. However, only large-sized populations can take advantage of densely distributed markers. These findings are different from those previously found in IM, indicating great improvements with ICIM.",
+        "lang": "eng"
+    },
+    "appid": "10883_1805",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1805"
+}}

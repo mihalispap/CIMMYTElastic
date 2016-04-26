@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Identification of quantitative trait loci for drought tolerance at seedling stage by screening a large number of introgression lines in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:38Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9932
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14914"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8395
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "The maize genome hosts tremendous phenotypic and molecular diversity. Introgression lines (ILs), developed by continuous backcrossing to recurrent parents, could provide a unique genetic stock for quantitative trait locus (QTL) mapping. Using maize lines from six heterotic groups of different ecological zones, we developed >500 BC2F2 IL sets by crossing 11 inbred lines (as recurrent parents) with >200 local maize inbred lines (as donor parents). Of them, 34 IL sets were selected as a subset for drought tolerance screening and a total of 417 ILs survived under severe water stress at seedling stage. One set of 32 surviving ILs, derived from Chang7-2/DHuang212, was used for QTL mapping with simple sequence repeat markers covering the whole genome, with seven QTL detected. Furthermore, investigating all surviving ILs, we identified two common regions in bin 3.04, corresponding to marker intervals bnlg1904?umc1772 and umc1223?bnlg1957, respectively, which shared high genetic variation in three IL sets. Our results indicated that selective genotyping can be used to identify genetic loci for complex traits. The ILs, highly selected for drought tolerance in this study, provide a unique set of materials for both genomic studies and development of enhanced germplasm resources.",
+        "lang": "eng"
+    },
+    "appid": "10883_1780",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1780"
+}}

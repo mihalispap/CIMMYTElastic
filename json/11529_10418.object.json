@@ -1,0 +1,204 @@
+{"object": {
+    "title": {
+        "value": "13th Semi-Arid Wheat Yield Trial Marker-Assisted Selection Data",
+        "lang": ""
+    },
+    "updated": "2016-03-08T23:29:45Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "AGROVOC"
+            ],
+            "score": [
+                "",
+                null
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8679"
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "13th sawyt",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "disease resistance",
+            "uri": "http://aims.fao.org/skosmos/agrovoc/en/page/c_2328"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/skosmos/agrovoc/en/page/c_8724"
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "quality",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6400"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant development",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Gramene Gene",
+            "score": null,
+            "value": "lr34",
+            "uri": "http://archive.gramene.org/db/genes/search_gene?acc=GR:1300287"
+        },
+        {
+            "vocabulary": "Gramene Gene",
+            "score": null,
+            "value": "lr37",
+            "uri": "http://archive.gramene.org/db/genes/search_gene?acc=GR:1300290"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sr24",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Gramene Gene",
+            "score": null,
+            "value": "sr38",
+            "uri": "http://archive.gramene.org/db/genes/search_gene?acc=GR:1300516"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sr57",
+            "uri": ""
+        },
+        {
+            "vocabulary": "Gramene Gene",
+            "score": null,
+            "value": "yr17",
+            "uri": "http://archive.gramene.org/db/genes/search_gene?acc=GR:1300584"
+        },
+        {
+            "vocabulary": "Gramene Gene",
+            "score": null,
+            "value": "yr18",
+            "uri": "http://archive.gramene.org/db/genes/search_gene?acc=GR:1300585"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "1b1r",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "a1r1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pm38",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ppd1-d1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ppd1-a1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "GrainGenes",
+            "score": null,
+            "value": "vrn-a1",
+            "uri": "http://wheat.pw.usda.gov/cgi-bin/GG3/report.cgi?class=marker&name=Vrn-A1"
+        },
+        {
+            "vocabulary": "GrainGenes",
+            "score": null,
+            "value": "vrn-b1",
+            "uri": "http://wheat.pw.usda.gov/cgi-bin/GG3/report.cgi?class=marker;query=*Vrn-B1*;name=Vrn-B1+(Triticum)"
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vrn-b3",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vrn-d1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "AGROVOC",
+            "score": null,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "Gramene Gene",
+            "score": null,
+            "value": "sr24",
+            "uri": "http://archive.gramene.org/db/genes/search_gene?acc=GR:1300501"
+        },
+        {
+            "vocabulary": "GrainGenes",
+            "score": null,
+            "value": "vrn-b3",
+            "uri": "http://wheat.pw.usda.gov/cgi-bin/GG3/report.cgi?class=marker&name=Vrn-B3"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "11529_10418",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "dataset_software",
+    "appuri": "/cimmyt/dataset_software/11529_10418"
+}}

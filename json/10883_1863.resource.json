@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1819-3595",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:49Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1863",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1863"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1863"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1863",
+    "creator": [
+        {
+            "id": 1437889433,
+            "value": "Bavei, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1437889433"
+        },
+        {
+            "id": 533722167,
+            "value": "Vaezi, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/533722167"
+        },
+        {
+            "id": 1623355223,
+            "value": "Abdipour, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1623355223"
+        },
+        {
+            "id": 1635171672,
+            "value": "Jalal Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1635171672"
+        },
+        {
+            "id": 481088280,
+            "value": "Roustaii, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/481088280"
+        }
+    ],
+    "publisher": {
+        "id": 1712933554,
+        "value": "http://scialert.net/abstract/?doi=ijpbg.2011.175.193",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1712933554"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1863/1/95577.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 981304
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1863/2/95577.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 67929
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1863/3/95577.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5991
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1863/1/95577.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1863/2/95577.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1863/3/95577.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1863"
+        }
+    },
+    "extent": "",
+    "page": "175-193",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

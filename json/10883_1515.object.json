@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "The natural abundance of 13C with different agricultural management by NIRS with fibre optic probe technology",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:38Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "soil",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7156",
+                "http://aims.fao.org/aos/agrovoc/c_7156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "near infrared reflectance spectroscopy (nirs)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "reflectance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28538"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fibres",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2879"
+        }
+    ],
+    "description": {
+        "value": "In the present study the natural abundance of 13C is quantified in agricultural soils in Mexico which have been submitted to different agronomic practices, zero and conventional tillage, retention of crop residues (with and without) and rotation of crops (wheat and maize) for 17 years, which have influenced the physical, chemical and biological characteristics of the soil. The natural abundance of C13 is quantified by near infrared spectra (NIRS) with a remote reflectance fibre optic probe, applying the probe directly to the soil samples. Discriminate partial least squares analysis of the near infrared spectra allowed to classify soils with and without residues, regardless of the type of tillage or rotation systems used with a prediction rate of 90% in the internal validation and 94% in the external validation. The NIRS calibration model using a modified partial least squares regression allowed to determine the d13C in soils with or without residues, with multiple correlation coefficients 0.81 and standard error prediction 0.5&permil; in soils with residues and 0.92 and 0.2&permil; in soils without residues. The ratio performance deviation for the quantification of d13C in soil was 2.5 in soil with residues and 3.8 without residues. This indicated that the model was adequate to determine the d13C of unknown soils in the -16.2&permil; to -20.4&permil; range. The development of the NIR calibration permits analytic determinations of the values of d13C in unknown agricultural soils in less time, employing a non-destructive method, by the application of the fibre optic probe of remote reflectance to the soil sample.",
+        "lang": "eng"
+    },
+    "appid": "10883_1515",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1515"
+}}

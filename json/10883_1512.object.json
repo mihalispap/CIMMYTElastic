@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Straw management, crop rotation, and nitrogen source effect on wheat grain yield and nitrogen use efficiency",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "n sources",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chicken manure",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6357,
+                0.6357,
+                0.6357,
+                0.6357,
+                ""
+            ],
+            "value": "urea",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8090",
+                "http://aims.fao.org/aos/agrovoc/c_8090",
+                "http://aims.fao.org/aos/agrovoc/c_8090",
+                "http://aims.fao.org/aos/agrovoc/c_8090",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "burning",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6945,
+                0.6945,
+                0.6945,
+                ""
+            ],
+            "value": "sesbania",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6993",
+                "http://aims.fao.org/aos/agrovoc/c_6993",
+                "http://aims.fao.org/aos/agrovoc/c_6993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9553
+            ],
+            "value": "wheat straw",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16066"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Nitrogen fertilizer management from different sources and annual crop rotations are important components of wheat (Triticum aestivum L.) production systems, especially where air and soil quality issues have prompted a search for alternatives to wheat straw burning. This study examined the effects of two different wheat straw management options (burning and incorporation by tillage), three crop rotations [wheat-sesbania (Sesbania spp.), wheat&ndash;maize (Zea mays L.), and wheat-clean fallow] and three N sources (urea, chicken manure, and urea plus chicken manure) on wheat grain yield and N use efficiency. The experiment was conducted as split&ndash;split plot treatment arrangement with three replications for eight wheat cropping seasons in the state of Sonora, Mexico. Results indicated that both wheat grain yield and N use efficiency were higher with burning than incorporation of wheat straw and with fertilization with urea or urea plus chicken manure than chicken manure alone. As shown by the crop rotation-by-straw management interaction, planting sesbania following incorporation of the straw by tillage produced comparable grain yields to straw burning treatment. In contrast, wheat in annual rotation with maize produced the lowest wheat grain yield and N use efficiency irrespective of the wheat straw management and N source applied.",
+        "lang": "eng"
+    },
+    "appid": "10883_1512",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1512"
+}}

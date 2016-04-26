@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2012-01-06T05:16:56Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1209",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1995,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1209"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1209"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1209",
+    "creator": [
+        {
+            "id": 1840536771,
+            "value": "Gilchrist, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1840536771"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        },
+        {
+            "id": 1915789446,
+            "value": "McNab, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1915789446"
+        },
+        {
+            "id": 600182483,
+            "value": "Kema, G.H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/600182483"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1209/1/61568.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 9374501
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1209/2/61568.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 334530
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1209/3/61568.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7889
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1209/1/61568.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1209/2/61568.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1209/3/61568.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1209"
+        }
+    },
+    "extent": "",
+    "page": "viii, 157 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-49-7",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

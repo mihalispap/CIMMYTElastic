@@ -1,0 +1,34 @@
+{"object": {
+    "title": {
+        "value": "A modified algorithm for the improvement of composite interval mapping",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:30Z",
+    "subject": {
+        "vocabulary": [
+            "",
+            "agrovoc"
+        ],
+        "score": [
+            "",
+            1
+        ],
+        "value": "mapping",
+        "uri": [
+            "",
+            "http://aims.fao.org/aos/agrovoc/c_1344"
+        ]
+    },
+    "description": {
+        "value": "Composite interval mapping (CIM) is the most commonly used method for mapping quantitative trait loci (QTL) with populations derived from biparental crosses. However, the algorithm implemented in the popular QTL Cartographer software may not completely ensure all its advantageous properties. In addition, different background marker selection methods may give very different mapping results, and the nature of the preferred method is not clear. A modified algorithm called inclusive composite interval mapping (ICIM) is proposed in this article. In ICIM, marker selection is conducted only once through stepwise regression by considering all marker information simultaneously, and the phenotypic values are then adjusted by all markers retained in the regression equation except the two markers flanking the current mapping interval. The adjusted phenotypic values are finally used in interval mapping (IM). The modified algorithm has a simpler form than that used in CIM, but a faster convergence speed. ICIM retains all advantages of CIM over IM and avoids the possible increase of sampling variance and the complicated background marker selection process in CIM. Extensive simulations using two genomes and various genetic models indicated that ICIM has increased detection power, a reduced false detection rate, and less biased estimates of QTL effects.",
+        "lang": "eng"
+    },
+    "appid": "10883_1724",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1724"
+}}

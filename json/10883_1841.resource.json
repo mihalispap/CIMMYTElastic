@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "0011-183X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Philippines",
+        "uri": [
+            "http://sws.geonames.org/1694008",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Philippines"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:46Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1841",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1841"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1841"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1841",
+    "creator": [
+        {
+            "id": 968597813,
+            "value": "Jagadish S.V.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/968597813"
+        },
+        {
+            "id": 454440481,
+            "value": "Cairns J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/454440481"
+        },
+        {
+            "id": 1771762353,
+            "value": "Lafitte R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1771762353"
+        },
+        {
+            "id": 1887951342,
+            "value": "Wheeler T.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1887951342"
+        },
+        {
+            "id": 470532682,
+            "value": "Price A.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/470532682"
+        },
+        {
+            "id": 1310750665,
+            "value": "Craufurd P.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1310750665"
+        }
+    ],
+    "publisher": {
+        "id": 851050050,
+        "value": "https://www.crops.org/publications/cs/abstracts/50/5/1633",
+        "type": "organization",
+        "uri": "/cimmyt/organization/851050050"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1841/1/94734.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 997403
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1841/2/94734.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48566
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1841/3/94734.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 18107
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1841/1/94734.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1841/2/94734.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1841/3/94734.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1841"
+        }
+    },
+    "extent": "",
+    "page": "1633-1641",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

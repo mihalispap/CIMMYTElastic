@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Efficiency of selective genotyping for genetic analysis of complex traits and potential applications in crop improvement",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selective genotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pooled dna analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inclusive composite interval mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Selective genotyping of individuals from the two tails of the phenotypic distribution of a population provides a cost efficient alternative to analysis of the entire population for genetic mapping. Past applications of this approach have been confounded by the small size of entire and tail populations, and insufficient marker density, which result in a high probability of false positives in the detection of quantitative trait loci (QTL). We studied the effect of these factors on the power of QTL detection by simulation of mapping experiments using population sizes of up to 3,000 individuals and tail population sizes of various proportions, and marker densities up to one marker per centiMorgan using complex genetic models including QTL linkage and epistasis. The results indicate that QTL mapping based on selective genotyping is more powerful than simple interval mapping but less powerful than inclusive composite interval mapping. Selective genotyping can be used, along with pooled DNA analysis, to replace genotyping the entire population, for mapping QTL with relatively small effects, as well as linked and interacting QTL. Using diverse germplasm including all available genetics and breeding materials, it is theoretically possible to develop an ?all-in-one plate? approach where one 384-well plate could be designed to map almost all agronomic traits of importance in a crop species. Selective genotyping can also be used for genomewide association mapping where it can be integrated with selective phenotyping approaches. We also propose a breeding-to-genetics approach, which starts with identification of extreme phenotypes from segregating populations generated from multiple parental lines and is followed by rapid discovery of individual genes and combinations of gene effects together with simultaneous manipulation in breeding programs.",
+        "lang": "eng"
+    },
+    "appid": "10883_1799",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1799"
+}}

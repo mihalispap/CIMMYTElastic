@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "A high-throughput, low cost gel-based SNP assay for positional cloning and marker assisted breeding of useful genes in cereals",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hegs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "positional cloning",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker assisted breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sscp",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snp assay",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pcr",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34079"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9115
+            ],
+            "value": "polymorphism",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6088"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Several SNP (single nucleotide polymorphism) genotyping methods have been developed in the past most of which require sophisticated instrumentation and large initial investments. We describe here a high-throughput SSCP (single strand conformation polymorphism) system on our HEGS (high efficiency genome scanning) platform, which is simple, accurate, cost effective and requires neither restriction digestion of the amplification products nor elaborate post-PCR processing detection. Several parameters critical to SSCP analysis were optimized viz., gel matrix and concentration, gel running temperature, buffer composition, running conditions and PCR primer design so as to identify SNPs in amplicons ranging from 100 to 750 bp in size. A simple post-PCR processing system was developed using fluorescent dye for quick and easy detection of SNP polymorphism. HEGS-SSCP was also found to be useful in uncovering simple sequence repeat differences between different genotypes that differ by one or few di/tri nucleotide repeats. The practical utility of this system is illustrated with two successful efforts towards construction of high resolution linkage maps of a lesion mimic locus on chromosome 7 and a major quantitative trait locus conditioning field blast resistance on chromosome 4 in rice.",
+        "lang": "eng"
+    },
+    "appid": "10883_1782",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1782"
+}}

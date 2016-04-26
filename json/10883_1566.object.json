@@ -1,0 +1,198 @@
+{"object": {
+    "title": {
+        "value": "Simulation of resource-conserving technologies on productivity, income and greenhouse gas GHG emission in rice-wheat system",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "biocide residue index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "global warming potential",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "greenhouse gas emission",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen budget",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resource conserving technologies",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rice-wheat system",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "systems analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7581",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8644
+            ],
+            "value": "rice",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6599"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8348
+            ],
+            "value": "tillage",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7771"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7489
+            ],
+            "value": "crop establishment",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5965"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "global warming",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34836"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "greenhouses",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3379"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "resources",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9001017"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8934,
+            "value": "productivity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8227,
+            "value": "simulation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5209"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7607,
+            "value": "emission",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331377"
+        }
+    ],
+    "description": {
+        "value": "The Rice-wheat (RW) cropping system is one of the major agricultural production systems in four Indo-Gangetic Plains (IGP) countries: India, Pakistan, Bangladesh and Nepal of South Asia covering about 32% of the total rice area and 42% of the total wheat area. The excessive utilization of natural resource bases and changing climate are leading to the negative yield trend and plateauing of Rice-wheat (RW) system productivity. The conservation agriculture based efficient and environmental friendly alternative tillage and crop establishment practices have been adopted by the farmers on large scale. A few tools have been evolved to simulate the different tillage and crop establishment. In the present study, InfoRCT (Information on Use of Resource Conserving Technologies), a excel based model integrating biophysical, agronomic, and socioeconomic data to establish input-output relationships related to water, fertilizer, labor, and biocide uses; greenhouse gas (GHG) emissions; biocide residue in soil; and Nitrogen (N) fluxes in the rice-wheat system has been validated for farmer participatory practices. The assessment showed that double no-till system increased the farmer?s income, whereas raised-bed systems decreased it compared with the conventional system. The InfoRCT simulated the yield, wateruse, net income and biocide residue fairly well. The model has potential to provide assessments of various cultural practices under different scenarios of soil, climate, and crop management on a regional scale",
+        "lang": "eng"
+    },
+    "appid": "10883_1566",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1566"
+}}

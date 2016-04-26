@@ -1,0 +1,178 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Australia",
+            "uri": [
+                "http://sws.geonames.org/2077456",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:02:21Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1657",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2003,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1657"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1657"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1657",
+    "creator": [
+        {
+            "id": 154485,
+            "value": "Cakir, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/154485"
+        },
+        {
+            "id": 633292771,
+            "value": "Spackman, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/633292771"
+        },
+        {
+            "id": 1358799206,
+            "value": "Wellings, C.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1358799206"
+        },
+        {
+            "id": 782436220,
+            "value": "Galwey, N.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/782436220"
+        },
+        {
+            "id": 536001460,
+            "value": "Moody, D.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/536001460"
+        },
+        {
+            "id": 2138980740,
+            "value": "Poulsen, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/2138980740"
+        },
+        {
+            "id": 796528725,
+            "value": "Ogbonnaya, F.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/796528725"
+        },
+        {
+            "id": 2019102414,
+            "value": "Vivar, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/2019102414"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1657/1/80860.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 411849
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1657/2/80860.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 31774
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1657/3/80860.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 16469
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1657/1/80860.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1657/2/80860.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1657/3/80860.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1657"
+        }
+    },
+    "extent": "",
+    "page": "1351-1357",
+    "coverage": [
+        "Australia",
+        "Global"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

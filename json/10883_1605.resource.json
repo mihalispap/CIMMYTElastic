@@ -1,0 +1,170 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Asia",
+            "uri": [
+                "http://sws.geonames.org/7729893",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T20:59:24Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1605",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1605"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1605"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1605",
+    "creator": [
+        {
+            "id": 766929026,
+            "value": "Kienzler, K.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/766929026"
+        },
+        {
+            "id": 834894095,
+            "value": "Lamers, J.P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/834894095"
+        },
+        {
+            "id": 2112674125,
+            "value": "McDonald, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2112674125"
+        },
+        {
+            "id": 1315424398,
+            "value": "Mirzabaev, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1315424398"
+        },
+        {
+            "id": 1609707486,
+            "value": "Ibragimov, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1609707486"
+        },
+        {
+            "id": 519619466,
+            "value": "Egamberdiev, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/519619466"
+        },
+        {
+            "id": 1088063743,
+            "value": "Ruzibaev, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1088063743"
+        },
+        {
+            "id": 265419706,
+            "value": "Akramkhanov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/265419706"
+        }
+    ],
+    "publisher": {
+        "id": 32825713,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429011004114",
+        "type": "organization",
+        "uri": "/cimmyt/organization/32825713"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1605/1/97782.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 537796
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1605/2/97782.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 74788
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1605/3/97782.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5548
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1605/1/97782.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1605/2/97782.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1605/3/97782.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1605"
+        }
+    },
+    "extent": "",
+    "page": "95-105",
+    "coverage": "Central Asia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

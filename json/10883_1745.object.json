@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Genetic diversity in CIMMYT nontemperate maize germplasm: Landraces, open pollinated varieties, and inbred lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:34Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7422
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        }
+    ],
+    "description": {
+        "value": "CIMMYT is the source of improved maize (Zea mays L.) breeding material for a significant portion of the nontemperate maize growing world. Landraces which did not serve as sources for improved maize germplasm may contain untapped allelic variation useful for future breeding progress. Information regarding levels of diversity in different germplasm would help to identify sources for broadening improved breeding pools and in seeking genes and alleles that have not been tapped in modern maize breeding. The objectives of this study were to examine the diversity in maize landraces, modern open pollinated varieties (OPVs), and inbred lines adapted to nontemperate growing areas to find unique sources of allelic diversity that may be used in maize improvement. Twenty-five simple sequence repeat markers were used to characterize 497 individuals from 24 landraces of maize from Mexico, 672 individuals from 23 CIMMYT improved breeding populations, and 261 CIMMYT inbred lines. Number of alleles, gene diversity per locus, unique alleles per locus, and population structure all differ between germplasm groups. The unique alleles found in each germplasm group represent a great reservoir of untapped genetic resources for maize improvement, and implications for hybrid breeding are discussed",
+        "lang": "eng"
+    },
+    "appid": "10883_1745",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1745"
+}}

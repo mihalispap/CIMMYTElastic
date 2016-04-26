@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Structural equation modelling for studying genotype x environment interactions of physiological traits affecting yield in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:29Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yield components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24419"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7914
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "In plant physiology and breeding, it is important to understand the causes of genotyperenvironment interactions (GEIs) of complex traits such as grain yield. It is difficult to study the underlying sequential biological processes of such traits, their components and other intermediate traits, as well as the main environmental factors affecting those processes. The structural equation models (SEMs) used in the present study allow the external and internal factors affecting GEI of various traits and their interrelations to be accounted for. The study included 86 wheat genotypes derived from three different crosses and evaluated over 3 years. Several attributes, as well as grain yield and yield components, were measured during five crop development stages. Environmental data for the five development stages were averaged. The SEM approach facilitated comprehensive understanding of GEI effects among the different traits, and decomposed the total effects of grain yield components and cross-product covariates on grain yield GEI into direct and indirect effects. External climatic variables were related mostly to main final yield components, and only more intermediate endogenous variables, such as spikes/m2, were affected by minimum temperature and radiation in the early stages of plant development.",
+        "lang": "eng"
+    },
+    "appid": "10883_1719",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1719"
+}}

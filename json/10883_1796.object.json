@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "REML is an effective analysis for mixed modelling of unbalanced on-farm varietal trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8104
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "trials",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2758"
+            ]
+        }
+    ],
+    "description": {
+        "value": "On-farm participatory varietal selection (PVS) trials are often of two types: mother trials (with all of the entries) and baby trials (each having one, or very few of the entries from the mother trials). We conducted PVS trials on 17 wheat varieties in 12 villages of four districts of Bangladesh over three years but the data were highly unbalanced. Both quantitative and qualitative traits were measured in the on-farm trials. The factors in the trials were both fixed effects (varieties and districts) and random (years and farmers). We used the residual or restricted maximum likelihood (REML) analysis for the mixed model for quantitative traits. For qualitative data on farmers' perceptions, logistic regression procedures were used that are equally applicable to balanced and unbalanced data sets. The REML analysis provided adjusted mean values for quantitative traits for all the varieties, for the mother and baby trials separately, using the data from all years and all locations. It identified varieties BAW 1006 and BAW 1008 that yielded 19?30% more than the control Kanchan and also had a higher 1000-grain weight, were at least as early to flower and had a high overall ranking by farmers in the mother trials. The logistic regression analysis of perception data agreed with the results of the REML analysis as these varieties were most preferred by farmers for grain yield, earlier maturity and better chapatti making quality. The less labour-intensive method of recording qualitative perceptions can usefully replace actual yield measurements, particularly when validated by other participatory measures such as intended and actual adoption. In 2005, BAW 1006 was released as BARI Gom 23 or Bijoy and BAW 1008 as BARI Gom 24 or Prodip for the whole of Bangladesh. The validity of the results of the REML analysis was confirmed by the high early adoption trends of the identified varieties. Since REML is an effective analysis for unbalanced PVS trial data using a mixed model, its wider use by researchers would increase the value of the PVS process.",
+        "lang": "eng"
+    },
+    "appid": "10883_1796",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1796"
+}}

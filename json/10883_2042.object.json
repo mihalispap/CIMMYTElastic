@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Wheat policy options in sub-Saharan Africa: the case of Zimbabwe",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-07T21:09:25Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "zimbabwe",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8516",
+                "http://aims.fao.org/aos/agrovoc/c_8516",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6957,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agricultural policies",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_201",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "consumer behaviour",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1821",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "imports",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3815",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2042",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2042"
+}}

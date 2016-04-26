@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kazakhstan",
+        "uri": [
+            "http://sws.geonames.org/1522867",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kazakhstan"
+        ]
+    },
+    "updatedDate": "2012-03-15T17:52:03Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1295",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1295"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1295"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1295",
+    "creator": [
+        {
+            "id": 2057393723,
+            "value": "Karabayev, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2057393723"
+        },
+        {
+            "id": 2117145130,
+            "value": "Iskandorava, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2117145130"
+        },
+        {
+            "id": 1246734811,
+            "value": "Zelenskiy, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246734811"
+        },
+        {
+            "id": 1968504289,
+            "value": "Baitassov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1968504289"
+        },
+        {
+            "id": 1355677706,
+            "value": "Zhapayev, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1355677706"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1295/1/96260.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4355027
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1295/2/96260.pdf.jpg",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5345
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1295/3/96260.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 231406
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1295/1/96260.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1295/2/96260.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1295/3/96260.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1295"
+        }
+    },
+    "extent": "",
+    "page": "82 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

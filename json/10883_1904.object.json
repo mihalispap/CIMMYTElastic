@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Maize HapMap2 identifies extant variation from a genome in flux",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:55Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tripsacum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7940"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Whereas breeders have exploited diversity in maize for yield improvements, there has been limited progress in using beneficial alleles in undomesticated varieties. Characterizing standing variation in this complex genome has been challenging, with only a small fraction of it described to date. Using a population genetics scoring model, we identified 55 million SNPs in 103 lines across pre-domestication and domesticated Zea mays varieties, including a representative from the sister genus Tripsacum. We find that structural variations are pervasive in the Z. mays genome and are enriched at loci associated with important traits. By investigating the drivers of genome size variation, we find that the larger Tripsacum genome can be explained by transposable element abundance rather than an allopolyploid origin. In contrast, intraspecies genome size variation seems to be controlled by chromosomal knob content. There is tremendous overlap in key gene content in maize and Tripsacum, suggesting that adaptations from Tripsacum (for example, perennialism and frost and drought tolerance) can likely be integrated into maize.",
+        "lang": "eng"
+    },
+    "appid": "10883_1904",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1904"
+}}

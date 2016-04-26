@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "0258-8587",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2012-01-06T05:15:26Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Economics Working Paper",
+    "appid": "10883_1150",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1991,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1150"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1150"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1150",
+    "creator": [
+        {
+            "id": 283959092,
+            "value": "Belaid, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/283959092"
+        },
+        {
+            "id": 1518990659,
+            "value": "Morris, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518990659"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1150/1/32812.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 6730951
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1150/2/32812.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 187523
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1150/3/32812.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5510
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1150/1/32812.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1150/2/32812.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1150/3/32812.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1150"
+        }
+    },
+    "extent": "No. 91-2",
+    "page": "viii, 76 pags",
+    "coverage": [
+        "North Africa",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

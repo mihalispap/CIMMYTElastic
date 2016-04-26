@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:18Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1637",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2001,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1637"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1637"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1637",
+    "creator": [
+        {
+            "id": 957359092,
+            "value": "Ahmadi, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/957359092"
+        },
+        {
+            "id": 1684199870,
+            "value": "Albar, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1684199870"
+        },
+        {
+            "id": 76902800,
+            "value": "Pressoir, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/76902800"
+        },
+        {
+            "id": 1577807709,
+            "value": "Pinel, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1577807709"
+        },
+        {
+            "id": 1254655858,
+            "value": "Fargette, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1254655858"
+        },
+        {
+            "id": 678649770,
+            "value": "Ghesquire, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/678649770"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1637/1/75727.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 131281
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1637/2/75727.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45991
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1637/3/75727.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6516
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1637/1/75727.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1637/2/75727.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1637/3/75727.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1637"
+        }
+    },
+    "extent": "",
+    "page": "1084-1092",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

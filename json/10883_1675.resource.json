@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:24Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1675",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2004,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1675"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1675"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1675",
+    "creator": [
+        {
+            "id": 1132633998,
+            "value": "Faruq, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1132633998"
+        },
+        {
+            "id": 2112088296,
+            "value": "Mohamad, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/2112088296"
+        },
+        {
+            "id": 388058362,
+            "value": "Hadjim, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/388058362"
+        },
+        {
+            "id": 570848197,
+            "value": "Meisner, C.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/570848197"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1675/1/81420.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 157465
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1675/2/81420.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 12919
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1675/3/81420.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6398
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1675/1/81420.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1675/2/81420.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1675/3/81420.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1675"
+        }
+    },
+    "extent": "",
+    "page": "810-812",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

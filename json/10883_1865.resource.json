@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:02:49Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1865",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2011,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1865"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1865"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1865",
+    "creator": [
+        {
+            "id": 1508327757,
+            "value": "Cairns, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1508327757"
+        },
+        {
+            "id": 372820380,
+            "value": "Impa, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/372820380"
+        },
+        {
+            "id": 706946280,
+            "value": "O'Toole, J.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/706946280"
+        },
+        {
+            "id": 1812385899,
+            "value": "Jagadish, S.V.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1812385899"
+        },
+        {
+            "id": 2015226768,
+            "value": "Price, A.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/2015226768"
+        }
+    ],
+    "publisher": {
+        "id": 32708688,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429011000384",
+        "type": "organization",
+        "uri": "/cimmyt/organization/32708688"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1865/1/95698.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 604262
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1865/2/95698.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57117
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1865/3/95698.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3655
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1865/1/95698.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1865/2/95698.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1865/3/95698.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1865"
+        }
+    },
+    "extent": "",
+    "page": "303-310",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

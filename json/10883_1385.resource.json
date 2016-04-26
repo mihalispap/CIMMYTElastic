@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Nepal",
+        "uri": [
+            "http://sws.geonames.org/1282988",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+        ]
+    },
+    "updatedDate": "2013-06-05T15:45:17Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1385",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 1990,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1385"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1385"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1385",
+    "creator": [
+        {
+            "id": 176020457,
+            "value": "Harrington, L.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/176020457"
+        },
+        {
+            "id": 1660542106,
+            "value": "Hobbs, P.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1660542106"
+        },
+        {
+            "id": 120218935,
+            "value": "Pokhrel, T.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/120218935"
+        },
+        {
+            "id": 434162970,
+            "value": "Sharma, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/434162970"
+        },
+        {
+            "id": 1896294079,
+            "value": "Fujisaka, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1896294079"
+        },
+        {
+            "id": 1661703459,
+            "value": "Lightfoot, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1661703459"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1385/1/24139.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1539560
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1385/2/24139.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 63076
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1385/3/24139.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 1660
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1385/1/24139.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1385/2/24139.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1385/3/24139.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1385"
+        }
+    },
+    "extent": "",
+    "page": "1-27 pags",
+    "coverage": [
+        "Nepal",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

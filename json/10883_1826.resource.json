@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:44Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1826",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2010,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1826"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1826"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1826",
+    "creator": [
+        {
+            "id": 1087228425,
+            "value": "Luyan Zhang",
+            "type": "person",
+            "uri": "/cimmyt/person/1087228425"
+        },
+        {
+            "id": 493051522,
+            "value": "Shiquan Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/493051522"
+        },
+        {
+            "id": 1750072547,
+            "value": "Huihui Li",
+            "type": "person",
+            "uri": "/cimmyt/person/1750072547"
+        },
+        {
+            "id": 2005835725,
+            "value": "Qiming Deng",
+            "type": "person",
+            "uri": "/cimmyt/person/2005835725"
+        },
+        {
+            "id": 583100182,
+            "value": "Aiping Zheng",
+            "type": "person",
+            "uri": "/cimmyt/person/583100182"
+        },
+        {
+            "id": 172353534,
+            "value": "Shuangcheng Li",
+            "type": "person",
+            "uri": "/cimmyt/person/172353534"
+        },
+        {
+            "id": 1096600299,
+            "value": "Ping Li",
+            "type": "person",
+            "uri": "/cimmyt/person/1096600299"
+        },
+        {
+            "id": 1994484605,
+            "value": "Zhonglai Li",
+            "type": "person",
+            "uri": "/cimmyt/person/1994484605"
+        },
+        {
+            "id": 1031538120,
+            "value": "Jiankang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1031538120"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1826/1/94506.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 564091
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1826/2/94506.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 49560
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1826/3/94506.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5775
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1826/1/94506.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1826/2/94506.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1826/3/94506.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1826"
+        }
+    },
+    "extent": "",
+    "page": "1071-1082",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

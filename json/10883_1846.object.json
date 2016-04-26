@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Genetic structures of the CIMMYT international yield trial targeted to irrigated environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:47Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "international yield trials",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "population structure",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6115",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "temporal genetic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "linkage disequilibrium",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7894
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic distance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27530"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6528
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        }
+    ],
+    "description": {
+        "value": "International yield trials are assembled by CIMMYT to disseminate promising wheat breeding materials worldwide. To assess the genomic structure and linkage disequilibrium (LD) within this germplasm, wheat lines disseminated during 25 years of the Elite Spring Wheat Yield Trial (ESWYT) targeted for irrigated environments of the world were genotyped with the high-throughput Diversity Arrays Technology (DArT) marker system. Analyses of population structure assigned the ESWYT germplasm into five major sub-populations that are shaped by prominent CIMMYT wheat lines and their descendants. Based on genetic distance, we concluded that a constant level of genetic diversity was maintained over the years of ESWYT dissemination. Genetic distance between the individual ESWYT lines significantly increased when the ESWYT were grouped according to the differences in years of ESWYT dissemination, suggesting a systematic change in allele frequencies over time, most probably due to breeding and directional selection. By means of multiple regression analyses, 78 markers displaying a significant change in allele frequency across years were identified and interpreted as an indicator for constant selection. The markers identified were partly associated with grain yield, leaf, stem, and yellow rust and point to key genomic regions for further investigation. Large numbers of adjacent DArT marker pairs showed significant LD across the ESWYT population and within each of the five sub-populations identified. Sub-population differentiation measured by the fixation index and average genetic distance were highly correlated with LD levels, suggesting that the sub-populations themselves explain much of the LD.",
+        "lang": "eng"
+    },
+    "appid": "10883_1846",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1846"
+}}

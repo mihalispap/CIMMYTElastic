@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Biplots of linear-bilinear models for studying crossover genotype X environment interaction",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:49Z",
+    "created": "2013-06-07T21:02:14Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environmental control",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drought resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "Linear-bilinear models, such as the Shifted Multiplicative Model (SHMM) and Sites Regression Model (SREG), have been used to develop clustering procedures for finding subsets of sites ( or cultivars) without cultivar crossover interaction (non-COI). Biplots of these models are useful for visual evaluation of cultivar responses across environments. The main purposes of this study were to investigate (i) SREG, and SHMM, biplots with the first multiplicative components constrained to be non-COI SREG1 and SHMMl solutions, (ii) how the biplots can be used for identifying subsets of sites and cultivars with different levels of COI and with non-COI, and (iii) how these biplots compare with results obtained when clustering only sites or cultivars without cultivar rank change. Transformed and untrans- formed data from two multienvironment cultivar trials were used ror illustration. Biplots rrom SHMM, and SREG, models graphically display the interaction variation due to low level COlor non-COI (first multiplicative term) versus the interaction variation due to COI (second multiplicative term). The biplots obtained by means or the non-COI first term constrained solution or the SREG, and SHMM, models have the same interpretability properties as the standard biplots obtained by means or the unconstrained solution. With the unconstrained and constrained solutions, it is possible to identify subsets or sites and cultivars with low level COI and non-COI. Biplots based on unscaled or scaled data produced similar results. Groups or sites and cultivars with low level COI and non-COI were similar to those round when only sites (or cultivars) were clustered into non-COI groups using the SHMM and SREG clustering approach.",
+        "lang": "eng"
+    },
+    "appid": "10883_1620",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1620"
+}}

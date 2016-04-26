@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:36Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1764",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": null,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1764"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1764"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1764",
+    "creator": [
+        {
+            "id": 255287522,
+            "value": "Primavesi, L.F.",
+            "type": "person",
+            "uri": "/cimmyt/person/255287522"
+        },
+        {
+            "id": 76425066,
+            "value": "Wu Huixia",
+            "type": "person",
+            "uri": "/cimmyt/person/76425066"
+        },
+        {
+            "id": 935678958,
+            "value": "Mudd, E.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/935678958"
+        },
+        {
+            "id": 1184141827,
+            "value": "Day, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1184141827"
+        },
+        {
+            "id": 1214752741,
+            "value": "Jones, H.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1214752741"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1764/1/93320.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 523048
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1764/2/93320.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 56590
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1764/3/93320.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5912
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1764/1/93320.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1764/2/93320.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1764/3/93320.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1764"
+        }
+    },
+    "extent": "",
+    "page": "529-543",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

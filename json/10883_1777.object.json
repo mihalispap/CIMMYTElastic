@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Advances in maize genomics and their value for enhancing genetic gains from breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:38Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9292,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic gain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34003"
+        }
+    ],
+    "description": {
+        "value": "Maize is an important crop for food, feed, forage, and fuel across tropical and temperate areas of the world. Diversity studies at genetic, molecular, and functional levels have revealed that, tropical maize germplasm, landraces, and wild relatives harbor a significantly wider range of genetic variation. Among all types of markers, SNP markers are increasingly the marker-of-choice for all genomics applications in maize breeding. Genetic mapping has been developed through conventional linkage mapping and more recently through linkage disequilibrium-based association analyses. Maize genome sequencing, initially focused on gene-rich regions, now aims for the availability of complete genome sequence. Conventional insertion mutation-based cloning has been complemented recently by EST- and map-based cloning. Transgenics and nutritional genomics are rapidly advancing fields targeting important agronomic traits including pest resistance and grain quality. Substantial advances have been made in methodologies for genomics-assisted breeding, enhancing progress in yield as well as abiotic and biotic stress resistances. Various genomic databases and informatics tools have been developed, among whichMaizeGDB is the most developed and widely used by the maize research community. In the future, more emphasis should be given to the development of tools and strategic germplasm resources for more effective molecular breeding of tropical maize products.",
+        "lang": "eng"
+    },
+    "appid": "10883_1777",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1777"
+}}

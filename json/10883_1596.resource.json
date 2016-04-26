@@ -1,0 +1,212 @@
+{"resource": {
+    "citation": "",
+    "issn": "0883-8542",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Brazil",
+            "uri": [
+                "http://sws.geonames.org/3469034",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Brazil"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zambia",
+            "uri": [
+                "http://sws.geonames.org/895949",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zambia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T20:59:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1596",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2012,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1596"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1596"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1596",
+    "creator": [
+        {
+            "id": 1327812355,
+            "value": "Sims, B.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1327812355"
+        },
+        {
+            "id": 1823058277,
+            "value": "Thierfelder, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1823058277"
+        },
+        {
+            "id": 427278588,
+            "value": "Kienzle, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/427278588"
+        },
+        {
+            "id": 1511794682,
+            "value": "Friedrich, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1511794682"
+        },
+        {
+            "id": 660565885,
+            "value": "Kassam, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/660565885"
+        }
+    ],
+    "publisher": {
+        "id": 2007916321,
+        "value": "http://bit.ly/ZhbEX7",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2007916321"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1596/1/97462.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 692859
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1596/2/97462.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 44645
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1596/3/97462.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6544
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1596/1/97462.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1596/2/97462.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1596/3/97462.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1596"
+        }
+    },
+    "extent": "",
+    "page": "1-11 pags",
+    "coverage": [
+        "Eastern Africa",
+        "Central Africa",
+        "West Africa",
+        "Southern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

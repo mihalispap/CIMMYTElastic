@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:37Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1771",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1771"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1771"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1771",
+    "creator": [
+        {
+            "id": 1106613177,
+            "value": "Thachuk, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1106613177"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1729213603,
+            "value": "Franco, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1729213603"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 1942495439,
+            "value": "Warburton, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1942495439"
+        },
+        {
+            "id": 675286302,
+            "value": "Davenport, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/675286302"
+        }
+    ],
+    "publisher": {
+        "id": 2039322704,
+        "value": "http://www.biomedcentral.com/1471-2105/10/243",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2039322704"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1771/1/93403.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 369522
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1771/2/93403.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 65729
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1771/3/93403.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6353
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1771/1/93403.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1771/2/93403.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1771/3/93403.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1771"
+        }
+    },
+    "extent": "",
+    "page": "1-13 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Multi-trait Multi-environment Genome-wide molecular marker selection indices",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:50Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9158,
+                0.9158,
+                0.9158,
+                0.9158,
+                0.9158,
+                0.9158,
+                0.9158,
+                0.9158,
+                1,
+                ""
+            ],
+            "value": "selection index",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                "http://aims.fao.org/aos/agrovoc/c_24423",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "restrictive selection indices",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "eigenanalysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multitrait multienvironment genomewide molecular marker indices",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "selection",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6951"
+        }
+    ],
+    "description": {
+        "value": "Molecular selection indices such as the molecular eigen selection index method (MESIM) and other molecular marker score selection indices maximize the selection response by combining information on molecular markers linked to quantitative trait loci and phenotypic values of the traits. The standard restrictive selection index and the restrictive eigen selection index method (RESIM) maximize the selection response of only some traits while leaving others unchanged. This research extends the MESIM, RESIM, genomewide molecular selection index, and standard restrictive selection index to the case of a multitrait multienvironment genomewide molecular marker selection index. We used simulated data and real data for estimating the performance of various genomewide and molecular marker selection indices. Result showed that, in general, when several traits were selected in various environments simultaneously and all the markers were included in the indices, the multitrait multienvironment genomewide molecular marker selection index increased the genotypic means over the mean of individuals selected by other selection indices. The sampling properties of MESIM and RESIM in the context of multitrait multienvironment genomewide molecular marker selection indices and their selection responses are known, and their estimators showed desirable statistical properties such as consistency and asymptotic unbiasedness. We propose a general procedure for finding the asymptotic statistical sampling properties of the multitrait multienvironment genomewide molecular marker selection index and of the selection indices by applying the theory underlying MESIM and RESIM.",
+        "lang": "eng"
+    },
+    "appid": "10883_1868",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1868"
+}}

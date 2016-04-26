@@ -1,0 +1,279 @@
+{"object": {
+    "title": {
+        "value": "Grain yield of barley as affected by cropping sequence and fertilizer application in Southeastern Ethiopia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:35Z",
+    "created": "2013-06-05T15:45:22Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "barley",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9013,
+                1,
+                ""
+            ],
+            "value": "hordeum vulgare",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3662",
+                "http://aims.fao.org/aos/agrovoc/c_3662",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8779,
+                1,
+                ""
+            ],
+            "value": "brassica carinata",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33311",
+                "http://aims.fao.org/aos/agrovoc/c_33311",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7143,
+                1,
+                ""
+            ],
+            "value": "faba beans",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10722",
+                "http://aims.fao.org/aos/agrovoc/c_10722",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9699,
+                1,
+                ""
+            ],
+            "value": "vicia faba",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8220",
+                "http://aims.fao.org/aos/agrovoc/c_8220",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9645,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rotational cropping",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6662",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrogen fertilizers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5195",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "application rates",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16113",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant response",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_25446",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "highlands",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3614",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ethiopia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6283,
+            "value": "oilseed crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5328"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fertilizer application",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_10795"
+        }
+    ],
+    "description": {
+        "value": "Cropping systems in the Ethiopian highlands involve rotations of cereals with grain legume and oilseed crops; the proportional allocation among crop species varies with altitude, rainfall, and soil type. Barley (Hordeum vulgare) tends to dominate in the highest altitudinal zones, while bread wheat (Triticum aestivum) is more common at medium altitudes. A trial was established in 1992 at the Bekoji research site in southeastern Ethiopia to evaluate interactions among barley-based cropping sequences and annual applications of inorganic nitrogen (N) and Phosphorus (P) fertiliser. Rotational crops included Ethiopian rapeseed (Brassica carinata), faba bean (Vicia faba), and bread wheat",
+        "lang": "eng"
+    },
+    "appid": "10883_1408",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1408"
+}}

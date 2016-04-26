@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "Sites regression and shifted multiplicative model clustering of cultivar trial sites under heterogeneity of error variances",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:31Z",
+    "created": "2013-06-07T21:02:17Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crops",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "variety trials",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "research projects",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Previous papers have developed the shifted multiplicative model with one multiplicative term (SHMM1) as a model for clustering yield trial sites or cultivars into groups in which cultivar rank changes are statistically negligible. Properties of SHMM1 are proportionality of predicted cultivar differences within sites, and of site differences within cultivars. The latter constraint is relaxed if the sites regression model with one multiplicative term (SREG1) is used instead of SHMM1. Dendrograms for the two methods are identical, but SHMM and SREG analyses of clusters suggested by the dendrogram may lead to different conclusions concerning acceptability of a particular cluster. This study compared SREG clustering to SHMM clustering in two international maize (Zea mays) cultivar trials, when the data to which models were fitted were original unscaled cell means, and, as a way to cope with site to site heterogeneity of error variance, cell means scaled by dividing by the standard error of a cultivar mean within the particular site. Results of both trials confirmed the expectation that SREG clustering would occasionally allow clusters to merge which would not be statistically acceptable under SHMM analysis. This occurred at a cost of a modest increase in percentage and magnitude of significant crossover interactions within the clusters. Both trials exhibited significant site to site heterogeneity of error variances. Scaling of data resulted in more effective removal of significant rank-change interactions from within clusters, provided that the test criterion was based on the assumption of heterogeneous variance. Besides occasionally allowing larger clusters, advantages for SREG clustering of sites are (i) all solutions (including constrained non-crossover solutions) exist in closed form and (ii) the analysis of scaled data is equivalent to a weighted least squares analysis, neither of which holds for SHMM",
+        "lang": "eng"
+    },
+    "appid": "10883_1630",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1630"
+}}

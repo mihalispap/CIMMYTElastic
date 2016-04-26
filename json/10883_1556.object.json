@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "NDVI as a potential tool for predicting biomass, plant nitrogen content and growth in wheat genotypes subjected to different water and nitrogen conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spectroradiometer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ndvi",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "active sensors",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "biomass",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen content",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "green area",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "The application of spectroradiometric index such as the normalized difference vegetation index (NDVI) to assess green biomass or nitrogen (N) content has focused on the plant canopy in precision agriculture or breeding programs. However, little is known about the usefulness of these techniques in isolated plants. The few reports available propose the use of a spectroradiometer in combination with special adaptors that improve signal acquisition from plants, but this makes measurements relatively slow and unsuitable. Here we studied the direct use (i.e. without adaptors) of a commercial cost-effective spectroradiometer, GreenSeeker? (NTech Industries Ins., Ukiah, California, USA) provided with an active sensor (i.e. equipped with its own source of radiation) for measuring NDVI in four genotypes of durum wheat (Triticum turgidum L. var. durum) grown in pots under a range of water and N regimes. Strong correlations were observed between NDVI measurements and dry aboveground biomass (AB), total green area (TGA), green area without spikes (GA) and aboveground N content (AN). To prove the predictive ability of NDVI measured under potted conditions, linear regression models for each growth trait and for plant N content were built with the data of two genotypes. The models accurately predicted growth traits and N content, confirming the direct relationship between total plant biomass and spectroradiometric readings.",
+        "lang": "eng"
+    },
+    "appid": "10883_1556",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1556"
+}}

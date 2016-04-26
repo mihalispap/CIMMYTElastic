@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2013-06-05T15:45:35Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1494",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1494"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1494"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1494",
+    "creator": [
+        {
+            "id": 1996764641,
+            "value": "Gupta, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1996764641"
+        },
+        {
+            "id": 1483250975,
+            "value": "Sayre, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1483250975"
+        }
+    ],
+    "publisher": {
+        "id": 2059398543,
+        "value": "http://bit.ly/YOiaFz",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2059398543"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1494/1/89961.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 128552
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1494/2/89961.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30181
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1494/3/89961.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5586
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1494/1/89961.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1494/2/89961.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1494/3/89961.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1494"
+        }
+    },
+    "extent": "",
+    "page": "207-214",
+    "coverage": "South Asia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

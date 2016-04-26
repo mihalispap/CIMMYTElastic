@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Inheritance and development of molecular markers linked to angular leaf spot resistance genes in the common bean accession G10909",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "phaeoisariopsis griseola",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34709",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "angular leaf spot resistance genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "common bean",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microsatellite markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "scar markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "leaf spots",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12119"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "common beans",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4098"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "microsatellites",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        }
+    ],
+    "description": {
+        "value": "Angular leaf spot (ALS) is one of the major diseases of the common bean (Phaseolus vulgaris L.). Different sources of resistance have been identified but few have been characterized. Studies were conducted to elucidate the inheritance of ALS resistance in the bean accession G10909 and to identify molecular markers linked to these genes. Evaluation of parental genotypes, F1, F2 and backcross to susceptible parent (Sprite) populations revealed that two dominant and complementary genes conditioned ALS resistance. Allelism tests showed that the ALS resistance genes in G10909 were different from those in the Mesoamerican cultivars Mexico 54, MAR 2, G10474 and Cornell 49-242. Three sequence-characterized amplified region (SCAR) markers, PF13310, PF9260 and OPE04709, and a microsatellite, Pv-gaat001, segregated in coupling with the resistance genes in G10909. Pairwise segregation analysis revealed that markers PF13310, PF9260 and OPE04709 were linked, while Pv-gaat001 segregated in a 9:3:3:1 ratio from all markers. Markers PF13310, PF9260 and OPE04709 were mapped to linkage group B08, and segregated with resistance gene PhgG10909B at 4.9, 7.4 and 9.9 cM, respectively. Pv-gaat001, previously mapped to linkage group B04, segregated with resistance gene PhgG10909A at 13 cM. The potential utility of these markers to aid breeding for ALS resistance is discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_1921",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1921"
+}}

@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Three-mode principal component analysis of genotype-by-environment-by-trait data in durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "three-way interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "three-way principal component analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "three-way sites regression model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "A three-way genotype x location x year analysis on a set of 46 durum wheat genotypes evaluated as part of a two-year international multi-environment trial was performed. The analysis considered the following traits: plant height, heading date, test weight, 1,000 kernel weight, protein content, gluten strength, semolina color, and grain yield. The three-way sites regression model was used to study the response patterns of the durum wheat lines in two rain-fed sites in Italy and two irrigated sites in northwest Mexico in two consecutive years. Focusing on grain yield and heading, the three-way SREG model successfully identified the top yielding and more stable genotypes in the different environments. The genotypes showing the latest heading dates were the lowest in grain yield in all four sites during 2005, and most of the earliest genotypes ranked among the top-yielding and more stable materials, especially in the Italian environments. With respect to plant height, taller and shorter materials were equally distributed between Italian and Mexican genotypes under both rain-fed and irrigated conditions. As for grain quality, a negative correlation between test weight and heading date was found, but there was no significant correlation between 1,000 kernel weight and heading date. The SREG multi-attribute of quality traits showed some durum wheat lines exhibiting good quality and remarkable yield potential. Durum line 17, the top-yielding genotype in all years and environments, also showed good values for quality traits and was released as a new variety in Italy.",
+        "lang": "eng"
+    },
+    "appid": "10883_1870",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1870"
+}}

@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Classifying vegetable genetic resources - A case study with domesticated Capsicum spp.",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chili",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "descriptors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_49841",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic resources",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hot pepper",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multivariate analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "modified location model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ward",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9243
+            ],
+            "value": "capsicum",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1287"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Great variation for many traits seems to be available in Capsicum genetic resources but yet to be fully used by plant breeders. Adequate characterization of genebank accessions is needed to facilitate the utilization of germplasm by end-users. The aim of this research was to use multivariate techniques with both qualitative and quantitative descriptors in the five domesticated species of Capsicum for grouping them after assessing inter- and intra-specific variation. Key qualitative descriptors (seed color, corolla color and spot, calyx constriction, numbers of flowers per node and filament color) served for assigning most accessions to their respective species, whereas intra-specific multivariate diversity was better assessed by quantitative descriptors such as fruit length/width ratio, numbers of days to flowering, leaf width, and anther, filament and pedicel length. The modified location model an adequate method for classifying Capsicum accessions using quantitative descriptors.",
+        "lang": "eng"
+    },
+    "appid": "10883_1821",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1821"
+}}

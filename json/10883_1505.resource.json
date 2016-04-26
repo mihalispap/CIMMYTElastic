@@ -1,0 +1,161 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Laos",
+            "uri": [
+                "http://sws.geonames.org/1655842",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Laos"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southeast Asia",
+            "uri": [
+                "http://sws.geonames.org/6942346",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-05T15:45:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1505",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2007,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1505"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1505"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1505",
+    "creator": [
+        {
+            "id": 317512147,
+            "value": "Saito, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/317512147"
+        },
+        {
+            "id": 1350992135,
+            "value": "Atlin, G.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1350992135"
+        },
+        {
+            "id": 1151710667,
+            "value": "Linquist, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1151710667"
+        },
+        {
+            "id": 543290197,
+            "value": "Phanthaboon, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/543290197"
+        },
+        {
+            "id": 324434718,
+            "value": "Shiraiwa, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/324434718"
+        },
+        {
+            "id": 87601621,
+            "value": "Horie, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/87601621"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1505/1/90307.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 709646
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1505/2/90307.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48838
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1505/3/90307.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 18120
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1505/1/90307.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1505/2/90307.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1505/3/90307.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1505"
+        }
+    },
+    "extent": "",
+    "page": "2473-2481",
+    "coverage": [
+        "Laos",
+        "Southeast Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

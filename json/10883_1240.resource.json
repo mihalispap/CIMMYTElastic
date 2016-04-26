@@ -1,0 +1,209 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Chile",
+            "uri": [
+                "http://sws.geonames.org/3895114",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Chile"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bolivia",
+            "uri": [
+                "http://sws.geonames.org/3923057",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bolivia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Uruguay",
+            "uri": [
+                "http://sws.geonames.org/3439705",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Uruguay"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Argentina",
+            "uri": [
+                "http://sws.geonames.org/3865483",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Argentina"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Brazil",
+            "uri": [
+                "http://sws.geonames.org/3469034",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Brazil"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/3567086",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:17:46Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1240",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1998,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1240"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1240"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1240",
+    "creator": [
+        {
+            "id": 1727094441,
+            "value": "Kohli, M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1727094441"
+        },
+        {
+            "id": 1676936292,
+            "value": "Martino, D",
+            "type": "person",
+            "uri": "/cimmyt/person/1676936292"
+        }
+    ],
+    "publisher": {
+        "id": 1844433574,
+        "value": "CIMMYT*INIA",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1844433574"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1240/1/68277.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 6508205
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1240/2/68277.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 756868
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1240/3/68277.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8319
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1240/1/68277.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1240/2/68277.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1240/3/68277.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1240"
+        }
+    },
+    "extent": "",
+    "page": "x, 339 pags",
+    "coverage": [
+        "Mexico",
+        "Argentina",
+        "Uruguay",
+        "Chile",
+        "Bolivia",
+        "Brazil",
+        "North America",
+        "South America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "9974-7586-0-2",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

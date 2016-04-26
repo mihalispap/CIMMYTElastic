@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Allelic variation at the TaZds-A1 locus on wheat chromosome 2A and development of a functional marker in common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:55Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "functional marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "æ-carotene desaturase",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zds",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8428
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9325
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "zeta)-carotene desaturase (ZDS) is a key enzyme for carotenoid biosynthesis, demonstrating high association with the yellow pigment (YP) content in wheat grain. Cloning ZDS gene and developing functional markers are important for marker-assisted selection in wheat breeding. In the present study, the full-length DNA sequence of a ZDS gene on wheat chromosome 2A, designated TaZds-A1, was cloned, with 14 exons and 13 introns, and it has an open reading frame (ORF) of 1 707 bp, encoding 568 amino acid residues. A co-dominant functional marker, YP2A-1, was designed based on the polymorphisms of two alleles at the locus, TaZds-A1a and TaZds-A1b, yielding 183- and 179-bp fragments in TaZds-A1a and TaZds-A1b genotypes, respectively. A new QTL for YP content was detected on chromosome 2A, co-segregating with the functional marker YP2A-1 and TaZds-A1; it explained 11.3% of the phenotypic variance for YP content in a doubled haploid (DH) population from Zhongyou 9507/CA9632. Among 217 Chinese wheat cultivars and advanced lines, the average grain YP content of 126 cultivars with TaZds-A1b allele was 7.8% higher than that of 91 cultivars with TaZds-A1a allele.",
+        "lang": "eng"
+    },
+    "appid": "10883_1906",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1906"
+}}

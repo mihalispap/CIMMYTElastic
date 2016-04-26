@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Effect of intercropping maize and soybeans on Striga hermonthica parasitism and yield of maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:38Z",
+    "created": "2013-06-05T15:45:43Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "striga hermonthica",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_32339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "soybeans",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14477",
+                "http://aims.fao.org/aos/agrovoc/c_14477",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "trap crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24910",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "intercropping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "variation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7798
+            ],
+            "value": "germination",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3247"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Striga hermonthica a major biotic constraint to cereal production can be controlled by trap crops. Soybean cultivars vary in ability to stimulate suicidal germination of the weed. An experiment was conducted to select soybean (Glycine max) varieties with the ability to stimulate germination of S. hermonthica seeds. Experiments were conducted with strigol Nijmegen 11 (GR 24), a synthetic stimulant, as a check. In the pot and field experiments, maize (variety WH507) was intercropped with soybeans. Variation occurred among soybean varieties in inducing germination of S. hermonthica. The relative germination induction by soybean varieties ranged from 8% to 66% compared to 70% for synthetic stimulant check. Varieties TGX1448-2E, Tgm 1576, TGX1876-4E and Tgm 1039 had the highest relative germination. Soybean varieties TGX 1831-32E, Tgm944, Tgm 1419 and Namsoy4m had high stimulation but low attachment. Intercropping maize with soybeans in the field led to a low S. hermonthica count and high maize yield.",
+        "lang": "eng"
+    },
+    "appid": "10883_1557",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1557"
+}}

@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Two types of GGE biplots for analyzing multi-environment trial data",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:31Z",
+    "created": "2013-06-07T21:02:19Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3225",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environments",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "testing",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crop husbandry",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "models",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4881",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "data analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trials",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1642",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1642"
+}}

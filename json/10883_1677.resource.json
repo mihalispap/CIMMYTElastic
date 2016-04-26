@@ -1,0 +1,150 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:24Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_1677",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1677"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1677"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1677",
+    "creator": [
+        {
+            "id": 356485950,
+            "value": "William, H.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/356485950"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        },
+        {
+            "id": 1606486241,
+            "value": "Trethowan, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1606486241"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        },
+        {
+            "id": 837380791,
+            "value": "Pellegrineschi, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/837380791"
+        },
+        {
+            "id": 1016360935,
+            "value": "Huerta Espino, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1016360935"
+        },
+        {
+            "id": 1791569376,
+            "value": "Hoisington, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1791569376"
+        }
+    ],
+    "publisher": {
+        "id": 1140516452,
+        "value": "http://mistug.tubitak.gov.tr/bdyim/abs.php?dergi=tar&rak=0404-17",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1140516452"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1677/1/81807.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45312
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1677/2/81807.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 24439
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1677/3/81807.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5161
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1677/1/81807.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1677/2/81807.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1677/3/81807.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1677"
+        }
+    },
+    "extent": "",
+    "page": "113-119",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

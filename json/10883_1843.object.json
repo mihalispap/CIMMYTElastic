@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis of water use efficiency in rice (Oryza sativa L.) at the leaf level",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:46Z",
+    "created": "2013-06-07T21:02:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water use efficiency",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36790",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carbon isotope discrimination",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "oryza sativa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5438",
+                "http://aims.fao.org/aos/agrovoc/c_5438",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stomatal conductance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37253"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "isotopes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11852"
+        }
+    ],
+    "description": {
+        "value": "arbon isotope discrimination (&#8710;13C) is considered as an index of leaf-level water use efficiency, an important objective for plant breeders seeking to conserve water resources. We report in rice a genetic analysis for &#8710;13C, leaf structural parameters, gas exchange, stomatal conductance, and leaf abscisic acid (ABA) concentrations. Doubled haploid and recombinant inbred populations, both derived from the cross IR64 × Azucena, were used for quantitative trait locus (QTL) analysis following greenhouse experiments. &#8710;13C QTLs on the long arms of chromosomes 4 and 5 were colocalized with QTLs associated with leaf blade width, length, and flatness, while a QTL cluster for &#8710;13C, photosynthesis parameters, and ABA was observed in the near-centromeric region of chromosome 4. These results are consistent with phenotypic correlations and suggest that genetic variation in carbon assimilation and stomatal conductance contribute to the genetic variation for &#8710;13C in this population.",
+        "lang": "eng"
+    },
+    "appid": "10883_1843",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1843"
+}}

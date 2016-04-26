@@ -1,0 +1,216 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:23Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1669",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2005,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1669"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1669"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1669",
+    "creator": [
+        {
+            "id": 88917922,
+            "value": "Brooks, W.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/88917922"
+        },
+        {
+            "id": 1999489183,
+            "value": "Vaughn, M.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1999489183"
+        },
+        {
+            "id": 1466374846,
+            "value": "Griffey, C.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1466374846"
+        },
+        {
+            "id": 2015226923,
+            "value": "Price, A.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2015226923"
+        },
+        {
+            "id": 1657585171,
+            "value": "Prodgen, T.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1657585171"
+        },
+        {
+            "id": 566059489,
+            "value": "Rohrer, W.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/566059489"
+        },
+        {
+            "id": 71240856,
+            "value": "Brann, D.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/71240856"
+        },
+        {
+            "id": 876403588,
+            "value": "Rucker, E.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/876403588"
+        },
+        {
+            "id": 1266928299,
+            "value": "Behl, H.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1266928299"
+        },
+        {
+            "id": 89000510,
+            "value": "Sisson, W.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/89000510"
+        },
+        {
+            "id": 1059738690,
+            "value": "Corbin, R.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1059738690"
+        },
+        {
+            "id": 2087460470,
+            "value": "Kenner, J.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/2087460470"
+        },
+        {
+            "id": 16621024,
+            "value": "Dunaway, D.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/16621024"
+        },
+        {
+            "id": 1342627120,
+            "value": "Pitman, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1342627120"
+        },
+        {
+            "id": 1851674317,
+            "value": "Premakumar, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1851674317"
+        },
+        {
+            "id": 148514107,
+            "value": "Livingston, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/148514107"
+        },
+        {
+            "id": 967795753,
+            "value": "Vivar, H.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/967795753"
+        },
+        {
+            "id": 913615587,
+            "value": "Paris, R.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/913615587"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1669/1/81341.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54731
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1669/2/81341.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 15884
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1669/3/81341.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7096
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1669/1/81341.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1669/2/81341.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1669/3/81341.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1669"
+        }
+    },
+    "extent": "",
+    "page": "792-793",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

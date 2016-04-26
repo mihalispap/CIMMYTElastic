@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:02:37Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_1768",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": 2009,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1768"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1768"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1768",
+    "creator": [
+        {
+            "id": 1385104593,
+            "value": "De los Campos, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1385104593"
+        },
+        {
+            "id": 2051150859,
+            "value": "Naya, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/2051150859"
+        },
+        {
+            "id": 70857357,
+            "value": "Gianola, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/70857357"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 281829745,
+            "value": "Legarra, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/281829745"
+        },
+        {
+            "id": 1752863391,
+            "value": "Manfredi, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1752863391"
+        },
+        {
+            "id": 441605738,
+            "value": "Weigel, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/441605738"
+        },
+        {
+            "id": 519239855,
+            "value": "Cotes, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/519239855"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1768/1/93400.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1691275
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1768/2/93400.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53433
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1768/3/93400.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 17340
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1768/1/93400.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1768/2/93400.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1768/3/93400.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1768"
+        }
+    },
+    "extent": "",
+    "page": "375-385",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

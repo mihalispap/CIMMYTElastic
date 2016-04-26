@@ -1,0 +1,160 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7787",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ukraine",
+            "uri": [
+                "http://sws.geonames.org/690791",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ukraine"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/EU",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        }
+    ],
+    "updatedDate": "2012-01-06T05:17:03Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Wheat Special Report (WPSR)",
+    "appid": "10883_1214",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": 1996,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/1214"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1214"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_1214",
+    "creator": [
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        },
+        {
+            "id": 187116974,
+            "value": "Vlasenko, V.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/187116974"
+        },
+        {
+            "id": 1915789446,
+            "value": "McNab, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1915789446"
+        },
+        {
+            "id": 613869368,
+            "value": "Braun, H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/613869368"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1214/1/61974.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 3918273
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1214/2/61974.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 181961
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1214/3/61974.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5629
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1214/1/61974.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1214/2/61974.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/1214/3/61974.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1214"
+        }
+    },
+    "extent": "No. 37",
+    "page": "iii, 62 pags",
+    "coverage": [
+        "Ukraine",
+        "Europe"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "968-6923-60-8",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Comparative map and trait viewer (CMTV): an integrated bioimformatic tool to construct consensus maps and compare QTL and functional genomics data across genomes and experiments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:22Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genomes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3224",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crossbreeding",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "phenotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5776",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_1663",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1663"
+}}

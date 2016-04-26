@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Transgenic rice evaluated for risks to marketability",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:30Z",
+    "created": "2013-06-07T21:02:49Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "transgenic plants",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27619",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "risks",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "transgenics",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34283"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.918
+            ],
+            "value": "rice",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6599"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "risk",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6612"
+        }
+    ],
+    "description": {
+        "value": "The California Rice Certification Act mandates specific planting and handling protocols for rice varieties, including transgenic rice, that may pose economic risks to California rice growers. Based on a literature review and extensive interviews, we describe this policy's evolution as a system for identity preservation and explain how it shapes the potential commercialization of transgenic rice. Several studies suggest that transgenic rice would be profitable for California growers, but the challenges in assuring 100% identity preservation-especially when access to export markets is at risk-means that the commercial approval of transgenic rice in California is unlikely until there is widespread market acceptance and growers are assured of no sales interruptions.",
+        "lang": "eng"
+    },
+    "appid": "10883_1864",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1864"
+}}

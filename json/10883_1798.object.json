@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "The genetic architecture of maize flowering time",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9991
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6761,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        }
+    ],
+    "description": {
+        "value": "Flowering time is a complex trait that controls adaptation of plants to their local environment in the outcrossing species Zea mays (maize). We dissected variation for flowering time with a set of 5000 recombinant inbred lines (maize Nested Association Mapping population, NAM). Nearly a million plants were assayed in eight environments but showed no evidence for any single largeeffect quantitative trait loci (QTLs). Instead, we identified evidence for numerous small-effect QTLs shared among families; however, allelic effects differ across founder lines. We identified no individual QTLs at which allelic effects are determined by geographic origin or large effects for epistasis or environmental interactions. Thus, a simple additive model accurately predicts flowering time for maize, in contrast to the genetic architecture observed in the selfing plant species rice and Arabidopsis.",
+        "lang": "eng"
+    },
+    "appid": "10883_1798",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1798"
+}}

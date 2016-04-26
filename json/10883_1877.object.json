@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "The strategy and potential utilization of temperate germplasm for tropical germplasm improvement: a case study of maize (Zea mays L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-06-07T21:02:51Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heterotic groups",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snp",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6999
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "groups",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_50227"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "The organization of maize (Zea mays L.) germplasm into genetically divergent heterotic groups is the foundation of a successful hybrid maize breeding program. In this study, 94 CIMMYT maize lines (CMLs) and 54 United States germplasm enhancement of maize (GEM) lines were assembled and characterized using 1,266 single nucleotide polymorphisms (SNPs) with high quality. Based on principal component analysis (PCA), the GEM lines and CMLs were clearly separated. In the GEM lines, there were two groups classified by PCA corresponding to the heterotic groups ?stiff stalk? and ?non-stiff stalk?. CMLs did not form obvious subgroups by PCA. The allelic frequency of each SNP differed in GEM lines and CMLs. In total, 3.6% alleles (46/1,266) of CMLs are absent in GEM lines and 4.4% alleles (56/1,266) of GEM lines are absent in CMLs. The performance of F1 plants (n = 654) produced by crossing between different groups based on pedigree information was evaluated at the breeding nurseries of two CIMMYT stations. Genomic estimated phenotypic values of plant height and days to anthesis for a testing set of 45 F1 crosses were predicted based on the training data of 600 F1 crosses using a best linear unbiased prediction method. The prediction accuracy benefitted from the adoption of the markers associated with quantitative trait loci for both traits; however, it does not necessarily increase with an increase in marker density. It is suggested that genomic selection combined with association analysis could improve prediction efficiency and reduce cost. For hybrid maize breeding in the tropics, incorporating GEM lines which have unique alleles and clear heterotic patterns into tropically adapted lines could be beneficial for enhancing heterosis in grain yields.",
+        "lang": "eng"
+    },
+    "appid": "10883_1877",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1877"
+}}

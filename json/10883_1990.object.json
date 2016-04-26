@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Household inventories and marketed surplus in semisubsistence agriculture",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-07T21:09:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "surpluses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7535",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "households",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3676",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "surveys",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "subsistence farming",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farming systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marketing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "home economics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "models",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "small farms",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "india",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inventories",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7537"
+        }
+    ],
+    "description": {
+        "value": "A model of semisubsistence agriculture explicitly accounting for the ability of farm households to hold inventories of staple foods is developed. Comparative statics analysis highlights the potential importance of wealth effects attributable to price-induced changes in the value of household inventories. Empirical results for three groups of households in an Indian village confum that failure to account for household inventories leads to an overstatement of the responsiveness of both consumption demand and marketed surplus.",
+        "lang": "eng"
+    },
+    "appid": "10883_1990",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_1990"
+}}
