@@ -59,7 +59,7 @@
 				},
 				"language":
 				{
-					"properties":{"value":{"type":"string"},"uri":{"type":"string"}}
+					"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"}}
 				},
 				"description":
 				{
@@ -81,6 +81,7 @@
 		},
 		"collection":
 		{
+			"_parent":{"type":"object"},
 			"properties":
 			{
 				"spec": {"type":"string"},
@@ -108,6 +109,7 @@
 		},
 		"organization":
 		{
+			"_parent":{"type":"object"},
 			"properties":
 			{
 				"fullName": {"type":"string"},
@@ -123,6 +125,7 @@
 		},
 		"person":
 		{
+			"_parent":{"type":"object"},
 			"properties":
 			{
 				"fullName": {"type":"string"},
@@ -140,9 +143,10 @@
 		},
 		"resource":
 		{
+			"_parent":{"type":"object"},
 			"properties":
 			{
-				"type":{"type":"string"},
+				"type":{"type":"string","index":"not_analyzed"},
 				"appid":{"type":"string"},
 				"appuri":{"type":"string"},
 				"creator":
@@ -214,9 +218,10 @@
 		},
 		"dataset_software":
 		{
+			"_parent":{"type":"object"},
 			"properties":
 			{
-				"type":{"type":"string"},
+				"type":{"type":"string","index":"not_analyzed"},
 				"appid":{"type":"string"},
 				"appuri":{"type":"string"},
 				"creator":
@@ -225,7 +230,16 @@
                                 {"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"url":
 				{"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
-				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
+				"location":
+				{
+					
+					"properties":
+					{
+						"value":{"type":"string","index":"not_analyzed"},
+						"uri":{"type":"string"},
+						"vocabulary":{"type":"string"}
+					}
+				},
                                 "coverage":{"type":"string"},
                                 "relation":{"type":"string","index":"not_analyzed"},
                                 "rights":{"type":"string"},

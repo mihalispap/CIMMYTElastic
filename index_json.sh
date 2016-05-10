@@ -25,6 +25,11 @@ echo 'http://localhost:9201/cimmyt/'$type'/'$id
 
 #curl -XPUT 'http://localhost:9201'$appuri -d "${content}"
 
-curl -XPUT 'http://localhost:9201/cimmyt/'$type'/'${id} -d "${content}"
+if [ "$type" == "object" ]; then
+	curl -XPUT 'http://localhost:9201/cimmyt/'$type'/'${id} -d "${content}"
+	exit
+fi
+
+curl -XPUT 'http://localhost:9201/cimmyt/'$type'/'${id}'?parent='${id} -d "${content}"
 
 #cat data/11529_10201.entity.json | curl -XPUT 'http://localhost:9201/cimmyt/collection/12' -d
