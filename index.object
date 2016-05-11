@@ -1,3 +1,4 @@
+
 {
 	"settings":
 	{
@@ -156,7 +157,12 @@
 				},
 				"contributor":{"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"publisher":{"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
-				"date":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
+				"date":
+				{
+					"type":"date",
+					"format":"dateOptionalTime",
+					"ignore_malformed":true
+				},
 				"updatedDate":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
 				"issn":{"type":"string"},
 				"isbn":{"type":"string"},
@@ -240,6 +246,7 @@
 						"vocabulary":{"type":"string"}
 					}
 				},
+				"date":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
                                 "coverage":{"type":"string"},
                                 "relation":{"type":"string","index":"not_analyzed"},
                                 "rights":{"type":"string"},
