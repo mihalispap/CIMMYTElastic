@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "1756-5901",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-24T18:05:38Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3245",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3245"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3245"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3245",
+    "creator": [
+        {
+            "id": 166519627,
+            "value": "Lopes, M.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/166519627"
+        },
+        {
+            "id": 24340766,
+            "value": "Iglesia-Turiño, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/24340766"
+        },
+        {
+            "id": 151571400,
+            "value": "Cabrera-Bosquet, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/151571400"
+        }
+    ],
+    "publisher": {
+        "id": 125516213,
+        "value": "http://pubs.rsc.org/en/content/articlelanding/2013/mt/c3mt00084b",
+        "type": "organization",
+        "uri": "/cimmyt/organization/125516213"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3245/1/98088.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2284061
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3245/2/98088.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 52881
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3245/3/98088.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 17491
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3245/1/98088.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3245/2/98088.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3245/3/98088.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3245"
+        }
+    },
+    "extent": "",
+    "page": "1305-1315",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

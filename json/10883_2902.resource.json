@@ -1,0 +1,204 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Sudan",
+            "uri": [
+                "http://sws.geonames.org/366755",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Sudan"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2902",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2902"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2902"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2902",
+    "creator": [
+        {
+            "id": 420040735,
+            "value": "Lopes M.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/420040735"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 2115899877,
+            "value": "Jalal-Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2115899877"
+        },
+        {
+            "id": 893255389,
+            "value": "Moussa, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/893255389"
+        },
+        {
+            "id": 822184028,
+            "value": "Feltaous, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/822184028"
+        },
+        {
+            "id": 495714784,
+            "value": "Tahir, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/495714784"
+        },
+        {
+            "id": 471292069,
+            "value": "Barma, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/471292069"
+        },
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        },
+        {
+            "id": 1200202613,
+            "value": "Mannes, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1200202613"
+        },
+        {
+            "id": 1593472596,
+            "value": "Baum, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1593472596"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2902/1/96440.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 332259
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2902/2/96440.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51048
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2902/3/96440.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5527
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2902/1/96440.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2902/2/96440.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2902/3/96440.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2902"
+        }
+    },
+    "extent": "",
+    "page": "129-136",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

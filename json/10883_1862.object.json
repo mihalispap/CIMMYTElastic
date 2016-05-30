@@ -3,7 +3,7 @@
         "value": "Does susceptibility to heat stress confound screening for drought tolerance in rice?",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:30Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:49Z",
     "subject": [
         {
@@ -31,12 +31,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "drought",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
-        },
-        {
             "vocabulary": [
                 "",
                 "",
@@ -58,6 +52,30 @@
             ]
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6153
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -76,24 +94,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_11488"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6153
-            ],
-            "value": "germplasm",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3249"
             ]
         },
         {

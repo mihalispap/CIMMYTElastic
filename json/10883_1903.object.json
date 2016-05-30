@@ -3,7 +3,7 @@
         "value": "The Rht13 dwarfing gene reduces peduncle length and plant height to increase grain number and yield of wheat",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:30Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:55Z",
     "subject": [
         {
@@ -85,12 +85,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "alleles",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
-        },
-        {
             "vocabulary": [
                 "",
                 "",
@@ -120,21 +114,6 @@
         {
             "vocabulary": [
                 "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.8694
-            ],
-            "value": "internodes",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3920"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
                 "",
                 "",
                 "agrovoc"
@@ -152,6 +131,27 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_2421"
             ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8694
+            ],
+            "value": "internodes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3920"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
         }
     ],
     "description": {

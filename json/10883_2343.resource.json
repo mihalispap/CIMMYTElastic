@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Brazil",
+            "uri": [
+                "http://sws.geonames.org/4254884",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Brazil"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "South America",
+            "uri": [
+                "http://sws.geonames.org/3469034",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:11:32Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2343",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1994",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2343"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2343"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2343",
+    "creator": [
+        {
+            "id": 420801533,
+            "value": "Souza Rosa, O. de",
+            "type": "person",
+            "uri": "/cimmyt/person/420801533"
+        },
+        {
+            "id": 211881409,
+            "value": "Oliveira Camargo, E. de",
+            "type": "person",
+            "uri": "/cimmyt/person/211881409"
+        },
+        {
+            "id": 1004409159,
+            "value": "Rajaram, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1004409159"
+        },
+        {
+            "id": 643237829,
+            "value": "Albuquerque Zanatta, A.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/643237829"
+        }
+    ],
+    "publisher": {
+        "id": 29428527,
+        "value": "http://seer.sct.embrapa.br/index.php/pab/article/view/4070",
+        "type": "organization",
+        "uri": "/cimmyt/organization/29428527"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2343/1/76294.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 332218
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2343/2/76294.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 7
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2343/3/76294.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3927
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2343/1/76294.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2343/2/76294.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2343/3/76294.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2343"
+        }
+    },
+    "extent": "",
+    "page": "411-417",
+    "coverage": [
+        "Brazil",
+        "South America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

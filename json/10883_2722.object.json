@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "A MALDI-TOF based analysis of high molecular weight glutenin subunits for wheat breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:27Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quality",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sds-page",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34078",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maldi-tof-ms",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hmw-gs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ms",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12421"
+        }
+    ],
+    "description": {
+        "value": "High molecular weight glutenin subunits play an important role in determining wheat dough quality as they confer visco-elastic properties to the dough required for mixing and baking performance. In this work, a collection of 103 genotypes of common wheat from 12 countries was used to analyse the composition of HMW-GS by SDS-PAGE and MALDI-TOF-MS. Results indicated that MALDI-TOF technology is suitable for analyzing most HMW-GS alleles. The allelic diversity at Glu-B1 locus include subunits 6+8b*, 7, 7+8, 7+8a*, 7b*+8, 7OE, 7OE+8, 7OE+8a*, 7OE+8b*, 7+9, 13+16, 14+15, 17+18 and 20. The rapid identification of HMW-GS capability of MALDI-TOF-MS is discussed in relation to its value for screening lines in wheat breeding programs, especially in discriminating subunits 7OE, 8a* and 8b* associated with superior quality. A new glutenin subunit 7b*+8 was found in Japanese germplasm Eshimashinriki.",
+        "lang": "eng"
+    },
+    "appid": "10883_2722",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2722"
+}}

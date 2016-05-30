@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Pan bread and Chinese white salted noodle qualities of Chinese winter wheat cultivars and their relationship with gluten protein fractions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:05Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "doughs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26776"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9367
+            ],
+            "value": "glutenins",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24033"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6119
+            ],
+            "value": "bread",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1071"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6528
+            ],
+            "value": "gliadin",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11169"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6692,
+            "value": "noodles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12848"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9078,
+            "value": "winter wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8412"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gluten",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3294"
+        }
+    ],
+    "description": {
+        "value": "Improvement of food processing quality has become a major breeding objective in China. Nineteen Chinese leading winter wheat cultivars with improved quality and two Australian cultivars with high bread and noodle-making qualities were sown in four locations for two years to investigate dough properties, pan bread, and Chinese white salted noodle (CWSN) qualities, and their association with the quantity of protein fractions. The results indicated that genotype, environment, and genotype-by-environment interaction significantly affected most of quality traits and amount of protein fractions. Genotype mainly determined the quantity of gluten protein fractions and pan bread quality parameters, while environment was the most important source of variation for the noodle quality parameters. Chinese cultivars were characterized by acceptable protein content (11.1&ndash;13.4%), medium to strong dough strength (maximum resistance 176.9&ndash;746.5 BU), medium to poor dough extensibility (166.5&ndash;216.4 mm), fair to very good pan bread qualities, and good to very good CWSN qualities. Gliadin contributed more in quantity to protein content (r = 0.80, P < 0.001), however, glutenin and its subgroups were more important to dough strength. The quantity of glutenin, HMW-GS, and LMW-GS were highly and significantly correlated with dough strength-related traits such as farinograph development time, stability, extensigraph maximum resistance, and extension area (r = 0.70&ndash;0.91, 0.65&ndash;0.89, and 0.70&ndash;0.91, respectively; P < 0.001). The quantity of LMW-GS could explain 82.8% of the total variation of dough maximum resistance. The quantity of gliadin and the ratio of HMW-GS to LMW-GS determined dough extensibility (r = 0.75 and r = &ndash;0.59, respectively; P < 0.001 and P < 0.01, respectively). Higher quantity of glutenin and lower ratio of gliadin to glutenin resulted in higher bread score with r = 0.70 (P < 0.001) and r = &ndash;0.74 (P < 0.001), respectively. However, protein content and its fractions have a moderate undesirable effect on CWSN parameters such as color, firmness, and taste. Therefore, both allelic variation and quantity of storage protein fractions should be considered in breeding cultivars with improved pan bread making quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_2589",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2589"
+}}

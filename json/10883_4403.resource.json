@@ -1,0 +1,176 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Tanzania",
+            "uri": [
+                "http://sws.geonames.org/149590",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tanzania"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mozambique",
+            "uri": [
+                "http://sws.geonames.org/1036973",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mozambique"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        }
+    ],
+    "updatedDate": "2015-08-12T20:52:30Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "SIMLESA Annual Report",
+    "appid": "10883_4403",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4403"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4403"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4403",
+    "creator": {
+        "id": 1362148116,
+        "value": "CIMMYT, Int.",
+        "type": "person",
+        "uri": "/cimmyt/person/1362148116"
+    },
+    "publisher": {
+        "id": 1168705368,
+        "value": "CIMMYT / ACIAR",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1168705368"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4403/1/56980.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 916678
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4403/2/56980.pdf.jpg",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4794
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4403/3/56980.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4403/1/56980.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4403/2/56980.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4403/3/56980.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4403"
+        }
+    },
+    "extent": "",
+    "page": "38 p.",
+    "coverage": [
+        "Tanzania",
+        "Ethiopia",
+        "Mozambique",
+        "Kenya",
+        "Malawi"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Arusha (Tanzania)",
+    "doi": ""
+}}

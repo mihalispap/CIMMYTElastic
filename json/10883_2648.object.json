@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Relationship between SDS-unextractable glutenin polymeric protein and Mixograph parameters",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sds-unextractable glutenin polymeric",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixograph parameter",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gluten strength",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "size-exlusion high-performance liquid chromatograph (se-hplc)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "protein content",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6251"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8136
+            ],
+            "value": "proteins",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6259"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8351
+            ],
+            "value": "gluten",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3294"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        }
+    ],
+    "description": {
+        "value": "Improvement of end-use quality has become a major breeding objective in China. In order to further improve gluten quality, effective selection parameter in early generation is necessary in wheat quality breeding program. In total, 108 wheat (Triticum aestivum L.) varieties and advanced lines were used to test kernel hardness, protein content, sedimentation value, mixogragh parameters, glutenin polymeric protein content by biuretium protein fraction procedure, and the amount and ratio of gluten protein fractions by size-exclusion high-performance liquid chromatography method (SE-HPLC). The relationship between flour protein content, sedimentation volume, and mixograph parameters and gluten protein fractions in quantity were investigated. The results showed that broad variations for quality traits and quantitativedata for protein fractions were observed in this set of germplasm. The range of mixograph peak time was 1.12&ndash;7.19 min, and the range of SDS-unextractable polymeric protein was very broader than that of SDS-extractable polymeric protein. There were less correlation between grain hardness, flour protein content, whole meal sedimentation value, and mixograph peak time with r of 0.24&ndash;0.49. The amount of gliadin was not significantly correlated with mixograph parameters, while the ratio of gliadin to glutenin (Gli/Glu) was crucial in determining mixograph parameters [r = (&ndash;0.52)&ndash; (&ndash;0.61), P<0.001], which was independent of flour protein content. The strong associations between percent SDS-unextractable fraction in total polymeric protein (%UPP) and mixograph parameters were observed with r of 0.70&ndash;0.85 (P<0.001). %UPP and Gli/Glu tested by SE-HPLC can be used as effective parameters for early generation selection to improve wheat gluten strength due to their automatic micro-analyzing method.",
+        "lang": "eng"
+    },
+    "appid": "10883_2648",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2648"
+}}

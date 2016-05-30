@@ -1,0 +1,108 @@
+{"object": {
+    "title": [
+        {
+            "value": "Transferencia del gen Lr14a de trigos harineros a trigos cristalinos y expresion de la resistencia a roya de la hoja",
+            "lang": "spa"
+        },
+        {
+            "value": "Transfering the Lr14a gene from bread wheat to durum and its expression against leaf rust",
+            "lang": "eng"
+        }
+    ],
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum spp.",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "puccinia triticina",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27334",
+                "http://aims.fao.org/aos/agrovoc/c_27334",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "complementary genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inter-specific crosses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9502,
+            "value": "triticum dicoccum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7954"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7950"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crossing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1976"
+        }
+    ],
+    "description": {
+        "value": "El origen del gen de resistencia Lr14a a roya de la hoja causada por Puccinia triticina E. es el trigo tetraploide ?Yaroslav emmer? (Triticum dicoccum L.). En México, todas las razas de trigo harinero (T. aestivum) importantes son virulentas a este gen. Sin embargo, las razas que atacan trigos cristalinos o duros son avirulentas a Lr14a. Se ha determinado la presencia de Lr14a en trigo harinero y en especies silvestres tetraploides, pero no en trigos cristalinos o trigos duros (T. turgidum spp durum). El gen Lr14a se transfirió a la variedad cristalina ?Altar C84? a partir de la cruza de ésta con la línea monogénica de trigo harinero ?RL6013? (Selkirk/6*Thatcher) y una retrocruza hacia ?Altar C84?. Para determinar la genética de la resistencia de la variedad ?Jupare C2001?, resistente a la raza de roya de la hoja que venció la resistencia de ?Altar C84?, y determinar si ?Jupare C2001? posee Lr14a, se cruzó con ?Altar C84? y con ?Altar C84?+Lr14a. La respuesta del gen de resistencia a roya de la hoja Lr14a a la infección en plántula a las razas BBG/BN y BCG/BN que son virulentas en ?Altar C84?, es de heterogénea con uredinios grandes (X a X+) en la escala de 0-4, tanto en trigos harineros como en ?Altar C84?, mientras que confiere casi inmunidad en planta adulta a estas mismas razas. La cruza de ?Jupare C2001? con ?Altar C84?+Lr14a indicó que ?Jupare C2001? no posee Lr14a, y que la resistencia de esta última se basa en dos genes complementarios dominantes. Para el funcionamiento efectivo de la resistencia que el gen Lr14a confiere en trigos cristalinos en respuesta a las razas de roya de la hoja que preferentemente atacan trigos harineros, es necesaria la presencia del gen de ?Altar C84?.",
+        "lang": "spa"
+    },
+    "appid": "10883_2782",
+    "language": [
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        },
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2782"
+}}

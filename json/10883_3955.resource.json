@@ -1,0 +1,107 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3955",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "JA",
+    "date": "",
+    "url": {
+        "broken": false,
+        "value": "http://repository.cimmyt.org/xmlui/handle/10883/3955"
+    },
+    "appuri": "/cimmyt/resource/10883_3955",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3955/1/448545.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 222538
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3955/2/448545.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5169
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3955/3/448545.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8327
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3955/1/448545.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3955/2/448545.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3955/3/448545.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3955"
+        }
+    },
+    "extent": "",
+    "page": "2:00 PM",
+    "coverage": "Pakistan",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "https://dl.sciencesocieties.org/publications/cs/abstracts/55/1/164",
+    "quality": "",
+    "place": "El Batan, Tex. (Mexico)",
+    "doi": ""
+}}

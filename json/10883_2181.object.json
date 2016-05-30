@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Estimating consumer willingness to pay for food quality with experimental auctions: the case of yellow versus fortified maize meal in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:43Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "africa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "kenya",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4086",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "consumer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "preferences",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "biofortification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "consumers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28315"
+        }
+    ],
+    "description": {
+        "value": "Biofortification of maize with provitamin A carotenoids is a new approach to the alleviation of vitamin A deficiencies in Africa. Unfortunately these varieties are yellow or orange, while consumers generally prefer white. Consumer willingness to pay for yellow and fortified maize was compared in experimental auctions in three regions in Kenya. The premium that consumers are willing pay for fortified maize (24%) was higher than the discount they require to buy yellow maize (11%), and in one zone consumers prefer yellow. Yellow color is, therefore, not an impossible obstacle for biofortified maize, although it would clearly be easier to introduce this maize first in regions where yellow maize is currently grown",
+        "lang": "eng"
+    },
+    "appid": "10883_2181",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2181"
+}}

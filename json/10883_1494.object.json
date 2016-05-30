@@ -7,31 +7,10 @@
     "created": "2013-06-05T15:45:35Z",
     "subject": [
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6145
-            ],
-            "value": "wheats",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8373"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "resource conservation",
             "uri": "http://aims.fao.org/aos/agrovoc/c_6523"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.7553,
-            "value": "agronomic practices",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_330610"
         },
         {
             "vocabulary": "agrovoc",

@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "QTL associated with heat susceptibility index in wheat (Triticum aestivum L.) under short-term reproductive stage heat stress",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6808,
+                0.6808,
+                0.6808,
+                ""
+            ],
+            "value": "heat stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "abiotic",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6281
+            ],
+            "value": "yield components",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24419"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        }
+    ],
+    "description": {
+        "value": "Heat stress adversely affects wheat production in many regions of the world and is particularly detrimental during reproductive development and grain-filling. The objective of this study was to identify quantitative trait loci (QTL) associated with heat susceptibility index (HSI) of yield components in response to a short-term heat shock during early grain-filling in wheat. The HSI was used as an indicator of yield stability and a proxy for heat tolerance. A recombinant inbred line (RIL) population derived from the heat tolerant cultivar ?Halberd? and heat sensitive cultivar ?Cutter? was evaluated for heat tolerance over 2 years in a controlled environment. The RILs and parental lines were grown in the greenhouse and at 10 days after pollination (DAP) half the plants for each RIL received a three-day heat stress treatment at 38_C/ *18_C day/night, while half were kept at control conditions of 20_C/18_C day/night. At maturity, the main spike was harvested and used to determine yield components. A significant treatment effect was observed for most yield components and a HSI was calculated for individual components and used for QTL mapping. QTL analysis identified 15 and 12 QTL associated with HSI in 2005 and 2006, respectively. Five QTL regions were detected in both years, including QTL on chromosomes 1A, 2A, 2B, and 3B. These same regions were commonly associated with QTL for flag leaf  length, width, and visual wax content, but not with days to flowering. Pleiotropic trade-offs between the maintenance of kernel number versus increasing single kernel weight under heat stress were present at some QTL regions.The results of this study validate the use of *the main spike for detection of QTL for heat tolerance and identify genomic regions associated with improved heat tolerance that can be targeted for future studies",
+        "lang": "eng"
+    },
+    "appid": "10883_2767",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2767"
+}}

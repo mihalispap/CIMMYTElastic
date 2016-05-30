@@ -67,10 +67,19 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "productivity",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6711
+            ],
+            "value": "cereals",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1474"
+            ]
         },
         {
             "vocabulary": [
@@ -91,19 +100,10 @@
             ]
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6711
-            ],
-            "value": "cereals",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_1474"
-            ]
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "productivity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
         }
     ],
     "description": {

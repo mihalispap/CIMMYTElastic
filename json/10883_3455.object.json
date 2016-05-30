@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Mining conifers' mega-genome using rapid and efficient multiplexed high-throughput genotyping-by-sequencing (GBS) SNP discovery platform",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T18:00:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "next-generation sequencing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping-by-sequencing (gbs)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snp diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conifers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "lodgepole pine",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5895"
+        }
+    ],
+    "description": {
+        "value": "Next-generation sequencing (NGS) technologies are revolutionizing both medical and biological research through generation of massive SNP data sets for identifying heritable genome variation underlying key traits, from rare human diseases to important agronomic phenotypes in crop species. We evaluated the performance of genotyping-by-sequencing (GBS), one of the emerging NGS-based platforms, for genotyping two economically important conifer species, lodgepole pine (Pinus contorta) and white spruce (Picea glauca). Both species have very large genomes (>20,000 Mbp), are highly heterozygous, and lack reference sequences. From a small set (six accessions each) of independent replicated DNA samples and a 48-plex read depth, we obtained ~60,000 SNPs per species. After stringent filtering, we obtained 17,765 and 17,845 high-coverage SNPs without missing data for lodgepole pine and white spruce, respectively. Our results demonstrated that GBS is a robust and suitable method for genotyping conifers. The application of GBS to forest tree breeding and genomic selection is discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_3455",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3455"
+}}

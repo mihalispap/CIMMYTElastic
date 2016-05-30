@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "The relationship between evapotranspiration and growth in the wheat crop",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "evapotranspiration",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2741",
+                "http://aims.fao.org/aos/agrovoc/c_2741",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fertilizer application",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10795",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "seeding rates",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6944",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flowering",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sowing",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil water content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7208",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "leaf area",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16110",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2265",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2265"
+}}

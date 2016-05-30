@@ -46,6 +46,24 @@
             "vocabulary": [
                 "",
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6661
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
                 "",
                 "agrovoc"
             ],
@@ -70,39 +88,6 @@
             ],
             "score": [
                 "",
-                0.628
-            ],
-            "value": "genomes",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3224"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6661
-            ],
-            "value": "crops",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_1972"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
                 0.7236
             ],
             "value": "genomics",
@@ -116,6 +101,21 @@
             "score": 1,
             "value": "quantitative trait loci",
             "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.628
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
         },
         {
             "vocabulary": [

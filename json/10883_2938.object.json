@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Properties and nematicide performance of avermectins",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.979,
+                0.979,
+                1,
+                1,
+                ""
+            ],
+            "value": "avermectins",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33506",
+                "http://aims.fao.org/aos/agrovoc/c_33506",
+                "http://aims.fao.org/aos/agrovoc/c_33506",
+                "http://aims.fao.org/aos/agrovoc/c_33506",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nematode control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5110",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant parasitic nematodes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5972",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "streptomyces avermitilis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "abamectin",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33507"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "streptomyces",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7450"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9256,
+            "value": "nematicides",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5109"
+        }
+    ],
+    "description": {
+        "value": "In 1979, the anthelmintic activity of abamectin, a mixture of avermectins B1a and B1b, was first reported. Since then, multiple articles have investigated avermectins' degradation and its efficacy against a wide variety of pests under different conditions and using different modes of application. However, there is a gap in the literature of analysing abamectin properties and its performance as a non-fumigant nematicide when applied liquid or granular vs. new avenues of application based on seed and seedling treatment. Therefore, this article reviewed literature to discuss the mode of action, environmental aspects, the nematicidal effectiveness of treatment forms and the range of activity to address these topics.",
+        "lang": "eng"
+    },
+    "appid": "10883_2938",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2938"
+}}

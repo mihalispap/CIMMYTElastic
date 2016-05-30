@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0021-8596",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:11:58Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2540",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2540"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2540"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2540",
+    "creator": [
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 922008641,
+            "value": "Calderini, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/922008641"
+        },
+        {
+            "id": 1226944674,
+            "value": "Condon, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1226944674"
+        },
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        }
+    ],
+    "publisher": {
+        "id": 1325341189,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=714852&fulltextType=RA&fileId=S0021859607006831",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1325341189"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2540/1/89761.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 200343
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2540/2/89761.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 63111
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2540/3/89761.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5865
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2540/1/89761.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2540/2/89761.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2540/3/89761.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2540"
+        }
+    },
+    "extent": "",
+    "page": "3-16 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

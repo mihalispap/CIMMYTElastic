@@ -1,0 +1,150 @@
+{"object": {
+    "title": {
+        "value": "High genetic diversity of Mycospaherella graminicola (Zymoseptoria tritici) from a single wheat field in Tunisia as revealed by SSR markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7602,
+                0.7602,
+                1,
+                ""
+            ],
+            "value": "microsatellites",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                "http://aims.fao.org/aos/agrovoc/c_36574",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "mycosphaerella graminicola",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27261",
+                "http://aims.fao.org/aos/agrovoc/c_27261",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "micro geographical scale",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7147,
+                0.7147,
+                0.7147,
+                1,
+                1,
+                ""
+            ],
+            "value": "tunisia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8007",
+                "http://aims.fao.org/aos/agrovoc/c_8007",
+                "http://aims.fao.org/aos/agrovoc/c_8007",
+                "http://aims.fao.org/aos/agrovoc/c_8007",
+                "http://aims.fao.org/aos/agrovoc/c_8007",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7771
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6489
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Microsatellite markers were used to assess genetic diversity of Mycosphaerella graminicola at a micro geographical scale in Tunisia. Forty five (45) isolates were sampled and assessed using seven pairs of single-locus microsatellite primers not previously tested on populations of M. graminicola in Tunisia. Genetic diversity of the field population ranged from 0.403 to 0.555 with an average of 0.484. A high level of genetic diversity was found at a sharp scale throughout the pathogen population tested. Among 45 isolates sampled, 39 different multi locus genotypes (MLG) were identified. Cluster analysis (UPGMA) showed that 86% of the isolates tested were distinct. The high degree of DNA polymorphism, the large number of different molecular genotypes and the pattern of cluster analysis suggest that sexual ascospores and/or asexual spores of a highly mutable local population could have contributed to the genetic diversity of M. graminicola in Tunisia.",
+        "lang": "eng"
+    },
+    "appid": "10883_3304",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3304"
+}}

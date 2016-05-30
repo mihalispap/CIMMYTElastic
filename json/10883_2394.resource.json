@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Australia",
+            "uri": [
+                "http://sws.geonames.org/2077456",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/1814991",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:11:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2394",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2004",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2394"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2394"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2394",
+    "creator": [
+        {
+            "id": 304608886,
+            "value": "Liu Jian-Jun",
+            "type": "person",
+            "uri": "/cimmyt/person/304608886"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        },
+        {
+            "id": 732776015,
+            "value": "Peña-Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/732776015"
+        },
+        {
+            "id": 538229450,
+            "value": "Zhao, Zhen-Dong",
+            "type": "person",
+            "uri": "/cimmyt/person/538229450"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2394/1/80966.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 362264
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2394/2/80966.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2394/3/80966.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7302
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2394/1/80966.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2394/2/80966.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2394/3/80966.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2394"
+        }
+    },
+    "extent": "",
+    "page": "149-153",
+    "coverage": [
+        "Australia",
+        "China",
+        "USA",
+        "Global"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "The yield correlations of selectable physiological traits in a population of advanced spring wheat lines grown in warm and drought environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:52Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "canopy temperature",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drought adaptation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "early ground cover",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gxe",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heat adaptation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "canopy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1262"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        }
+    ],
+    "description": {
+        "value": "Genetic progress in yield will increase if more traits conferring better agronomic and physiological performance are brought together in the same variety through full exploitation of genotyping and phenotyping techniques in breeding. A set of 288 spring wheat advanced lines was tested in different countries in North Africa, Western and South Asia, as well as in Mexico (total of 12 environments) to: identify high yielding germplasm adapted to the former regions; identify sources of variation for physiological traits; and test the ability of physiological traits to predict yield. A group of high yielding advanced lines has been selected in these environments, but significant genotype by environment interactions were observed and were significantly explained (21% of yield variation) by soil pH and air temperature. Associations between traits were dependent on the environment, specifically TKW was positively associated with yield in almost all environments however in Sudan, negative associations were observed. In contrast cooler CT was consistently associated with yield and the trait showed moderate heritability. Agronomic and physiological variables were able to predict 27% of yield variation across advanced lines (R2% by ridge regression) using means of all environments and this model became more significant under stress environments (explaining around 34% of yield variation). Results suggested that if drought and heat adaptive traits are brought together in one genotype, yields can be further increased particularly in low yielding environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_2902",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2902"
+}}

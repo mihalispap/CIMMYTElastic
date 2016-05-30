@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Correlation between mixolab parameter and mixograph and rva parameters and its effect on noodle quality",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixolab",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixograph",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rapid visco-analyzer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "common wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "noodle quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "noodles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12848"
+        }
+    ],
+    "description": {
+        "value": "It is critical to clarify the associations between the newly available Mixolab parameters and flour protein characteristics and starch pasting properties determined by Mixograph, Rapid Visco-Analyzer (RVA), and noodle quality. Sixty wheat lines derived from Zhou 8425B were used to measure parameters of Mixolab, Mixograph, RVA and noodle quality, and to determine the associations of parameters of Mixolab with these of Mixograph and RVA, and the reliability of predicting noodle quality using these parameters. The Mixograph midline peak integral, peak time, and widthat 8 min could be predicted by Mixolab stability, which accounted for 75.7%, 74.6%, and 56.5% of their variations, respectively. Mixolab parameters C3, C4, C5, and water absorption were important for predicting starch pasting properties. The correlation coefficients between C3, C4, and C5 of Mixolab and RVA peak viscosity, trough, and final viscosity ranged from 0.57 to 0.62. Water absorption of Mixolab was negatively correlated with peak viscosity (r = -0.62, P < 0.01) and final viscosity (r = -0.55, P < 0.01). Mixolab parameters explained 75.7% of the variation of noodle color, however, accounted for low percentages (13.2?30.5%) of the variations of noodle firmness, viscoelasicity, and smoothness. Thus, sensory evaluation method rather than various equipments should be adopted for determining noodle quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_2887",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2887"
+}}

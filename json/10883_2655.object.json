@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Identification of site similarities in western and central Asia using CIMMYT international wheat yield data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:17Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "regional data",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "site associations",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "asia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "site",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331000"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8358
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7873
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9567
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "data",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49816"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "associations",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37955"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "central asia",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37864"
+        }
+    ],
+    "description": {
+        "value": "Understanding the association among wheat growing locations allows plant breeders to better target crosses and identifies locations for germplasm exchange. To examine the relationship between yield testing sites in eight countries in western/central Asia, 291 data sets from CIMMYT&rsquo;s different international yield nurseries were combined into one analysis as no single nursery was well represented across the region; these nurseries represented wheat germplasm specifically developed for different agro-ecological zones including irrigated, semi-arid, high-rainfall, autumn- and spring-sown conditions. The shifted multiplicative model was used to group individual sites into clusters. Results revealed 18 site-by-site combinations as similar to each other and 23 as contrasting at a probability level of P < 15%. CIMMYT&rsquo;s main yield testing site in northern Mexico proved the best predictor for the region. Within the region two sites in Turkey and Iran were identified as possible sites for future regional testing. Overall the study showed that data from different yield nurseries can be combined to improve our understanding of site associations across western/ central Asia to the benefit of both international and regional wheat breeders.",
+        "lang": "eng"
+    },
+    "appid": "10883_2655",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2655"
+}}

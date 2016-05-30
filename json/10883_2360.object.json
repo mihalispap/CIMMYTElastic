@@ -1,0 +1,180 @@
+{"object": {
+    "title": {
+        "value": "Pyramiding and validation of quantitative trait locus (QTL) alleles determinig resistance to barley stripe rust: effects on adult plant resistance",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:01Z",
+    "created": "2013-06-07T21:11:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.7473,
+                ""
+            ],
+            "value": "barley",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                "http://aims.fao.org/aos/agrovoc/c_823",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia striiformis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.7585,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic maps",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24002",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_32660",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1598",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35130",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8166,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2360",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2360"
+}}

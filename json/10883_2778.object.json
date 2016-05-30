@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Hatching of Heterodera filipjevi in controlled and natural temperature conditions in Turkey",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:35Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.761
+            ],
+            "value": "temperature",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7657"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hatching",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3504"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heterodera",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3580"
+        }
+    ],
+    "description": {
+        "value": "The effect of different temperatures under both in vitro and in vivo conditions on the hatching behaviour of second-stage juveniles (J2) of the cereal cyst nematode, Heterodera filipjevi, was studied. Cumulative percent hatching was affected significantly by temperature after 290 days of incubation. Hatching was significantly greater at lower temperatures (5, 10 and 15°C) compared with that at the higher temperatures of 20 and 25°C, ranging between 75 and 94% vs 19 and 22%, respectively. The highest cumulative hatch of 94% was obtained at a constant temperature of 15°C at 290 days. However, the lowest cumulative hatch of 33% was obtained after initial exposure to 5°C followed by transfer to 25°C at day 290. In general, incubating the cysts at lower initial temperatures of 10 or 15°C for 58 days gave the highest initial hatching rates 1 week after exposure to the final temperatures. Under natural temperature conditions in the field, J2 emergence started at 17°C in October and continued until the end of April in the temperature range of 2-17°C. A total hatch of 94% was recorded under field temperature conditions over the course of 1 year. Hatch of most J2 occurred in two peaks; the first in October and the second in February, and, accordingly, the greatest invasion by H. filipjevi is most likely to occur just after these two peaks. Heterodera filipjevi does not seem to have a diapause and could hatch anytime when wheat plants are available.",
+        "lang": "eng"
+    },
+    "appid": "10883_2778",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2778"
+}}

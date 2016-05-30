@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "1471-2229",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nepal",
+            "uri": [
+                "http://sws.geonames.org/1282988",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bangladesh",
+            "uri": [
+                "http://sws.geonames.org/1210997",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-05T17:57:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3422",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3422"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3422"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3422",
+    "creator": [
+        {
+            "id": 1542741194,
+            "value": "Witcombe, J.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1542741194"
+        },
+        {
+            "id": 52556677,
+            "value": "Gyawali, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/52556677"
+        },
+        {
+            "id": 1251981951,
+            "value": "Subedi, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1251981951"
+        },
+        {
+            "id": 1942613275,
+            "value": "Virk, D.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1942613275"
+        },
+        {
+            "id": 1013639600,
+            "value": "Joshi, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013639600"
+        }
+    ],
+    "publisher": {
+        "id": 1910406367,
+        "value": "http://www.biomedcentral.com/1471-2229/13/22",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1910406367"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3422/1/98472.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 347802
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3422/6/98472.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3422/5/98472.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6316
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3422/1/98472.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3422/6/98472.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3422/5/98472.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3422"
+        }
+    },
+    "extent": "",
+    "page": "13 p.",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

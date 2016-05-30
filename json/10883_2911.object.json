@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Genetic dissection of grain yield and physical grain quality in bread wheat (Triticum aestivum L.) under water-limited environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7432
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8453
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "In the water-limited bread wheat production environment of southern Australia, large advances in grain yield have previously been achieved through the introduction and improved understanding of agronomic traits controlled by major genes, such as the semi-dwarf plant stature and photoperiod insensitivity. However, more recent yield increases have been achieved through incremental genetic advances, of which, breeders and researchers do not fully understand the underlying mechanism(s). A doubled haploid population was utilised, derived from a cross between RAC875, a relatively drought-tolerant breeders? line and Kukri, a locally adapted variety more intolerant of drought. Experiments were performed in 16 environments over four seasons in southern Australia, to physiologically dissect grain yield and to detect quantitative trait loci (QTL) for these traits. Two stage multi-environment trial analysis identified three main clusters of experiments (forming distinctive environments, ENVs), each with a distinctive growing season rainfall patterns. Kernels per square metre were positively correlated with grain yield and influenced by kernels per spikelet, a measure of fertility. QTL analysis detected nine loci for grain yield across these ENVs, individually accounting for between 3 and 18% of genetic variance within their respective ENVs, with the RAC875 allele conferring increased grain yield at seven of these loci. These loci were partially dissected by the detection of co-located QTL for other traits, namely kernels per square metre. While most loci for grain yield have previously been reported, their deployment and effect within local germplasm are now better understood. A number of novel loci can be further exploited to aid breeders? efforts in improving grain yield in the southern Australian environment.",
+        "lang": "eng"
+    },
+    "appid": "10883_2911",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2911"
+}}

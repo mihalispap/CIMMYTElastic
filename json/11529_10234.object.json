@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Selection of The Bandwidth Parameter in a Bayesian Kernel Regression Model for Genomic-Enabled Prediction",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -36,7 +36,7 @@
     ],
     "description": {
         "value": "One of the most widely used kernel functions in genomic-enabled prediction is the Gaussian kernel. Usually selection of the bandwidth parameter for kernel regression is based on cross-validation. In this study, we propose a Bayesian method for selecting the bandwidth parameter h of a Gaussian kernel as the mode of its posterior distribution. We present a theory for the Bayesian selection of h in a Transformed Gaussian Kernel (TGK) model and its application in two genomic plant breeding data sets (maize and wheat) that were already predicted using the kernel averaging (KA) method within the context of the Reproducing Kernel Hilbert Spaces\u2019 (RKHS KA). We also compared the prediction accuracy of the proposed method (TGK) with a model that uses a Gaussian kernel (GK) and estimates the bandwidth parameter using restricted maximum likelihood method (GK REML). Results for the wheat data set show that the predictive ability of TGK was on average 3% higher than the predictive ability of model RKHS KA, with TGK showing a smaller Predictive Mean Squared Error (PMSE) than the other two approaches. The advantages of the TGK model over GK REML in terms of PMSE were clear for one trait in nine environments. For the maize data set, the TGK model had slightly better prediction accuracy than methods RKHA KA and GK REML.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10234",
     "language": {

@@ -1,0 +1,202 @@
+{"resource": {
+    "citation": "",
+    "issn": "0303-1853",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Angola",
+            "uri": [
+                "http://sws.geonames.org/3351879",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Angola"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mozambique",
+            "uri": [
+                "http://sws.geonames.org/1036973",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mozambique"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zambia",
+            "uri": [
+                "http://sws.geonames.org/895949",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zambia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-26T17:39:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3323",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3323"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3323"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3323",
+    "creator": [
+        {
+            "id": 895955641,
+            "value": "Kassie, G.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/895955641"
+        },
+        {
+            "id": 1323266426,
+            "value": "Erenstein, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1323266426"
+        },
+        {
+            "id": 851797316,
+            "value": "Mwangi, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/851797316"
+        },
+        {
+            "id": 828655785,
+            "value": "MacRobert, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/828655785"
+        },
+        {
+            "id": 1785186746,
+            "value": "Setimela, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1785186746"
+        },
+        {
+            "id": 2003399957,
+            "value": "Shiferaw, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2003399957"
+        }
+    ],
+    "publisher": {
+        "id": 1613026094,
+        "value": "http://www.aeasa.org.za/",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1613026094"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3323/1/97989.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 543353
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3323/2/97989.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 63850
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3323/3/97989.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6963
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3323/1/97989.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3323/2/97989.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3323/3/97989.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3323"
+        }
+    },
+    "extent": "",
+    "page": "104-127",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

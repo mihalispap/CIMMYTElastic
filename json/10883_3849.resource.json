@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "2014-03-13T01:09:27Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "PARC/CIMMYT Wheat Paper",
+    "appid": "10883_3849",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "1984",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3849"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3849"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3849",
+    "creator": [
+        {
+            "id": 1643081466,
+            "value": "Byerlee, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1643081466"
+        },
+        {
+            "id": 1646830881,
+            "value": "Sheikh, A.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1646830881"
+        },
+        {
+            "id": 1279454971,
+            "value": "Aslam, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1279454971"
+        },
+        {
+            "id": 1660542106,
+            "value": "Hobbs, P.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1660542106"
+        }
+    ],
+    "publisher": {
+        "id": 1707363802,
+        "value": "Agricultural Economics Research Unit",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1707363802"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3849/1/6987.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2896640
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3849/2/6987.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 125705
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3849/3/6987.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2631
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3849/1/6987.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3849/2/6987.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3849/3/6987.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3849"
+        }
+    },
+    "extent": "No. 84",
+    "page": "49 p.",
+    "coverage": [
+        "Pakistan",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Islamabad (Pakistan)",
+    "doi": ""
+}}

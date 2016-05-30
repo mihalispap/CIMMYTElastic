@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Farmer surveys on the relation of agronomic practices to Karnal bunt disease of wheat in the Yaqui Valley, Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:09:34Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7916,
+            "value": "tilletia indica",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24377"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6695
+            ],
+            "value": "karnal bunt",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24475"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "agronomic practices",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330610"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Farmer surveys were conducted in the Yaqui Valley, Sonora, Mexico during 1983 and 1985 to investigate the relationship between agronomic practices used by the farmers and the incidence of karnal bunt (Tilletia indica) disease of wheat. The variables investigated included soil type, land preparation, origin of seed irrigation, nitrogen fertilizer, weed control and crop rotations. None of these variables were found to have a significant influence on the disease. This indicates that although management practices may have some effect on the incidence of the disease they are not the primary factor. The coincidence of rainfall and/or high humidity at flowering time appears to be of more importance than agronomic practices.",
+        "lang": "eng"
+    },
+    "appid": "10883_2109",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2109"
+}}

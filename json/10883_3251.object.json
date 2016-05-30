@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Switchgrass genomic diversity, ploidy, and evolution:  Novel insights from a network-based SNP discovery protocol",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "switchgrass",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_37153"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9676,
+            "value": "ploidy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331011"
+        }
+    ],
+    "description": {
+        "value": "Switchgrass (Panicum virgatum L.) is a perennial grass that has been designated as an herbaceous model biofuel crop for the United States of America. To facilitate accelerated breeding programs of switchgrass, we developed both an association panel and linkage populations for genome-wide association study (GWAS) and genomic selection (GS). All of the 840 individuals were then genotyped using genotyping by sequencing (GBS), generating 350 GB of sequence in total. As a highly heterozygous polyploid (tetraploid and octoploid) species lacking a reference genome, switchgrass is highly intractable with earlier methodologies of single nucleotide polymorphism (SNP) discovery. To access the genetic diversity of species like switchgrass, we developed a SNP discovery pipeline based on a network approach called the Universal Network-Enabled Analysis Kit (UNEAK). Complexities that hinder single nucleotide polymorphism discovery, such as repeats, paralogs, and sequencing errors, are easily resolved with UNEAK. Here, 1.2 million putative SNPs were discovered in a diverse collection of primarily upland, northern-adapted switchgrass populations. Further analysis of this data set revealed the fundamentally diploid nature of tetraploid switchgrass. Taking advantage of the high conservation of genome structure between switchgrass and foxtail millet (Setaria italica (L.) P. Beauv.), two parent-specific, synteny-based, ultra high-density linkage maps containing a total of 88,217 SNPs were constructed. Also, our results showed clear patterns of isolation-bydistance and isolation-by-ploidy in natural populations of switchgrass. Phylogenetic analysis supported a general south-tonorth migration path of switchgrass. In addition, this analysis suggested that upland tetraploid arose from upland octoploid. All together, this study provides unparalleled insights into the diversity, genomic complexity, population structure, phylogeny, phylogeography, ploidy, and evolutionary dynamics of switchgrass.",
+        "lang": "eng"
+    },
+    "appid": "10883_3251",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3251"
+}}

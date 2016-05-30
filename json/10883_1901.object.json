@@ -3,7 +3,7 @@
         "value": "Height reduction and agronomic performance for selected gibberellin-responsive dwarfing genes in bread wheat (Triticum aestivum L.)",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:30Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:54Z",
     "subject": [
         {
@@ -77,6 +77,48 @@
             "score": 1,
             "value": "grain",
             "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7617
+            ],
+            "value": "biomass",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_926"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7575
+            ],
+            "value": "coleoptiles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24007"
+            ]
         }
     ],
     "description": {

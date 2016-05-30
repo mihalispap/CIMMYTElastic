@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Association of water spectral indices with plant and soil water relations in contrasting wheat genotypes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:39Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "canopy reflectance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "canopy water content",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "leaf water potential",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37242",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "root growth",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "water index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "reflectance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28538"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "canopy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1262"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "Spectral reflectance indices can be used to estimate the water status of plants in a rapid, non-destructive manner. Water spectral indices were measured on wheat under a range of water-deficit conditions in field-based yield trials to establish their relationship with water relations parameters as well as available volumetric soil water (AVSW) to indicate soil water extraction patterns. Three types of wheat germplasm were studied which showed a range of drought adaptation; near-isomorphic sister lines from an elite/elite cross, advanced breeding lines, and lines derived from interspecific hybridization with wild relatives (synthetic derivative lines). Five water spectral indices (one water index and four normalized water indices) based on near infrared wavelengths were determined under field conditions between the booting and grain-filling stages of crop development. Among all water spectral indices, one in particular, which was denominated as NWI-3, showed the most consistent associations with water relations parameters and demonstrated the strongest associations in all three germplasm sets. NWI-3 showed a strong linear relationship (r2 >0.6?0.8) with leaf water potential Across a broad range of values (?2.0 to ?4.0 MPa) that were determined by natural variation in the environment associated with intra- and inter-seasonal affects. Association observed between NWI-3 and canopy temperature (CT) was consistent with the idea that genotypes with a better hydration status have a larger water flux (increased stomatal conductance) during the day. NWI-3 was also related to soil water potential and AVSW, indicating that drought-adapted lines could extract more water from deeper soil profiles to maintain favourable water relations. NWI-3 was sufficiently sensitive to detect genotypic differences (indicated by phenotypic and genetic correlations) in water status at the canopy and soil levels indicating its potential application in precision phenotyping.",
+        "lang": "eng"
+    },
+    "appid": "10883_2809",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2809"
+}}

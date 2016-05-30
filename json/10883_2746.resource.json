@@ -1,0 +1,206 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kyrgyzstan",
+            "uri": [
+                "http://sws.geonames.org/1527747",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kyrgyzstan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Georgia",
+            "uri": [
+                "http://sws.geonames.org/614540",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Georgia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Asia",
+            "uri": [
+                "http://sws.geonames.org/7729893",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2746",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2746"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2746"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2746",
+    "creator": [
+        {
+            "id": 619265237,
+            "value": "Sharma, R.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/619265237"
+        },
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        },
+        {
+            "id": 613869368,
+            "value": "Braun, H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/613869368"
+        },
+        {
+            "id": 901159951,
+            "value": "Akin, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/901159951"
+        },
+        {
+            "id": 503036005,
+            "value": "Keser, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/503036005"
+        },
+        {
+            "id": 815338577,
+            "value": "Bedoshvili, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/815338577"
+        },
+        {
+            "id": 1922801713,
+            "value": "Bagci, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922801713"
+        },
+        {
+            "id": 241319344,
+            "value": "Martius, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/241319344"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2746/1/93560.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 342727
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2746/2/93560.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 37033
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2746/3/93560.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5513
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2746/1/93560.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2746/2/93560.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2746/3/93560.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2746"
+        }
+    },
+    "extent": "",
+    "page": "53-64",
+    "coverage": [
+        "Central Asia",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

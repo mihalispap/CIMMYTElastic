@@ -1,0 +1,107 @@
+{"resource": {
+    "citation": "",
+    "issn": "0308-521X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-23T00:49:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3234",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3234"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3234"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3234",
+    "creator": {
+        "id": 1669677291,
+        "value": "Misiko, M.",
+        "type": "person",
+        "uri": "/cimmyt/person/1669677291"
+    },
+    "publisher": {
+        "id": 825850156,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0308521X13000528",
+        "type": "organization",
+        "uri": "/cimmyt/organization/825850156"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3234/1/97967.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 492541
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3234/2/97967.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45834
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3234/3/97967.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 17572
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3234/1/97967.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3234/2/97967.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3234/3/97967.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3234"
+        }
+    },
+    "extent": "",
+    "page": "35-42",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

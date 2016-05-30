@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Genome-wide comparative diversity uncovers multiple targets of selection for improvement in hexaploid wheat landraces and cultivars",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snp genotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "polyploid wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selection scans",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat improvement",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding history",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.896
+            ],
+            "value": "selection",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6951"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Domesticated crops experience strong human-mediated selection aimed at developing high-yielding varieties adapted to local conditions. To detect regions of the wheat genome subject to selection during improvement, we developed a high-throughput array to interrogate 9,000 gene-associated single-nucleotide polymorphisms (SNP) in a worldwide sample of 2,994 accessions of hexaploid wheat including landraces and modern cultivars. Using a SNP-based diversity map we characterized the impact of crop improvement on genomic and geographic patterns of genetic diversity. We found evidence of a small population bottleneck and extensive use of ancestral variation often traceable to founders of cultivars from diverse geographic regions. Analyzing genetic differentiation among populations and the extent of haplotype sharing, we identified allelic variants subjected to selection during improvement. Selective sweeps were found around genes involved in the regulation of flowering time and phenology. An introgression of a wild relative-derived gene conferring resistance to a fungal pathogen was detected by haplotype-based analysis. Comparing selective sweeps identified in different populations, we show that selection likely acts on distinct targets or multiple functionally equivalent alleles in different portions of the geographic range of wheat. The majority of the selected alleles were present at low frequency in local populations, suggesting either weak selection pressure or temporal variation in the targets of directional selection during breeding probably associated with changing agricultural practices or environmental conditions. The developed SNP chip and map of genetic variation provide a resource for advancing wheat breeding and supporting future population genomic and genome-wide association studies in wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_3303",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3303"
+}}

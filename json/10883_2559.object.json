@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Identification of a DREB-related gene in Triticum durum and its expression under water stress conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "alternative splicing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ap2 domain",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dehydration-responsive factor",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dreb",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tddrf1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "transcriptional activator",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6049
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "water stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        }
+    ],
+    "description": {
+        "value": "Genes from the DREB family are involved in plant's responses to dehydration and possibly play a role in their ability to tolerate water stress. Understanding the relationship between water stress tolerance and expression of specific genes requires the isolation and characterisation of the sequences that may be involved. We report the isolation and characterisation of a gene in Triticum durum, namely TdDRF1, which belongs to the DREB gene family and produces three forms of transcripts through alternative splicing. The relationship between the expression profile of the TdDRF1 gene and water stress was assessed by real-time reverse transcription&ndash;polymerase chain reaction in a time-course experiment up to 7 days. Water stress experimental conditions were selected to relate changes in gene expressions during a time frame reflecting as closely as possible those during which water stress starts having a visible effect under field conditions. Among the three isoforms of TdDRF1, the truncated form TdDRF1.2 was at all times the most expressed. Its expression, together with the TdDRF1.3 transcript, increased sharply after 4 days of dehydration, but then decreased at 7 days. The TdDRF1.1 transcript was the least expressed overall and varied least with the duration of dehydration. Genotypic differences in TdDRF1 gene expression are currently under investigation.",
+        "lang": "eng"
+    },
+    "appid": "10883_2559",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2559"
+}}

@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Predicted changes in suitability and agro climatic factors due to climate change for yam production in Nigeria",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-11-26T17:39:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6737,
+                ""
+            ],
+            "value": "yams",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8478",
+                "http://aims.fao.org/aos/agrovoc/c_8478",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dioscorea rotundata agro climatic change",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9375
+            ],
+            "value": "temperature",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7657"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "white yam",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2298"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "dioscorea rotundata",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2298"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "climatic factors",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29554"
+        }
+    ],
+    "description": {
+        "value": "Monthly data outputs on rainfall and temperature from 18 SRES models for emission scenario obtained from CIAT and white yam production extracted from FAO's Ecocrop were utilized to predict changes in suitability and effect of agro climatic change on yam production in Nigeria. The average outputs for all 18 models were used for calculating area changes to compare the 1951-2000 period with the predicted 2040-2069. The prediction showed that there will be increase of 10% by 2050 on the areas with ?Excellent? suitability for growing white yam as a result of predicted increases in rainfall amounts in the north as well as rising temperatures in mid altitude and highland areas of Nigeria. For the areas classified as ?Very Suitable?, ?Suitable? and ?Marginal? there were only slightly reductions in areas with 3, 1 and 8% respectively as compared to the climate averages of 1951 to 2000. The ?Very Marginal? showed the highest area increase (175%) as it went from 37,000 km2 to over 65,000 km2 for the 2050 period when compared to current long term averages. The predicted average annual temperature changes showed that all states are going to face increased temperatures. The predicted increases in temperature in the northern parts of the country were higher than coastal areas with a standard deviations between 0.01 and 0.11 C. In order to properly relate impact of changing climate on productivity and yield and the economic and food security implications time series of production and yield data and the respective climate data would be needed to derive linear or other relations.",
+        "lang": "eng"
+    },
+    "appid": "10883_3324",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3324"
+}}

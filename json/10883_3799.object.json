@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Linkage analysis and map construction in genetic populations of clonal F1 and double cross",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:34Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "clonal f1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "double cross",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "linkage analysis",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "In this study, we considered four categories of molecular markers based on the number of\ndistinguishable alleles at the marker locus and the number of distinguishable genotypes in clonal F1\nprogenies. For two marker loci, there are nine scenarios that allow the estimation of female, male, and/\nor combined recombination frequencies. In a double cross population derived from four inbred lines, five\ncategories of markers are classified and another five scenarios are present for recombination frequency\nestimation. Theoretical frequencies of identifiable genotypes were given for each scenario, from which the\nmaximum likelihood estimates of one or more of the three recombination frequencies could be estimated. If\nthere was no analytic solution, then Newton-Raphson method was used to acquire a numerical solution. We\nthen proposed to use an algorithm in Traveling Salesman Problem to determine the marker order. Finally,\nwe proposed a procedure to build the two haploids of the female parent and the two haploids of the male\nparent in clonal F1. Once the four haploids were built, clonal F1 hybrids could be exactly regarded as\na double cross population. Efficiency of the proposed methods was demonstrated in simulated clonal F1\npopulations and one actual maize double cross. Extensive comparisons with software JoinMap4.1, OneMap,\nand R/qtl show that the methodology proposed in this article can build more accurate linkage maps in\nless time.",
+        "lang": "eng"
+    },
+    "appid": "10883_3799",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3799"
+}}

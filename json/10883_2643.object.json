@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Drought - inducible genes and differentially expressed sequence tags associated with components of drought tolerance in durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:15Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14914",
+                "http://aims.fao.org/aos/agrovoc/c_14914",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic linkage mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ests",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rflp",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "linkage mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331006"
+        }
+    ],
+    "description": {
+        "value": "Drought stress is one of the most important environmental factors reducing cereal yields. The genetic and physiological bases of drought tolerance in durum wheat was investigated by QTL mapping and by mapping candidate genes derived from differentially expressed genes and previous investigations. A recombinant inbred population derived from a cross between two durum (Triticum turgidum L. var durum) parents Jennah Khetifa and Cham1 that exhibit contrasting traits for drought tolerance was employed. Twelve known genes and 103 differentially expressed sequence tags (dESTs) were surveyed and 55 detected polymorphism between the two parental lines. In total, 162 loci including 6 known genes, 37 dESTs, and an additional 119 markers that were unlinked in the previous map have been merged with 306 previously mapped markers to produce a new map with 468 loci. Single point analysis and composite interval mapping were used to identify the genomic regions controlling traits related to drought stress. Significant QTL were identified for canopy temperature, photosynthesis-related para-meters and water status index. One hundred and seventy eight markers, including 6 candidate genes and 19 differentially expressed sequences were associated with QTL for drought tolerance traits. The results indicate that there is considerable potential for improving drought tolerance of durum wheat by using marker-assisted selection.",
+        "lang": "eng"
+    },
+    "appid": "10883_2643",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2643"
+}}

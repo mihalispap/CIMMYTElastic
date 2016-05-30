@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "What determines gender inequality in household food security in Kenya? Application of exogenous switching treatment regression",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2013-12-09T20:40:05Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gender",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34835",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "food security",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inequality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "exogenous switching treatment regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "africa",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kenya",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "This paper explores the link between the gender of a household head and food security in rural Kenya. The results show that the food security gap between male-headed households (MHHs) and female-headed households (FHHs) is explained by their differences in observable and unobservable characteristics. FHHs? food security status would have been higher than it is now if the returns (coefficients) on their observed characteristics had been the same as the returns on the MHHs? characteristics. Even if that had been the case, however, results indicate that FHHs would still have been less food-secure than the MHHs due to unobservable characteristics.",
+        "lang": "eng"
+    },
+    "appid": "10883_3359",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3359"
+}}

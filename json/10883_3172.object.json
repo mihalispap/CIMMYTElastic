@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Strategies to subdivide a target population of environments: Results from the CIMMYT-led maize hybrid testing programs in Africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:46Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8146
+            ],
+            "value": "hybrids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3707"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6297
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        }
+    ],
+    "description": {
+        "value": "To develop stable and high-yielding maize (Zea mays L.) hybrids for a diverse target population of environments (TPE), breeders have to decide whether greater gains result from selection across the undivided TPE or within more homogeneous subregions. Currently, CIMMYT subdivides the TPE in eastern and southern Africa into climatic and geographic subregions. To study the extent of specific adaptation to these subregions and to determine whether selection within subregions results in greater gains than selection across the undivided TPE, yield data of 448 maize hybrids evaluated in 513 trials across 17 countries from 2001 to 2009 were used. The trials were grouped according to five subdivision systems into climate, altitude, geographic, country, and yield-level subregions. For the first four subdivision systems, genotype × subregion interaction was low, suggesting broad adaptation of maize hybrids across eastern and southern Africa. In contrast, genotype × yield-level interactions and moderate genotypic correlations between low- and high-yielding subregions were observed. Therefore, hybrid means should be estimated by stratifying the TPE considering the yield-level effect as fixed and appropriately weighting information from both subregions. This strategy was at least 10% better in terms of predicted gains than direct selection using only data from the low- or high-yielding subregion and should facilitate the identification of hybrids that perform well in both subregions.",
+        "lang": "eng"
+    },
+    "appid": "10883_3172",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3172"
+}}

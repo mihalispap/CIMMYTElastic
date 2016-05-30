@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "A wheat variety from Mexico brightens in the prospects of Uzbek farmers",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farmers",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "asia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3962",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3962"
+}}

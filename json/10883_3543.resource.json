@@ -1,0 +1,113 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:47:20Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3543",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Reprint",
+    "date": "1999",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3543"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3543"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3543",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3543/1/68650.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1109771
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3543/2/68650.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 121487
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3543/3/68650.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6958
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3543/1/68650.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3543/2/68650.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3543/3/68650.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3543"
+        }
+    },
+    "extent": "",
+    "page": "43 p.",
+    "coverage": "Mexico",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

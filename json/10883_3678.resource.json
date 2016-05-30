@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3678",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2001",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3678"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3678"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3678",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2247565,
+            "value": "IITA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2247565"
+        },
+        {
+            "id": 2609381,
+            "value": "UNDP",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2609381"
+        },
+        {
+            "id": 2244096,
+            "value": "IFAD",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2244096"
+        },
+        {
+            "id": 2544979,
+            "value": "SIDA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2544979"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3678/1/74980.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 239303
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3678/2/74980.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5869
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/3678/3/74980.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8580
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3678/1/74980.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3678/2/74980.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/3678/3/74980.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3678"
+        }
+    },
+    "extent": "",
+    "page": "2:00 PM",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

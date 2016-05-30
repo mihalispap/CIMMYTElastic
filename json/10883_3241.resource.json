@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0308-521X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kenya",
+        "uri": [
+            "http://sws.geonames.org/192950",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+        ]
+    },
+    "updatedDate": "2013-11-23T00:49:26Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3241",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3241"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3241"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3241",
+    "creator": [
+        {
+            "id": 1047756113,
+            "value": "Jaleta Debello Moti",
+            "type": "person",
+            "uri": "/cimmyt/person/1047756113"
+        },
+        {
+            "id": 1589984555,
+            "value": "Berresaw Menale Kassie",
+            "type": "person",
+            "uri": "/cimmyt/person/1589984555"
+        },
+        {
+            "id": 2003399957,
+            "value": "Shiferaw, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2003399957"
+        }
+    ],
+    "publisher": {
+        "id": 825849008,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0308521X1300067X",
+        "type": "organization",
+        "uri": "/cimmyt/organization/825849008"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3241/1/98091.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 270199
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3241/2/98091.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 59037
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3241/3/98091.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 17423
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3241/1/98091.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3241/2/98091.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3241/3/98091.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3241"
+        }
+    },
+    "extent": "",
+    "page": "96-105",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

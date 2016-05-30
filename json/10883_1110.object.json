@@ -3,7 +3,7 @@
         "value": "Enfermedades y plagas del trigo: Una guia para su identificacion en el campo",
         "lang": "spa"
     },
-    "updated": "2016-01-22T23:05:44Z",
+    "updated": "2016-01-22T23:05:41Z",
     "created": "2012-01-06T05:14:25Z",
     "subject": [
         {
@@ -125,20 +125,20 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "diseases",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_49879"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 0.9148,
             "value": "insect pests",
             "uri": "http://aims.fao.org/aos/agrovoc/c_5729"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "diseases",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49879"
         }
     ],
     "description": {
         "value": "This booklet is designed as a quick guide for identifying wheat and triticale diseases in the field. It is intended primarily for agricultural researchers, technicians, and farmers in developing nations, but will also be of value to others. The text comprises a brief description of the major wheat and triticale diseases, insect pests, nematodes, physiologic and genetic disorders, and mineral and environmental stresses. Complementing this text as an aid to identification are numerous color photographs, drawings, and a brief diagnostic key. Emphasis has been placed on economically significant diseases, but is not limited to them",
-        "lang": "spa"
+        "lang": "eng"
     },
     "appid": "10883_1110",
     "language": {

@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "2228-7973",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Iran",
+        "uri": [
+            "http://sws.geonames.org/130758",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Iran"
+        ]
+    },
+    "updatedDate": "2013-11-25T02:37:43Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3310",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3310"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3310"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3310",
+    "creator": [
+        {
+            "id": 1258491597,
+            "value": "Moshatati, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1258491597"
+        },
+        {
+            "id": 1399284472,
+            "value": "Siadat, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1399284472"
+        },
+        {
+            "id": 1638221557,
+            "value": "Alami Saeid, Kh",
+            "type": "person",
+            "uri": "/cimmyt/person/1638221557"
+        },
+        {
+            "id": 315776757,
+            "value": "Bakhshandeh, A.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/315776757"
+        },
+        {
+            "id": 1635171672,
+            "value": "Jalal Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1635171672"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3310/1/98092.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 19878
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3310/4/98092.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5172
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3310/5/98092.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 72051
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3310/1/98092.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3310/4/98092.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3310/5/98092.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3310"
+        }
+    },
+    "extent": "",
+    "page": "844-849",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

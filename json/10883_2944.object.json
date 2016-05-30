@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Phenolic acid profiles of Chinese wheat cultivars",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenolic acid",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenolic component",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ferulic acid",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33987",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "phenolic acids",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16197"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331055"
+        }
+    ],
+    "description": {
+        "value": "Phenolic acid concentrations were determined in 37 Chinese commercial winter wheat cultivars grown at a single site over two seasons, and fractions comprising free and bound types were analyzed using HPLC with measurements of individual phenolic acids in each fraction. Most of the parameters were significantly influenced by cultivar, season, and their interaction effects, with cultivar variance being predominant. Wide ranges of concentration among the 37 cultivars were observed. The average concentration of bound type was 661 ìg g&#8722;1 of dm, making up 97.5% of the phenolic acid determined with ferulic accounting for 70.7% of it, while free type made up only 2.5% of the phenolic acid determined with syringic accounting for 44.7% of it. Bound type was the predominant source to the grain phenolic acid concentrations determined. There were highly significant and positive correlations between bound ferulic concentration and total bound phenolic acid concentration, and between free syringic concentration and total free phenolic acid concentration. Cultivars Liangxing 66 and Zhongmai 895 were stable in concentration of components of phenolic acids across seasons, with high values of free and bound phenolic acids indicating they could be selected as parents in wheat breeding for health beneficial phenolic acid.",
+        "lang": "eng"
+    },
+    "appid": "10883_2944",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2944"
+}}

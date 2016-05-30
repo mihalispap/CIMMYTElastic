@@ -1,0 +1,186 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Tanzania",
+            "uri": [
+                "http://sws.geonames.org/149590",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tanzania"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Uganda",
+            "uri": [
+                "http://sws.geonames.org/226074",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Uganda"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zambia",
+            "uri": [
+                "http://sws.geonames.org/895949",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zambia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "country",
+            "uri": [
+                "http://sws.geonames.org/geonameid",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/country"
+            ]
+        }
+    ],
+    "updatedDate": "",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_4656",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "JA",
+    "date": "2015",
+    "url": {
+        "broken": false,
+        "value": "http://repository.cimmyt.org/xmlui/handle/10883/4656"
+    },
+    "appuri": "/cimmyt/resource/10883_4656",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 861581358,
+        "value": "Springer,",
+        "type": "organization",
+        "uri": "/cimmyt/organization/861581358"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4656/1/57190.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2969
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4656/3/57190.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 3590
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4656/2/57190.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 374099
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4656/1/57190.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4656/3/57190.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4656/2/57190.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4656"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Tanzania, United Republic of",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

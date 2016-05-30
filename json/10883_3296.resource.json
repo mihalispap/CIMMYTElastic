@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-25T02:37:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3296",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3296"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3296"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3296",
+    "creator": [
+        {
+            "id": 99192823,
+            "value": "Mason, R.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/99192823"
+        },
+        {
+            "id": 208174397,
+            "value": "Hays, D.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/208174397"
+        },
+        {
+            "id": 1140844974,
+            "value": "Mondal, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1140844974"
+        },
+        {
+            "id": 262250612,
+            "value": "Ibrahim, A.M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/262250612"
+        },
+        {
+            "id": 435835173,
+            "value": "Basnet, B.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/435835173"
+        }
+    ],
+    "publisher": {
+        "id": 979550558,
+        "value": "http://link.springer.com/article/10.1007%2Fs10681-013-0951-x",
+        "type": "organization",
+        "uri": "/cimmyt/organization/979550558"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3296/1/98000.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3296/6/98000.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5286
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3296/5/98000.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 479461
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3296/1/98000.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3296/6/98000.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3296/5/98000.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3296"
+        }
+    },
+    "extent": "",
+    "page": "243-259",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

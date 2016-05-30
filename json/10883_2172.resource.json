@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2172",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2008",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2172"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2172"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2172",
+    "creator": [
+        {
+            "id": 468695550,
+            "value": "Orr, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/468695550"
+        },
+        {
+            "id": 2016077435,
+            "value": "Sumberg, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2016077435"
+        },
+        {
+            "id": 1323266426,
+            "value": "Erenstein, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1323266426"
+        },
+        {
+            "id": 271656775,
+            "value": "Oswald, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/271656775"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2172/1/93549.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 102435
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2172/2/93549.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57980
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2172/3/93549.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5450
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2172/1/93549.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2172/2/93549.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2172/3/93549.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2172"
+        }
+    },
+    "extent": "",
+    "page": "159-168",
+    "coverage": "West Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

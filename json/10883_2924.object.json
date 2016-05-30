@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Characterization of genetic diversity of puroindoline genes in Mexican wheat landraces",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:54Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "friabilin",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic variability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain texture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9365
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8842
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8919
+            ],
+            "value": "hardness",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25422"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6673
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Grain hardness is a major factor determining milling performance of common wheat. It determines the amount of damaged starch generated during milling, and therefore the end use of a given variety. One hundred and two lines from 15 Mexican wheat landraces were analyzed for grain hardness and for its genetic control. Sixteen lines were hard and 86 were soft-textured. All hard lines could be explained by a mutation in either the Pina-D1 or Pinb-D1 genes. In six hard lines there was no amplification of Pina-D1, suggesting that this gene was deleted (Pina-D1b allele). The remaining ten hard lines showed the presence of both Pina-D1 and Pinb-D1. Sequencing the Pinb-D1 genes of the hard lines revealed the presence of two different alleles (Pinb-D1b and Pinb-D1e). The results substantiate the importance of very old Mexican landraces as potential sources of genetic diversity for key quality traits in the development of modern wheat cultivars with different grain textures.",
+        "lang": "eng"
+    },
+    "appid": "10883_2924",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2924"
+}}

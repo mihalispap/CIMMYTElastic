@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "1392-3196",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-12-09T20:48:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3368",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3368"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3368"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3368",
+    "creator": [
+        {
+            "id": 2076712711,
+            "value": "Eisa, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2076712711"
+        },
+        {
+            "id": 840269630,
+            "value": "Chand, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/840269630"
+        },
+        {
+            "id": 1013937293,
+            "value": "Joshi, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013937293"
+        }
+    ],
+    "publisher": {
+        "id": 1987023171,
+        "value": "http://www.zemdirbyste-agriculture.lt/1002_str25/",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987023171"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3368/1/98267.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 42677
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3368/2/98267.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5338
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3368/3/98267.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 517159
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3368/1/98267.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3368/2/98267.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3368/3/98267.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3368"
+        }
+    },
+    "extent": "",
+    "page": "191-198",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

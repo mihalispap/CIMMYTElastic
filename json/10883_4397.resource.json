@@ -1,0 +1,193 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Tanzania",
+            "uri": [
+                "http://sws.geonames.org/149590",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tanzania"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mozambique",
+            "uri": [
+                "http://sws.geonames.org/1036973",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mozambique"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        }
+    ],
+    "updatedDate": "2015-08-12T18:49:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "SIMLESA Semi-Annual Report",
+    "appid": "10883_4397",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Annual report",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4397"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4397"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4397",
+    "creator": [
+        {
+            "id": 479858019,
+            "value": "Mekuria, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/479858019"
+        },
+        {
+            "id": 2129349991,
+            "value": "Mashango, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2129349991"
+        },
+        {
+            "id": 226688692,
+            "value": "Siamachira, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/226688692"
+        },
+        {
+            "id": 1929301462,
+            "value": "Dixon, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1929301462"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1168705368,
+            "value": "CIMMYT / ACIAR",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1168705368"
+        },
+        {
+            "id": 0,
+            "value": "",
+            "type": "organization",
+            "uri": "/cimmyt/organization/0"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4397/3/56974.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4650
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4397/2/56974.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 642463
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4397/4/56974.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4397/3/56974.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4397/2/56974.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4397/4/56974.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4397"
+        }
+    },
+    "extent": "",
+    "page": "33 p.",
+    "coverage": [
+        "Tanzania",
+        "Ethiopia",
+        "Mozambique",
+        "Kenya",
+        "Malawi"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Harare (Zimbabwe)",
+    "doi": ""
+}}

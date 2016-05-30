@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "A quantitative scale of spike initial and pistil development in barley and wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:01Z",
+    "created": "2013-06-07T21:11:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "biological development",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_921",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "morphogenesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4943",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "growth period",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15981",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "spikes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24086",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gynoecium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3451",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant developmental stages",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5959",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6243,
+            "value": "barley",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_823"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pistil",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3451"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2344",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2344"
+}}

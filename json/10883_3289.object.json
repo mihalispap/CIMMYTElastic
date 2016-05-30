@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Characterization of dense and erect panicle 1 gene (tadep1) located on common wheat group 5 chromosomes and development of allele-specific markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "(triticum aestivum l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dense and erect panicle1 (dep1)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "allelic variation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "allele-specific markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "panicles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24557"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6681
+            ],
+            "value": "exons",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331005"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7467
+            ],
+            "value": "spikelets",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7301"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7857
+            ],
+            "value": "locus",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Dense and erect panicle 1 (OsDep1) gene is an important QTL controlling yield associated traits such as panicle length, erect type, and grain density in rice. In the present study, full-length genomic DNA sequences of TaDep1 on common wheat group 5 chromosomes were cloned by homologous cloning approach based on the sequences of rice OsDep1. TaDep1 has five exons and four introns, similar to that of rice OsDep1. The coding sequences of TaDep1-A1, TaDep1-B1, and TaDep1-D1 were 918, 888, and 900 bp, encoding polypepetides of 305, 295, and 299 amino acids, respectively. Five allelic variants on TaDep1-A1 locus, four on TaDep1-B1 locus, and two on TaDep1-D1 locus were identified. Three pairs of complementary dominant markers and one codominant marker were developed based on the sequence polymorphisms presented in allelic variants of TaDep1-A1 and TaDep1-B1. The codominant marker dep19, which can accurately discriminate the allelic variants of TaDep1-B1c from those of TaDep1-B1a, TaDep1-B1b,and TaDep1-B1d, was developed from a 30 bp InDel of different allelic variants at the fifth exon of TaDep1-B1. No significant association was found among the yield associated traits such as thousand-kernel weight, plant height, panicle length, spikelet number and spikelet spacing in 406 cultivars, indicating that these genes have no significant effect on the yield-related traits in current Chinese wheat cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_3289",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3289"
+}}

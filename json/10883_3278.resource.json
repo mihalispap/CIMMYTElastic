@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "0191-2917",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-11-25T02:37:36Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3278",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3278"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3278"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3278",
+    "creator": [
+        {
+            "id": 2123850567,
+            "value": "B. R. Basnet",
+            "type": "person",
+            "uri": "/cimmyt/person/2123850567"
+        },
+        {
+            "id": 1377581147,
+            "value": "R. P. Singh",
+            "type": "person",
+            "uri": "/cimmyt/person/1377581147"
+        },
+        {
+            "id": 990157279,
+            "value": "S. A. Herrera-Foessel",
+            "type": "person",
+            "uri": "/cimmyt/person/990157279"
+        },
+        {
+            "id": 2072639830,
+            "value": "A. M. H. Ibrahim",
+            "type": "person",
+            "uri": "/cimmyt/person/2072639830"
+        },
+        {
+            "id": 157149010,
+            "value": "J. Huerta-Espino",
+            "type": "person",
+            "uri": "/cimmyt/person/157149010"
+        },
+        {
+            "id": 1201858170,
+            "value": "V. Calvo-Salazar",
+            "type": "person",
+            "uri": "/cimmyt/person/1201858170"
+        },
+        {
+            "id": 1716955612,
+            "value": "J. C. Rudd",
+            "type": "person",
+            "uri": "/cimmyt/person/1716955612"
+        }
+    ],
+    "publisher": {
+        "id": 631128752,
+        "value": "http://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-02-12-0141-RE?journalCode=pdis",
+        "type": "organization",
+        "uri": "/cimmyt/organization/631128752"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3278/1/97659.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3278/6/97659.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6768
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3278/5/97659.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 605540
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3278/1/97659.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3278/6/97659.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3278/5/97659.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3278"
+        }
+    },
+    "extent": "",
+    "page": "728-736",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

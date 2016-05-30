@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Maintien et multiplication de semences de varietes de mais à fecondation libre",
+        "lang": "fra"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2014-03-13T00:58:09Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "seed production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6937",
+                "http://aims.fao.org/aos/agrovoc/c_6937",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "open pollination",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5363",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "developing countries",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9468
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6285,
+            "value": "certified seed",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331545"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7728
+            ],
+            "value": "guidelines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_50228"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6658,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        }
+    ],
+    "description": {
+        "value": "This booklet is intended to aid researchers in meeting one of the critical challenges facing national maize programs in developing countries: to develop effective seed production systems for more rapid dissemination of improved maize germplasm. It discusses all aspects of the handling of open-pollinated varieties, including methods to develop them, guidelines for their evaluation, release and characterization, procedures for maintenance and production of breeders', foundation, and certified seed, and planning of seed production (such as standards to maintain varietal uniformity and guidelines to determine seed quantitites) to ensure efficient and",
+        "lang": "eng"
+    },
+    "appid": "10883_3798",
+    "language": {
+        "value": "fra",
+        "uri": "http://lexvo.org/id/iso639-3/fra"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3798"
+}}

@@ -1,0 +1,169 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:44Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3157",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3157"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3157"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3157",
+    "creator": [
+        {
+            "id": 1571058346,
+            "value": "Mosisa Worku",
+            "type": "person",
+            "uri": "/cimmyt/person/1571058346"
+        },
+        {
+            "id": 1655599573,
+            "value": "Banziger, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1655599573"
+        },
+        {
+            "id": 1785596024,
+            "value": "Gunda Schulte auf'm Erley",
+            "type": "person",
+            "uri": "/cimmyt/person/1785596024"
+        },
+        {
+            "id": 1056035984,
+            "value": "Friesen, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1056035984"
+        },
+        {
+            "id": 1232665811,
+            "value": "Diallo, A.O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1232665811"
+        },
+        {
+            "id": 1038208933,
+            "value": "Horst, W.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1038208933"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3157/1/96419.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 520595
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3157/2/96419.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 67679
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3157/3/96419.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5233
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3157/1/96419.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3157/2/96419.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3157/3/96419.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3157"
+        }
+    },
+    "extent": "",
+    "page": "57-67",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

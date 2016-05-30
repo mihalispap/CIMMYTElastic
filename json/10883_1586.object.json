@@ -3,7 +3,7 @@
         "value": "Yield, water productivity and nutrient balances under the system of rice intensification and recommended management practices in the Sahel",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:38Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-06-07T20:59:19Z",
     "subject": [
         {
@@ -53,38 +53,23 @@
                 "",
                 "",
                 "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.6664
-            ],
-            "value": "sahel",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_6734"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
                 "",
                 "agrovoc"
             ],
             "score": [
                 "",
                 "",
-                0.6869
+                "",
+                "",
+                0.6152
             ],
-            "value": "rice straw",
+            "value": "incorporation",
             "uri": [
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_16032"
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3823"
             ]
         },
         {
@@ -118,6 +103,23 @@
             "vocabulary": [
                 "",
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6869
+            ],
+            "value": "rice straw",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16032"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
                 "",
                 "",
                 "agrovoc"
@@ -126,16 +128,14 @@
                 "",
                 "",
                 "",
-                "",
-                0.6152
+                0.6664
             ],
-            "value": "incorporation",
+            "value": "sahel",
             "uri": [
                 "",
                 "",
                 "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3823"
+                "http://aims.fao.org/aos/agrovoc/c_6734"
             ]
         },
         {
@@ -158,15 +158,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "system of rice intensification",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1410770287830"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 0.6479,
             "value": "nutrient balance",
             "uri": "http://aims.fao.org/aos/agrovoc/c_12868"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "system of rice intensification",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1410770287830"
         }
     ],
     "description": {

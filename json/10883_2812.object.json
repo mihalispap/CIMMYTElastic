@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Heat and drought adaptive QTL in a wheat population designed to minimize confounding agronomic effects",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7079
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9174
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8977
+            ],
+            "value": "phenology",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5774"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9012,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "A restricted range in height and phenology of the elite Seri/Babax recombinant inbred line (RIL) population makes it ideal for physiological and genetic studies. Previous research has shown differential expression for yield under water deficit associated with canopy temperature (CT). In the current study, 167 RILs plus parents were phenotyped under drought (DRT), hot irrigated (HOT), and temperate irrigated (IRR) environments to identify the genomic regions associated with stress-adaptive traits. In total, 104 QTL were identified across a combination of 115 traits × 3 environments × 2 years, of which 14, 16, and 10 QTL were associated exclusively with DRT, HOT, and IRR, respectively. Six genomic regions were related to a large number of traits, namely 1B-a, 2B-a, 3B-b, 4A-a, 4A-b, and 5A-a. A yield QTL located on 4A-a explained 27 and 17% of variation under drought and heat stress, respectively. At the same location, a QTL explained 28% of the variation in CT under heat, while 14% of CT variation under drought was explained by a QTL on 3B-b. The T1BL.1RS (rye) translocation donated by the Seri parent was associated with decreased yield in this population. There was no co-location of consistent yield and phenology or height-related QTL, highlighting the utility of using a population with a restricted range in anthesis to facilitate QTL studies. Common QTL for drought and heat stress traits were identified on 1B-a, 2B-a, 3B-b, 4A-a, 4B-b, and 7A-a confirming their generic value across stresses. Yield QTL were shown to be associated with components of other traits, supporting the prospects for dissecting crop performance into its physiological and genetic components in order to facilitate a more strategic approach to breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2812",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2812"
+}}

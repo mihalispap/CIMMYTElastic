@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "1991-637X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Turkey",
+        "uri": [
+            "http://sws.geonames.org/298795",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Turkey"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:59Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2957",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2957"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2957"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2957",
+    "creator": [
+        {
+            "id": 1551615863,
+            "value": "Turanli, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1551615863"
+        },
+        {
+            "id": 1824636705,
+            "value": "Jankielsohn, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1824636705"
+        },
+        {
+            "id": 313253223,
+            "value": "Morgounov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/313253223"
+        },
+        {
+            "id": 154485,
+            "value": "Cakir, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/154485"
+        }
+    ],
+    "publisher": {
+        "id": 1560279324,
+        "value": "http://www.academicjournals.org/ajar/abstracts/abstracts/Abstracts%202012/9Oct/Turanli%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1560279324"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2957/1/97585.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 800633
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2957/2/97585.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33380
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2957/3/97585.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6777
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2957/1/97585.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2957/2/97585.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2957/3/97585.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2957"
+        }
+    },
+    "extent": "",
+    "page": "5396-5404",
+    "coverage": [
+        "Turkey",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

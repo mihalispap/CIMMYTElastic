@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2014-11-10T20:24:15Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_4145",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4145"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4145"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4145",
+    "creator": [
+        {
+            "id": 267294538,
+            "value": "Chung, U.",
+            "type": "person",
+            "uri": "/cimmyt/person/267294538"
+        },
+        {
+            "id": 755246474,
+            "value": "Gbegbelegbe, S.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/755246474"
+        },
+        {
+            "id": 2003399957,
+            "value": "Shiferaw, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2003399957"
+        },
+        {
+            "id": 1140866240,
+            "value": "Robertson, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1140866240"
+        },
+        {
+            "id": 738120040,
+            "value": "Jin I. Yun",
+            "type": "person",
+            "uri": "/cimmyt/person/738120040"
+        },
+        {
+            "id": 1685988933,
+            "value": "Kindie Tesfaye Fantaye",
+            "type": "person",
+            "uri": "/cimmyt/person/1685988933"
+        },
+        {
+            "id": 1121859378,
+            "value": "Hoogenboom, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1121859378"
+        },
+        {
+            "id": 2095098774,
+            "value": "Sonder, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2095098774"
+        }
+    ],
+    "publisher": {
+        "id": 249133843,
+        "value": "http://www.sciencedirect.com/science/article/pii/S2212094714000668#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/249133843"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4145/1/99441.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1037462
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4145/2/99441.pdf.jpg",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4534
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4145/3/99441.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4145/1/99441.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4145/2/99441.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4145/3/99441.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4145"
+        }
+    },
+    "extent": "",
+    "page": "67-77",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

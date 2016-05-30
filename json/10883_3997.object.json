@@ -1,0 +1,165 @@
+{"object": {
+    "title": {
+        "value": "Cereal disease methodology manual",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:56Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7681,
+                0.7681,
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rots",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6667",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "scabs",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6836",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "smuts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7119",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "surveying",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "evaluation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "diseases",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49879"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9395
+            ],
+            "value": "workshops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_26838"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6418
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Beginning in 1976, the Research Institute for Plant Protection and CIMMYT initiated the Regional Workshops in Cereal Disease Methodology to develop or strengthen plant pathology research activities in national wheat improvement programs in developing countries. This manual is an outgrowth of the workshop series and presents the principal topics developed in the workshops, including production, origin, morphology, growth habit, diseases and disease development, surveying, resistant varieties, etc., for cereal grains. Characteristics of wheat and barley diseases are also included",
+        "lang": "eng"
+    },
+    "appid": "10883_3997",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3997"
+}}

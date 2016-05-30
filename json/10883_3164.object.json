@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Analysis of genetic variability for kernel carotenoid concentration in selected maize inbred lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carotenoids",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic variation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15975",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "heritability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3570",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic variability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15975"
+        }
+    ],
+    "description": {
+        "value": "A selected set of 24 maize (Zea mays L.) inbred lines were analyzed to study genetic variability for total kernel carotenoid concentration. The results revealed significant genetic variation among the selected maize inbreds for total carotenoid concentration with values ranging from12.20?30.10 g/g, and a mean of 21.87 g/g. One of the CIMMYT-HarvestPlus maize inbreds, HP19?33 recorded the highest (30.10 g/g) carotenoid concentration, followed by DMRQPM-58 (28.40 g/g), NAI115 (26.80 g/g), LM16 (25.87 g/g), HP20?37 (25.80 g/g), VQL1 (25.30 g/g) and HP20?53 (24.40 g/g). No significant difference in total carotenoid concentration was observed among the QPM and non-QPM inbred lines, although positive correlation was found between kernel colour and total carotenoid concentration. Deep orange kernel coloured genotypes, in general, recorded higher levels of total carotenoids as compared to those with yellow or pale yellow kernel colour. Evaluation of different generations derived from a cross DM QPM-58 x DMR QPM-28-03 at Delhi and Pantnagar revealed polygenic control for total kernel carotenoid concentration with some genes having major effect. The study also indicated high heritability for total carotenoids at both Delhi (96.9%) and Pantnagar (95.6%). The carotenoid concentration of the same set of genotypes across different environments was reasonably stable, implying lesser influence of G x E for the trait.",
+        "lang": "eng"
+    },
+    "appid": "10883_3164",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3164"
+}}

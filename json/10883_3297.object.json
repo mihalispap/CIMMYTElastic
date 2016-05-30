@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Distribucion de fracciones de proteina y su contribucion a las caracteristicas de calidad de trigo.",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "trigo harinero",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "proteinas monomericas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "proteinas polimericas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "propiedades visco-elasticas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gluten",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3294"
+        }
+    ],
+    "description": {
+        "value": "Las caracteristicas visco-elasticas del gluten del trigo (Triticum aestivum L.) estan definidas por la composicion de las gliadinas, las gluteninas de alto (G-APM) y bajo (G-BPM) peso molecular y por la distribucion de sus principales fracciones, la monomerica (rica en gliadina, PM), la polimerica soluble (rica en glutenina soluble, PPS) y la polimerica insoluble (rica en glutenina insoluble, PPI). Con el objetivo de examinar la relacion e influencia de estas fracciones sobre las caracteristicas reologicas de calidad de procesamiento, se evaluaron 117 lineas de trigo procedentes de seis poblaciones contrastantes en calidad, cultivadas bajo riego en Sonora, Mexico (ciclo 2005-2006). La variedad ?Avocet? fue el progenitor materno comun en cada una de las seis poblaciones. Se consideraron dos variantes en la composicion de gluteninas en los loci Glu-A1, Glu-B1, Glu-D1, y tres en el locus Glu-B3.  Las medias generales de las proporciones de las tres fracciones fueron de 42 %, 20.4 % y 37.5 % para PM, PPS y PPI, respectivamente. La distribucion de fracciones fue distinta entre las seis poblaciones. El analisis estadistico mostro valores de prediccion mayores a 30 % de las fracciones proteicas y del contenido de proteina, para estimar variables de calidad del mixografo, de fuerza de masa, y de fuerza del gluten medida con el alveografo. La magnitud del efecto de las fracciones sobre las caracteristicas de calidad vario entre las poblaciones de trigo evaluadas. La fraccion PM mostro correlaciones significativas con caracteristicas de extensibilidad de la masa (Sedim-SDS; AlvP/L), mientras que la fraccion PPI correlaciono con las variables de fuerza de gluten (MIXTD, %Tq/min y AlvW). La determinacion de la distribucion de fracciones proteicas, de la composicion de G-APM y G-BPM, aunada a pruebas de elaboracion rapida en laboratorio (proteina y Sedim-SDS), constituyen una importante herramienta para seleccion por calidad en el fitomejoramiento del trigo.",
+        "lang": "spa"
+    },
+    "appid": "10883_3297",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3297"
+}}

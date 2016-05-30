@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "18th Semi-Arid Wheat Yield Trial",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -258,13 +258,13 @@
             "score": [
                 "",
                 "",
-                0.9355
+                0.7061
             ],
-            "value": "rusts",
+            "value": "rainfall",
             "uri": [
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_6710"
+                "http://aims.fao.org/aos/agrovoc/c_6435"
             ]
         },
         {
@@ -300,6 +300,24 @@
             "score": [
                 "",
                 "",
+                0.9355
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
                 0.8053
             ],
             "value": "drought",
@@ -323,29 +341,11 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_3249"
             ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.7061
-            ],
-            "value": "rainfall",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_6435"
-            ]
         }
     ],
     "description": {
         "value": "CIMMYT annually distributes improved germplasm developed by its researchers and partners in international nurseries trials and experiments.  The Semi-Arid Wheat Yield Trial (SAWYT) contains spring bread wheat (Triticum aestivum) germplasm adapted to low rainfall, drought prone environments typically receiving less than 500 mm of water available during the cropping cycle.  The combination of water-use efficiency and water responsive broad adaptation plus yield potential is important in drought environments where rainfall is frequently erratic across and within years. Stripe rust, leaf rust and stem rust, root rots, nematodes, and bunts are the key biotic constraints.  Typical target environments include winter rain or Mediterranean-type drought associated with post-flowering moisture stress and heat stress such as those found at Aleppo (Syria), Settat (Morocco) and Marcos Juarez (Argentina), all classified by CIMMYT within Wheat Mega Environment 4 (Low rainfall, semi-arid environment; ME4: SA).",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10170",
     "language": {

@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Screening sorghum seedlings for heat tolerance using a laboratory method",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:24Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7482,
+            "value": "sorghum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7244"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.754,
+            "value": "seedlings",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6945"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3014",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3014"
+}}

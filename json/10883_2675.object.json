@@ -1,0 +1,165 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping of a leaf rust resistance gene on the short arm of chromosome 6B of durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:20Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bulked segregant analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8205
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6237
+            ],
+            "value": "common wheat",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9091
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9134,
+            "value": "triticum turgidum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7958"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8934
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9703
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9389,
+            "value": "amplified fragment length polymorphism",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331160"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9465,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust, caused by Puccinia triticina, is an important disease of durum wheat (Triticum turgidum subsp. durum) worldwide, and the most effective way to control it is through the use of resistant cultivars. A partially dominant leaf rust resistance gene present in the International Maize and Wheat Improvement Center-derived Chilean cv. Guayacan INIA and its sister line Guayacan 2 was mapped to chromosome arm 6BS by identifying linked amplified fragment length polymorphisms (AFLPs) and mapping two of the molecular markers in common wheat (T. aestivum) linkage maps of the International Triticeae Mapping Initiative and Oligoculm × Fukuho-komugi populations. Comparison of infection type responses of the two resistant durums with common wheat testers carrying the previously mapped resistance genes Lr36 and Lr53 on 6BS, and their chromosomal positions, indicated that the resistance gene in durum wheat Guayacan INIA is a new leaf rust resistance gene, which was designated as Lr61. Gene Lr61 is effective against the P. triticina race BBG/BN predominant in northwestern Mexico and other races infecting durum wheat in various countries.",
+        "lang": "eng"
+    },
+    "appid": "10883_2675",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2675"
+}}

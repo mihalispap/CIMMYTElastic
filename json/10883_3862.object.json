@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "El trigo en Ecuador",
+        "lang": "spa"
+    },
+    "updated": "2015-05-28T17:12:06Z",
+    "created": "2014-03-13T01:09:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food production",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3025",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agricultural policies",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_201",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farming systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "ecuador",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2485",
+                "http://aims.fao.org/aos/agrovoc/c_2485",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3862",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3862"
+}}

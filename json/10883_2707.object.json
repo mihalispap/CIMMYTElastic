@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Cloning and phylogenetic analysis of polyphenol oxidase genes in common wheat and related species",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6546,
+                0.6546,
+                0.6546,
+                0.6546,
+                0.6546,
+                0.6546,
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain ppo activity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phylogenetics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "polyphenol oxidase (ppo) genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat relatives",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        }
+    ],
+    "description": {
+        "value": "Cloning and phylogenetic analysis of polyphenol oxidase (PPO) genes in common wheat and its relatives would greatly advance the understanding of molecular mechanisms of grain PPO activity. In the present study, six wheat relative species, including T. urartu, T. boeoticum, T. monococcum, T. dicoccoides, T. durum and Ae. tauschii, were sampled to isolate new alleles at Ppo-A1 and Ppo-D1 loci corresponding to common wheat PPO genes, and seven new alleles were identified from these species, which were designated as Ppo-A1c (from T. urartu), Ppo-A1d (T. boeoticum), Ppo-A1e (T. monococcum and T. durum), Ppo-A1f (T. dicoccoides), Ppo-A1g (T. durum), Ppo-D1c (Ae. tauschii) and Ppo-D1d (Ae. tauschii), respectively. Five out of the seven alleles detected in the wheat relatives contained an open reading frame (ORF) of 1,731 bp, encoding a polypeptide of 577 residues, which is the same as those of Ppo-A1 and Ppo-D1 genes in common wheat, whereas, the full-length ORF of the allele Ppo-A1g from T. durum wasnot obtained, and a 73-bp deletion occurred in the third exon of Ppo-D1d, an allele from Ae. tauschii, resulting in a shorter polypeptide of 466 amino acids. The 191-bp insertion in the first intron reported previously in common wheat was also found in T. dicoccoides lines, implying that more than one tetraploid wheat lines may be involved in the origination of common wheat. Phylogenetic trees were constructed using the genomic DNA sequences of the seven alleles, together with four from common wheat and four partial PPO gene sequences deposited in GenBank. The genome tribe A was divided into two clusters, one of which contained Ppo-A1d and Ppo-A1e, and the other included the remaining five alleles at Ppo-A1 locus. The alleles from different clusters showed high sequence divergences, indicated by dozens of SNPs and five to six InDels. The genome tribe D comprised the alleles Ppo-D1a, Ppo-D1c, Ppo-D1d and Ppo-D1b, and the former three were clustered together, showing significant sequence divergence from Ppo-D1b. In addition, the relationships between these allelic variants and grain PPO activities were also discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_2707",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2707"
+}}

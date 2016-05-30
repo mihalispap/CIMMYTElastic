@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Classification and compensation: Manual for internationally recruited staff",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:34Z",
+    "created": "2014-03-13T00:47:23Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "international agreements",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3915",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "labour and employment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "employment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2550"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "compensation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1791"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3563",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3563"
+}}

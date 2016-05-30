@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Phenotyping approaches for physiological breeding and gene discovery in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:31Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.954
+            ],
+            "value": "gene pools",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3212"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.881
+            ],
+            "value": "crossing",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1976"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Conceptual models of drought-adaptive traits have been used in breeding to accumulate complementary physiological traits (PT) in selected progeny, resulting in distribution of advanced lines to rain-fed environments worldwide by the International Maize and Wheat Improvement Center (CIMMYT). Key steps in PT breeding at CIMMYT include characterisation of crossing block lines for stress adaptive mechanisms, strategic crossing among parents that encompass as many target traits as possible and early generation selection (EGS) of bulks for canopy temperature (CT). The approach has been successful using both elite × elite crosses as well as three way crosses involving stress adapted landraces. Other EGS techniques that are amenable to high throughput include measurement of spectral reflectance indices and stomatal aperture-related traits. Their genetic- and cost-effectiveness are supported by realisation of genetic yield gains in response to trait selection, and by economic analysis, respectively. Continual reselection within restricted gene pools is likely to lead to diminishing returns, however, exotic parents can be used to introduce new allelic diversity. Examples include landraces from the primary gene pool, and products of inter-specific hybridisation with the secondary gene pool consisting of closely related wheat genomes. Both approaches have been successful in introducing stress-adaptive traits. The main problem with knowing which genetic resource to use in wide-crossing is the uncertainty with which phenotypic expression can be extrapolated from one genome/genepool to another because of their unimproved or undomesticated genetic backgrounds. Nonetheless, their PT expression can be measured and used as a basis for investing in crossing or wide crossing. Discovering the genetic basis of PT is highly complex because putative QTLs may interact with environment and genetic background, including genes of major effect. Detection of QTLs was improved in mapping populations where flowering time was controlled, while new mapping populations have been designed by screening potential parents that do not contrast in the Rht, Ppd and Vrn alleles. Association genetics mapping is another approach that can be employed for gene discovery using exclusively agronomically improved material, thereby minimising the probability of identifying yield QTLs whose alleles have been already improved by conventional breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2742",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2742"
+}}

@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Soil carbon stocks in conservation agriculture systems of Southern Africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:36Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "residues",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil fertility",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7170",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "carbon sequestration",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331583",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.661,
+            "value": "mouldboard ploughs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25695"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6839
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7605
+            ],
+            "value": "soil",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "southern africa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7265"
+        }
+    ],
+    "description": {
+        "value": "In view of the importance of soil carbon (C) and the scarce data on how conservation agriculture might influence its accumulation in Southern Africa this study presents data from 125 on-farm validation trials across 23 sites in Malawi, Mozambique, Zambia and Zimbabwe. These validation trials are paired plot comparisons of conventional agricultural practice and conservation agriculture that had been established between 2004 and 2009. Traditional cropping systems vary across the study area although they all are tillage based and maize is the main crop grown. The treatments proposed on the validations trials reflect this variability in conventional practice and propose an adapted conservation agriculture option. The sites are thus grouped into four specific treatment comparisons. Bulk density and soil C concentrations were measured from samples collected at four depth layers (0\u201310 cm, 10\u201320 cm, 20\u201330 cm and 30\u2013 60 cm), thereafter C stocks were calculated. On the basis of the stover biomass harvest C inputs were assessed. No consistent differences in bulk density and soil C concentrations were found. Carbon stocks were found to be positively influenced by conservation agriculture only when a mouldboard ploughed maize-legume rotation was compared to a direct seeded maize legume rotation (with residue retention). Even when increases were significantly greater under conservation agriculture the order of magnitude was small (2 Mg ha1). Limited C inputs, ranging between 0.1 and 1 g C kg1 soil yr1, are likely to be the major bottleneck for C increase. These results, based on on-farm validation trials indicate that there is a limited potential for conservation agriculture to significantly increase soil C stocks after up to 7 years of conservation agriculture practices, in the studied systems.",
+        "lang": "eng"
+    },
+    "appid": "10883_4031",
+    "language": {
+        "value": "eng",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4031"
+}}

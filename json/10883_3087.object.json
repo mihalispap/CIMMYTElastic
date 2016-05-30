@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "How yield relates to ash content, Delta 13C and Delta18O in maize grown under different water regimes",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:35Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "ash content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_665",
+                "http://aims.fao.org/aos/agrovoc/c_665",
+                "http://aims.fao.org/aos/agrovoc/c_665",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6061,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Background and Aims: Stable isotopes have proved a valuable phenotyping tool when breeding for yield potential and drought adaptation; however, the cost and technical skills involved in isotope analysis limit its large-scale application in breeding programmes. This is particularly so for Delta 18O despite the potential relevance of this trait in C4 crops. The accumulation of minerals (measured as ash content) has been proposed as an inexpensive way to evaluate drought adaptation and yield in C3 cereals, but little is known of the usefulness of this measure in C4 cereals such as maize (Zea mays). The present study investigates how yield relates to ash content, Delta 13C and Delta 18O, and evaluates the use of ash content as an alternative or complementary criterion to stable isotopes in assessing yield potential and drought resistance in maize. Methods: A set of tropical maize hybrids developed by CIMMYT were subjected to different water availabilities, in order to induce water stress during the reproductive stages under field conditions. Ash content and Delta 13C were determined in leaves and kernels. In addition, Delta 18O was measured in kernels. Key Results: Water regime significantly affected yield, ash content and stable isotopes. The results revealed a close relationship between ash content in leaves and the traits informing about plant water status. Ash content in kernels appeared to reflect differences in sink?source balance. Genotypic variation in grain yield was mainly explained by the combination of ash content and Delta 18O, whilst Delta 13C did not explain a significant percentage of such variation. Conclusions: Ash content in leaves and kernels proved a useful alternative or complementary criterion to Delta 18O in kernels for assessing yield performance in maize grown under drought conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_3087",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3087"
+}}

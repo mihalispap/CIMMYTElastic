@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "Progress in host plant resistance in wheat to Russian wheat aphid (Hemiptera: Aphididae) in North Africa and West Asia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:43Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "biotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16166",
+                "http://aims.fao.org/aos/agrovoc/c_16166",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7278,
+                1,
+                ""
+            ],
+            "value": "diuraphis noxia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30772",
+                "http://aims.fao.org/aos/agrovoc/c_30772",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6499
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.939
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Russian wheat aphid (RWA), Diuraphis noxia (Kurdjumov), is an important pest of wheat and barley in several countries of North Africa and West Asia, e.g., Morocco, Algeria, Tunisia, Ethiopia, Yemen, Turkey and Iran. Host plant resistance is the most economical and practical means of controlling this insect. Field and greenhouse screening of introduced and local wheat germplasm at ICARDA resulted in the identification of several sources of resistance which were subsequently incorporated into ICARDA elite wheat germplasm and distributed as RWA gene pool to NARS (National Agricultural Research Systems) in affected countries. Crosses were initiated in 1998 to introgress resistance into winter/facultative bread wheat and the segregating populations were evaluated for RWA resistance and agronomic performance at the ICARDA Experiment Station at Tel Hadya.  Selected advanced lines were sent to North African, and West Asian countries for evaluation of RWA and disease resistance and agronomic adaptation under local conditions. Additional identified sources of RWA resistance are now in use in the ICARDA wheat breeding program. Haplotype analysis using molecular markers previously identified as diagnostic for Dn resistance genes revealed that some recently identified resistance sources are unrelated to previously described Dn1-Dn9 genes, and may represent new genes for deployment in RWA breeding. These apparent novel resistance gene(s) could be effective against some of the more virulent biotypes and could be deployed in breeding programs to increase the diversity of available genetic resistances. The reaction of wheat differentials containing different Dn genes indicates that the Syrian RWA biotype is less virulent than US RWA2 biotype.",
+        "lang": "eng"
+    },
+    "appid": "10883_2838",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2838"
+}}

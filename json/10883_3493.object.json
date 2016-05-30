@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Data analysis in the CIMMYT applied biotechnology center: For fingerprinting and genetic diversity studies",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-13T00:46:12Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "biotechnology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "data collection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2128",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "data analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mathematical and statistical methods",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "statistical methods",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7377"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3493",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3493"
+}}

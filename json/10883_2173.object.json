@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "A meta-analysis of community-based studies on quality protein maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "impact assessment",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37938",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "biofortification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "meta-analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bootstrap",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality protein maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9024
+            ],
+            "value": "undernutrition",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4543"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Biofortification, or the improvement of nutritional quality in food crops, is a promising strategy to combat undernutrition, particularly among the rural poor in developing countries. However, traditional methods of impact assessment are inadequate for biofortified crops, as they do not consider their nutritional benefits. Evidence for the nutritional impact of maize varieties with improved protein quality, collectively known as quality protein maize (QPM), was evaluated using meta-analysis of randomized, controlled studies in target communities. A new and generalizable effect size was proposed to quantify the impact of QPM on a key outcome, child growth. The results indicated that consumption of QPM instead of conventional maize leads to a 12% (95% CI: 7?18%) increase in the rate of growth in weight and a 9% (95% CI: 6?15%) increase in the rate of growth in height in infants and young children with mild to moderate undernutrition from populations in which maize is the major staple food. The proposed effect size and use of bootstrapping to determine statistical significance addressed some methodological limitations in the existing studies.",
+        "lang": "eng"
+    },
+    "appid": "10883_2173",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2173"
+}}

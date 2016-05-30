@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Identification of a microsatellite on chromosome 7B showing a strong linkage with yellow pigment in durum wheat (Triticum turgidum L. var. durum)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:01Z",
+    "created": "2013-06-07T21:11:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1598",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "chromatography",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1594",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "grain crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3348",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quality",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environmental factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2594",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2389",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2389"
+}}

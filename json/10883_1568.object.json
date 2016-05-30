@@ -3,7 +3,7 @@
         "value": "Conservation agriculture in maize- and wheat-based systems in the (Sub)tropics: Lessons from adaptation initiatives in South Asia, Mexico, and Southern Africa",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:38Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-06-05T15:45:45Z",
     "subject": [
         {
@@ -42,49 +42,16 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
-                "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
-                0.9946,
-                0.9946,
-                0.9946,
                 1,
                 ""
             ],
             "value": "smallholders",
             "uri": [
                 "http://aims.fao.org/aos/agrovoc/c_14343",
-                "http://aims.fao.org/aos/agrovoc/c_14343",
-                "http://aims.fao.org/aos/agrovoc/c_14343",
-                "http://aims.fao.org/aos/agrovoc/c_14343",
                 ""
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                0.9525
-            ],
-            "value": "maize",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_12332"
             ]
         },
         {
@@ -122,15 +89,21 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 0.9978,
+            "value": "tropics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7979"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 0.8678,
             "value": "southern africa",
             "uri": "http://aims.fao.org/aos/agrovoc/c_7265"
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.9978,
-            "value": "tropics",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7979"
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
         },
         {
             "vocabulary": "agrovoc",

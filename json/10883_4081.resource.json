@@ -1,0 +1,215 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nepal",
+            "uri": [
+                "http://sws.geonames.org/1282988",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2014-10-09T17:06:30Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_4081",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4081"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4081"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4081",
+    "creator": [
+        {
+            "id": 299334255,
+            "value": "Verhulst, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/299334255"
+        },
+        {
+            "id": 1624501644,
+            "value": "Mulvaney, M.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1624501644"
+        },
+        {
+            "id": 1671760388,
+            "value": "Cox, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1671760388"
+        },
+        {
+            "id": 178999255,
+            "value": "Van Loon, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/178999255"
+        },
+        {
+            "id": 934860094,
+            "value": "Nichols, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/934860094"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/1/99448.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1438767
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/2/license_rdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1536
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/3/99448.pdf.jpg",
+                "label": "",
+                "type": "application/rdf+xml; charset=utf-8",
+                "size": 3133
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/4/99448.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/1/99448.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/2/license_rdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/3/99448.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4081/4/99448.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4081"
+        }
+    },
+    "extent": "",
+    "page": "iv, 43 p.",
+    "coverage": [
+        "India",
+        "India",
+        "Nepal",
+        "Ethiopia",
+        "South Asia",
+        "South Asia",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

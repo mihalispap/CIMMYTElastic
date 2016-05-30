@@ -17,14 +17,14 @@
                 "",
                 "",
                 "",
-                0.665
+                0.9313
             ],
-            "value": "genes",
+            "value": "mutants",
             "uri": [
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_3214"
+                "http://aims.fao.org/aos/agrovoc/c_5013"
             ]
         },
         {
@@ -38,15 +38,21 @@
                 "",
                 "",
                 "",
-                0.9313
+                0.665
             ],
-            "value": "mutants",
+            "value": "genes",
             "uri": [
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_5013"
+                "http://aims.fao.org/aos/agrovoc/c_3214"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
         }
     ],
     "description": {

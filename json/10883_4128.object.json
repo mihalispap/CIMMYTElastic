@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "The phenotypic data for gray leaf spot",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:34Z",
+    "created": "2014-12-09T23:25:00Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6483
+            ],
+            "value": "data",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49816"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6241,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "leaf spots",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12119"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6016,
+            "value": "zimbabwe",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8516"
+        }
+    ],
+    "description": {
+        "value": "The phenotypic data for gray leaf spot (GLS) in three environments (Mexico, Zimbabwe, and Colombia) for the 278 maize lines, the 46,347 SNPs data and the R scripts developed to fit the predictive models used in this study are given in the GLScode.rar file deposited at CIMMYT institutional repository.",
+        "lang": "eng"
+    },
+    "appid": "10883_4128",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4128"
+}}

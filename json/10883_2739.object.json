@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping for adult-plant resistance to stripe rust in Italian common wheat cultivars Libellula and Strampelli",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "common wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7624,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "Italian common wheat cultivars Libellula and Strampelli, grown for over three decades in Gansu province of China, have shown effective resistance to stripe rust. To elucidate the genetic basis of the resistance, F3 populations were developed from crosses between the two cultivars and susceptible Chinese wheat cultivar Huixianhong. The F3 lines were evaluated for disease severity in Beijing, Gansu and Sichuan from 2005 to 2008. Joint- and single-environment analyses by composite interval mapping identified five quantitative trait loci (QTLs) in Libellula for reduced stripe rust severity, designated QYr.caas-2DS, QYr.caas-4BL, QYr.caas-5BL.1, QYr.caas-5BL.2 and QYr.caas-7DS, and explained 8.1?12.4, 3.6?5.1, 3.4?8.6, 2.6 and 14.6?35.0%, respectively, of the phenotypic variance across four environments. Six interactions between different pairs of QTLs explained 3.2?7.1% of the phenotypic variance. The QTLs QYr.caas-4BL, QYr.caas-5BL.1 and QYr.caas-7DS were also detected in Strampelli, explaining 4.5, 2.9?5.5 and 17.1?39.1% of phenotypic variance, respectively, across five environments. Three interactions between different pairs of QTLs accounted for 6.1?35.0% of the phenotypic variance. The QTL QYr.caas-7DS flanked by markers csLV34 and Xgwm295 showed the largest effect for resistance to stripe rust. Sequence analyses confirmed that the lines with the QYr.caas-7DS allele for resistance carried the resistance allele of the Yr18/Lr34 gene. Our results indicated that the adult-plant resistance gene Yr18 and several minor genes confer effective durable resistance to stripe rust in Libellula and Strampelli.",
+        "lang": "eng"
+    },
+    "appid": "10883_2739",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2739"
+}}

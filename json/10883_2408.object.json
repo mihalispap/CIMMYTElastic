@@ -1,0 +1,174 @@
+{"object": {
+    "title": {
+        "value": "Epidemiology of foliar blights (spot blotch and tan spot) of wheat in the plains bordering the Himalayas",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:01Z",
+    "created": "2013-06-07T21:11:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3225",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "helminthosporium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3548",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "weed control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8345",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fungicides",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "seedlings",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6945",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.72,
+            "value": "epidemiology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2615"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blotches",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_973"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9021,
+            "value": "blight",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_957"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.842
+            ],
+            "value": "spots",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7329"
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2408",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2408"
+}}

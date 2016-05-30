@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Simulation-based analysis of effects of Vrn and Ppd loci on flowering in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:16Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "vernalization",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16059"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6279
+            ],
+            "value": "calibration",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_36549"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7608
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        }
+    ],
+    "description": {
+        "value": "Cereal production is strongly influenced by flowering date. Wheat (Triticum aestivum L.) models simulate days to flower by assuming that development is modified by vernalization and photoperiodism. Cultivar differences are parameterized by vernalization requirement, photoperiod sensitivity, and earliness per se. The parameters are usually estimated by comparing simulations with field observations but appear estimable from genetic information. For wheat, the Vrn and Ppd loci, which affect vernalization and photoperiodism, were logical candidates for estimating parameters in the model CSM-Cropsim-CERES. Two parameters were estimated conventionally and then re-estimated with linear effects of Vrn and Ppd. Flowering data were obtained for 29 cultivars from international nurseries and divided into calibration (14 locations) and evaluation (34 locations) sets. Simulations with a generic cultivar explained 95% of variation in flowering for calibration data (10 d RMSE) and 89% for evaluation data (10 d RMSE), indicating the large effect of environment. Nonetheless, for the calibration data, the gene-based model explained 29% of remaining variation, and the conventional model, 54%. For the evaluation data, the gene-based model explained 17% of remaining variation, and the conventional model, 27%. Gene-based prediction of wheat phenology appears feasible, but more extensive genetic characterization of cultivars is needed",
+        "lang": "eng"
+    },
+    "appid": "10883_2646",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2646"
+}}

@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "META-SAS: A Suite of SAS Programs to Analyze Multienvironment",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -51,7 +51,7 @@
     ],
     "description": {
         "value": "Multienvironment trials (METs) enable the evaluation of the same genotypes under a variety of environments and management\nconditions. We present META (Multi Environment Trial Analysis), a suite of 31 SAS programs that analyze METs with\ncomplete or incomplete block designs, with or without adjustment by a covariate. The entire program is run through a graphical\nuser interface. The program can produce boxplots or histograms for all traits, as well as univariate statistics. It also calculates\nbest linear unbiased estimators (BLUEs) and best linear unbiased predictors for the main response variable and BLUEs for all\nother traits. For all traits, it calculates variance components by restricted maximum likelihood, least significant difference,\ncoefficient of variation, and broad-sense heritability using PROC MIXED. The program can analyze each location separately,\ncombine the analysis by management conditions, or combine all locations. The flexibility and simplicity of use of this program\nmakes it a valuable tool for analyzing METs in breeding and agronomy. The META program can be used by any researcher who\nknows only a few fundamental principles of SAS.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10217",
     "language": {

@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Standard Material Transfer Agreement",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2015-08-10T20:58:52Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant genetic",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "food",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agriculture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "plant genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49985"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "foods",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3032"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "material transfer agreement",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331333"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4394",
+    "language": {
+        "value": "English (United States)",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4394"
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping for adult plant resistance to powdery mildew in Italian wheat cv. Strampelli",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-12-09T20:48:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssr markers; blumeria graminis; durable resistance; triticum aestivum l",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "powdery mildews",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_13557"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blumeria graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27196"
+        }
+    ],
+    "description": {
+        "value": "The Italian wheat cv. Strampelli displays high resistance to powdery mildew caused by Blumeria graminis f. sp. tritici. The objective of this study was to map quantitative trait loci (QTLs) for resistance to powdery mildew in a population of 249 F2:3 lines from Strampelli/Huixianhong. Adult plant powdery mildew tests were conducted over 2 yr in Beijing and 1 yr in Anyang and simple sequence repeat (SSR) markers were used for genotyping. QTLs Qpm.caas-3BS, Qpm.caas-5BL.1, and Qpm.caas-7DS were consistent across environments whereas, Qpm.caas-2BS.1 found in two environments, explained 0.4?1.6, 5.5?6.9, 27.1?34.5, and 1.0?3.5% of the phenotypic variation respectively. Qpm.caas-7DS corresponded to the genomic location of Pm38/Lr34/Yr18. Qpm.caas-4BL was identified in Anyang 2010 and Beijing 2011, accounting for 1.9?3.5% of phenotypic variation. Qpm.caas-2BS.1 and Qpm.caas-5BL.1 contributed by Strampelli and Qpm.caas-3BS by Huixianhong, seem to be new QTL for powdery mildew resistance. Qpm.caas-4BL, Qpm.caas-5BL.3, and Qpm.caas-7DS contributed by Strampelli appeared to be in the same genomic regions as those mapped previously for stripe rust resistance in the same population, indicating that these loci conferred resistance to both stripe rust and powdery mildew. Strampelli could be a valuable genetic resource for improving durable resistance to both powdery mildew and stripe rust in wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_3375",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3375"
+}}

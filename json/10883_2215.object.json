@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Welfare impacts of maize-pigeonpea intensification in Tanzania",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:47Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bivariate probit",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "double hurdle",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pigeonpea",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "propensity score matching",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "switching regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tanzania",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "This article examines the driving forces behind farmers' decisions to adopt improved pigeonpea and maize and estimates the causal impact of technology adoption on household welfare using data obtained from a random cross-section sample of 613 small-scale farmers in Tanzania. We use seemingly unrelated and recursive bivariate probit regressions to test the endogeneity and joint decision making of pigeonpea?maize production. A double hurdle model is used to analyze the determinants of the intensity of technology adoption conditional on overcoming seed access constraints. To address the impact of adoption on welfare, the article employs both propensity score matching and switching regression techniques. Results from bivariate probit models show that unobservable factors cause both decisions to be correlated but the finding does not support the conjecture that both decisions are made jointly. Overall the analysis of the determinants of adoption identifies inadequate local supply of seed, access to information, human capital, and access to private productive asset as key constraints for pigeonpea technology adoption. The causal impact estimation from both the propensity score matching and switching regression suggests that maize/pigeonpea adoption has a positive and significant impact on income and consumption expenditure among sample households.",
+        "lang": "eng"
+    },
+    "appid": "10883_2215",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2215"
+}}

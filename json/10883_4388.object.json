@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "CGIAR Principles on the Management of Intellectual Assets : (\u201cCGIAR IA Principles\u201d)",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2015-08-10T17:27:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "intellectual assets",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cigiar",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cimmyt",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "management",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9333
+            ],
+            "value": "agreements",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_50153"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stakeholders",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9001020"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "assets",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_677"
+        }
+    ],
+    "description": {
+        "value": "CIMMYT Substantive Agreements Policy defines when while entering into public-public and public-private collaborations and collaboration agreements, inputs & results may not entail international public goods by themselves but will be used to further CIMMYT\u2019s mission, the development and dissemination of international public goods, and for stakeholders in developing countries.",
+        "lang": "eng"
+    },
+    "appid": "10883_4388",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4388"
+}}

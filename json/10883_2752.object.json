@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Rapid separation and characterization of grain water-soluble proteins in bread wheat cultivars (Triticum aestivum L.) by capillary electrophoresis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6024
+            ],
+            "value": "proteins",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6259"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.719
+            ],
+            "value": "buffers",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34931"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Water-soluble (WS) proteins in wheat grain are considered to represent the suite of biologically active enzymes and enzyme inhibitors in the grain. In this study, a rapid capillary electrophoresis (CE) method for WSprotein separations was developed using untreated fused-silica columns and an acidic phosphate-glycine buffer system. In order to optimize the resolution and reproducibility of CE separation, different protein extraction methods, organic modifiers in phosphate-glycine buffer and capillary electrophoresis conditions, including capillary length and inner diameter (ID), operating temperature, performance voltages, sample injection times, etc., were investigated. High resolution and reproducibility of WSproteins were achieved using 20% ethanol as the extracting buffer. The optimal condition to separate these proteins was 50 mm ID x 31.5 cm (26.5 cm to the detector) capillary at 11.0 kV and 35 C. The optimum buffer was 0.1 M phosphate-glycine (pH 2.5) containing 20% acetonitrile (ACN) and 0.05% hydroxylpropylmethylcellulose. Using this method, the WSproteins were well separated in less than 10 min. A total of 120 Chinese bread wheat cultivars were analyzed. The CE patterns of most bread wheat cultivars showed a higher level of polymorphisms compared with SDS-PAGE patterns. All cultivars analyzed could be readily differentiated based on their WSprotein profiles. Results indicate that the WS proteins are useful biochemical markers for wheat genetics and breeding research and CE is expected to become a new and powerful tool for the separation and characterization of grain WSproteins in bread wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2752",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2752"
+}}

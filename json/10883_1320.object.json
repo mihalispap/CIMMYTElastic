@@ -3,7 +3,7 @@
         "value": "Determinants of adoption and spatial diversity of wheat varieties on household farms in Turkey",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:58Z",
+    "updated": "2016-01-22T23:06:10Z",
     "created": "2012-04-18T18:13:30Z",
     "subject": [
         {
@@ -15,14 +15,17 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
                 1,
+                0.7761,
                 ""
             ],
             "value": "varieties",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
                 "http://aims.fao.org/aos/agrovoc/c_8157",
                 ""
             ]

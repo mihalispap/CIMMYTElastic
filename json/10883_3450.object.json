@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "IBFIELDBOOK, an integrated breeding field book for plant breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T17:59:59Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "data analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "information collected",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "large amounts of data",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "methods to exchange information",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "successful software",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "freely available",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "information",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330966"
+        }
+    ],
+    "description": {
+        "value": "The development of an integrated breeding field book (IBFieldbook) for different crops involves the generation, handling and analysis of large amounts of data. Managing the integration of environmental, pedigree, and phenotypic information for plant breeding data analyses requires appropriate and successful software that facilitates breeders, technicians, and researchers management of the vast collected field information in an easy, efficient and interactive way. Users may also need methods to exchange information with different devices used to record information in the field. Additionally, collected information needs to be analyzed inside or outside the application, and then generate reports for germplasm improvement.",
+        "lang": "eng"
+    },
+    "appid": "10883_3450",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3450"
+}}

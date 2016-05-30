@@ -1,0 +1,161 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:29Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3040",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2006",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3040"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3040"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3040",
+    "creator": [
+        {
+            "id": 1521071138,
+            "value": "Wong-Romero, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1521071138"
+        },
+        {
+            "id": 1675151331,
+            "value": "Gutierrez-del-Rio, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1675151331"
+        },
+        {
+            "id": 1840012083,
+            "value": "Rodriguez-Herrera, SA",
+            "type": "person",
+            "uri": "/cimmyt/person/1840012083"
+        },
+        {
+            "id": 1214013356,
+            "value": "Palomo-Gil, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1214013356"
+        },
+        {
+            "id": 8786673,
+            "value": "Cordova, H.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/8786673"
+        },
+        {
+            "id": 1102729039,
+            "value": "Espinoza-Banda, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1102729039"
+        }
+    ],
+    "publisher": {
+        "id": 51357232,
+        "value": "http://www.universidadyciencia.ujat.mx/index.php?ID=24&art=344",
+        "type": "organization",
+        "uri": "/cimmyt/organization/51357232"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3040/1/89765.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 329042
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3040/2/89765.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43050
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3040/3/89765.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6576
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3040/1/89765.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3040/2/89765.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3040/3/89765.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3040"
+        }
+    },
+    "extent": "",
+    "page": "141-151",
+    "coverage": [
+        "Mexico",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

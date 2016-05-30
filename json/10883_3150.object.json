@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Managing genotype x environment interaction in plant breeding programs: A selection theory approach",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6804
+            ],
+            "value": "trials",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2758"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "Two forms of genotype - environment interaction (GEI) are of concern to plant breeders. One consists of fixed GEI associated with predictable environmental, geographical, or management factors that can be used to delineate a target population of environments (TPE) for cultivar development and testing. The other consists of random and unexplained rank changes among trials within the TPE which are not associated with any known factor. These two types of GEI must be managed differently by plant breeding programs; fixed GEI is managed by developing or identifying cultivars with adaptation to the specific fixed factor causing the interaction, while random GEI is a noise stratum that is managed through wide-scale testing that adequately samples environmental variation in the TPE, and through the use of best linear unbiased prediction (BLUP). There is substantial evidence that fixed GEI is of limited importance within well-designed TPE. Management of GEI in cultivar development programs, and the estimation of means from multi-environment trials with appropriate measures of precision (METs) has been hampered by the widespread use of inappropriate models that designate trials or trial locations as fixed effects in the combined analysis of cultivar testing data, resulting in unnecessary division of TPEs, identification of putative patterns of adaptation that are not repeated in subsequent testing, and over-estimation of the precision of entry means in multi-environment trials. Mixed model approaches to testing the relative importance of fixed and random GEI in METs are presented.",
+        "lang": "eng"
+    },
+    "appid": "10883_3150",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3150"
+}}

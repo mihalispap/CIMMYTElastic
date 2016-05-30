@@ -1,0 +1,159 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kazakhstan",
+            "uri": [
+                "http://sws.geonames.org/1522867",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kazakhstan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Asia",
+            "uri": [
+                "http://sws.geonames.org/7729893",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:29Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2073",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2000",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2073"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2073"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2073",
+    "creator": [
+        {
+            "id": 553326098,
+            "value": "Meng, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/553326098"
+        },
+        {
+            "id": 746096003,
+            "value": "Longmire, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/746096003"
+        },
+        {
+            "id": 1495619886,
+            "value": "Moldashev, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1495619886"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2073/1/74517.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1345602
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2073/2/74517.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 17
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2073/3/74517.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6106
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2073/1/74517.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2073/2/74517.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2073/3/74517.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2073"
+        }
+    },
+    "extent": "",
+    "page": "701-717",
+    "coverage": [
+        "Kazakhstan",
+        "Central Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

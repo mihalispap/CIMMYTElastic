@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "The Dafna Project",
+        "lang": ""
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-03-02T15:42:28Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "development",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331049",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "health",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ghana",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3253"
+        }
+    ],
+    "description": {
+        "value": "Video discussing a program for improving and researching health issues in Ghana. Introduction of birth control information to the population.",
+        "lang": "eng"
+    },
+    "appid": "10883_4730",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4730"
+}}

@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Isolation of differentially expressed genes from wheat cultivars Jinan 17 and Yumai 34 with good bread quality under heat stress during grain filling stage",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:10Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "common wheat (triticum aestivum l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain filling period",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "heat stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cdna-aflp",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gene expression",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27527",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "grain filling",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_26785"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "aflp",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331160"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6653,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2612",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2612"
+}}

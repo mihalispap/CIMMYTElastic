@@ -77,71 +77,23 @@
         }
     ],
     "publisher": {
-        "id": 1987940897,
-        "value": "CIMMYT",
+        "id": 1151192883,
+        "value": "International Maize and Wheat Improvement Center",
         "type": "organization",
-        "uri": "/cimmyt/organization/1987940897"
+        "uri": "/cimmyt/organization/1151192883"
     },
     "aggregation": {
-        "linkToResource": [
-            {
-                "category": "",
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/Data.Trigo.RDATa?fileId=2662",
-                "label": "Data.Trigo.RDATa",
-                "type": "",
-                "size": ""
-            },
-            {
-                "category": "",
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/G.Trigo.RDATa?fileId=2660",
-                "label": "G.Trigo.RDATa",
-                "type": "",
-                "size": ""
-            },
-            {
-                "category": "",
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/G.Maize.RData?fileId=2659",
-                "label": "G.Maize.RData",
-                "type": "",
-                "size": ""
-            },
-            {
-                "category": "",
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/BMTME.zip?fileId=2663",
-                "label": "BMTME.zip",
-                "type": "",
-                "size": ""
-            },
-            {
-                "category": "",
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/Data.Maize.RDATa?fileId=2661",
-                "label": "Data.Maize.RDATa",
-                "type": "",
-                "size": ""
-            }
-        ],
-        "shownBy": [
-            {
-                "broken": false,
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/Data.Trigo.RDATa?fileId=2662"
-            },
-            {
-                "broken": false,
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/G.Trigo.RDATa?fileId=2660"
-            },
-            {
-                "broken": false,
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/G.Maize.RData?fileId=2659"
-            },
-            {
-                "broken": false,
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/BMTME.zip?fileId=2663"
-            },
-            {
-                "broken": false,
-                "value": "http://23.253.100.239/dvn/dv/cimmytswdvn/FileDownload/Data.Maize.RDATa?fileId=2661"
-            }
-        ],
+        "linkToResource": {
+            "category": "",
+            "value": "",
+            "label": "",
+            "type": "",
+            "size": ""
+        },
+        "shownBy": {
+            "broken": "",
+            "value": ""
+        },
         "shownAt": {
             "broken": false,
             "value": "http://data.cimmyt.org/dvn/study?globalId=hdl:11529/10646"

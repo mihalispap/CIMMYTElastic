@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Soluble peroxidase activity in maize endosperm associated with maize weevil resistance",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8007
+            ],
+            "value": "endosperm",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2561"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9489
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8095
+            ],
+            "value": "peroxidases",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_13251"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7133,
+            "value": "sitophilus zeamais",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26683"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "weevils",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30063"
+        }
+    ],
+    "description": {
+        "value": "Plant peroxidases (PODs) are involved in resistance to pathogens and insects. This study investigated the role of POD in maize (Zea mays L.) resistance to the maize weevil, Sitophilus zeamais (Motsch.). Insect bioassays were performed under controlled conditions to assess maize weevil resistance. Peroxidase activity was measured in the major grain tissues using guaiacol and peroxide. Signifi cant variation (P > 0.001) among genotypes was observed in both the insect bioassay traits and POD activity. Peroxidase was detected in the embryo, endosperm, and pedicel, but it was not detected in the pericarp. Signifi cant correlations were found between endosperm POD activity and maize weevil resistance (r = 0.89, P < 0.001). Histological staining confi rmed POD activity in the vascular cylinder of the embryo, while activity in the endosperm was restricted to the aleurone layer. This study shows that POD activity is correlated with maize weevil resistance and may be used as a potential biochemical marker.",
+        "lang": "eng"
+    },
+    "appid": "10883_3046",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3046"
+}}

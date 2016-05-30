@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Genetic differentiation of the wheat leaf rust fungus Puccinia triticina in Europe",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "brown rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lr resistance genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simple sequence repeat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "specific virulence",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8854
+            ],
+            "value": "virulence",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8261"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simple sequence repeats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        }
+    ],
+    "description": {
+        "value": "The objective of this study was to determine whether genetically differentiated groups of Puccinia triticina are present in Europe. In total, 133 isolates of P. triticina collected from western Europe, central Europe and Turkey were tested for virulence on 20 lines of wheat with single leaf rust resistance genes, and for molecular genotypes with 23 simple sequence repeat (SSR) markers. After removal of isolates with identical virulence and SSR genotype within countries, 121 isolates were retained for further analysis. Isolates were grouped based on SSR genotypes using a Bayesian approach and a genetic distance method. Both methods optimally placed the isolates into eight European (EU) groups of P. triticina SSR genotypes. Seven of the groups had virulence characteristics of isolates collected from common hexaploid wheat, and one of the groups had virulence characteristics of isolates from tetraploid durum wheat. There was a significant correlation between the SSR genotypes and virulence phenotypes of the isolates. All EU groups had observed values of heterozygosity greater than expected and significant fixation values, which indicated the clonal reproduction of urediniospores in the overall population. Linkage disequilibria for SSR genotypes were high across the entire population and within countries. The overall values of RST and FST were lower when isolates were grouped by country, which indicated the migration of isolates within Europe. The European population of P. triticina had higher levels of genetic differentiation compared to other continental populations.",
+        "lang": "eng"
+    },
+    "appid": "10883_2913",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2913"
+}}

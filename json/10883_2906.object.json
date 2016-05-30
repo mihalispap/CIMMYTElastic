@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Prevalence of Puroindoline D1 and Puroindoline b-2 variants in U.S. Pacific Northwest wheat breeding germplasm pools, and their association with kernel texture",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:52Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6313
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6401
+            ],
+            "value": "texture",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_15578"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7984
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6295
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "kernels",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25387"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8319,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        }
+    ],
+    "description": {
+        "value": "Kernel texture is a major factor influencing the classification and end use properties of wheat (Triticum aestivum L.), and is mainly controlled by the Puroindoline a (Pina) and Puroindoline b (Pinb) genes. Recently, a new puroindoline gene, Puroindoline b-2 (Pin b-2), was identified. In this study, 388 wheat cultivars and advanced breeding lines from the U.S. Pacific Northwest were investigated for frequencies of Puroindoline D1 alleles and Pinb-2 variants 2 and 3. Results indicated that Pinb?D1b (74.0%) was the predominant genotype among hard wheats (N = 196), the only other hard allele encountered was Pina-D1b (26.0%). Across all varieties, Pinb-2v3 was the predominant genotype (84.5%) compared with Pinb-2v2 (15.5%). However, among 240 winter wheat varieties (124 soft white, 15 club, 68 hard red and 33 hard white varieties), all carried Pinb-2v3. Among spring wheats, Pinb-2v2 and Pinb-2v3 frequencies were more variable (soft white 25.0:75.0, hard red 58.2:41.8 and hard white 40.0:60.0, respectively). Kernel texture variation was analyzed using 247 of the 388 wheat varieties grown in multi-location factorial trials in up to 7 crop years. The range of variety means among the four groups, soft winter, soft spring, hard winter and hard spring, was on the order of 15?25 single kernel characterization system (SKCS) Hardness Index. The least significant difference for each of these trials ranged from 2.8 to 5.6 SKCS Hardness Index. Observations lead to the conclusion that Pinb-2 variants do not exert a prominent effect on kernel texture, however, Pinb?2 variants do identify features of wheat germ plasm structure in the U.S. Pacific Northwest.",
+        "lang": "eng"
+    },
+    "appid": "10883_2906",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2906"
+}}

@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "The importance of crop rotations",
+        "lang": "eng"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2015-04-21T17:42:15Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1972",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "conservation tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33445",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rotations",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4252",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4252"
+}}

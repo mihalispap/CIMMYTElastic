@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Characterization of Overexpressed Bx7 gene (Bx7OE) in Chinese and CIMMYT wheats by STS markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rp-hplc",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sts marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7359
+            ],
+            "value": "hplc",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24469"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pcr",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34079"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.76
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8104,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Over-expression of the high molecular weight glutenin subunit (HMW-GS) Bx7 is highly associated with dough strength of wheat (Triticum aestivum L.) flour. A total of 163 Chinese and CIMMYT wheat cultivars and advanced lines were tested by two STS markers and RP-HPLC to understand the presence of HMW-GS gene Bx7OE. The results indicated that the markers TaBAC1215C06-F517/R964 and TaBAC1215C06-F24671/R25515 could amplify a 447 bp and a 844 bp PCR fragments, respectively, in the lines with Bx7OE, whereas no PCR products were detected in the lines without Bx7OE. Of the 163 cultivars and lines, specific PCR fragments were amplified in 11 genotypes by the two markers, indicating the presence of Bx7OE in these lines, with a frequency of 6.7%. The results obtained by RP-HPLC were consistent with those revealed by STS markers. These two STS markers could be used to detect the presence of Bx7OE gene in wheat cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_2709",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2709"
+}}

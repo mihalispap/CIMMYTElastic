@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Quantifying genetic effects of ground cover on soil water evaporation using digital imaging",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:39Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "digital ground cover",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "early vigour",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf area index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "normalised difference vegetation index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7857
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "evaporation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2739"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8676
+            ],
+            "value": "genetic differences",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_15975"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Rapid development of leaf area and/or aboveground biomass has the potential to improve water harvest of rain fed wheat in Mediterranean-type environments through reduced soil evaporation. However, quantitative relationships between genetic differences in early ground cover and soil water evaporation have not been established. Furthermore, accurate phenotyping of ground cover and early vigour have typically been achieved via destructive sampling methods, which are too time-consuming to undertake within breeding programs. Digital image analysis has previously been identified as an alternative indirect method of analysis, whereby computer analysis is ued to determine percentage ground cover. This study uses a digital ground cover (DGC) analysis tool for high throughput screening of four large wheat populations. The DGC methodology was validated via comparisons with alternative measures of canopy cover, such as normalised difference vegetation index (NDVI) (r2 = 0.69), biomass (r2 = 0.63), leaf area index (r2 = 0.80) and light penetration through the canopy (r2 = 0.70). The wheat populations were utilised to estimate the potential variation in soil evaporation associated with genetic differences in early ground cover, which was validated using established models. Estimates of genetic differences in soil evaporation within the four populations (6.90?24.8 mm) suggest that there is sufficient genetic variation to increase water harvest through targeting faster ground cover. Implications for improved wheat yields and breeding are discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_2811",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2811"
+}}

@@ -72,6 +72,21 @@
         {
             "vocabulary": [
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8566
+            ],
+            "value": "cgiar",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_33462"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
                 "",
                 "",
                 "agrovoc"
@@ -91,27 +106,6 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 0.6782,
-            "value": "consultative group on international agricultural research",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_33462"
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.8566
-            ],
-            "value": "cgiar",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_33462"
-            ]
-        },
-        {
             "vocabulary": [
                 "",
                 "",
@@ -128,6 +122,12 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8373"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6782,
+            "value": "consultative group on international agricultural research",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33462"
         }
     ],
     "description": {

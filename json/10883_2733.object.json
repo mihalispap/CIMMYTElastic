@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Influence of high molecular weight Glutenins on Viscoelastic properties of intact wheat Kernel and relation to functional properties of wheat dough",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8332
+            ],
+            "value": "doughs",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_26776"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "kernels",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25387"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7758
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        }
+    ],
+    "description": {
+        "value": "High and low molecular weight glutenin subunits (HMW-GS and LMW-GS, respectively) are the main factors determining the viscoelastic properties of wheat dough. The mechanical and viscoelastic properties of 29 samples of wheat kernels differing in HMW-GS were evaluated with load-compression tests. Samples were grouped by genotypes differing in HMW-GS composition (allelic variants: Glu-A1: null, 1, 2*; Glu-B1: 7, 7+8, 7+9, 13+16, and 17+18; Glu-D1: 5+10, 2+12). Groups representing Glu-A1 1 and 2*; Glu-B1 7, 7+9 and 17+18; and Glu-D1 5+10 generally possessed hard grain and showed the largest kernel elasticity values, while those representing subunits Glu-A1 null; Glu-B1 7+8; and Glu-D1 2+12 had soft kernels and showed lower elastic work values. Genotypes possessing HMW-GS 1, 17+18 and 5+10 gave large SDS-sedimentation values and better dough viscoelastic properties than those with allelels: null, 7+8, and 2+12. Kernel hardness showed significant correlation with the dough-strength-related parameters: SDS-sedimentation; dough mixing time; and the alveographic parameters, W and P. There was a negative correlation between kernel plastic work and dough mixing time and the dough tenacity/extensibility parameters, P/L. The significant relationship between sedimentation tests and kernel elastic work seems to indicate that elastic work is related to genotype (protein composition). The general tendency was that higher values in kernel elastic work and size corresponded to better dough rheological quality. Mechanical properties of the kernel were significantly related to the elastic behavior measured in a single wheat kernel. The use of the compression test on individual kernels is easy, rapid and nondestructive and therefore seems to show potential use as a rapid tool in breeding to improve wheat quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_2733",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2733"
+}}

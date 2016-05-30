@@ -1,0 +1,204 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-25T02:37:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3302",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3302"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3302"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3302",
+    "creator": [
+        {
+            "id": 166519627,
+            "value": "Lopes, M.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/166519627"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        },
+        {
+            "id": 1946121324,
+            "value": "McIntyre, C.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1946121324"
+        },
+        {
+            "id": 910348402,
+            "value": "Mathews, K.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/910348402"
+        },
+        {
+            "id": 1635171672,
+            "value": "Jalal Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1635171672"
+        },
+        {
+            "id": 596462918,
+            "value": "Mossad, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/596462918"
+        },
+        {
+            "id": 822184028,
+            "value": "Feltaous, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/822184028"
+        },
+        {
+            "id": 645215643,
+            "value": "Tahir, I.S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/645215643"
+        },
+        {
+            "id": 1484764523,
+            "value": "Chatrath, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1484764523"
+        },
+        {
+            "id": 711442592,
+            "value": "Ogbonnaya, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/711442592"
+        },
+        {
+            "id": 1593472596,
+            "value": "Baum, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1593472596"
+        }
+    ],
+    "publisher": {
+        "id": 342063258,
+        "value": "http://link.springer.com/article/10.1007/s00122-012-2030-4",
+        "type": "organization",
+        "uri": "/cimmyt/organization/342063258"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3302/1/98014.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 61542
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3302/4/98014.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5947
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3302/5/98014.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 351450
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3302/1/98014.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3302/4/98014.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3302/5/98014.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3302"
+        }
+    },
+    "extent": "",
+    "page": "971-984",
+    "coverage": [
+        "Mexico",
+        "West Asia",
+        "North Africa",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

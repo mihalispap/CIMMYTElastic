@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Relative importance of general combining ability and specific combining ability among tropical maize (zea mays l.) inbreds under contrasting nitrogen environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diallel",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gca",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "general combining ability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inbred lines",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environments",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "specific combining ability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7255
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6242
+            ],
+            "value": "genetic variation",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_15975"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Low-N stress is among the major abiotic stresses causing yield reductions in maize grown in the mid-altitude tropical environments of Africa. This study estimates the relative importance of general combining ability (GCA) and specific combining ability (SCA) in CIMMYT's tropical mid-altitude inbred lines under contrasting N environments. Six hundred and thirty five lines (S2-S7) were evaluated in different crossing designs (Diallels, North Carolina Design II and Line x Tester crosses). Results of experiments conducted under low and high N at the same site in adjacent fields with the same soil type within the same year and season from 1999-2003 were compared. The contribution of GCA to total genetic variation was higher than SCA for anthesis date, ear height and plant height under both high and low N levels. However, contribution of GCA was higher for grain yield only under high-N conditions. The average relative contribution of SCA, indicative of non-additive gene effects, to total genetic variation for grain yield under low-N accounted for 51% (average across all trials) but only for 36% under high-N. Pair-wise t-test for diallels and Design IIs showed significant difference (P<0.05) between the proportion of SCA sum of squares for grain yield under high and low N conditions. This implies that breeding strategies that increase grain yield under optimal (high N) conditions will not address the needs of a resource poor farmer producing maize under low N conditions, especially in sub-Saharan Africa. Targeted strategies that increase yield under low N conditions are thus required.",
+        "lang": "eng"
+    },
+    "appid": "10883_3086",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3086"
+}}

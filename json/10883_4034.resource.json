@@ -1,0 +1,257 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "North America",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+            ]
+        }
+    ],
+    "updatedDate": "2014-06-18T22:59:07Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Libro Tecnico;No. 7",
+    "appid": "10883_4034",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4034"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4034"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4034",
+    "creator": [
+        {
+            "id": 786937953,
+            "value": "Velez Izquierdo, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/786937953"
+        },
+        {
+            "id": 148755008,
+            "value": "Guevara Hernandez, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/148755008"
+        },
+        {
+            "id": 1705967300,
+            "value": "Gomez Castro, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1705967300"
+        },
+        {
+            "id": 1349593587,
+            "value": "Ovando Cruz, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1349593587"
+        },
+        {
+            "id": 286719450,
+            "value": "Hellin, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/286719450"
+        },
+        {
+            "id": 416298830,
+            "value": "Espinosa Garcia, J.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/416298830"
+        },
+        {
+            "id": 2095098774,
+            "value": "Sonder, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2095098774"
+        },
+        {
+            "id": 764647953,
+            "value": "Rodriguez Larramendi, L.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/764647953"
+        },
+        {
+            "id": 1311130695,
+            "value": "Reyes Muro, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1311130695"
+        },
+        {
+            "id": 2001052969,
+            "value": "Fonseca Flores, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2001052969"
+        },
+        {
+            "id": 342868485,
+            "value": "Ocaña Grajales, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/342868485"
+        },
+        {
+            "id": 903043109,
+            "value": "Borja Bravo, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/903043109"
+        },
+        {
+            "id": 793072940,
+            "value": "Pinto Ruiz, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/793072940"
+        },
+        {
+            "id": 836076951,
+            "value": "Camacho, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/836076951"
+        },
+        {
+            "id": 1118296110,
+            "value": "Beuchelt, T.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1118296110"
+        },
+        {
+            "id": 836651433,
+            "value": "Hernandez Rodriguez, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/836651433"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 2130760527,
+            "value": "INIFAP",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2130760527"
+        },
+        {
+            "id": 1718123237,
+            "value": "SAGARPA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1718123237"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 1331766739,
+            "value": "Centro de Investigacion Regional Norte Centro",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1331766739"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/1/99007.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 10151171
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/5/99007.pdf.txt",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/4/99007.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 10457
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/1/99007.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/5/99007.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4034/4/99007.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4034"
+        }
+    },
+    "extent": "",
+    "page": "vii, 242 p.",
+    "coverage": [
+        "Mexico",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-607-37-0170-9",
+    "quality": "",
+    "place": "Aguascalientes, Ags. (Mexico)",
+    "doi": ""
+}}

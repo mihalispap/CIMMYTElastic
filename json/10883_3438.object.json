@@ -1,0 +1,144 @@
+{"object": {
+    "title": {
+        "value": "Characterization of Chinese wheat germplasm for resistance to Fusarium head blight at CIMMYT, Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T17:59:54Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8881,
+                0.8881,
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "scab",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "don content",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "anther extrusion",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7212
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6763
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8902,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9086
+            ],
+            "value": "fusarium",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "scabs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6836"
+        }
+    ],
+    "description": {
+        "value": "Fusarium head blight (FHB) poses a challenge for wheat breeders worldwide; there are limited sources of resistance and the genetic basis for resistance is not well understood. In the mid-1980s, a shuttle breeding and germplasm exchange program launched between CIMMYT-Mexico and China, enabled the incorporation of FHB resistance from Chinese bread wheat germplasm into CIMMYT wheat. Most of the Chinese wheat materials conserved in the CIMMYT germplasm bank had not been fully characterized for FHB reaction under Mexican environments, until 2009, when 491 Chinese bread wheat lines were evaluated in a FHB screening nursery in Mexico, and 304 (61.9 %) showed FHB indices below 10 %. Subsequent testing occurred in 2010 for plant height (PH), days to heading (DH), and leaf rust response. In 2012, 140 elite lines with good agronomic types were further evaluated for field FHB reaction and deoxynivalenol (DON) accumulation. Most of the tested lines showed good resistance: 116 (82.9 %) entries displayed FHB indices lower than 10 %, while 89 (63.6 %) had DON contents lower than 1.0 ppm. Significant negative correlations were observed between FHB traits (FHB index, DON content, and Fusarium damaged kernels) and PH, DH, and anther extrusion. A subset of 102 elite entries was selected for haplotyping using markers linked to 10 well known FHB quantitative trait loci (QTL). 57 % of the lines possessed the same 2DL QTL marker alleles as Wuhan 1 or CJ 9306, and 26.5 % had the same 3BS QTL allele as Sumai 3. The remaining known QTL were of low frequency. These materials, especially those with none of the above tested resistance QTL (26.5 %), could be used in breeding programs as new resistance sources possessing novel genes for FHB resistance and DON tolerance.",
+        "lang": "eng"
+    },
+    "appid": "10883_3438",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3438"
+}}

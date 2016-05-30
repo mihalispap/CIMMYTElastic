@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Sources of resistance to the maize weevil Sitophilus Zeamais in tropical maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:47Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6727
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sitophilus zeamais",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26683"
+        }
+    ],
+    "description": {
+        "value": "The maize weevil, Sitophilus zeamais (Motschulsky) (Coleoptera: Curculionidae), is among the major storage pests that enhance food insecurity among maize farmers. New sources of resistance to the maize weevil are critical in a successful breeding program to address grain damage by postharvest pests. The objective of the study was to evaluate resistance in maize genotypes to the maize weevil, and consequently their value for use in breeding programs. A total of 175 genotypes, including hybrids, landraces, open-pollinated varieties and checks, were tested for resistance to the maize weevil. The percentage grain damage, weight loss, flour weight and weight of damaged and undamaged grains were measured. Significant differences (P <0.001) were observed among the genotypes for all the traits evaluated. The distribution of the genotypes among the different categories of resistance was an indication of the existence of genetic variation. The most resistant genotypes were CKPH08003 and BRAZ 2451 while the most susceptible were PH 3254 and BRAZ 4, among the hybrids and landraces respectively. Genotypes that were superior to the resistant checks were identified. The percentage weight loss and flour weight were identified as the most important insect-resistance traits for discriminating genotypes as evident from the canonical discriminant analysis. Correlation coefficients among the traits evaluated were highly significant. The resistant hybrids identified can be recommended for release and adoption by farmers, whereas the resistant landraces can act as sources of resistance for use in breeding programs.",
+        "lang": "eng"
+    },
+    "appid": "10883_3177",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3177"
+}}

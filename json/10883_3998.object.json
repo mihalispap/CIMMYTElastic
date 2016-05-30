@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Instructions for the management and reporting of results for the CIMMYT Wheat Program International Nurseries",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:56Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "trials",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "testing",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2018",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "evaluation",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Over the last two decades, CIMMYT's international multilocation testing of experimental germplasm has become widely accepted as a viable approach to accelerating the germplasm improvement process. Given the diversity of production conditions encountered world wide, CIMMYT has standardized as much as possible the recommended management practices, evaluation techniques, and reporting procedures for its international nurseries. The purpose of this information bulletin is to provide cooperators and other interested parties with guidance in growing and evaluating CIMMYT nurseries",
+        "lang": "eng"
+    },
+    "appid": "10883_3998",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3998"
+}}

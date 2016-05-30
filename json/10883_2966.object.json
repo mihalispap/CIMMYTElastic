@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Development of COS-SNP and HRM markers for high-throughput and reliable haplotype-based detection of Lr14a in durum wheat (Triticum durum Desf.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:00Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9106
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7648
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8104
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6566
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6377,
+            "value": "gel electrophoresis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34949"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum durum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7955"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust (Puccinia triticina Eriks. & Henn.) is a major disease affecting durum wheat production. The Lr14a-resistant gene present in the durum wheat cv. Creso and its derivative cv. Colosseo is one of the best characterized leaf-rust resistance sources deployed in durum wheat breeding. Lr14a has been mapped close to the simple sequence repeat markers gwm146, gwm344 and wmc10 in the distal portion of the chromosome arm 7BL, a gene-dense region. The objectives of this study were: (1) to enrich the Lr14a region with single nucleotide polymorphisms (SNPs) and high-resolution melting (HRM)-based markers developed from conserved ortholog set (COS) genes and from sequenced Diversity Array Technology (DArT®) markers; (2) to further investigate the gene content and colinearity of this region with the Brachypodium and rice genomes. Ten new COS-SNP and five HRM markers were mapped within an 8.0 cM interval spanning Lr14a. Two HRM markers pinpointed the locus in an interval of <1.0 cM and eight COS-SNPs were mapped 2.1?4.1 cM distal to Lr14a. Each marker was tested for its capacity to predict the state of Lr14a alleles (in particular, Lr14-Creso associated to resistance) in a panel of durum wheat elite germplasm including 164 accessions. Two of the most informative markers were converted into KASPar® markers. Single assay markers ubw14 and wPt-4038-HRM designed for agarose gel electrophoresis/KASPar® assays and high-resolution melting analysis, respectively, as well as the double-marker combinations ubw14/ubw18, ubw14/ubw35 and wPt-4038-HRM?ubw35 will be useful for germplasm haplotyping and for molecular-assisted breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2966",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2966"
+}}

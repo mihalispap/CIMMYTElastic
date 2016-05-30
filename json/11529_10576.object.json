@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Genome-Enabled Prediction Using Probabilistic Neural Network Classifiers",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -33,7 +33,7 @@
     ],
     "description": {
         "value": "Non-parametric methods have been shown to be effective in genome-enabled prediction, in particular, the multi-layer perceptron (MLP) and the radial basis function neural network (RBFNN). In this study, we evaluated and compared the performance of MLP classifier versus the probabilistic neural network (PNN) classifier, which is a special case of RBFNN, to predict the probability of membership of one individual in a certain phenotypic class of interest, using genomic and phenotypic data. We used 16 maize and 17 wheat genomic and phenotypic datasets with different trait-environment combinations (sample sizes ranging from 290 to 300 individuals) with 1.4k and 55k SNPs. Classifiers were tested using continuous traits that were categorized into three classes (upper, middle and lower) based on the empirical distribution of each trait, constructed on the basis of two percentiles (15-85% and 30-70%). We focused on percentile 15% and 30% for the upper and lower classes for selecting the best individuals that are common in genomic selection. Wheat datasets were also used to compare the performance of the PNN with two and three classes. The criteria of predictive accuracy of two classifiers were the area under the receiver operating characteristic curve (AUC) and the area under the precision-recall curve (AUCpr). Parameters of both classifiers were obtained by optimizing the AUC for the specific class of interest.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10576",
     "language": {

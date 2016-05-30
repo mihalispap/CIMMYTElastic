@@ -1,0 +1,153 @@
+{"object": {
+    "title": {
+        "value": "Root and crown rot fungi associated with spring, facultative, and winter wheat in Turkey",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:22Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7018
+            ],
+            "value": "species",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7280"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8088
+            ],
+            "value": "root rots",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16033"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6039
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8851,
+            "value": "fusarium culmorum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33719"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8058,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7134
+            ],
+            "value": "cereals",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1474"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7053
+            ],
+            "value": "fungi",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3145"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bipolaris sorokiniana",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34517"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9296,
+            "value": "gaeumannomyces graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24640"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6738,
+            "value": "rots",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6667"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "winter wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8412"
+        }
+    ],
+    "description": {
+        "value": "The objective of this study was to determine the distribution frequency of the fungi associated with wheat (Triticum aestivum) crowns and roots in cereal producing areas of Turkey through a targeted survey of 518 commercial fields over a 2-year period. More than 26% of the fields had one or more of the fungal species commonly reported as part of the dryland root rot complex, Fusarium culmorum (14%) > Bipolaris sorokiniana (10%) > F. pseudograminearum (2%). The fungi considered to be part of the high rainfall root rot complex were found at very low frequencies: 2% for Gaeumannomyces graminis and 3% for Pythium spp. Species of Rhizoctonia were found in 22% of the fields. Several Fusarium species considered to be less or nonpathogenic to cereals were also found in high frequencies at 11% (F. oxysporum, F. chlamydosporum), 10% (F. sporotrichioides), and 8% (F. avenaceum and F. solani). The mostly random distribution of cereal root-rotting species across the survey area suggests the fungi are not distributed in any distinct agroecological relationship. As a result, the relative economic importance of a given species on wheat will be determined by a number of factors, such as their fungal pathogenicity, host susceptibility/tolerance, and the seasonal conditions. Results from this study suggest that there are a wide range of fungal species associated with root and crown tissues of wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2692",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2692"
+}}

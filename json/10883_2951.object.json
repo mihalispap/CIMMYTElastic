@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Technique for the maintenance of heterokayotic isolates of Bipolaris sorokiniana under ordinary conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:59Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "bipolaris sorokiniana",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34517",
+                "http://aims.fao.org/aos/agrovoc/c_34517",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heterokaryon",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "technique",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6058,
+                ""
+            ],
+            "value": "storage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7427",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fungi",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3145"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6358,
+            "value": "maintenance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4524"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6754,
+            "value": "plastics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5998"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7627,
+            "value": "cotton",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1926"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6393,
+            "value": "storing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7427"
+        }
+    ],
+    "description": [
+        {
+            "value": "One hundred heterokaryotic isolates of Bipolaris sorokiniana, collected from wheat during 1997-1998, were evaluated for their morphology, growth, number of nuclei/cell and disease causing ability. Autoclaved sorghum grains were used to colonize",
+            "lang": "eng"
+        },
+        {
+            "value": "these isolates in a culture tube plugged with non- absorbent cotton and stored under room temperature in air tight plastic boxes. After 10 years, 92% isolates were recovered. The distribution of nuclei in different groups varied from 1.14-4.14. The host range and of isolates remained unchanged and area under disease progress curve (AUDPC) of isolates ranked similar as prior to the storage. The proposed technique is simple and cost - effective, and can be utilized for the maintenance of heterokaryotic fungi.",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_2951",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2951"
+}}

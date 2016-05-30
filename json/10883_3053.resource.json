@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-30T05:24:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3053",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3053"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3053"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3053",
+    "creator": [
+        {
+            "id": 946719357,
+            "value": "Hernandez-Garcia, C.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/946719357"
+        },
+        {
+            "id": 1718432791,
+            "value": "Lopez-Peralta, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1718432791"
+        },
+        {
+            "id": 1238976413,
+            "value": "Buenrostro-Nava, M.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1238976413"
+        },
+        {
+            "id": 400280630,
+            "value": "Cardenas-Soriano, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/400280630"
+        },
+        {
+            "id": 837380791,
+            "value": "Pellegrineschi, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/837380791"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3053/1/90151.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 226938
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3053/2/90151.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51697
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3053/3/90151.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6111
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3053/1/90151.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3053/2/90151.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3053/3/90151.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3053"
+        }
+    },
+    "extent": "",
+    "page": "743-753",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

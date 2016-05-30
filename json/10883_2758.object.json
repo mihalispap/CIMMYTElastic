@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Association mapping of leaf rust response in durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "puccinia triticina eriks",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "linkage disequilibrium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait locus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7055
+            ],
+            "value": "puccinia triticina",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27334"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Resistance to leaf rust (Puccinia triticina Eriks.) is a main objective for durum wheat (Triticum durum Desf.) breeding. Association mapping on germplasm collections is now being used as an additional approach for the discovery and validation of major genes/QTLs. In this study, a collection of 164 elite durum wheat accessions suitable for association mapping has been tested for leaf rust response at the seedling stage and under field conditions (adult plant stage). Seedling tests were carried out with 25 selected isolates from durum wheat, bread wheat and triticale, while field experiments were carried out in artificially inoculated plots in Italy and in Mexico. The collection has been profiled with 225 simple sequence repeat (SSR) loci of known map position and a PCR assay targeting Ppd-A1. Associations showing highly consistent experiment-wise significances across leaf rust isolates and field trials were mainly detected for the 7BL distal chromosome (chr.) region (harbouring Lr14 from cultivar Llareta INIA and QLr.ubo-7B.2 from cultivar Creso) and for two chr. regions located in chrs. 2A and 2B. Additionally, isolate-specific associations and/or associations with smaller effects in the field trials were identified in most of the chromosomes. The chr. 7BL distal region was investigated in detail through haplotyping with 15 SSR markers, revealing that the Creso and Llareta INIA alleles are identical by descent at 6 adjacent SSR loci in the most distal 7BL region spanning 8 cM. Association mapping allowed us to further refine the map location of the Lr14/QLr.ubo-7B.2 resistance gene to the most distal region of the linkage group, tagged by Xcfa2257.2, Xgwm344.2 and Xwmc10. The resistant haplotype is present in a number of accessions (ca. 15% of the accessions included in the collection) from the Italian, CIMMYT and ICARDA breeding programmes. Therefore, this chr. 7BL region can be considered as the most important source of resistance to leaf rust currently exploited by durum breeders in the Mediterranean areas. Furthermore, the field trials at the adult plant stage allowed us to identify marker associations (e.g. chrs. 2BL and 3BS, proximal regions; chr. 7BS, distal region) which suggest the presence of minor QTLs for slow-rusting resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_2758",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2758"
+}}

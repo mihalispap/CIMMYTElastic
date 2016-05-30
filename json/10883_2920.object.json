@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Genetic diversity and aggressiveness of different groups of Bipolaris sorokiniana isolates causing spot blotch disease in barley (Hordeum vulgare L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:54Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fungal dna",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rapd markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "bipolaris sorokiniana",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34517",
+                "http://aims.fao.org/aos/agrovoc/c_34517",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spot blotch",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "isolate, barley",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rapd",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_36341"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "dna",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2347"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blotches",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_973"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "barley",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_823"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7596,
+            "value": "hordeum vulgare",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3662"
+        }
+    ],
+    "description": {
+        "value": "Two hundred twenty five isolates of B. sorokiniana of barley were studied for their morpho-pathological characterization and were grouped in to four categories (1) dull white to slight black, gel type cottony growth (DW), (2) white fluffy growth (WF), (3) suppressed white growth (SW) and (4) black fluffy growth (BF).The frequency of BF isolate was highest (39.6%) whereas SW isolates displayed lowest frequency (7.1%). The group IV (BF) isolate was most aggressive. Sixty four purified isolates, sixteen from each of the four groups, were taken for RAPD analysis. Twenty RAPD primers were tested to detect the variability among these four identified groups. A total of 204 bands were amplified with 100% polymorphism using 20 primers. Dendrogram based on molecular polymorphism displayed considerable diversity within and between groups of 64 isolates which displayed four morpho-pathological groups into seven clusters. Specific DNA bands were identified for the selected isolates. The distinct markers may potentially be employed as genetic fingerprints for specific strain identification and classification in future.",
+        "lang": "eng"
+    },
+    "appid": "10883_2920",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2920"
+}}

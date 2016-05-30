@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Is heterosis in maize mediated through better water use?",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "heterosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize (zea mays)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water use",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16065",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "Heterosis increases yield potential and improves adaptation to stress in maize (Zea mays); however, the underlying mechanisms remain elusive. A set of tropical inbred lines and their hybrids were grown in the field for 2 yr under three different water regimes. First-year plant water use was evaluated by measuring instantaneous traits (stomatal conductance (gs) and steady-state chlorophyll fluorescence (Fs)) in individual leaves together with time-integrative traits, which included mineral accumulation in the whole leaves of plants and oxygen isotope enrichment above source water (Ä18O) and carbon isotope discrimination (Ä13C) in the same pooled leaves and in mature kernels. Second-year water use was evaluated by measuring leaf temperature, gs and relative water content (RWC). Within each growing condition, hybrids showed higher Fs, mineral accumulation, RWC, and lower leaf temperature, Ä18O and Ä13C than inbred lines. Therefore, hybrids had a better water status than inbred lines, regardless of the water conditions. Differences in grain yield across growing conditions were explained by differences in water-use traits, with hybrids and inbred lines following a common pattern. Within each growing condition, most variations in grain yield, between hybrids and inbred lines, were also explained by differences in plant water-use traits. Heterosis in tropical maize seems to be mediated by improved water use, irrespective of the water conditions during growth",
+        "lang": "eng"
+    },
+    "appid": "10883_3102",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3102"
+}}

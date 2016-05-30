@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Association of staygreen trait with canopy temperature depression and yield traits under terminal heat stress in wheat (Triticum aestivum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "staygreen",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ctd",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "terminal heat stress",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8196
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6912
+            ],
+            "value": "heat tolerance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11486"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7109
+            ],
+            "value": "sowing date",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16208"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11488"
+        }
+    ],
+    "description": {
+        "value": "The presence or absence of the staygreen trait was screened for 3 consecutive years in 963 wheat lines from various sources, including Indian and CIMMYT germplasm. Staygreen was assessed at the late dough stage by visual scoring (0?9 scale) and the leaf area under greenness (LAUG) measurement. Around 5.5 % of the lines were staygreen, 10.5 % were moderately staygreen, and the remaining lines showed little or no expression of the trait. One hundred lines showing diversity for the staygreen trait were sown under three different sowing dates (timely, late and very late) for 3 consecutive years in three replications to determine the association of staygreen with heat tolerance. There was a decline in yield, biomass, grain filling duration (GFD) and 1,000 grain weight (TGW) under late and very late sowing conditions owing to terminal stress at anthesis and later stages. However, the decline was relatively less in staygreen genotypes compared to the non-staygreen (NSG) ones. The correlation study showed that LAUG and canopy temperature depression (CTD) were strongly correlated. LAUG and CTD were also significantly associated with grain yield, GFD and biomass. To further confirm the association of the staygreen trait with terminal heat stress, individual F2-derived F7 progenies from the cross of the ?staygreen? lines with NSG were evaluated for yield and yield traits at the three sowing dates. In each cross, the staygreen progenies showed a significantly smaller decline in yield and TGW under heat stress than the NSG progenies. These results appear to suggest an association between the staygreen trait and terminal heat stress and, thereby, that the staygreen trait could be used as a morphological marker in wheat to screen for heat tolerance.",
+        "lang": "eng"
+    },
+    "appid": "10883_2927",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2927"
+}}

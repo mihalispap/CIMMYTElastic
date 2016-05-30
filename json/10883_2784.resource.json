@@ -1,0 +1,179 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Russia",
+            "uri": [
+                "http://sws.geonames.org/2017370",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Russia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Asia",
+            "uri": [
+                "http://sws.geonames.org/7729893",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:36Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2784",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2784"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2784"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2784",
+    "creator": [
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        },
+        {
+            "id": 252147101,
+            "value": "Zykin, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/252147101"
+        },
+        {
+            "id": 843382991,
+            "value": "Belan, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/843382991"
+        },
+        {
+            "id": 515210409,
+            "value": "Roseeva, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/515210409"
+        },
+        {
+            "id": 594396842,
+            "value": "Zelenskiy Yu",
+            "type": "person",
+            "uri": "/cimmyt/person/594396842"
+        },
+        {
+            "id": 940952392,
+            "value": "Gomez Becerra, H.F.",
+            "type": "person",
+            "uri": "/cimmyt/person/940952392"
+        },
+        {
+            "id": 150711829,
+            "value": "Budak, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/150711829"
+        },
+        {
+            "id": 75013426,
+            "value": "Bekes, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/75013426"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2784/1/94197.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 667256
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2784/2/94197.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 62153
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2784/3/94197.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3671
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2784/1/94197.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2784/2/94197.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2784/3/94197.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2784"
+        }
+    },
+    "extent": "",
+    "page": "101-112",
+    "coverage": [
+        "Russia",
+        "Kazkhstan",
+        "Central Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

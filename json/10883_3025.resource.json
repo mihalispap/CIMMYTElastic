@@ -1,0 +1,152 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Egypt",
+            "uri": [
+                "http://sws.geonames.org/357994",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Egypt"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Thailand",
+            "uri": [
+                "http://sws.geonames.org/1605651",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Thailand"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:27Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3025",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2006",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3025"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3025"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3025",
+    "creator": [
+        {
+            "id": 2011873276,
+            "value": "Sabry, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2011873276"
+        },
+        {
+            "id": 1963105063,
+            "value": "Jeffers, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1963105063"
+        },
+        {
+            "id": 701981477,
+            "value": "Vasal, S.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/701981477"
+        },
+        {
+            "id": 2044715026,
+            "value": "Frederiksen, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2044715026"
+        },
+        {
+            "id": 463585451,
+            "value": "Magill, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/463585451"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3025/1/89285.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 305996
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3025/2/89285.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38163
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3025/3/89285.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6064
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3025/1/89285.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3025/2/89285.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3025/3/89285.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3025"
+        }
+    },
+    "extent": "",
+    "page": "321-330",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

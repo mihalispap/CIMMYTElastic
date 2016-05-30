@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Interactions between markers can be caused by the dominance effect of quantitative trait loci",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:22Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6558
+            ],
+            "value": "linear models",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34040"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "F2 populations are commonly used in genetic studies of animals and plants. For simplicity, most quantitative trait locus or loci (QTL) mapping methods have been developed on the basis of populations having two distinct genotypes at each polymorphic marker or gene locus. In this study, we demonstrate that dominance can cause the interactions between markers and propose an inclusive linear model that includes marker variables and marker interactions so as to completely control both additive and dominance effects of QTL. The proposed linear model is the theoretical basis for inclusive composite-interval QTL mapping (ICIM) for F2 populations, which consists of two steps: first, the best regression model is selected by stepwise regression, which approximately identifies markers and marker interactions explaining both additive and dominance variations; second, the interval mapping approach is applied to the phenotypic values adjusted by the regression model selected in the first step. Due to the limited mapping population size, the large number of variables, and multicollinearity between variables, coefficients in the inclusive linear model cannot be accurately determined in the first step. Interval mapping is necessary in the second step to fine tune the QTL to their true positions. The efficiency of including marker interactions in mapping additive and dominance QTL was demonstrated by extensive simulations using three QTL distribution models with two population sizes and an actual rice F2 population.",
+        "lang": "eng"
+    },
+    "appid": "10883_2690",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2690"
+}}

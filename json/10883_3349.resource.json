@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "1684-5315",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-12-09T20:30:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3349",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3349"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3349"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3349",
+    "creator": [
+        {
+            "id": 81530660,
+            "value": "Mutisya. D.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/81530660"
+        },
+        {
+            "id": 1915777464,
+            "value": "Tadele Tefera",
+            "type": "person",
+            "uri": "/cimmyt/person/1915777464"
+        },
+        {
+            "id": 568815455,
+            "value": "Mugo, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/568815455"
+        }
+    ],
+    "publisher": {
+        "id": 310702409,
+        "value": "http://www.academicjournals.org/journal/AJB/article-abstract/705A5C029332",
+        "type": "organization",
+        "uri": "/cimmyt/organization/310702409"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3349/1/98248.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 242945
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3349/2/98248.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 21313
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3349/3/98248.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7881
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3349/1/98248.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3349/2/98248.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3349/3/98248.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3349"
+        }
+    },
+    "extent": "",
+    "page": "5370-5374",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

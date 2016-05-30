@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Breeding for improved abiotic stress tolerance in maize adapted to southern Africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:28Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "abiotic stress tolerance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding progress",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8292,
+                0.8292,
+                0.8292,
+                0.8292,
+                0.8292,
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "g x e interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7324,
+                0.7324,
+                0.7324,
+                0.7324,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "abiotic stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35768"
+        }
+    ],
+    "description": {
+        "value": "The difficulty of choosing appropriate selection environments has restricted breeding progress for abiotic stress tolerance in highly variable target environments. Genotype-by-environment interactions in southern African maize growing environments result from factors related to maximum temperature, season rainfall, season length, within-season drought, subsoil pH and socio-economic factors that result in sub-optimal input application. In 1997, CIMMYT initiated a product-oriented breeding program targeted at improving maize for the drought-prone mid-altitudes of southern Africa. Maize varieties were selected in Zimbabwe using simultaneous selection in three types of environments, (i) recommended agronomic management/high rainfall conditions, (ii) low N stress, and (iii) managed drought. Between 2000 and 2002, 41 hybrids from this approach were compared with 42 released and pre-released hybrids produced by private seed companies in 36&ndash;65 trials across eastern and southern Africa. Average trial yields ranged from less than 1 t/ha to above 10 t/ha. Hybrids from CIMMYT&rsquo;s stress breeding program showed a consistent advantage over private company check hybrids at all yield levels. Selection differentials were largest between 2 and 5 t/ha and they became less significant at higher yield levels. An Eberhart&ndash;Russell stability analysis estimated a 40% yield advantage at the 1-t yield level which decreased to 2.5% at the 10-t yield level. We conclude that including selection under carefully managed high-priority abiotic stresses, including drought, in a breeding program and with adequate weighing can significantly increase maize yields in a highly variable drought-prone environment and particularly at lower yield levels.",
+        "lang": "eng"
+    },
+    "appid": "10883_3029",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3029"
+}}

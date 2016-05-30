@@ -1,0 +1,204 @@
+{"resource": {
+    "citation": "",
+    "issn": "1876-4517",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southeast Asia",
+            "uri": [
+                "http://sws.geonames.org/6942346",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:43Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2179",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2179"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2179"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2179",
+    "creator": [
+        {
+            "id": 943329178,
+            "value": "Waddington, S.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/943329178"
+        },
+        {
+            "id": 2020837785,
+            "value": "Li, X.",
+            "type": "person",
+            "uri": "/cimmyt/person/2020837785"
+        },
+        {
+            "id": 1929301462,
+            "value": "Dixon, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1929301462"
+        },
+        {
+            "id": 27437244,
+            "value": "Hyman, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/27437244"
+        },
+        {
+            "id": 53356309,
+            "value": "de Vicente, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/53356309"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2179/1/93685.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 425900
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2179/2/93685.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 93236
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2179/3/93685.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5457
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2179/1/93685.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2179/2/93685.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2179/3/93685.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2179"
+        }
+    },
+    "extent": "",
+    "page": "27-48",
+    "coverage": [
+        "Central Africa",
+        "Eastern Africa",
+        "Southern Africa",
+        "West Africa",
+        "East Asia",
+        "South Asia",
+        "Southeast Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

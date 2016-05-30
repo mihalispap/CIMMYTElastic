@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Adoption of improved wheat varieties and impacts on household food security in Ethiopia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2014-03-05T18:01:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "endogenous switching regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "treatment effects",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "generalized propensity score",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat variety adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food security",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ethiopia",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9975
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        }
+    ],
+    "description": {
+        "value": "This article evaluates the impact of the adoption of improved wheat varieties on food security using a recent nationally-representative dataset of over 2000 farm households in Ethiopia. We adopted endogenous switching regression treatment effects complemented with a binary propensity score matching methodology to test robustness and reduced selection bias stemming from both observed and unobserved characteristics. We expand this further with the generalized propensity score (GPS) approach to evaluate the effects of continuous treatment on the response of the outcome variables. We find a consistent result across models indicating that adoption increases food security and farm households that did adopt would also have benefited significantly had they adopted new varieties. This study supports the need for vital investments in agricultural research for major food staples widely consumed by the poor, and efforts to improve access to modern varieties and services. Policies that enhance diffusion and adoption of modern wheat varieties should be central to food security strategies in Ethiopia.",
+        "lang": "eng"
+    },
+    "appid": "10883_3458",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3458"
+}}

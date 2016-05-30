@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Screening tropical maize lines for the production and regeneration of friable and embryogenic type II callus",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:28Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tropical maize lines",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "immature embryos",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "embryogenic callus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "regeneration",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6881,
+            "value": "callus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24576"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7584
+            ],
+            "value": "highlands",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3614"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Twenty two maize lines popularly used by breeders in the Kenyan maize program were screened for their ability to form type II callus. The immature embryos were harvested two weeks after pollination. Two highland lines showed high embryogenic response and formed friable, type II calli. While 16 lines screened showed poor or retarded growth with subsequent death. There was successful plant regeneration from four lines collected from the highland breeding program that are genetically related. The results suggested that genetic factors may be responsible for the differences seen in the regenerability of the tropical lines. The two lines CMB7 and CMB8 are considered suitable for further evaluation using a transformation system",
+        "lang": "eng"
+    },
+    "appid": "10883_3033",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3033"
+}}

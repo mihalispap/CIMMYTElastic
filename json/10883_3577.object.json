@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Manual de metodologia sobre las enfermedades de los cereales",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-13T00:57:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rots",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6667",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "scabs",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6836",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "smuts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7119",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "surveying",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "evaluation",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3577",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3577"
+}}

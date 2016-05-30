@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Wheat Mexican Adaptation Trial Winter 2011-2012",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -63,17 +63,14 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
-                0.9545,
                 1,
                 ""
             ],
             "value": "triticum durum",
             "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_7955",
                 "http://aims.fao.org/aos/agrovoc/c_7955",
                 ""
             ]
@@ -204,7 +201,7 @@
     ],
     "description": {
         "value": "A diverse panel of 1,320 spring wheat lines (Triticum aestivum L. and Triticum durum L.) was sown under optimal conditions at five contrasting environments (during the winter cycle) in Mexico. These data will contribute to the efforts for identifying genetic regions related to grain yield, plant height, and days to heading and maturity.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10016",
     "language": {

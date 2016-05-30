@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Agricultural technology adoption, seed access constraints and commercialization in Ethiopia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "commercialization",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_21547",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chickpea",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "double-hurdle model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "improved varieties",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "grain legumes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3351",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "technology adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "treatment effect model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ethiopia",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7255
+            ],
+            "value": "integration",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3903"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chickpeas",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9785"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hurdles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2853"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "varieties",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "technology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7644"
+        }
+    ],
+    "description": {
+        "value": "This article examines the driving forces behind farmers? decisions to adopt agricultural technologies and the causal impact of adoption on farmers? integration into output market using data obtained from a random cross-section sample of 700 farmers in Ethiopia. We estimate a Double-Hurdle model to analyze the determinants of the intensity of technology adoption conditional on overcoming seed access constraints. We estimate the impact of technology adoption on farmers? integration into output market by utilizing treatment effect model, regression based on propensity score as well as matching techniques to account for heterogeneity in the adoption decision, and for unobservable characteristics of farmers and their farm. Results show that knowledge of existing varieties, perception about the attributes of improved varieties, household wealth (livestock and land) and availability of active labor force are major determinants for adoption of improved technologies. Our results suggest that the adoption of improved agricultural technologies has a significant positive impact on farmers? integration into output market and the findings are consistent across the three models suggesting the robustness of the results. This confirms the potential direct role of technology adoption on market participation among rural households, as higher productivity from improved technology translates into higher output market integration.",
+        "lang": "eng"
+    },
+    "appid": "10883_2210",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2210"
+}}

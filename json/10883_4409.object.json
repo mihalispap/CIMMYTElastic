@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Agricultura de conservación y captura de carbono en el suelo: entre el mito y la realidad del agricultor",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:36Z",
+    "created": "2015-08-17T18:07:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "carbon",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1301",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4409",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4409"
+}}

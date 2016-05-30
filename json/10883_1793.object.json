@@ -6,10 +6,10 @@
     "updated": "2016-01-22T23:05:46Z",
     "created": "2013-06-07T21:02:40Z",
     "subject": {
-        "vocabulary": "agrovoc",
-        "score": 1,
-        "value": "alleles",
-        "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        "vocabulary": "",
+        "score": "",
+        "value": "",
+        "uri": ""
     },
     "description": {
         "value": "Selective genotyping of one or both phenotypic extremes of a population can be used to detect linkage between markers and quantitative trait loci (QTL) in situations in which full-population genotyping is too costly or not feasible, or where the objective is to rapidly screen large numbers of potential donors for useful alleles with large effects. Data may be subjected to ?trait-based? analysis, in which marker allele frequencies are compared between classes of progeny defined based on trait values, or to ?marker-based? analysis, in which trait means are compared between progeny classes defined based on marker genotypes. Here, bidirectional and unidirectional selective genotyping were simulated, using population sizes and selection intensities relevant to cereal breeding. Control of Type I error was usually adequate with marker-based analysis of variance or trait-based testing using the normal approximation of the binomial distribution. Bidirectional selective genotyping was more powerful than unidirectional. Trait-based analysis and marker-based analysis of variance were about equally powerful. With genotyping of the best 30 out of 500 lines (6%), a QTL explaining 15% of the phenotypic variance could be detected with a power of 0.8 when tests were conducted at a marker 10 cM from the QTL. With bidirectional selective genotyping, QTL with smaller effects and (or) QTL farther from the nearest marker could be detected. Similar QTL detection approaches were applied to data from a population of 436 recombinant inbred rice lines segregating for a large-effect QTL affecting grain yield under drought stress. That QTL was reliably detected by genotyping as few as 20 selected lines (4.5%). In experimental populations, selective genotyping can reduce costs of QTL detection, allowing larger numbers of potential donors to be screened for useful alleles with effects across different backgrounds. In plant breeding programs, selective genotyping can make it possible to detect QTL using even a limited number of progeny that have been retained after selection.",

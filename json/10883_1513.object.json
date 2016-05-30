@@ -15,14 +15,32 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
+                0.8068,
+                0.8068,
+                0.8068,
+                0.8068,
+                0.8068,
+                0.8068,
                 1,
                 ""
             ],
             "value": "grain",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3346",
+                "http://aims.fao.org/aos/agrovoc/c_3346",
+                "http://aims.fao.org/aos/agrovoc/c_3346",
+                "http://aims.fao.org/aos/agrovoc/c_3346",
+                "http://aims.fao.org/aos/agrovoc/c_3346",
+                "http://aims.fao.org/aos/agrovoc/c_3346",
                 "http://aims.fao.org/aos/agrovoc/c_3346",
                 ""
             ]
@@ -50,6 +68,27 @@
             "score": "",
             "value": "triticum aestivum l",
             "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9072
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
         },
         {
             "vocabulary": "agrovoc",

@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Long-Term CA Trials in Tanzania - Isanga",
-        "lang": ""
+        "lang": "msa"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -23,6 +23,12 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 0.8385,
+            "value": "trials",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 1,
             "value": "agriculture",
             "uri": "http://aims.fao.org/aos/agrovoc/c_203"
@@ -36,7 +42,7 @@
     ],
     "description": {
         "value": "Long-term comparison trials between conventional and conservation agriculture practices across different agroecologies inTanzania - Isanga research Center",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10223",
     "language": {

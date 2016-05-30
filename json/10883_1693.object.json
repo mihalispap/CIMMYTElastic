@@ -5,12 +5,20 @@
     },
     "updated": "2016-01-22T23:05:45Z",
     "created": "2013-06-07T21:02:26Z",
-    "subject": {
-        "vocabulary": "agrovoc",
-        "score": 1,
-        "value": "trichoderma",
-        "uri": "http://aims.fao.org/aos/agrovoc/c_15814"
-    },
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9429,
+            "value": "aflp",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331160"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trichoderma",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15814"
+        }
+    ],
     "description": {
         "value": "",
         "lang": ""

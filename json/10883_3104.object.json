@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis of water-logging tolerance in tropical maize (Zea Mays L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:38Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7626,
+                0.7626,
+                0.7626,
+                0.7626,
+                0.7626,
+                0.7626,
+                0.7626,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "water-logging",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "excess soil moisture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3222",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inheritance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6279
+            ],
+            "value": "additives",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_118"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "logging",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7775"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "soil moisture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7208"
+        }
+    ],
+    "description": {
+        "value": "Approximately 80% of maize (Zea mays L.) in South and Southeast Asia is grown as a rain-fed crop, where temporary excessive soil moisture or water-logging during the summer-rainy season is one of the major production constraints in large areas of this region. The present genetic study analyzed the tolerance of tropical maize to water-logging stress. Elite maize inbred lines with known stable performance in terms of improved grain yield under water-logging stress were crossed using half-diallel (7 x 7) and line × tester (8 × 3) mating designs, in which four lines were common in both the mating designs. F1 progenies (excluding reciprocals) and their parents were evaluated under managed water-logging stress at knee high stage (V7-8 growth stage) at the maize research farm, Indian Agricultural Research Institute, New Delhi, India (28.4°N, 77.1°E, 228.1 masl). In addition, the same set of entries was simultaneously evaluated under a normal moisture regime. Analysis showed that both general combining ability (GCA) and specific combining ability (SCA) effects were statistically significant. However, the GCA effect was comparatively higher (P<0.01) than the SCA effect (P<0.05). This result suggests that both additive and non-additive factors affect the expression of tolerance to water-logging stress in tropical maize. Analysis of the diallel and L × T dataset showed that water-logging tolerance in maize followed an additive-dominance genetic model, with additive gene effects dominating. Our findings suggest that reciprocal recurrent selection would be an effective approach for improving water-logging tolerance in tropical maize. Evaluating S1 progeny per se and their test-crosses under managed water-logging stress, discarding susceptible fraction and combining the selected best lines in terms of per se and test-cross performance could result in improved water-logging tolerant population. The new lines derived from the improved population could be used in developing water-logging tolerant synthetic varieties to exploit the additive gene effects and hybrids to exploit the non-additive gene action.",
+        "lang": "eng"
+    },
+    "appid": "10883_3104",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3104"
+}}

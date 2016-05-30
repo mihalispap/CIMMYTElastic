@@ -1,0 +1,147 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Panama",
+        "uri": [
+            "http://sws.geonames.org/3703430",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Panama"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:16Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3638",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "1999",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3638"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3638"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3638",
+    "creator": [
+        {
+            "id": 116898249,
+            "value": "Pereira de Herrera, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/116898249"
+        },
+        {
+            "id": 1823972120,
+            "value": "Becerra, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1823972120"
+        },
+        {
+            "id": 1405953482,
+            "value": "Saín, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1405953482"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 69515069,
+            "value": "IDIAP",
+            "type": "organization",
+            "uri": "/cimmyt/organization/69515069"
+        },
+        {
+            "id": 79499,
+            "value": "PRM",
+            "type": "organization",
+            "uri": "/cimmyt/organization/79499"
+        },
+        {
+            "id": 849380491,
+            "value": "Universidad de Panama",
+            "type": "organization",
+            "uri": "/cimmyt/organization/849380491"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3638/1/67864.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1138353
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3638/2/67864.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36433
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3638/3/67864.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8975
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3638/1/67864.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3638/2/67864.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3638/3/67864.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3638"
+        }
+    },
+    "extent": "",
+    "page": "20 p.",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "San José (Costa Rica)",
+    "doi": ""
+}}

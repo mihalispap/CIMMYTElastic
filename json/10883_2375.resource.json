@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2375",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1970",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2375"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2375"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2375",
+    "creator": [
+        {
+            "id": 1013609530,
+            "value": "Joshi, L.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013609530"
+        },
+        {
+            "id": 1090198838,
+            "value": "Renfro, B.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1090198838"
+        },
+        {
+            "id": 1167353840,
+            "value": "Saari, E.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1167353840"
+        },
+        {
+            "id": 2056980550,
+            "value": "Wilcoxson, R.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/2056980550"
+        },
+        {
+            "id": 151462158,
+            "value": "Raychaudhuri, S.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/151462158"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2375/1/79655.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 320036
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2375/2/79655.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2375/3/79655.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5560
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2375/1/79655.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2375/2/79655.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2375/3/79655.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2375"
+        }
+    },
+    "extent": "",
+    "page": "391-394",
+    "coverage": "South Asia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

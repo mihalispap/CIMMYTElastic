@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Specification effects in zero tillage survey data in South Asia's rice-wheat systems",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "impact",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "survey",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "effects",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9398,
+                0.9398,
+                0.9398,
+                ""
+            ],
+            "value": "zero tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                "http://aims.fao.org/aos/agrovoc/c_8511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "india",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pakistan",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "indo-gangetic plains",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Specification effects in terms of how technology options are contrasted can introduce bias in impact assessment. In a companion paper we evaluated the on-farm impacts of zero tillage (ZT) wheat as a resource-conserving technology in the rice?wheat systems of India's Haryana State and Pakistan's Punjab province [Erenstein, O., Farooq, U., Malik, R.K., Sharif, M., 2008. On-farm impacts of zero tillage wheat in South Asia's rice?wheat systems. Field Crop Res. 105, 240?252]. The underlying field work surveyed plots of full adopters (only ZT plots), partial adopters (ZT and conventional tillage [CT] plots on same farm) and non-adopters (only CT plots). The companion paper assumes that the comparison between the ZT plots of full plus partial adopters and CT plots of partial adopters is the least-biased assessment of ZT's on-farm impact. Here we revisit this underlying assumption and draw on complementary farm survey findings to illustrate the extent of specification effects in the assessment of on-farm impacts of ZT wheat in the same study areas. The study thereby distinguishes between three contrasts between ZT and CT within the same dataset: (1) plain contrast (all plots of adopters and non-adopters); (2) adopter-only contrast (full and partial adopters only, as used in Erenstein et al. [Erenstein, O., Farooq, U., Malik, R.K., Sharif, M., 2008. On-farm impacts of zero tillage wheat in South Asia's rice?wheat systems. Field Crop Res. 105, 240?252]); (3) pair-wise contrast (partial adopters only). Proceeding from type 1 to type 3 comparisons the number of observations decrease but this is compensated by an increasing ability to control for variation. The ability of type 3 comparisons to pick up relatively small but significant differences is an important consideration in farm survey impact assessment. However, there is also an increase in partial adoption bias and further follow-up studies are needed to understand the implications of this. The comparisons show that the ZT effects on savings for diesel, tractor time and cost for wheat cultivation are particularly robust. In Haryana ZT's positive implications for yield and the other financial indicators were also statistically robust, but in Punjab these were sensitive to specification effects. Particularly sensitive to specification effects were the ZT effects on the productivity of applied water in both sites.",
+        "lang": "eng"
+    },
+    "appid": "10883_2153",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2153"
+}}

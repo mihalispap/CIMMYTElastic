@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Maize yield response to crop rotation, farmyard manure and inorganic fertilizer application in Western Ethiopia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:36Z",
+    "created": "2014-03-05T17:57:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop rotation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "organic and inorganic fertilizer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "precursor crops",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7078
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6289
+            ],
+            "value": "niger seed",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12827"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "haricot beans",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4098"
+        }
+    ],
+    "description": {
+        "value": "Continuous cropping with inorganic inputs has limitations in terms of maintaining long-term soil fertility. However, crop rotation integrated with fertilizer application is one of the cheapest alternative methods for sustainable crop production. In recognition of this fact, the experiment was conducted at Bako in western Ethiopia with the objective of identifying the best precursor crops and optimum integration of farm yard manure and inorganic fertilizer in a maize based rotation sequence. Two separate trials with different precursor crops were combined with three rates of organic manure and three rates of inorganic fertilizer NP2O5. The experimental design was 3×3×3 factorial arrangement in randomized complete block design in three replications. Inclusion of precursor crops markedly increased maize yield as compared to mono crops. The highest grain yield was obtained when haricot beans and Niger seed were the precursor crops. Application of 12 t ha-1 FYM after precursor crops resulted in grain yield of 9.3 t ha-1 and a marginal rate of return 225%. However, continuous incorporation of manure after precursor crops did not significantly (P>0.05) increase the yield. Application of 89/-35 kg ha-1 NP2O5 after legume maize rotation gave a grain yield and the highest marginal rate of return (236%). Haricot bean, Niger seed followed by application of either 12 t ha-1FYM or 89-35NP2O5 kg ha-1 is a better option for sustainable maize production than continuous mono cropping. As conclusion, haricot bean, Niger seed and Soybean can be used as precursor crops with use of either 12 t ha-1 of FYM or 89/35 kg ha-1NP2O5.",
+        "lang": "eng"
+    },
+    "appid": "10883_3425",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3425"
+}}

@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "Interpreting genotype X environment interaction in wheat by partial least squares regression",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:28Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotype environment interaction",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "statistical methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7377",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "The partial least squares (PLS) regression method relates genotype &times; environment interaction effects (GEI) as dependent variables (Y) to external environmental (or cultivar) variables as the explanatory variables (X) in one single estimation procedure. We applied PLS regression to two wheat data sets with the objective of determining the most relevant cultivar and environmental variables that explained grain yield GEI. One data set had two field experiments, one including seven durum wheat (Triticum turgidum L. var. durum) cultivars and the other, seven bread wheat (Triticum aestivum L.) cultivars, both tested for 6 yr. In durum wheat cultivars, sun hours per day in December, February, and March as well as maximum temperature in March were related to the factor that explained more than 39% of GEI, while in bread wheat cultivars, minimum temperature in December and January as well as sun hours per day in January and February were the environmental variables related to the factor that explained the largest portion (>41%) of GEI. The second data set had eight bread wheat cultivars evaluated in 21 low relative humidity (RH) environments and 12 high RH environments. For both low and high RH environments, results indicated that relative performance of cultivars is influenced by differential sensitivity to minimum temperatures during the spike growth period. The PLS method was effective in detecting environmental and cultivar explanatory variables associated with factors that explained large portions of GEI.",
+        "lang": "eng"
+    },
+    "appid": "10883_2319",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2319"
+}}

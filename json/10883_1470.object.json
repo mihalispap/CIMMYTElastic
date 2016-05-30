@@ -5,26 +5,12 @@
     },
     "updated": "2016-01-22T23:05:35Z",
     "created": "2013-06-05T15:45:32Z",
-    "subject": [
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.7733,
-            "value": "wheats",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6182,
-            "value": "rice",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_6599"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "water saving",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8315"
-        }
-    ],
+    "subject": {
+        "vocabulary": "agrovoc",
+        "score": 1,
+        "value": "water saving",
+        "uri": "http://aims.fao.org/aos/agrovoc/c_8315"
+    },
     "description": {
         "value": "",
         "lang": ""

@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "0191-2917",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "South America",
+        "uri": [
+            "http://sws.geonames.org/SA",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_America"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:19Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2273",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1990",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2273"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2273"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2273",
+    "creator": [
+        {
+            "id": 1350696382,
+            "value": "Beuningen, L.T. van",
+            "type": "person",
+            "uri": "/cimmyt/person/1350696382"
+        },
+        {
+            "id": 1727094441,
+            "value": "Kohli, M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1727094441"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2273/1/24374.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1401056
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2273/2/24374.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 6
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2273/3/24374.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6575
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2273/1/24374.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2273/2/24374.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2273/3/24374.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2273"
+        }
+    },
+    "extent": "",
+    "page": "488-493",
+    "coverage": "South America",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

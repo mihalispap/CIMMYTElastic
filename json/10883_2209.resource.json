@@ -1,0 +1,190 @@
+{"resource": {
+    "citation": "",
+    "issn": "0030-7270",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "country",
+            "uri": [
+                "http://sws.geonames.org/geonameid",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/country"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:47Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2209",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2209"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2209"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2209",
+    "creator": [
+        {
+            "id": 435805678,
+            "value": "Tsedeke Abate",
+            "type": "person",
+            "uri": "/cimmyt/person/435805678"
+        },
+        {
+            "id": 2003399957,
+            "value": "Shiferaw, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2003399957"
+        },
+        {
+            "id": 1814211575,
+            "value": "Gebeyehu, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1814211575"
+        },
+        {
+            "id": 267455092,
+            "value": "Berhanu Amsalu",
+            "type": "person",
+            "uri": "/cimmyt/person/267455092"
+        },
+        {
+            "id": 1429396945,
+            "value": "Kassaye Negash",
+            "type": "person",
+            "uri": "/cimmyt/person/1429396945"
+        },
+        {
+            "id": 1424830952,
+            "value": "Kebebew Assefa",
+            "type": "person",
+            "uri": "/cimmyt/person/1424830952"
+        },
+        {
+            "id": 175666768,
+            "value": "Million Eshete",
+            "type": "person",
+            "uri": "/cimmyt/person/175666768"
+        },
+        {
+            "id": 1282214953,
+            "value": "Sherif Aliye",
+            "type": "person",
+            "uri": "/cimmyt/person/1282214953"
+        },
+        {
+            "id": 530778714,
+            "value": "Hagmann, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/530778714"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2209/1/95398.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 78737
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2209/2/95398.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38870
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2209/3/95398.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5223
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2209/1/95398.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2209/2/95398.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2209/3/95398.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2209"
+        }
+    },
+    "extent": "",
+    "page": "213-220",
+    "coverage": [
+        "Ethiopia",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

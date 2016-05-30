@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Relationships among international testing sites of spring durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "hard wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11456",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotype environment interaction",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant response",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_25446",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environmental factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2594",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "adaptation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_117",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum turgidum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7958"
+        }
+    ],
+    "description": {
+        "value": "Knowledge of the relationships among international test sites will facilitate the effective targeting of germplasm exchange. Five years of grain yield data from the Elite Durum Yield Trial, consisting of 132 trials from 32 locations in 22 countries, were studied. Pattern analysis, the combination of ordination and cluster analysis, was used to identify groupings of international test sites that represent similar selection environments and to compare location association with the mega-environment designations of the CIMMYT breeding programme. Two main environmental groups and six subgroups were identified for durum wheat (Triticum turgidum var. durum [T. durum]). The major determinants of the groupings were latitude and moisture supply. Biotic and abiotic stresses influenced further delineation of the clusters. Discrepancies between mega-environment designation and pattern analysis results warrant further investigations of the underlying causes",
+        "lang": "eng"
+    },
+    "appid": "10883_2310",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2310"
+}}

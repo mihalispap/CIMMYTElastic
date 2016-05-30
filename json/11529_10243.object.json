@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Seeds of Discovery - MasAgro Biodiversidad Wheat GbS-Derived SNP Data: Beta Recall Results From 2011-2014",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -92,6 +92,33 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 0.6691,
+            "value": "tetraploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7690"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7967
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7452,
+            "value": "hexaploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24400"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 1,
             "value": "germplasm banks",
             "uri": "http://aims.fao.org/aos/agrovoc/c_35302"
@@ -99,7 +126,7 @@
     ],
     "description": {
         "value": "More than 40,000 wheat accessions from the CIMMYT Germplasm Bank have been genotyped using the DArTSeq genotyping-by-sequencing technology. These accessions include hexaploid, tetraploid, and diploid species and many wild relatives of wheat. Genetic diversity analyses using these data can identify selection footprints and relationships between these accessions which will be helpful for using them in breeding pipelines in more strategic ways.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10243",
     "language": {

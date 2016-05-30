@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "New genes for leaf rust resistance in CIMMYT durum wheats",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3225",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia triticina",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27334",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia recondita",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27334",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "leaf fall",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12117",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2432",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2432"
+}}

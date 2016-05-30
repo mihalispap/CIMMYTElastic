@@ -1,0 +1,177 @@
+{"resource": {
+    "citation": "",
+    "issn": "1991-637X",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Afghanistan",
+            "uri": [
+                "http://sws.geonames.org/1149361",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Afghanistan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "country",
+            "uri": [
+                "http://sws.geonames.org/geonameid",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/country"
+            ]
+        },
+        {"value": "Country"}
+    ],
+    "updatedDate": "2014-03-05T18:04:35Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3472",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3472"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3472"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3472",
+    "creator": [
+        {
+            "id": 872740331,
+            "value": "Ahmadzada, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/872740331"
+        },
+        {
+            "id": 1386451410,
+            "value": "Obaidi, M.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1386451410"
+        },
+        {
+            "id": 221079705,
+            "value": "Ghanizada, A.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/221079705"
+        },
+        {
+            "id": 636769321,
+            "value": "Mashook, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/636769321"
+        },
+        {
+            "id": 1300206082,
+            "value": "Azmatyar, M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1300206082"
+        },
+        {
+            "id": 164245768,
+            "value": "Jan, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/164245768"
+        },
+        {
+            "id": 344368290,
+            "value": "Qayum, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/344368290"
+        },
+        {
+            "id": 136955091,
+            "value": "Mohmand, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/136955091"
+        },
+        {
+            "id": 619265485,
+            "value": "Sharma, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/619265485"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3472/1/98456.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 258599
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3472/2/98456.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 7724
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3472/3/98456.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8053
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3472/1/98456.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3472/2/98456.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3472/3/98456.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3472"
+        }
+    },
+    "extent": "",
+    "page": "1255-1257",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

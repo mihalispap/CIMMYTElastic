@@ -47,6 +47,12 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 0.6282,
+            "value": "phaseolus vulgaris",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5767"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 1,
             "value": "genes",
             "uri": "http://aims.fao.org/aos/agrovoc/c_3214"

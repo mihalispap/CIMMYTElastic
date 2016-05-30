@@ -7,64 +7,16 @@
     "created": "2013-06-07T21:02:31Z",
     "subject": [
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.8195
-            ],
-            "value": "maize",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_12332"
-            ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6119,
-            "value": "genetic markers",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6766
-            ],
-            "value": "simple sequence repeats",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_36574"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "alleles",
             "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
         },
         {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6386
-            ],
-            "value": "measure",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_330493"
-            ]
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simple sequence repeats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
         }
     ],
     "description": {

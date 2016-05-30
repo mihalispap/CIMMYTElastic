@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0021-8596",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:12:02Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2563",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2563"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2563"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2563",
+    "creator": [
+        {
+            "id": 1169284776,
+            "value": "Brennan, J.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1169284776"
+        },
+        {
+            "id": 2022172439,
+            "value": "Condon, A.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2022172439"
+        },
+        {
+            "id": 310563970,
+            "value": "Ginkel, M. Van",
+            "type": "person",
+            "uri": "/cimmyt/person/310563970"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        }
+    ],
+    "publisher": {
+        "id": 1460417727,
+        "value": "http://bit.ly/10Xc3Nu",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1460417727"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2563/1/89959.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 108521
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2563/2/89959.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 37155
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2563/3/89959.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5867
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2563/1/89959.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2563/2/89959.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2563/3/89959.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2563"
+        }
+    },
+    "extent": "",
+    "page": "187-194",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

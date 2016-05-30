@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Phenotypic plasticity of yield and phenology in wheat, sunflower and grapevine",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:25Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environment",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2593",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "anthesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2992",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "adaptation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_117",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "evolution",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2745",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "phenology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5774"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2705",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2705"
+}}

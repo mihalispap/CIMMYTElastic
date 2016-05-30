@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "1835-2693",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Southeast Asia",
+        "uri": [
+            "http://sws.geonames.org/6942346",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southeast_Asia"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:47Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3180",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3180"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3180"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3180",
+    "creator": [
+        {
+            "id": 1269649279,
+            "value": "Zaidi, P.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1269649279"
+        },
+        {
+            "id": 1306923271,
+            "value": "Rashid, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/1306923271"
+        },
+        {
+            "id": 1250787311,
+            "value": "Vinayan, M.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1250787311"
+        },
+        {
+            "id": 1732807373,
+            "value": "Babu, T.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1732807373"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3180/1/97413.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 269773
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3180/2/97413.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46195
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3180/3/97413.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6383
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3180/1/97413.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3180/2/97413.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3180/3/97413.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3180"
+        }
+    },
+    "extent": "",
+    "page": "1703-1711",
+    "coverage": [
+        "South Asia",
+        "Southeast Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "Comparison of the performance of synthetic maize varieties created based on either genetic distance or general combining ability of the parents",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "general combining ability (gca)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic similarity (gs)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synthetic varieties",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6759
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24030"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6938
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agronomic traits",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_210"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7433
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "combining ability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15954"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "varieties",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic distance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27530"
+        }
+    ],
+    "description": {
+        "value": "Synthetics varieties are grown by farmers and used by breeders to select new inbred lines. In countries unable to market hybrids, use of synthetics leads to yield improvements over landraces. Synthetics are derived from intercrossing inbred lines known to possess high general combining ability (GCA) as measured via crossing with testers and phenotyping for yield in multiple environments. Genetic similarity (GS) between lines measured by molecular markers may efficiently estimate GCA. Although the prediction of specific combining ability (SCA) of lines via GS has not been successful, it may have potential to predict the suitability of lines to form a synthetic variety. As this has not been reported, the objective of this research was to compare the performance of four synthetic maize varieties developed using GS calculated between parents using SSR markers with the performance of synthetics developed using GCA based on yield. Synthetics were phenotyped for yield and other agronomic traits in replicated field trials in several environments. The two synthetics formed based on low GS (0.34 and 0.33) performed better than all other synthetics in yield and most agronomic traits. The synthetics formed based on high GS (0.77 and 0.53), performed worst for nearly all traits. The GCA-based synthetics were generally intermediate for all traits. Response of synthetics to environmental variation and efficiencies gained via use of molecular markers in synthetic formation is discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_3184",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3184"
+}}

@@ -1,0 +1,227 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central Africa",
+            "uri": [
+                "http://sws.geonames.org/7729886",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Southern Africa",
+            "uri": [
+                "http://sws.geonames.org/9406051",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:50Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2234",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2234"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2234"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2234",
+    "creator": [
+        {
+            "id": 345841630,
+            "value": "Valbuena, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/345841630"
+        },
+        {
+            "id": 1323266426,
+            "value": "Erenstein, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1323266426"
+        },
+        {
+            "id": 614269547,
+            "value": "Sabine Homann-Kee Tui",
+            "type": "person",
+            "uri": "/cimmyt/person/614269547"
+        },
+        {
+            "id": 202644984,
+            "value": "Abdoulaye, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/202644984"
+        },
+        {
+            "id": 1555455891,
+            "value": "Claessens, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1555455891"
+        },
+        {
+            "id": 906949640,
+            "value": "Duncan, A.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/906949640"
+        },
+        {
+            "id": 1425981375,
+            "value": "Gerard, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1425981375"
+        },
+        {
+            "id": 2007884185,
+            "value": "Rufino, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/2007884185"
+        },
+        {
+            "id": 417469795,
+            "value": "Teufel, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/417469795"
+        },
+        {
+            "id": 2035914484,
+            "value": "Rooyen, A. van",
+            "type": "person",
+            "uri": "/cimmyt/person/2035914484"
+        },
+        {
+            "id": 663193979,
+            "value": "Wijk, M.T. van",
+            "type": "person",
+            "uri": "/cimmyt/person/663193979"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2234/1/96517.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 522987
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2234/2/96517.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 68039
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2234/3/96517.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 15526
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2234/1/96517.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2234/2/96517.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2234/3/96517.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2234"
+        }
+    },
+    "extent": "",
+    "page": "175-184",
+    "coverage": [
+        "Central Africa",
+        "Eastern Africa",
+        "Southern Africa",
+        "West Africa",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

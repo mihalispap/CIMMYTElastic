@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:09:33Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2102",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2004",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2102"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2102"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2102",
+    "creator": [
+        {
+            "id": 2112009243,
+            "value": "Aggarwal, P.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2112009243"
+        },
+        {
+            "id": 1013490428,
+            "value": "Joshi, P.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013490428"
+        },
+        {
+            "id": 196873420,
+            "value": "Ingram, J.S.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/196873420"
+        },
+        {
+            "id": 959563682,
+            "value": "Gupta, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/959563682"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2102/1/81282.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1325867
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2102/2/81282.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 149
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2102/3/81282.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 772
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2102/1/81282.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2102/2/81282.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2102/3/81282.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2102"
+        }
+    },
+    "extent": "",
+    "page": "487-498",
+    "coverage": "South Asia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

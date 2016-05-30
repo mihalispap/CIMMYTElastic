@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of promising (advanced) bread wheat genotypes to drought stress by using drought tolerance and susceptibility indices",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7438,
+                0.7438,
+                0.7438,
+                0.7438,
+                1,
+                0.8852,
+                ""
+            ],
+            "value": "drought stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "susceptibility and drought tolerance indices",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14914"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9078,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        }
+    ],
+    "description": {
+        "value": "In this experiment 16 advanced lines and genotypes of bread wheat were evaluated for drought resistance in Moghan agricultural center. The drought treatments consisted of four levels of: control (no drought stress), early season stress ( no irrigation before heading) and complete stress (dry farming). All agronomic and physiologic traits were recorded during the growing season and accordingly, the drought resistance indices were calculated for each genotype.The simple and compound analysis of variance showed significant differences among genotypes and their interaction with drought stress for most of the measured parameters. The analysis of variance for drought tolerance index (TOL) indicated that genotypes showed different reaction to drought stress. All genotypes were classified to four groups of A, B, C and D according to STI criteria. In this classification, the Chamran genotype along with N- 81- 16 line were recommended for cultivation in normal as well as stressed (early, late and complete drought stress ) conditions. Kohdasht genotype and lines N- 79- 10 and N- 79- 7 produced a reasonable yield at early and complete drought conditions and were classified at C group.",
+        "lang": "eng"
+    },
+    "appid": "10883_2850",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2850"
+}}

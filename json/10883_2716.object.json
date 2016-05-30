@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Genetic and molecular analysis of wheat tan spot resistance effective against Pyrenophora tritici-repentis races 2 and 5",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:27Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow spot",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "necrosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15509",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "chlorosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1579",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diversity arrays technology (dart)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7518,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "host resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spores",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7324"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9024
+            ],
+            "value": "recessive genes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6470"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spots",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7329"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "technology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7644"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hosts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3673"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pyrenophora",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6382"
+        }
+    ],
+    "description": {
+        "value": "Tan spot, a major foliar disease of wheat (Triticum aestivum L.), is caused by an ascomycete Pyrenophora tritici-repentis. Both culture filtrates and conidiospore inocula induce disease symptoms in susceptible wheat genotypes. The objectives of this study were to determine and map the genetic control of resistance to spore inocula and culture filtrates of P. tritici-repentis races 2 and 5. The F1 and F2 generations and an F2:6 recombinant inbred lines (RIL) population were developed from a cross between the resistant ND 735 and the susceptible Steele-ND. Disease assessments of the segregating generations were done at the seedling stage using culture filtrates and spore inocula under controlled environmental conditions. Genetic and mapping analyses of the F1 and F2 generations and the RIL by both methods indicated that the same single recessive gene, Tsr1, located on chromosome 5BL, controlled resistance and insensitivity to necrosis induced by race 2. A second recessive gene, designated Tsr6, located on chromosome 2BS, conferred resistance/insensitivity to chlorosis induced by spore inocula or culture filtrates of race 5. Diversity Arrays Technology markers wPt-3049 (2.9 cM) and wPt-0289 (4.6 cM) were closely linked to Tsr1 and Tsr6, respectively. The results further indicated that culture filtrates can be used as surrogates for spore inoculation. Tsr1 and Tsr6 can be selected by marker-assisted selection in breeding for resistance to tan spot.",
+        "lang": "eng"
+    },
+    "appid": "10883_2716",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2716"
+}}

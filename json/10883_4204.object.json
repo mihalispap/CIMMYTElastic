@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Gestion des entreprises semencieres en Afrique",
+        "lang": "fra"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2015-02-16T13:50:28Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "industrie des semences",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "production de semences",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "commerce",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7848",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marché des produits de base",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "commercialisation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "deed",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_c10cdeb5"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "production",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6200"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4204",
+    "language": {
+        "value": "fra",
+        "uri": "http://lexvo.org/id/iso639-3/fra"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4204"
+}}

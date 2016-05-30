@@ -1,0 +1,153 @@
+{"object": {
+    "title": {
+        "value": "The challenges of maintaining wheat productivity: pests, diseases, and potential epidemics",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:04Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "foliar blights",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8835,
+                0.8835,
+                1,
+                ""
+            ],
+            "value": "fusarium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9374,
+                0.9374,
+                1,
+                ""
+            ],
+            "value": "root rots",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16033",
+                "http://aims.fao.org/aos/agrovoc/c_16033",
+                "http://aims.fao.org/aos/agrovoc/c_16033",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "climate change",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7561
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cochliobolus sativus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34517"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6157,
+            "value": "foliar diseases",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25240"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blight",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_957"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pests",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5741"
+        }
+    ],
+    "description": {
+        "value": "Knowing pests and diseases that may cause injuries and are likely to affect plant health and quality is critical to minimizing the gap between attainable yield and actual yield. In this paper, we highlight concepts and strategies aimed at controlling major biotic constraints affecting wheat in intensive production systems and present emerging challenges, with a special attention to the developing world. Disease epidemics result from the combination of inoculum, favorable environment, and host susceptibility. Changes in cropping systems as a result of adoption of conservation agriculture may have serious implications. Necrotrophic pathogens such as those responsible for tan spot or septorias are likely to emerge, and Fusarium head blight may increase. However, resistance breeding combined with rotations, timely sowing, and irrigation or even fungicide utilization, if affordable, are part of integrated crop management practices that can minimize losses. In South Asia, the effect of spot blotch, a devastating foliar disease caused by Cochliobolus sativus, can be minimized by reducing physiological stress through timely sowing and adequate use of fertilizers, which demonstrates the complex relationships among crop physiology, disease resistance, and yield. Although some root rots that induce premature death of tillers in cooler high-yielding humid environments can be important, the dryland crown rot (Fusarium spp.), common root rot (C. sativus), and the cereal nematode (Heterodera spp. and Pratylenchus spp.) should not be ignored. These are all known to be much more damaging under suboptimal moisture (rainfed or supplementary irrigation), particularly where plant growth is stressed. Climate change is likely to modify the wheat disease spectrum in some regions, and pathogens or pests considered unimportant today may turn out to be potential new threats in future.",
+        "lang": "eng"
+    },
+    "appid": "10883_2583",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2583"
+}}

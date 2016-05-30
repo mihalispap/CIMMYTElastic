@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Analysis on quality stability of steamed bread and Noodle by wheat cultivar Zhongmai 175",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "steamed bread quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "noodle quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "noodles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12848"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1071"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7876,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "A total of 14 samples of newly released wheat cultivar Zhongmai 175 collected from 2010-2011 cropping season at 14 locations were used to evaluate the milling quality,color of flour and noodle sheet,dough rheology,starch pasting property,and processing quality of steamed bread and noodle.The results indicated that Zhongmai 175 showed excellent steamed bread quality and good noodle quality,which was characterized with soft wheat,medium-weak gluten strength,and white color of flour.Except kernel hardness,PPO activity,a ? value of noodle sheet,farinograph stability,extensograph energy and extensibility and maximum resistance,most quality traits showed small variation as determined by coefficients of variation across locations.For processing quality parameters of steamed bread,variation across locations was larger than noodle parameters.Steamed bread processing quality was mainly affected by milling quality and dough property.Grain hardness and flour yield contributed negatively to skin color of steamed bread,with correlation coefficients of-0.82 iP0.01 jand-0.58 iP0.05 j,respectively.Steamed bread quality could be improved as flour L ? value increased.Dough water absorption was significantly and negatively correlated with steamed bread total score ir=-0.84,P0.01 j.Farinogram stability,extensogram energy and extensibility,and maximum resistance were significantly and positively correlated with steamed bread total score,with correlation coefficients of 0.85 iP0.01 j,0.77 iP0.01 j,0.62 iP0.05 j,and 0.70 iP0.01 j,respectively.The desirable creamy color of flour and noodle sheet would emerge meanwhile whiteness,brightness and yellowness of that increased as PPO activity and water absorption decreased,and protein content and flour yield and yellow pigment increased.The processing quality of steamed bread and noodle was not significantly affected by starch pasting property.The information has potential value for improvement of wheat quality stability in China.",
+        "lang": "eng"
+    },
+    "appid": "10883_2950",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2950"
+}}

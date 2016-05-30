@@ -25,10 +25,19 @@
             "uri": ""
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
             "value": "biomass",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_926",
+                ""
+            ]
         },
         {
             "vocabulary": "",

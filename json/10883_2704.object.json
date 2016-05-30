@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Mega-environment identification for barley based on twenty-seven years of global grain yield data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:25Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6119
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "barley",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_823"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Knowledge of target environments in breeding programs is important to better direct the development of germplasm. The objectives of this study were to identify associations among barley (Hordeum vulgare L.) growing environments to identify mega-environments to select the best locations to breed barley. Twenty-seven years of grain yield data from the International Barley Yield Trial (IBYT) conducted by the ICARDA-CIMMYT Barley Breeding Program, consisting of 750 grain yield trials of two replications representing 235 locations in 75 countries, were analyzed using pattern analysis to group sites across years that represent similar selection environments. The shifted multiplicative model (SHMM) was employed to group sites within each year. Environments clustered into three main groups and squared Euclidean distances were used to identify a representative location within each cluster. Group 1 locations were characterized as being cool with intermediate precipitation; Group 2 locations were warmer and drier; and Group 3 sites were generally cool and had the highest average precipitation. The respective representative key locations for each of the three groups were Leida, Spain; Boulifa, Tunisia; and Setif, Algeria. All three key locations are located in the Northern Hemisphere between 36° and 41° latitude. The results of this study show that the global adaptation of barley is possible and can be improved by breeding and selection for adaptation within the three main mega-environments identified.",
+        "lang": "eng"
+    },
+    "appid": "10883_2704",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2704"
+}}

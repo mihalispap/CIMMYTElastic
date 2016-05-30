@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1672-9072",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-30T05:24:50Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3204",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3204"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3204"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3204",
+    "creator": [
+        {
+            "id": 1508327757,
+            "value": "Cairns, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1508327757"
+        },
+        {
+            "id": 400352423,
+            "value": "Sanchez, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/400352423"
+        },
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        },
+        {
+            "id": 814239592,
+            "value": "Ordoñez, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/814239592"
+        },
+        {
+            "id": 1325692744,
+            "value": "Araus, J.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1325692744"
+        }
+    ],
+    "publisher": {
+        "id": 809653298,
+        "value": "http://onlinelibrary.wiley.com/doi/10.1111/j.1744-7909.2012.01156.x/abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/809653298"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3204/1/97796.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1134954
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3204/2/97796.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 61087
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3204/3/97796.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 18306
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3204/1/97796.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3204/2/97796.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3204/3/97796.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3204"
+        }
+    },
+    "extent": "",
+    "page": "1007-1020",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

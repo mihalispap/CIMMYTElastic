@@ -3,7 +3,7 @@
         "value": "Narrowing the wheat gap in Sub-Saharan Africa: A review of consumption and production issues",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:05:40Z",
     "created": "2013-06-07T21:09:22Z",
     "subject": [
         {
@@ -116,6 +116,12 @@
                 "http://aims.fao.org/aos/agrovoc/c_165",
                 ""
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7992,
+            "value": "consumption",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1827"
         }
     ],
     "description": {

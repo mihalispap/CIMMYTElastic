@@ -1,0 +1,138 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2014-03-05T17:59:56Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3443",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1969",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3443"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3443"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3443",
+    "creator": [
+        {
+            "id": 610079472,
+            "value": "Mital, S.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/610079472"
+        },
+        {
+            "id": 664963556,
+            "value": "Swarup, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/664963556"
+        },
+        {
+            "id": 1727094441,
+            "value": "Kohli, M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1727094441"
+        },
+        {
+            "id": 1010317345,
+            "value": "Singh, H.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010317345"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3443/1/21214.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 14589
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3443/4/21214.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6222
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3443/5/21214.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 154577
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3443/1/21214.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3443/4/21214.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3443/5/21214.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3443"
+        }
+    },
+    "extent": "",
+    "page": "98-103",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "A novel homeobox-like gene associated with reaction to stripe rust and powdery mildew in common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:21Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durable resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.899
+            ],
+            "value": "homeoboxes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27543"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6768,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6783,
+            "value": "blumeria graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27196"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6367,
+            "value": "amplified fragment length polymorphism",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331160"
+        }
+    ],
+    "description": {
+        "value": "Stripe rust and powdery mildew, caused by Puccinia striiformis f. sp. tritici and Blumeria graminis f. sp. tritici, respectively, are severe diseases in wheat (Triticum aestivum) worldwide. In our study, differential amplification of a 201-bp cDNA fragment was obtained in a cDNA-amplified fragment length polymorphism (AFLP) analysis between near-isogenic lines Yr10NIL and Avocet S, inoculated with P. striiformis f. sp. tritici race CYR29. A full-length cDNA (1,357 bp) of a homeobox-like gene, TaHLRG (GenBank accession no. EU385606), was obtained in common wheat based on the sequence of GenBank accession AW448633 with high similarity to the above fragment. The genomic DNA sequence (2,396 bp) of TaHLRG contains three exons and two introns. TaHLRG appeared to be a novel homeobox-like gene, encoding a protein with a predicted 66-amino-acid homeobox domain. It was involved in race-specific responses to stripe rust in real-time quantitative polymerase chain reaction (PCR) analyses with Yr9NIL, Yr10NIL, and Avocet S. It was also associated with adult-plant resistance to stripe rust and powdery mildew based on the field trials of doubled haploid lines derived from the cross Bainong 64/Jingshuang 16 and two F2:3 populations from the crosses Lumai 21/Jingshuang 16 and Strampelli/Huixianhong. A functional marker, THR1 was developed based on the sequence of TaHLRG and located on chromosome 6A using a set of Chinese Spring nulli-tetrasomic lines.",
+        "lang": "eng"
+    },
+    "appid": "10883_2680",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2680"
+}}

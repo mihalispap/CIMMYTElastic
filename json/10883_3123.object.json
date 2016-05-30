@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Genotype by environment interactions and yield stability of stem borer resistant maize hybrids in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype x environment (g x e) interactions",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stem borer resistant hybrids",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "stability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36930",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "stem borers",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7389"
+            ]
+        }
+    ],
+    "description": {
+        "value": "In a maize breeding program, potential genotypes are usually evaluated in different environments before desirable ones are selected. Genotype x environment (G x E) interaction is associated with the differential performance of genotypes tested at different locations and in different years, and influences selection and recommendation of cultivars. Twenty one stem borer resistance maize hybrids and four commercial checks were evaluated in six environments in Kenya under infestation with Chilo partellus and Busseola fusca to determine the G x E interactions and stability of the hybrids. Analysis of variance was conducted for grain yield, days to flowering and plant and ear height. Stability for grain yield was determined using genotype plus genotype by environment interaction (GGE) biplot analysis. Variances due to genotype, environment and G x E interaction effects were highly significant for all traits. The GGE biplot showed that four experimental hybrids and two commercial checks had positive PC1 score indicating above average performance across environments. However, 10 experimental hybrids and two commercial checks had negative PC1 score, suggesting poor average performance. Experimental hybrids, CKIR07004 and CKIR07013, were highly desirable in terms of grain yield (>7.5 t/ha) and stability across environments. These hybrids could be released in Kenya and similar environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3123",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3123"
+}}

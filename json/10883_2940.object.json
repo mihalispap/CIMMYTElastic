@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping of quantitative trait loci for adult-plant resistance to powdery mildew in Italian wheat cultivar Libellula",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "blumeria graminis f. sp. tritici",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssr markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blumeria graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27196"
+        }
+    ],
+    "description": {
+        "value": "Powdery mildew, caused by Blumeria graminis f. sp. tritici (Bgt), is a fungal disease that causes significant yield losses in many wheat-growing regions of the world. Previously, five quantitative trait loci (QTLs) for adult-plant resistance (APR) to stripe rust resistance were identified in Italian wheat cultivar Libellula. The objectives of this study were to map QTLs for APR to powdery mildew in 244 F2 : 3 lines of Libellula/Huixianhong, to analyse the stability of detected QTLs across environments, and to assess the association of these QTLs with stripe rust resistance. Powdery mildew response was evaluated for 2 years in Beijing and for 1 year in Anyang. The correlation between averaged maximum disease severity (MDS) and averaged area under disease progress curve (AUDPC) over 2 years in Beijing was 0.98, and heritabilities of MDS and AUDPC were 0.65 and 0.81, respectively, based on the mean values averaged across environments. SSR markers were used to screen the parents and mapping population. Five QTLs were identified by inclusive composite interval mapping, designated as QPm.caas-2DS, QPm.caas-4BL.1, QPm.caas-6BL.1, QPm.caas-6BL.2, and QPm.caas-7DS. Three QTLs (QPm.caas-2DS and QPm.caas-6BL.1, and QPm.caas-6BL.2) seem to be new resistance loci for powdery mildew. QTLs QPm.caas-2DS and QPm.caas-4BL.1 were identified at the same position as previously mapped QTLs for stripe rust resistance in Libellula. The QTL QPm.caas-7DS, derived from Libellula, coincided with the slow rusting and slow mildewing locus Lr34/Yr18/Pm38. These results and the identified markers could be useful for wheat breeders aiming for durable resistance to both powdery mildew and stripe rust.",
+        "lang": "eng"
+    },
+    "appid": "10883_2940",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2940"
+}}

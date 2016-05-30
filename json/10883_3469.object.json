@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Plot size matters: interference from intergenotypic competition in plant phenotyping studies",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "border",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "competition",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "density",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "edge",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "row",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "validation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "Genetic and physiological studies often comprise genotypes diverse in vigour, size and flowering time. This can make the phenotyping of complex traits challenging, particularly those associated with canopy development, biomass and yield, as the environment of one genotype can be influenced by a neighbouring genotype. Limited seed and space may encourage field assessment in single, spaced rows or in small, unbordered plots, whereas the convenience of a controlled environment or greenhouse makes pot studies tempting. However, the relevance of such growing conditions to commercial field-grown crops is unclear and often doubtful. Competition for water, light and nutrients necessary for canopy growth will be variable where immediate neighbours are genetically different, particularly under stress conditions, where competition for resources and influence on productivity is greatest. Small hills and rod-rows maximise the potential for intergenotypic competition that is not relevant to a crop's performance in monocultures. Response to resource availability will typically vary among diverse genotypes to alter genotype ranking and reduce heritability for all growth-related traits, with the possible exception of harvest index. Validation of pot experiments to performance in canopies in the field is essential, whereas the planting of multirow plots and the simple exclusion of plot borders at harvest will increase experimental precision and confidence in genotype performance in target environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3469",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3469"
+}}

@@ -1,0 +1,165 @@
+{"object": {
+    "title": {
+        "value": "Molecular characterization of Asian maize inbread lines by multiple laboratories",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:47Z",
+    "created": "2013-06-30T05:24:19Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24039",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crossbreeding",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "diversification",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2344",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "tropical zones",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7979",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agricultural research",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8679",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "asia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        }
+    ],
+    "description": {
+        "value": "This study focuses on the standardization of techniques across laboratories to enable multiple datasets to be compared and combined in order to obtain reliable and robust wide-scale patterns of diversity. A set of protocols using a core collection of simple sequence repeat (SSR) markers, reference lines and standard alleles, plus a common system of allele nomenclature, was adopted in the study of maize genetic diversity in a network of laboratories in Asia. Pair-wise allele comparisons of the reference lines, done to assess the general agreement between datasets from four laboratories, showed error rates (raw) ranging from 5.8% to 9.7%, which were reduced to less than 8% after adjustments of correctable errors, and further reduced to less than 6% after the exclusion of all markers with greater than 10% individual error rates. Overall, 45% of the total mismatches were due to frameshift errors, 39% to wrong allele size, 15% to failed amplification and 1% to extra alleles. Higher genetic similarity values of the reference lines were achieved using fewer markers with data of higher quality rather than with more markers of questionable quality. Cluster analysis of the merged datasets showed the lines from southern China to be highly diverse, falling into six of the seven clusters observed and all well represented by tester lines. The lines from Indonesia fell into five of six groups, with two main groups represented by tester lines. The CIMMYT lines developed for the Asian region showed a relatively narrow genetic base, falling in two out of seven and in three out of six clusters in China and Indonesia, respectively. In contrast to the case in southern China where 95% of the lines clustered separately from the CIMMYT lines, lines in the Indonesian breeding program show a closer relationship with the CIMMYT lines, reflecting a long history of germplasm exchange.",
+        "lang": "eng"
+    },
+    "appid": "10883_2989",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2989"
+}}

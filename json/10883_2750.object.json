@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping for flour and noodle colour components and yellow pigment content in common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chinese white salted noodle colour",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flour colour component",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait loci (qtl)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow pigment",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "flours",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2988"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "noodles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12848"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "pigments",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5875"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Improvement of flour colour is an important breeding objective for various wheat-based end-products. The objectives of this study were to identify quantitative trait loci (QTL) for flour colour components and yellow pigment content (YPC), using 240 recombinant inbred lines (RILs) derived from a cross between the Chinese wheat cultivars PH82-2 and Neixiang 188. Field trials were performed in a Latinized á-lattice design in Anyang and Jiaozuo, Henan Province and Taian, Shandong, in the 2005?2006 and 2006?2007 cropping seasons providing data for six environments. One hundred and eighty-eight polymorphic SSR markers, rye secalin marker Sec1, STS markers YP7A for a phytoene synthase gene (Psy-A1), and four glutenin subunit markers, were used to genotype the population and construct the linkage map for subsequent QTL analysis. Two major QTL were detected for YPC, associated with 1RS (1B.1R translocation) and the Psy-A1 (7A) gene, explaining 31.9% and 33.9% of the phenotypic variances, respectively. 1RS also had large influences on Fa*, Fb*, KJ, NL*and Nb*, and Psy-A1 genes showed large effects on Fa*, Fb*, Kj, Fci, NL*, Na* and Nb*, explaining from 4.5 to 26.1% and 4.3 to 35.9% of the phenotypic variances, respectively. In addition, QTL for flour colour parameters and yellow pigment content were also detected on chromosomes 1A and 4A, accounting for 1.5?4.1% of the phenotypic variance. The genetic effect of the 1B.1R translocation on flour colour parameters was also discussed",
+        "lang": "eng"
+    },
+    "appid": "10883_2750",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2750"
+}}

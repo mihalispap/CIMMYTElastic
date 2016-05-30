@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Extreme heat effects on wheat senescence in India",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "senescence",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14200"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6034
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        }
+    ],
+    "description": {
+        "value": "An important source of uncertainty in anticipating the effects of climate change on agriculture is limited understanding of crop responses to extremely high temperatures1, 2. This uncertainty partly reflects the relative lack of observations of crop behaviour in farmers? fields under extreme heat. We used nine years of satellite measurements of wheat growth in northern India to monitor rates of wheat senescence following exposure to temperatures greater than 34&#8201;°C. We detect a statistically significant acceleration of senescence from extreme heat, above and beyond the effects of increased average temperatures. Simulations with two commonly used process-based crop models indicate that existing models underestimate the effects of heat on senescence. As the onset of senescence is an important limit to grain filling, and therefore grain yields, crop models probably underestimate yield losses for +2&#8201;°C by as much as 50% for some sowing dates. These results imply that warming presents an even greater challenge to wheat than implied by previous modelling studies, and that the effectiveness of adaptations will depend on how well they reduce crop sensitivity to very hot days.",
+        "lang": "eng"
+    },
+    "appid": "10883_2871",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2871"
+}}

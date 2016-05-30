@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Expression of wheat leaf rust resistance gene Lr34 in seedlings and adult plants",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:22Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6354",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "resistance to injurious factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6520",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "seedlings",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6945",
+                "http://aims.fao.org/aos/agrovoc/c_6945",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3225",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3214",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7552,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2283",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2283"
+}}

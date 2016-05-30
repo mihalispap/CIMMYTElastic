@@ -1,0 +1,129 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nigeria",
+            "uri": [
+                "http://sws.geonames.org/2328926",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nigeria"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mozambique",
+            "uri": [
+                "http://sws.geonames.org/1036973",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mozambique"
+            ]
+        }
+    ],
+    "updatedDate": "2016-01-25T18:13:54Z",
+    "rights": [
+        "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International § CIMMYT manages Intellectual Assets as International Public Goods. In case you want to make non-exclusive commercial use of this item or you want to adapt it in any manner and use such adaptation, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the code/name of this item and the kind of use you intend; CIMMYT will contact you with the terms and conditions for such use.",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "relation": "Maize variety options for Africa",
+    "appid": "10883_4683",
+    "collection": [
+        {
+            "id": 1717216103,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1717216103"
+        },
+        {
+            "id": 1846298821,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1846298821"
+        }
+    ],
+    "format": "jpg",
+    "type": "Photograph",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4683"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4683"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4683",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4683/1/Abate+Posters+DTMA+in+pictures_Page_11.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 10402
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4683/2/Abate+Posters+DTMA+in+pictures_Page_11.jpg.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 8603452
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4683/1/Abate+Posters+DTMA+in+pictures_Page_11.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4683/2/Abate+Posters+DTMA+in+pictures_Page_11.jpg.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4683"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Nigeria",
+    "contributor": {
+        "id": 435805678,
+        "value": "Tsedeke Abate",
+        "type": "person",
+        "uri": "/cimmyt/person/435805678"
+    },
+    "isbn": "",
+    "quality": "300 dpi",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

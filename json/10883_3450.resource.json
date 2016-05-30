@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7380",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:59:59Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3450",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3450"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3450"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3450",
+    "creator": [
+        {
+            "id": 262223557,
+            "value": "Lugo-Espinosa, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/262223557"
+        },
+        {
+            "id": 1546174957,
+            "value": "Sanchez-Gutierrez, T.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1546174957"
+        },
+        {
+            "id": 797239295,
+            "value": "Camarena-Sagredo, J.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/797239295"
+        },
+        {
+            "id": 1970341735,
+            "value": "Vargas, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970341735"
+        },
+        {
+            "id": 1967761045,
+            "value": "Alvarado, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1967761045"
+        },
+        {
+            "id": 1633045922,
+            "value": "Jarquin, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1633045922"
+        },
+        {
+            "id": 1925111982,
+            "value": "Burgueño, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1925111982"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 705687722,
+            "value": "Sanchez-Villeda, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/705687722"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3450/1/98784.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 23454
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3450/4/98784.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 18488
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3450/5/98784.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1301405
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3450/1/98784.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3450/4/98784.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3450/5/98784.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3450"
+        }
+    },
+    "extent": "",
+    "page": "201-208",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

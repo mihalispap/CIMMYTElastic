@@ -34,22 +34,10 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "agrovoc",
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                0.7928,
-                0.7928,
-                ""
-            ],
+            "vocabulary": "",
+            "score": "",
             "value": "genetic improvement",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_11119",
-                "http://aims.fao.org/aos/agrovoc/c_11119",
-                ""
-            ]
+            "uri": ""
         },
         {
             "vocabulary": "",
@@ -62,60 +50,6 @@
             "score": "",
             "value": "amova",
             "uri": ""
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.7622
-            ],
-            "value": "genetic variation",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_15975"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.6465
-            ],
-            "value": "analysis",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_49928"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6272
-            ],
-            "value": "genetics",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3222"
-            ]
         },
         {
             "vocabulary": "agrovoc",

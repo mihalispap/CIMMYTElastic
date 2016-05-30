@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Appraisal of protocol for the rapid screening of maize genotypes for maize weevil resistance",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dobie's method",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain weevil resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "oviposition period",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "screening method",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sitophilus zeamais",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "weevils",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_30063"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "methods",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4788"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "oviposition",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5462"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "screening",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330877"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "A simplified, rapid protocol for screening maize genotypes for grain weevil resistance is required, therefore some modifications to the standard method (Dobie 1974) were appraised. The optimum oviposition period and minimum number of randomly selected weevils (Sitophilus zeamais Motschulsky) from a laboratory culture (without the procedure of sexing) to achieve similar progeny emergence to the standard method were determined under laboratory conditions. While results confirmed the effectiveness of the standard method in discriminating genotypes according to resistance, some modifications significantly reducing labour and level of skill required in implementing a rapid screening protocol were identified. Sex ratios in random samples of 10?50 weevils from a large laboratory culture were not significantly different from the 1:1 expected ratio (P >0.05) and therefore sexing of the populations was discarded. Infestation of grain with 32?50 weevils resulted in progeny emergence and kernel damage similar to the standard. Therefore, 32 weevils were recommended to infest grain for 10 days, without prior conditioning of insects to the test grain. Standard control hybrid varieties were also effectively validated. The modified procedure took 45?56 days to complete compared to about 90 days for the standard and did not sacrifice selection efficiency.",
+        "lang": "eng"
+    },
+    "appid": "10883_3105",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3105"
+}}

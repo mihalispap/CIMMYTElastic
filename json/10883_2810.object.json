@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Molecular detection of genomic regions associated with grain yield and yield-related components in an elite bread wheat cross evaluated under irrigated and rainfed conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:39Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6926
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        }
+    ],
+    "description": {
+        "value": "Grain yield and grain weight of wheat are often decreased by water-limitation in the north-eastern cropping belt of Australia. Based on knowledge that CIMMYT lines are well-adapted in this region, a recombinant inbred line (RIL) population between two elite CIMMYT bread wheats (Seri M82 and Babax) was evaluated under water-limited environments. Fourteen productivity traits were evaluated in 192 progeny in up to eight trials. For three aggregations of the environments (all, high yield or low yield), multiple quantitative trait loci (QTL) were detected, each explaining <15% of variation. Co-location of multiple trait QTL was greatest on linkage groups 1B-a, 1D-b, 4A-a, 4D-a, 6A-a, 6B-a, 7A-a and an unassigned linkage group. Two putative QTL (LOD > 3) from Seri (6D-b and UA-d) increased grain yield and co-located with a suggestive (2 < LOD < 3) and a putative QTL for increased stem carbohydrate content (WSC), respectively; the latter QTL also co-located with a putative anthesis QTL for earlier flowering. Both QTL were detected only in high yield (>4t ha&#8722;1) environments. A third increased grain yield QTL (7A-a) from Babax co-located with QTL for increased grain number. Six putative QTL increased grain weight and co-located with QTL for harvest index, grains per spike and spike number. Three putative QTL for increased grains per spike co-located with strong QTL for earlier flowering, increased grain weight and fewer spikes. A group of progeny that exceeded the mean grain yield and grain weight of commercial checks had an increased frequency of QTL for high WSC, large grain size, increased harvest index and greater height, but fewer stems, when compared to low yielding (20% less), low grain weight progeny. These findings were consistent with agronomic analyses of the germplasm and demonstrate that there should be opportunities to independently manipulate grain number and grain size which is typically difficult due to strong negative correlations.",
+        "lang": "eng"
+    },
+    "appid": "10883_2810",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2810"
+}}

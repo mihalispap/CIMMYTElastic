@@ -1,0 +1,25 @@
+{"object": {
+    "title": {
+        "value": "Genomic selection in wheat breeding using genotyping-by-sequencing",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:56Z",
+    "subject": {
+        "vocabulary": "",
+        "score": "",
+        "value": "",
+        "uri": ""
+    },
+    "description": {
+        "value": "Genomic selection (GS) uses genome-wide molecular markers to predict breeding values and make selections of individuals or breeding lines prior to phenotyping. Here we show that genotyping-by-sequencing (GBS) can be used for de novo genotyping of breeding panels and to develop accurate GS models, even for the large, complex, and polyploid wheat genome. With GBS we discovered 41K SNPs in a set of 254 advanced breeding lines from CIMMYT?s semi-arid wheat breeding program. Four different methods were evaluated for imputing missing marker scores in this set of unmapped markers, including random forest regression and a newly developed multivariate-normal expectation maximization algorithm, which gave more accurate imputation than heterozygous or mean imputation at the marker level, though no significant differences were observed in the accuracy of genomic-estimated breeding values (GEBVs). GEBV prediction accuracies with GBS were 0.28 ? 0.45 for grain yield, an improvement of 0.1-0.2 over an established marker platform for wheat. GBS combines marker discovery and genotyping of large populations making it an excellent marker platform for breeding applications even in the absence of reference genome sequence or previous polymorphism discovery. In addition, the flexibility and low-cost of GBS make this an ideal approach for genomics-assisted breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2933",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2933"
+}}

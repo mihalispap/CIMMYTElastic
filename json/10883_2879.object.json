@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Molecular markers for tracking variation in lipoxygenase activity in wheat breeding",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:48Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lipoxygenase activity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multiplex pcr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8901,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6006
+            ],
+            "value": "locus",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "lipoxygenase",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12199"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        }
+    ],
+    "description": {
+        "value": "Lipoxygenase (LOX) activity is an important factor determining the color of flour and end-use products of wheat. In the present study, quantitative trait loci (QTL) for LOX activity in common wheat were mapped using 71 doubled haploid (DH) lines derived from a Zhongyou 9507 × CA9632 cross, and SSR markers. Two QTL, QLpx.caas.1AL and QLpx.caas-4B, were identified on chromosomes 1AL and 4B, closely associated with LOX activity. The SSR loci Xwmc312 and Xgwm251 proved to be diagnostic and explained 13.4?25.2% of the phenotypic variance for the 1AL locus and 14.3?27.0% for the 4B locus across four environments. The SSR markers Xgwm251 and Xwmc312 were validated across 198 Chinese wheat cultivars and advanced lines and showed highly significant (P < 0.01) association with LOX activity. We further established a multiplexed PCR with SSR marker combination Xwmc312/Xgwm251 to test these wheat cultivars and advanced lines. The results suggested that the marker combination Xwmc312/Xgwm251 is efficient and reliable for evaluating LOX activity and can be used in marker-assisted selection (MAS) for targeting flour color attributes to noodle and other wheat-based products.",
+        "lang": "eng"
+    },
+    "appid": "10883_2879",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2879"
+}}

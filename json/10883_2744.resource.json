@@ -1,0 +1,159 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "South Korea",
+        "uri": [
+            "http://sws.geonames.org/1835841",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/south_Korea"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2744",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2744"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2744"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2744",
+    "creator": [
+        {
+            "id": 1918033829,
+            "value": "Chul Soo Park",
+            "type": "person",
+            "uri": "/cimmyt/person/1918033829"
+        },
+        {
+            "id": 732776015,
+            "value": "Peña-Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/732776015"
+        },
+        {
+            "id": 886120820,
+            "value": "Byung-Kee Baik",
+            "type": "person",
+            "uri": "/cimmyt/person/886120820"
+        },
+        {
+            "id": 209926371,
+            "value": "chon-Sik Kang",
+            "type": "person",
+            "uri": "/cimmyt/person/209926371"
+        },
+        {
+            "id": 1995136561,
+            "value": "Hwa-Young Heo",
+            "type": "person",
+            "uri": "/cimmyt/person/1995136561"
+        },
+        {
+            "id": 1618009312,
+            "value": "Young-keun Cheong",
+            "type": "person",
+            "uri": "/cimmyt/person/1618009312"
+        },
+        {
+            "id": 1986823326,
+            "value": "Sun-Hee Woo",
+            "type": "person",
+            "uri": "/cimmyt/person/1986823326"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2744/1/93506.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 950064
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2744/2/93506.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43903
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2744/3/93506.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6061
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2744/1/93506.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2744/2/93506.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2744/3/93506.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2744"
+        }
+    },
+    "extent": "",
+    "page": "181-191",
+    "coverage": [
+        "South Korea",
+        "East Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

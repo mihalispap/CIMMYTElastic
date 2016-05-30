@@ -1,0 +1,197 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2014-01-28T17:29:29Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3395",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3395"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3395"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3395",
+    "creator": [
+        {
+            "id": 1042622880,
+            "value": "Yadav, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1042622880"
+        },
+        {
+            "id": 367998803,
+            "value": "Malik, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/367998803"
+        },
+        {
+            "id": 274196962,
+            "value": "Humphreys, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/274196962"
+        },
+        {
+            "id": 467554464,
+            "value": "Kumar, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/467554464"
+        },
+        {
+            "id": 1009989117,
+            "value": "Singh, S.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1009989117"
+        },
+        {
+            "id": 1018282583,
+            "value": "Chauhan, B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1018282583"
+        },
+        {
+            "id": 1340557598,
+            "value": "Kamboj, B.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1340557598"
+        },
+        {
+            "id": 524467680,
+            "value": "Gathala, M.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/524467680"
+        },
+        {
+            "id": 2104021588,
+            "value": "Jat, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/2104021588"
+        },
+        {
+            "id": 1239694543,
+            "value": "McDonald, A.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1239694543"
+        },
+        {
+            "id": 1690635129,
+            "value": "Laik, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1690635129"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 2256160,
+            "value": "IRRI",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2256160"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/1/98525.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1586842
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/3/98525.pdf.txt",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 40331
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/4/98525.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 9658
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/1/98525.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/3/98525.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3395/4/98525.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3395"
+        }
+    },
+    "extent": "",
+    "page": "iv, 32 pags",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Manila (Philippines)",
+    "doi": ""
+}}

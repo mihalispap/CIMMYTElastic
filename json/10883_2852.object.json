@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Comparative analyses of LMW glutenin alleles in bread wheat using allele-specific PCR and SDS-PAGE",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "glutenins",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24033",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "pcr",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34079",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7195,
+                0.7195,
+                0.7195,
+                0.7195,
+                1,
+                ""
+            ],
+            "value": "sds-page",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34078",
+                "http://aims.fao.org/aos/agrovoc/c_34078",
+                "http://aims.fao.org/aos/agrovoc/c_34078",
+                "http://aims.fao.org/aos/agrovoc/c_34078",
+                "http://aims.fao.org/aos/agrovoc/c_34078",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "One hundred and eighty-two bread wheat cultivars developed in India were characterized for low molecular weight (LMW) glutenins using SDS-PAGE and allele-specific polymerase chain reaction (PCR) to assess allelic diversity encoded by Glu-3 loci, as well as their utility for correctly identifying different alleles. SDS-PAGE indicated Glu-A3c is present in 64.6% of the cultivars, Glu-A3b in 13.8%, Glu-A3d in 12.7% and Glu-A3e/f in 8.8%. Seven types of alleles were present at the Glu-B3 locus: Glu-B3b (29.3%), Glu-B3g (27.0%), Glu-B3h (13.8%), Glu-B3i (16.1%), Glu-B3j (12.1%), Glu-B3c (0.6%) and Glu-B3d (1.1%). SDS-PAGE found three types of Glu-D3 alleles: Glu-D3a (30.2%), Glu-D3b (67.1%) and Glu-D3c (2.7%). However, PCR found two different alleles in cultivars classified as carrying Glu-D3a and three alleles in those identified as carrying Glu-D3b cultivars, indicating a more complex nature of the Glu-D3 locus. In conclusion, the data found greater consistency between the SDS-PAGE and PCR amplification patterns of alleles such as Glu-A3c, Glu-A3d, Glu-B3g, Glu-B3h and Glu-B3i, and less consistency between those same patterns in the Glu-A3b, Glu-A3e/f and Glu-B3b alleles. More studies are needed in order to achieve unambiguous identification of the Glu-3 alleles and thereby allow their greater utility in germplasm evaluation and breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2852",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2852"
+}}

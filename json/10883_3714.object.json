@@ -1,0 +1,189 @@
+{"object": {
+    "title": {
+        "value": "Enfermedades del maiz: Una guia para su identificacion en el campo",
+        "lang": "spa"
+    },
+    "updated": "2015-05-28T16:33:36Z",
+    "created": "2014-03-13T00:57:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bacterioses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_770",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mycoses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5024",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "viroses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8260",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "diagnosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2238",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rots",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6667",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "spots",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7329",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gibberella fujikuroi",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16511",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "para",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5556"
+        }
+    ],
+    "description": {
+        "value": "Este folleto se preparo a manera de guia rapida para la identificacion de enfermedades del maiz en el campo. El proposito es que sirva a productores y tecnicos agricolas. El texto describe brevemente algunas de las principales enfermedades del maiz, sus agentes causales y sus sintomas. Como ayuda para la identificacion visual, se ha ilustrado con fotografias a color de plantas enfermas. Las enfermedades descritas aqui se seleccionaron de acuerdo con su potencialidad de causar daños economicos en las regiones productoras de maiz del mundo. En esta segunda edicion se ha mejorado el folleto al añadir varias envermedades especificas en areas determinadas. La",
+        "lang": "spa"
+    },
+    "appid": "10883_3714",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3714"
+}}

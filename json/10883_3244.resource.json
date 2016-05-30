@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "0016-6707",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-24T18:05:37Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3244",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3244"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3244"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3244",
+    "creator": [
+        {
+            "id": 2131907034,
+            "value": "Carre, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/2131907034"
+        },
+        {
+            "id": 740593341,
+            "value": "Gamboa, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/740593341"
+        },
+        {
+            "id": 2109202927,
+            "value": "Cros, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/2109202927"
+        },
+        {
+            "id": 160943338,
+            "value": "Hickey, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/160943338"
+        },
+        {
+            "id": 225755857,
+            "value": "Gorjanc, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/225755857"
+        },
+        {
+            "id": 1752863391,
+            "value": "Manfredi, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1752863391"
+        }
+    ],
+    "publisher": {
+        "id": 185362713,
+        "value": "http://link.springer.com/article/10.1007%2Fs10709-013-9722-9",
+        "type": "organization",
+        "uri": "/cimmyt/organization/185362713"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3244/1/98005.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 357949
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3244/2/98005.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 34134
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3244/3/98005.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5591
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3244/1/98005.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3244/2/98005.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3244/3/98005.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3244"
+        }
+    },
+    "extent": "",
+    "page": "239-246",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

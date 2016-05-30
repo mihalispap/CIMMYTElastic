@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:09:38Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2135",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2006",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2135"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2135"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2135",
+    "creator": [
+        {
+            "id": 286719450,
+            "value": "Hellin, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/286719450"
+        },
+        {
+            "id": 1752007571,
+            "value": "Bellon, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1752007571"
+        },
+        {
+            "id": 589796888,
+            "value": "Badstue, L.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/589796888"
+        }
+    ],
+    "publisher": {
+        "id": 1466210641,
+        "value": "http://bit.ly/10QyCo1",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1466210641"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2135/1/90160.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 278995
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2135/2/90160.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 19965
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2135/3/90160.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7927
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2135/1/90160.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2135/2/90160.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2135/3/90160.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2135"
+        }
+    },
+    "extent": "",
+    "page": "8-14 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Construction of a SSR linkage map and mapping of quantitative trait loci (QTL) for leaf angle and leaf orientation with an elite maize hybrid",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:31Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf angel",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf orientation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "orientation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5406"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.658
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9328,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Maize (Zea mays L.) breeders have begun selecting for more compact plants for higher density planting in order to increase yield per unit area. Leaf angle and leaf orientation are very important traits affecting maize plant type (compactness). In this study, a genetic linkage map containing 138 simple sequence repeat (SSR) markers was constructed based on a mapping population consisting of 500 F2 individuals from the cross between inbred lines Ye478 and Dan340. This SSR linkage map spans a total of 1 394.9 cM with an average interval of 10.1 cM. Quantitative trait loci (QTL) for leaf angle and leaf orientation were identified in 397 F2:3 families. Six QTL for leaf angle were detected that could explain 41.0% of the phenotypic variation; while, eight QTL were detected for leaf orientation that could explain 60.8% of the phenotypic varia-tion. Single QTL contribution to phenotypic variation ranged from 2.9% to 13.6%. Additive and partial dominance were the main genetic effects for leaf angle and leaf orientation; in addition, nine pairs of locus interactions were detected for the two traits, indicating that epistatic interactions at the two-loci level also play a measurable role in the genetic basis of the two traits.",
+        "lang": "eng"
+    },
+    "appid": "10883_3055",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3055"
+}}

@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Development of STS markers and establishment of multiplex PCR for Glu-A3 alleles in common wheat (Triticum aestivum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lmw-gs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "glu-a3",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sts marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multiplex pcr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6347
+            ],
+            "value": "pcr",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34079"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Low-molecular-weight glutenin subunits (LMW-GS) play a key role in determining the processing quality of the end-use products of common wheat. The objectives of this study were to identify genes at Glu-A3 locus, develop the STS markers, and establish multiplex PCR with the STS markers for Glu-A3 alleles. Gene-specific PCR primers were designed to amplify six near-isogenic lines (NILs) and Glenlea with different Glu-A3 alleles (a, b, c, d, e, f and g) defined by the protein electrophoretic mobility. Three Glu-A3 genes with complete coding sequence were cloned, designated as GluA3-1, GluA3-2 and GluA3-3, respectively. Seven dominant allele-specific STS (sequence tagged sites) markers were designed based on the SNPs (single nucleotide polymorphisms) among different allelic variants for the discrimination of the Glu-A3 protein alleles a, b, c, d, e, f and g. Four multiplex PCRs were established including Glu-A3b + Glu-A3f, Glu-A3d + Glu-A3f, Glu-A3d + Glu-A3g, and Glu-A3b + Glu-A3e. These markers and multiplex-PCR systems were validated on 141 CIMMYT wheat varieties and advanced lines with different Glu-A3 alleles, confirming that they can be efficiently used in marker-assisted breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2762",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2762"
+}}

@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Efficiency of managed-stress screening of elite maize hybrids under drought and low-N for yield under rainfed conditions in Southern Africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "random abiotic stress tolerance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic correlation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_29796",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "retrospective analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selection efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "abiotic stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35768"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "efficiency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2491"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7568,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7914,
+            "value": "southern africa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7265"
+        }
+    ],
+    "description": {
+        "value": "Maize (Zea mays L.) yields in southern Africa are low, due largely to drought and low-N stress. Selection of stress-tolerant genotypes by CIMMYT is conducted indirectly under managed stress conditions, although the selection efficiency of this approach is not known. A retrospective analysis of 704 elite hybrid trials conducted from 2001 to 2009 was used to determine the relative ability of optimal, low-N, and managed drought trials to predict performance under the conditions of random abiotic stress and low-N fertility usually faced by African farmers. Well-fertilized trials in the rainy season were categorized as having experienced random abiotic stress if mean yield was <3 t ha?1 and the yield?anthesis date correlation was <0.1; otherwise they were classed as optimal. High genetic correlations were estimated between random abiotic stress and low-N (0.9) or optimal conditions (0.8). Heritability was highest under optimal conditions and lowest under random abiotic stress. Indirect selection under low-N and optimal conditions was more efficient than direct selection under random abiotic stress or indirect selection under managed drought, especially for early maturing genotypes, but direct selection was most efficient for predicting performance under low N. Elite maize hybrids tolerant to random abiotic stress can be most efficiently selected under optimal and/or low-N conditions while low-N tolerant genotypes should be selected directly under low N.",
+        "lang": "eng"
+    },
+    "appid": "10883_3145",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3145"
+}}

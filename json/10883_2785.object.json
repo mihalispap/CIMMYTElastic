@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Grain quality of spring and winter wheat of Kazakhstan",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:36Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "winter wheat",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8412"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9533
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7656
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9957
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6064
+            ],
+            "value": "quality",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6400"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The steppe region of Northern Kazakhstan grows more than 12 million ha of spring wheat, and approximately 1 million ha of winter wheat, with an average grain yield around 1.2-1.7 t/ha mainly under low input production conditions. The maturity group (growth period type) is an important trait affecting adaptation to moisture deficit but its relationship with grain yield is variable. The region exports wheat and therefore grain quality is an important factor to succeed in the export market. The objective of this study was to determine the grain quality characteristics of spring and winter wheat cultivars based on grain hardness and bread making quality-related parameters, of state multiplication yield trials conducted in 1996-2006 across 56 locations in Kazakhstan. In addition, cultivars were classified into wheat quality classes using the Kazakhstan classification system, and Kazakh wheat quality classes were compared with those of neighboring and some major wheat-exporting countries. In general, Kazakhstan wheat is characterized by high protein (14-16 %) and gluten (21-40 %) contents, although its gluten strength is slightly weaker than that found in Australian wheat. Winter wheat cultivars showed higher variability in grain hardness than spring wheat cultivars. It is necessary to optimize the spring and winter wheat breeding programs for grain quality according to yield level and technological and ?use (pastry, mechanic bread-making, tandyr bread, noodles, industrial biotechnology, etc.).",
+        "lang": "eng"
+    },
+    "appid": "10883_2785",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2785"
+}}

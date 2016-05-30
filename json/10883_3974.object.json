@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Internal seed health rules and regulations for wheat",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:52Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pathogens",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "health protection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3512",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant protection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5978",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3974",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3974"
+}}

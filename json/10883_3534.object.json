@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT barley yellow dwarf (BYD) newsletter",
+        "lang": "cym"
+    },
+    "updated": "2016-01-22T23:05:34Z",
+    "created": "2014-03-13T00:47:19Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant viruses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5985",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "barley yellow dwarf virus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15942",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic resources",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3218",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "barley",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_823"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3534",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3534"
+}}

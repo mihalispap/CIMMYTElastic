@@ -1,0 +1,134 @@
+{"resource": {
+    "citation": "",
+    "issn": "0032-0889",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Sudan",
+            "uri": [
+                "http://sws.geonames.org/366755",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Sudan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:13:02Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2971",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2971"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2971"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2971",
+    "creator": [
+        {
+            "id": 840990960,
+            "value": "Cossani, C.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/840990960"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        }
+    ],
+    "publisher": {
+        "id": 986786524,
+        "value": "http://www.plantphysiol.org/content/160/4/1710.full",
+        "type": "organization",
+        "uri": "/cimmyt/organization/986786524"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2971/1/97698.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 401188
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2971/2/97698.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51745
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2971/3/97698.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6921
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2971/1/97698.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2971/2/97698.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2971/3/97698.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2971"
+        }
+    },
+    "extent": "",
+    "page": "1710-1718",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

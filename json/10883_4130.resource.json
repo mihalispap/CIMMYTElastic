@@ -1,0 +1,91 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-12-11T23:43:10Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_4130",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Dataset",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4130"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4130"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4130",
+    "creator": {
+        "id": 1922443943,
+        "value": "Crossa, J.",
+        "type": "person",
+        "uri": "/cimmyt/person/1922443943"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": {
+            "category": "",
+            "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4130/1/META-R+-+3.5.1.zip",
+            "label": "",
+            "type": "application/octet-stream",
+            "size": 21090370
+        },
+        "shownBy": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4130/1/META-R+-+3.5.1.zip"
+        },
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4130"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

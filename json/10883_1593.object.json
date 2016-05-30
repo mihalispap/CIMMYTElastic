@@ -1,68 +1,11 @@
 {"object": {
     "title": {
-        "value": "Genotypic trade-offs between water productivity and weed competition under the System of Rice Intensification in the Sahel",
+        "value": "Risk and maize-based cropping systems for smallholder Malawi farmers using conservation agriculture technologies",
         "lang": "eng"
     },
     "updated": "2016-01-22T23:05:27Z",
-    "created": "2013-06-07T20:59:21Z",
+    "created": "2013-11-23T00:49:25Z",
     "subject": [
-        {
-            "vocabulary": [
-                "agrovoc",
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                1,
-                1,
-                ""
-            ],
-            "value": "sri",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_1410770287830",
-                "http://aims.fao.org/aos/agrovoc/c_1410770287830",
-                ""
-            ]
-        },
-        {
-            "vocabulary": [
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                1,
-                ""
-            ],
-            "value": "weed management",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_8345",
-                ""
-            ]
-        },
-        {
-            "vocabulary": "",
-            "score": "",
-            "value": "alternate wetting and drying",
-            "uri": ""
-        },
-        {
-            "vocabulary": "",
-            "score": "",
-            "value": "nerica",
-            "uri": ""
-        },
-        {
-            "vocabulary": "",
-            "score": "",
-            "value": "oryza sativa",
-            "uri": ""
-        },
-        {
-            "vocabulary": "",
-            "score": "",
-            "value": "oryza glaberrima",
-            "uri": ""
-        },
         {
             "vocabulary": [
                 "",
@@ -74,25 +17,43 @@
                 "",
                 "",
                 "",
-                0.6038
+                0.7825
             ],
-            "value": "genotypes",
+            "value": "risk",
             "uri": [
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_3225"
+                "http://aims.fao.org/aos/agrovoc/c_6612"
             ]
         },
         {
             "vocabulary": "agrovoc",
             "score": 1,
-            "value": "drying",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2402"
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9789,
+            "value": "cropping systems",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1971"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6444,
+            "value": "malawi",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4532"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "smallholders",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14343"
         }
     ],
     "description": {
-        "value": "Yield, water productivity and weed-inflicted Relative Yield Losses (RYL) under Recommended Management Practices (RMP) were compared with the System of Rice Intensification (SRI) under double-cropping for two seasons and at two locations in the Senegal River Valley. Seven genotypes from Oryza sativa and Oryza glaberrima species and their interspecific crosses, were grown under weed-free conditions and in competition with weeds. Weed-free grain yields in SRI were never significantly different than those obtained with RMP. An average of 27% (range 18?46%) less water was applied to SRI than required for continuous flooding in RMP, resulting in consistently higher water productivity with SRI. However, when subjected to weed competition, mean SRI yields were significantly lower than RMP in three of four experimental iterations (an average of 28% less). Across experiments, weed-inflicted RYL was greater in SRI than RMP in 81% of observed cases. Weeds reduced the water productivity enhancing benefits of SRI by an average of 38% compared to weed-free treatments, resulting in significantly lower water productivity with SRI in three of four experiments. Rice genotypes Jaya and Sahel-202 were identified as relatively weed-competitive under each crop management system, however both have intermediate-length cycles and required more irrigation than shorter-duration genotypes. When weeds are carefully controlled, good yields and significant water savings can be achieved with SRI. However, this specific requirement of careful weed control might be difficult to meet by farmers coping with high weed infestations or with limited access to tools, inputs or labor to address them. Weed-competitive genotypes could help reduce weed-inflicted yield losses associated with SRI and other water-saving rice production systems, though future breeding efforts should address the trade-offs between weed competitive traits, water productivity and crop duration to meet the needs of farmers practicing double rice cropping.",
+        "value": "Agricultural production in southern Africa is constrained by numerous factors, including low soil fertility, frequent droughts and flooding, limited access to fertilizers and the use of unsustainable management techniques that increase soil erosion rates. Conservation agriculture (CA) is based on the principles of minimum soil disturbance, crop residue retention and crop rotations. CA systems have been proposed to alleviate the negative externalities associated with conventional crop management systems. This study was conducted to examine the riskiness of economic returns of CA technologies based on maize grain yield evaluated in 12 target communities in Malawi from 2005?2011. On average, maize grain yields on both CA treatments exceeded the conventional control treatment by 22.1?23.6%, with differences more distinct in low altitude areas with low rainfall and frequent seasonal dry spells. Stochastic dominance analysis suggest that CA technologies would be preferred by risk-averse farmers, with corresponding differences in risk premiums (compared to conventional maize production systems) ranging between US$40 and US$105. However, these rankings are sensitive to the agroecological zones where the experiments were conducted. The risk premiums associated with the CA technologies in low elevation regions are unambiguous. Risk-averse farmers in higher elevations may need substantial incentives to adopt some CA technologies.",
         "lang": "eng"
     },
     "appid": "10883_1593",

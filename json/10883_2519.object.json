@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Targeted mapping of ESTs linked to the adult plant resistance gene Lr46 in wheat using synteny with rice",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synteny",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rice",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf-rust resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        }
+    ],
+    "description": {
+        "value": "The gene Lr46 has provided slow-rusting resistance to leaf rust caused by Puccinia triticina in wheat (Triticum aestivum), which has remained durable for almost 30 years. Using linked markers and wheat deletion stocks, we located Lr46 in the deletion bin 1BL (0.84&ndash;0.89) comprising 5% of the 1BL arm. The distal part of chromosome 1BL of wheat is syntenic to chromosome 5L of rice. Wheat expressed sequence tags (ESTs) mapping in the terminal 15% of chromosome 1BL with significant homology to sequences from the terminal region of chromosome 5L of rice were chosen for sequence-tagged site (STS) primer design and were mapped physically and genetically. In addition, sequences from two rice bacterial artificial chromosome clones covering the targeted syntenic region were used to identify additional linked wheat ESTs. Fourteen new markers potentially linked to Lr46 were developed; eight were mapped in a segregating population. Markers flanking (2.2 cM proximal and 2.2 cM distal) and cosegregating with Lr46 were identified. The physical location of Lr46 was narrowed to a submicroscopic region between the breakpoints of deletion lines 1BL-13 [fraction length (FL)=0.89&ndash;1] and 1BL-10 (FL=0.89&ndash;3). We are now developing a high-resolution mapping population for the positional cloning of Lr46.",
+        "lang": "eng"
+    },
+    "appid": "10883_2519",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2519"
+}}

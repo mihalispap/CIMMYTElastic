@@ -19,43 +19,10 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                1,
-                ""
-            ],
+            "vocabulary": "",
+            "score": "",
             "value": "zero tillage",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_8511",
-                ""
-            ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "monoculture",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4915"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "stability",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "co2",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1302"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "soil",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7156"
+            "uri": ""
         }
     ],
     "description": {

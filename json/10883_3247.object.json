@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Tests of standard diagrams for field use in assessing the tarspot disease complex of maize (Zea mays)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "coniothyrium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16233",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fungi",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3145",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3247",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3247"
+}}

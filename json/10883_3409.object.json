@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Development and characterization of simple sequence repeat markers providing genome-wide coverage and high resolution in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simple sequence repeat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "whole-genome sequences",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "polymorphic ssr markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "teosinte",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "simple sequence repeats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36574"
+        }
+    ],
+    "description": {
+        "value": "Simple sequence repeats (SSRs) have been widely used in maize genetics and breeding, because they are co-dominant, easy to score, and highly abundant. In this study, we used whole-genome sequences from 16 maize inbreds and 1 wild relative to determine SSR abundance and to develop a set of high-density polymorphic SSR markers. A total of 264 658 SSRs were identified across the 17 genomes, with an average of 135 693 SSRs per genome. Marker density was one SSR every of 15.48 kb. (C/G)n, (AT)n, (CAG/CTG)n, and (AAAT/ATTT)n were the most frequent motifs for mono, di-, tri-, and tetra-nucleotide SSRs, respectively. SSRs were most abundant in intergenic region and least frequent in untranslated regions, as revealed by comparing SSR distributions of three representative resequenced genomes. Comparing SSR sequences and e-polymerase chain reaction analysis among the 17 tested genomes created a new database, including 111 887 SSRs, that could be develop as polymorphic markers in silico. Among these markers, 58.00, 26.09, 7.20, 3.00, 3.93, and 1.78% of them had mono, di-, tri-, tetra-, penta-, and hexa-nucleotide motifs, respectively. Polymorphic information content for 35 573 polymorphic SSRs out of 111 887 loci varied from 0.05 to 0.83, with an average of 0.31 in the 17 tested genomes. Experimental validation of polymorphic SSR markers showed that over 70% of the primer pairs could generate the target bands with length polymorphism, and these markers would be very powerful when they are used for genetic populations derived from various types of maize germplasms that were sampled for this study.",
+        "lang": "eng"
+    },
+    "appid": "10883_3409",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3409"
+}}

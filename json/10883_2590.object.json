@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Global adaptation patterns of Australian and CIMMYT spring bread wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:06Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7062
+            ],
+            "value": "trials",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2758"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "additives",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_118"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9087
+            ],
+            "value": "genetic variance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24847"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.751
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8135
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8145,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6516
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        }
+    ],
+    "description": {
+        "value": "The International Adaptation Trial (IAT) is a special purpose nursery designed to investigate the genotype-by-environment interactions and worldwide adaptation for grain yield of Australian and CIMMYT spring bread wheat (Triticum aestivum L.) and durum wheat (T. turgidum L. var. durum). The IAT contains lines representing Australian and CIMMYT wheat breeding programs and was distributed to 91 countries between 2000 and 2004. Yield data of 41 reference lines from 106 trials were analysed. A multiplicative mixed model accounted for trial variance heterogeneity and inter-trial correlations characteristic of multi-environment trials. A factor analytic model explained 48% of the genetic variance for the reference lines. Pedigree information was then incorporated to partition the genetic line effects into additive and non-additive components. This model explained 67 and 56% of the additive by environment and non-additive by environment genetic variances, respectively. Australian and CIMMYT germplasm showed good adaptation to their respective target production environments. In general, Australian lines performed well in south and west Australia, South America, southern Africa, Iran and high latitude European and Canadian locations. CIMMYT lines performed well at CIMMYT&rsquo;s key yield testing location in Mexico (CIANO), north-eastern Australia, the Indo-Gangetic plains, West Asia North Africa and locations in Europe and Canada. Maturity explained some of the global adaptation patterns. In general, southern Australian germplasm were later maturing than CIMMYT material. While CIANO continues to provide adapted lines to northern Australia, selecting for yield among later maturing CIMMYT material in CIANO may identify lines adapted to southern and western Australian environments",
+        "lang": "eng"
+    },
+    "appid": "10883_2590",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2590"
+}}

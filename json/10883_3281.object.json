@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Development of two species-specific primer sets to detect the cereal cyst nematodes Heterodera avenae and Heterodera filipjevi",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:37Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cytochrome oxidase subunit 1",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular identification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pcr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sequence",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "species-specific primer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heterodera",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3580"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cytochrome oxidase",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27496"
+        }
+    ],
+    "description": {
+        "value": "Twelve Heterodera species are of major economic significance in wheat and barley. Of these, H. avenae, H. filipjevi and H. latipons are among the most important ones, and sometimes coexist. The identification of Heterodera species using morphological characteristics is time consuming, requires specialized skill and can be imprecise, especially when they occur mixed in field populations. Molecular techniques can provide a more accurate way for nematode identification. This study reports the results of experiments targeting the mitochondrial cytochrome oxidase subunit 1 (COI) gene to develop species-specific primers that could be used for the identification of H. avenae and H. filipjevi. The COI gene of 9 Heterodera spp. and Punctodera punctata was partially sequenced and the resultant sequences were aligned to find unique sites suitable for the design of primers. The alignment showed variability between H. avenae, H. filipjevi and other Heterodera species. Two sets of species-specific primers were identified for the identification of both species and the conditions for their use in PCR were optimised. The specificity of the designed primers was checked by comparison with one population of P. punctata and populations of 14 other Heterodera species, nine populations of H. avenae and 10 populations of H. filipjevi originating from different countries. To test the sensitivity, the PCR was run with DNA extracted from five second-stage juveniles (J2) of H. avenae or five J2 of H. filipjevi mixed with DNA extracted from varying numbers of J2 of H. latipons. It was possible to detect as few as five J2 of H. avenae or H. filipjevi among 100 J2 of H. latipons. The two primers sets allow the detection of H. avenae and H. filipjevi where they occur in mixed populations with other Heterodera spp.",
+        "lang": "eng"
+    },
+    "appid": "10883_3281",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3281"
+}}

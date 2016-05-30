@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Genome-wide association analysis for nine agronomic traits in maize under well-watered and water-stressed conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:05Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8285
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9924
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9845
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9779
+            ],
+            "value": "drought tolerance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14914"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agronomic traits",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_210"
+        }
+    ],
+    "description": {
+        "value": "Drought can cause severe reduction in maize production, and strongly threatens crop yields. To dissect this complex trait and identify superior alleles, 350 tropical and subtropical maize inbred lines were genotyped using a 1536-SNP array developed from drought-related genes and an array of 56,110 random SNPs. The inbred lines were crossed with a common tester, CML312, and the testcrosses were phenotyped for nine traits under well-watered and water-stressed conditions in seven environments. Using genome-wide association mapping with correction for population structure, 42 associated SNPs (0.1/N) were identified, located in 33 genes for 126 trait × environment × treatment combinations. Of these genes, three were co-localized to drought-related QTL regions. Gene GRMZM2G125777 was strongly associated with ear relative position, hundred kernel weight and timing of male and female flowering, and encodes NAC domain-containing protein 2, a transcription factor expressed in different tissues. These results provide some good information for understanding the genetic basis for drought tolerance and further studies on identified candidate genes should illuminate mechanisms of drought tolerance and provide tools for designing drought-tolerant maize cultivars tailored to different environmental scenarios.",
+        "lang": "eng"
+    },
+    "appid": "10883_3418",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3418"
+}}

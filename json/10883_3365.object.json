@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Quantitative trait loci of stripe rust resistance in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-12-09T20:48:39Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.899
+            ],
+            "value": "loci",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Key message: Over 140 QTLs for resistance to stripe rust in wheat have been published and through mapping flanking markers on consensus maps, 49 chromosomal regions are identified.  Abstract: Over thirty publications during the last 10 years have identified more than 140 QTLs for stripe rust resistance in wheat. It is likely that many of these QTLs are identical genes that have been spread through plant breeding into diverse backgrounds through phenotypic selection under stripe rust epidemics. Allelism testing can be used to differentiate genes in similar locations but in different genetic backgrounds; however, this is problematic for QTL studies where multiple loci segregate from any one parent. This review utilizes consensus maps to illustrate important genomic regions that have had effects against stripe rust in wheat, and although this methodology cannot distinguish alleles from closely linked genes, it does highlight the extent of genetic diversity for this trait and identifies the most valuable loci and the parents possessing them for utilization in breeding programs. With the advent of cheaper, high throughput genotyping technologies, it is envisioned that there will be many more publications in the near future describing ever more QTLs. This review sets the scene for the coming influx of data and will quickly enable researchers to identify new loci in their given populations.",
+        "lang": "eng"
+    },
+    "appid": "10883_3365",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3365"
+}}

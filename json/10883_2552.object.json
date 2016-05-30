@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT-selected derived synthetic bread wheats for rainfed environments: Yield evaluation in Mexico and Australia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:00Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synthetic wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "backcrossing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_763"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8015
+            ],
+            "value": "shipment",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7874"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8877
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7143,
+            "value": "genotype environment interaction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24577"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7281
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        }
+    ],
+    "description": {
+        "value": "Synthetic backcrossed-derived bread wheats (SBWs) from CIMMYT were grown in the Northwest of Mexico at Centro de Investigaciones Agrý´colas del Noroeste (CIANO) and sites across Australia during three seasons. During three consecutive years Australia received &lsquo;&lsquo;shipments&rsquo;&rsquo; of different SBWs from CIMMYT for evaluation. A different set of lines was evaluated each season, as new materials became available from the CIMMYT crop enhancement program. These consisted of approximately 100 advanced lines (F7) per year. SBWs had been top and backcrossed to CIMMYT cultivars in the first two shipments and to Australian wheat cultivars in the third one. At CIANO, the SBWs were trialled under receding soil moisture conditions. We evaluated both the performance of each line across all environments and the genotype-by-environment interaction using an analysis that fits a multiplicative mixed model, adjusted for spatial field trends. Data were organised in three groups of multienvironment trials (MET) containing germplasm from shipment 1 (METShip1), 2 (METShip2), and 3 (METShip3), respectively. Large components of variance for the genotype environment interaction were found for each MET analysis, due to the diversity of environments included and the limited replication over years (only in METShip2, lines were tested over 2 years). The average percentage of genetic variance explained by the factor analytic models with two factors was 50.3% for METShip1, 46.7% for METShip2, and 48.7% for METShip3. Yield comparison focused only on lines that were present in all locations within a METShip, or &lsquo;&lsquo;core&rsquo;&rsquo; SBWs. A number of core SBWs, crossed to both Australian and CIMMYT backgrounds, outperformed the local benchmark checks at sites from the northern end of the Australian wheat belt, with reduced success at more southern locations. In general, lines that succeeded in the north were different from those in the south. The moderate positive genetic correlation between CIANO and locations in the northern wheat growing region likely reflects similarities in average temperature during flowering, high evaporative demand, and a short flowering interval.We are currently studying attributes of this germplasm that may contribute to adaptation, with the aim of improving the selection process in both Mexico and Australia.",
+        "lang": "eng"
+    },
+    "appid": "10883_2552",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2552"
+}}

@@ -1,0 +1,167 @@
+{"resource": {
+    "citation": "",
+    "issn": "2006-9774",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:49Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2232",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2232"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2232"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2232",
+    "creator": [
+        {
+            "id": 1923206123,
+            "value": "De Groote, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1923206123"
+        },
+        {
+            "id": 1649724326,
+            "value": "Andam, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1649724326"
+        },
+        {
+            "id": 568815455,
+            "value": "Mugo, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/568815455"
+        },
+        {
+            "id": 14868942,
+            "value": "Hall, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/14868942"
+        },
+        {
+            "id": 1619033029,
+            "value": "Ngigi, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1619033029"
+        },
+        {
+            "id": 48239758,
+            "value": "Benjamin Gathigi Munyua",
+            "type": "person",
+            "uri": "/cimmyt/person/48239758"
+        },
+        {
+            "id": 245943945,
+            "value": "Spielman, D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/245943945"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2232/1/96493.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 913438
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2232/2/96493.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 52290
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2232/3/96493.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6100
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2232/1/96493.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2232/2/96493.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2232/3/96493.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2232"
+        }
+    },
+    "extent": "",
+    "page": "71-77",
+    "coverage": [
+        "Kenya",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

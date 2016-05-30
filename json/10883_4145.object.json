@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Modeling the effect of a heat wave on maize production in the USA and its implications on food security in the developing world",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2014-11-10T20:24:15Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "geo-spatial crop modeling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dssat 4.5",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hpc cluster",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "global maize price",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "food security",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.788,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        }
+    ],
+    "description": {
+        "value": "This study uses geo-spatial crop modeling to quantify the biophysical impact of weather extremes. More specifically, the study analyzes the weather extreme which affected maize production in the USA in 2012; it also estimates the effect of a similar weather extreme in 2050, using future climate scenarios. The secondary impact of the weather extreme on food security in the developing world is also assessed using trend analysis.\r\n\r\nMany studies have reported on the significant reduction in maize production in the USA due to the extreme weather event (combined heat wave and drought) that occurred in 2012. However, most of these studies focused on yield and did not assess the potential effect of weather extremes on food prices and security. The overall goal of this study was to use geo-spatial crop modeling and trend analysis to quantify the impact of weather extremes on both yield and, followed food security in the developing world.\r\n\r\nWe used historical weather data for severe extreme events that have occurred in the USA. The data were obtained from the National Climatic Data Center (NCDC) of the National Oceanic and Atmospheric Administration (NOAA). In addition we used five climate scenarios: the baseline climate which is typical of the late 20th century (2000s) and four future climate scenarios which involve a combination of two emission scenarios (A1B and B1) and two global circulation models (CSIRO-Mk3.0 and MIROC 3.2). DSSAT 4.5 was combined with GRASS GIS for geo-spatial crop modeling. Simulated maize grain yield across all affected regions in the USA indicates that average grain yield across the USA Corn Belt would decrease by 29% when the weather extremes occur using the baseline climate. If the weather extreme were to occur under the A1B emission scenario in the 2050s respectively, average grain yields would decrease by 38% and 57%, under the CSIRO-Mk3.0 and MIROC 3.2 global climate models, respectively.\r\n\r\nThe weather extremes that occurred in the USA in 2012 resulted in a sharp increase in the world maize price. In addition, it likely played a role in the reduction in world maize consumption and trade in 2012/13, compared to 2011/12. The most vulnerable countries to the weather extremes are poor countries with high maize import dependency ratios including those countries in the Caribbean, northern Africa and western Asia. Other vulnerable countries include low-income countries with low import dependency ratios but which cannot afford highly-priced maize. The study also highlighted the pathways through which a weather extreme would affect food security, were it to occur in 2050 under climate change.\r\n\r\nSome of the policies which could help vulnerable countries counter the negative effects of weather extremes consist of social protection and safety net programs. Medium- to long-term adaptation strategies include increasing world food reserves to a level where they can be used to cover the production losses brought by weather extremes.",
+        "lang": "eng"
+    },
+    "appid": "10883_4145",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4145"
+}}

@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "2015-08-31T19:28:18Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT : Agricultural Innovation Program (AIP) for Pakistan",
+    "appid": "10883_4421",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Presentation",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4421"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4421"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4421",
+    "creator": {
+        "id": 1034579973,
+        "value": "Rickman, J.F.",
+        "type": "person",
+        "uri": "/cimmyt/person/1034579973"
+    },
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 81036734,
+            "value": "USAID",
+            "type": "organization",
+            "uri": "/cimmyt/organization/81036734"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4421/1/Innovations+in+Rice+R%26D.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1752740
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4421/2/Innovations+in+Rice+R%26D.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4421/3/Innovations+in+Rice+R%26D.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4267
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4421/1/Innovations+in+Rice+R%26D.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4421/2/Innovations+in+Rice+R%26D.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4421/3/Innovations+in+Rice+R%26D.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4421"
+        }
+    },
+    "extent": "",
+    "page": "21 p.",
+    "coverage": "Pakistan",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Islamabad, (Pakistan)",
+    "doi": ""
+}}

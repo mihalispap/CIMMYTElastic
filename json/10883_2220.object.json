@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "A multi-criteria GIS site selection for sustainable cocoa development in West Africa: A case study of Nigeria",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6773
+            ],
+            "value": "selection",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6951"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6495,
+            "value": "environmental impact",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24420"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6068,
+            "value": "land evaluation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36776"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "gis",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35131"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Cocoa occupies 6 million hectares in humid coastal West Africa where 70% of the world supply is grown, 90% of which is produced on 2 million family farms of 2 hectares or less. Here, at least 16 million people depend on cocoa but earn only $100/person/year from the crop. There is need to optimize the farming system, minimize the environmental impact of technologies, and improve socio-economic dynamics. This study identifies areas with potential for intensified cocoa farming and where maximum impact to household income could be achieved without deforestation. The selection involves defining suitability criteria, preparing an inventory of available data, determining suitability based on identified criteria, and combining suitability into hierarchical preferences based on weights proposed by local experts. GIS and Multi-Criteria land Evaluation technique using biophysical, socioeconomic, and demographic variables were employed in selection. Nineteen administrative units were selected in Nigeria where the intervention project could be implemented.",
+        "lang": "eng"
+    },
+    "appid": "10883_2220",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2220"
+}}

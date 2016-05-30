@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Relative impacts of tillage, residue management and crop-rotation on soil bacterial communities in a semi-arid agroecosystem",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-11-23T00:49:25Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservational agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pyrosequencing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "unifrac",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7771",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop rotation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "residue management",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        }
+    ],
+    "description": {
+        "value": "In this study, the effect of limited tillage versus traditional tillage, residue retention versus removal and crop rotation (maize-wheat) versus monoculture (maize) on the bacterial community structure in soils was investigated by means of 454 pyrosequencing of the 16S rRNA gene. Using taxonomic and phylogenetic information it was found that zero tillage most affected the bacterial communities. The relative abundance of Actinobacteria, Betapreoteobacteria and Gammaproteobacteria was affected by tillage and correlated to the total organic carbon (TOC) and clay content in soil. Residue management had a significant effect on the bacterial community structure when phylogenetic membership and the total enumeration of bacteria were considered. Residue management affected the relative abundance of Bacteroidetes, Betaproteobacteria, Cyanobacteria and Gemmatimonadetes. When no tillage was applied, crop residue management affected the microbial communities more than when conventional tillage was applied. Wheat?maize rotation or crop monoculture did not affect the bacterial community structure. No significant differences in richness, diversity and total abundance of bacteria was found between the treatments. This indicated that even though phylotypes changed, the number and diversity of the bacterial communities were similar.",
+        "lang": "eng"
+    },
+    "appid": "10883_3235",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3235"
+}}

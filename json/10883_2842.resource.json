@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0367-973X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:12:43Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2842",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2842"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2842"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2842",
+    "creator": [
+        {
+            "id": 1754533615,
+            "value": "Bashyal, B.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1754533615"
+        },
+        {
+            "id": 840269630,
+            "value": "Chand, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/840269630"
+        },
+        {
+            "id": 1378338529,
+            "value": "Kushwaha, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1378338529"
+        },
+        {
+            "id": 1013937293,
+            "value": "Joshi, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013937293"
+        },
+        {
+            "id": 467554371,
+            "value": "Kumar, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/467554371"
+        }
+    ],
+    "publisher": {
+        "id": 1536846864,
+        "value": "http://epubs.icar.org.in/ejournal/index.php/IPPJ/article/view/6016",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1536846864"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2842/1/95550.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 157196
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2842/2/95550.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 15368
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2842/3/95550.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6599
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2842/1/95550.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2842/2/95550.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2842/3/95550.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2842"
+        }
+    },
+    "extent": "",
+    "page": "28-31",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Combining ability of maize inbred lines resistant to Chilo partellus (Swinhoe) in the mid-altitude environment of Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "chilo partellus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27152",
+                "http://aims.fao.org/aos/agrovoc/c_27152",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene action",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "general combining ability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "specific combining ability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6169
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stem borers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7389"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "combining ability",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_15954"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Gene action conditioning important traits in maize is useful to breeders in order to design appropriate breeding methods. A study was conducted to determine the combining ability of 10 maize inbred lines adapted to Kenya?s mid-altitude environment and being resistant to spotted stem borer, Chilo partellus. The inbred lines were crossed in a diallel scheme and the resulting 45 single crosses were evaluated under conditions of artificial infestation at four locations in Kenya in 2008 and 2009. Data were recorded on grain yield, foliar damage, exit holes and tunnel length to plant height ratio. Significant differences (P<0.001) for foliar damage, exit holes, tunnel length to plant height ratio, and grain yield were found. General combining ability (GCA) and specific combining ability (SCA) gave significant differences for grain yield and exit holes. There was discord in GCA between grain yield and resistance traits among lines. The most favorable SCA for grain yield occurred in hybrid 5 × 7, while hybrids 7 × 10, 3 × 5 and 4 × 8 were superior in resistance. Our results suggest that the development of C. partellus resistant maize varieties should consider both grain yield and stem borer resistance traits. This study identified additive gene action as important in controlling stem borer resistance, stem borer resistant inbred line donors and elite single crosses.",
+        "lang": "eng"
+    },
+    "appid": "10883_3182",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3182"
+}}

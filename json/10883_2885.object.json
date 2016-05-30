@@ -1,0 +1,186 @@
+{"object": {
+    "title": {
+        "value": "Distribution of allelic variation for genes of vernalization and photoperiod among wheat cultivars from 23 countries",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:49Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vernalization gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "photoperiod gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat growth habit",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heading date",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "vernalization",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16059"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9489
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8097
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7035
+            ],
+            "value": "photoperiod",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5809"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "growth habit",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5969"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "dates",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25475"
+        }
+    ],
+    "description": {
+        "value": "Molecular markers for vernalization genes Vrn-A1, Vrn-B1, Vrn-D1 and Vrn-B3 and photoperiod gene Ppd-D1 were used to detect the presence of these genes among 755 cultivars from 23 countries. Days to heading and physiological maturity of these cultivars were also recorded in Anyang, Henan province, China to provide information for their utilization in Chinese wheat breeding program. Frequencies of Vrn-A1, Vrn-B1, Vrn-D1, and vrn-A1+vrn-B1+vrn-D1 were 13.0%, 21.1%, 15.6%, and 64.2%, respectively. Dominant allele Vrn-B3 was absent in all tested materials. Dominant vernalization alleles Vrn-A1, Vrn-B1, and Vrn-D1 were mainly observed in Chinese spring wheat and middle and upper Yangtze Valley winter wheat regions, Italy, India, Japan, Canada, Mexico, Chile, Argentina, and Australia with spring type, while cultivars carryied all recessive alleles at the four vernalization loci. The gene recombination of vrn-A1, vrn-D1, and Vrn-B1 was found in winter wheat regions of northern China, middle and southern US, Germany, France, Norway, Ukraine, Russia, Turkey, Iran, Hungary, Bulgaria, Romania, and Serbia, where the wheat growth habit is winter type. The frequency of Ppd-D1a was 55.2%, and photoperiod sensitive allele Ppd-D1b was mainly observed in cultivars from higher latitude regions of US, Germany, Norway, Hungary, northeastern China, Canada, Chile, and Argentina; while photoperiod insensitive allele Ppd-D1a was observed in the other wheat-growing regions. Most of cultivars with photoperiod insensitive allele Ppd-D1a could complete physiological maturity in Anyang, whereas cultivars from Germany, Norway, Hungary, northwestern US, northeast China, Chile and Argentina could not mature well. In Anyang, flowering time was not speeded up by the presence of dominant vernalization allele Vrn-A1a, cultivars with Vrn-B1 and Vrn-D1 could head normally due to the completion of vernalization requirement during winter season.",
+        "lang": "eng"
+    },
+    "appid": "10883_2885",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2885"
+}}

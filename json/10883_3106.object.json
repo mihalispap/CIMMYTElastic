@@ -1,0 +1,99 @@
+{"object": {
+    "title": [
+        {
+            "value": "Evaluacion de poblaciones F2 de maiz de alta calidad de proteina en los llanos orientales de Colombia",
+            "lang": "spa"
+        },
+        {
+            "value": "Evaluation of maize genotypes with high quality protein for the Eastern plains of Colombia",
+            "lang": "eng"
+        }
+    ],
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:38Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "suelo acido",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "poblaciones f2",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gen opaco 2",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rendimiento del grano",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "suelo ácido",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "llanos orientales de colombia",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9621
+            ],
+            "value": "familia",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330937"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "acp",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24811"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "Doscientas cincuenta y tres familias F2 de alta calidad de proteina (ACP) provenientes del CIMMYT (Centro Internacional de Mejoramiento de Maíz y Trigo) fueron evaluadas en dos ensayos diferentes en Menegua, una localidad ubicada en el departamento del Meta de los Llanos Orientales de Colombia. El diseño experimental utilizado fue de alpha lattice con 2 repeticiones y en cada ensayo se incluyo testigos ACP y normales. Los datos fueron analizados siguiendo el metodo REML (Restricted maximum Likelihood Method) del procedimiento GLM de SAS 9.1.3. Los criterios principales de selección fueron rendimiento de grano y textura de grano. Se seleccionaron 44 F2s con rendimiento superior al del testigo ACP y comparable al rendimiento de los testigos normales. La textura de grano de las familias seleccionadas fue semi-cristalino con buena dosis de genes modificadores lo que indica que el gen o2 esta presente. El paso siguiente sera seguir el proceso de autofecundacion de las familias F2 hasta llegar a F5 en que se hara los cruzamientos con probadores a fin de identificar lineas deseables para la formacion de híbridos y sinteticos.",
+        "lang": "spa"
+    },
+    "appid": "10883_3106",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3106"
+}}

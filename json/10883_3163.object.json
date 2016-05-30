@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Development of in vivo haploid inducers for tropical maize breeding programs",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "haploid inducer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "doubled haploid",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9599,
+                0.9599,
+                0.9599,
+                0.9599,
+                0.9599,
+                1,
+                0.6813,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "haploid induction rate",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                1
+            ],
+            "value": "haploids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3490"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Lack of adapted haploid inducers currently impedes adoption of the doubled haploid technology in tropical maize breeding programs. Our objective was to generate inducers with improved adaptation to tropical conditions. We developed segregating generations from crosses between temperate inducers having haploid induction rates (HIR) of 8?10 % and tropical CIMMYT maize lines (CML; HIR = 0 %) and evaluated these for HIR and agronomic performance under tropical lowland field conditions. The applied pedigree breeding scheme comprising mass selection on individual F2 plants for highly heritable and visually scorable traits, followed by family-based selection for HIR and other agronomic characteristics in advanced selfing and backcross (BC) generations seems highly suitable for breeding improved haploid inducers with adaptation to different agroecologies. The most advanced tropical inducer candidates (TIC) combine HIR of up to 10 % with improved pollen production, disease resistance, and plant vigor compared to temperate inducers under tropical conditions. Agronomic characteristics were significantly improved in the BC to CML compared to BC to inducers, while mean HIR of both populations were similar, indicating that backcrossing to the adapted parent was suitable to improve adaptation of new inducers without sacrificing high HIR. When screening random open-pollinated maize accessions, HIR of up to 3 % were observed, suggesting that novel genetic variation may be present in maize accessions that could be exploited to improve HIR in maize. In conclusion, tropical inducer development proceeds well, but evaluation of TIC in multi-environment trials needs to be completed before large-scale dissemination can commence.",
+        "lang": "eng"
+    },
+    "appid": "10883_3163",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3163"
+}}

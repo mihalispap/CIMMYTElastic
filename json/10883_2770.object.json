@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Adaptation and performance of CIMMYT spring wheat genotypes targeted to high rainfall areas of the world",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:35Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6084
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        }
+    ],
+    "description": {
+        "value": "The high rainfall mega-environment [mega environment 2 (ME2)], characterized by more than 500 mm rainfall during wheat season, is one of the 12 mega-environments on which the global wheat breeding program of the International Maize and Wheat Improvement Center (CIMMYT) has been assembling and distributing high rainfall wheat yield trials (HRWYT) since 1992. In this study, our objectives were to evaluate the adaptation and performance of entries included in the 1st through the 12th HRWYT (1992?2004), identify best lines as parents for crossing and recommend for direct release by the National Agricultural Research Systems (NARS), and test the association among sites and determine yield progress in HRWYTs. Combined ANOVA across locations for grain yield showed highly significant difference among genotypes and genotype × environment interactions (p < 0.001) for each of the HRWYTs. At regional level, wide range of yield variability was observed in Africa (0.69?9.614 t ha?1) followed by Asia (0.389?6.93 t ha?1) with the highest mean yields in Europe (4.392 t ha?1). Two widely grown mega-cultivars have been developed from Attila cross: entry number 4 (CM85836-4Y-0M-0Y-8M-0Y) from 1stHRWYT, which is released as PBW343 in India, and entry number 48 from 4thHRWYT (CM85836-50Y-0M-0Y-3M- 0Y), which is released in Ethiopia, Tunisia, Iran, Pakistan, and Sudan with local names of Kubsa, Utique96, Chamran, MH97, and Imam, respectively. There is a significant positive association between plant height and grain yield in rain-fed environments whereas the association between heading dates and yield is location specific indicating the importance of selecting broad range of materials for heading date at the main station in Mexico. Correlation analysis shows that the sites giving the best prediction of global performance are Marcos Juarez (Argentina), Pergamino (Argentina), Izmir (Turkey), Bethlehem (South Africa), Sakha (Egypt), and Tassaout (Morocco). In each year, it was possible to find a line out yielding the local check in at least 52% of the sites. However, at the trial level, lines were beating the local checks more frequently in the first trials than in the last trials. Regular assessment of the current and future HRWYTs in terms of adaptation, resistance, diversity, and quality will be of paramount importance in improving the breeding process.",
+        "lang": "eng"
+    },
+    "appid": "10883_2770",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2770"
+}}

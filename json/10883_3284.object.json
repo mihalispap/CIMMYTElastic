@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Improved methodology for resistance screening in spring wheat against the root lesion nematode, Pratylenchus thornei (Sher et Allen) (Tylenchida: Pratylenchidae)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:37Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "screening methods",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nematodes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5112"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6223
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6336
+            ],
+            "value": "perlite",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24125"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The root lesion nematode, Pratylenchus thornei (Sher et Allen) is a polyphagous and economically important nematode in wheat production systems, particularly in rainfed environments. Chemical management of this nematode is not economically or environmentally sound, leaving cultural practices like crop rotation as the most widely accepted option. Long-term control is best achieved in established wheat monoculture systems through genetic improvement, which provides both economic and environmental benefits to the growers. Intensive screening under controlled  conditions can facilitate and accelerate the identification of resistance and its subsequent deployment in commercial wheat cultivars. In this study, a number of variables were assessed to optimize P. thornei screening, including initial nematode density, soil type, container size, reference cultivars, harvest time and watering regime with perlite. Growth room experiments showed clear separation between the resistant and susceptible cultivars, using sandy growth  edium (70:29:1 sand, field soil and organic matter), small container (15 mm diameter x 100 mm in long), inoculation density with 400 individuals per plant, 9 week growing period and bottom perlite irrigation system.",
+        "lang": "eng"
+    },
+    "appid": "10883_3284",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3284"
+}}

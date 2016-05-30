@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Quantitative trait loci mapping for adult-plant resistance to powdery mildew in Chinese wheat cultivar Bainong 64",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "powdery mildews",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_13557"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Adult-plant resistance (APR) is an effective means of controlling powdery mildew in wheat. In the present study, 406 simple-sequence repeat markers were used to map quantitative trait loci (QTLs) for APR to powdery mildew in a doubled-haploid (DH) population of 181 lines derived from the cross Bainong 64 × Jingshuang 16. The DH lines were planted in a randomized complete block design with three replicates in Beijing and Anyang during the 2005?06 and 2007?08 cropping seasons. Artificial inoculations were carried out in Beijing using the highly virulent Blumeria graminis f. sp. tritici isolate E20. Disease severities on penultimate leaves were scored twice in Beijing whereas, at Anyang, maximum disease severities (MDS) were recorded following natural infection. Broad-sense heritabilities of MDS and areas under the disease progress curve were 0.89 and 0.77, respectively, based on the mean values averaged across environments. Composite interval mapping detected four QTLs for APR to powdery mildew on chromosomes 1A, 4DL, 6BS, and 7A; these were designated QPm.caas-1A, QPm.caas-4DL, QPm.caas-6BS, and QPm.caas-7A, respectively, and explained 6.3 to 22.7% of the phenotypic variance. QTLs QPm.caas-4DL and QPm.caas-6BS were stable across environments with high genetic effects on powdery mildew response, accounting for 15.2 to 22.7% and 9.0 to 13.2% of the phenotypic variance, respectively. These results should be useful for the future improvement of powdery mildew resistance in wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2712",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2712"
+}}

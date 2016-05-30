@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Distribution of the photoperiod insensitive Ppd-D1a allele in Chinese wheat cultivars",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7452
+            ],
+            "value": "photoperiod",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5809"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7621
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        }
+    ],
+    "description": {
+        "value": "Photoperiod response is of great importance for optimal adaptation of bread wheat cultivars to specific environments, and variation is commonly associated with allelic differences at the Ppd-D1 locus on chromosome 2D. A total of 926 Chinese wheat landraces and improved cultivars collected from nine wheat growing zones were tested for their genotypes at the Ppd-D1 locus using allele-specific markers. The average frequency of the photoperiod-insensitive Ppd-D1a allele was 66.0%, with the frequencies of 38.6 and 90.6% in landraces and improved cultivars, respectively. However, the Ppd-D1a allele was present in all improved cultivars released after 1970 except for spring wheats in high latitude northwestern China, and winter wheats in Gansu and Xinjiang. The presence of the Ppd-D1a allele in landraces and improved cultivars increased gradually from north to south, illustrating the relationship between photoperiod response and environment. Ppd-D1a in Chinese wheats is derived from three sources, Japanese landrace Akagomughi and Chinese landraces Mazhamai and Youzimai. The current information is important for understanding the broad adaptation of improved Chinese wheat cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_2708",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2708"
+}}

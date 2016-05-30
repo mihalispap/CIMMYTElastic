@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Detection of virulence to resistance gene Sr24 within race TTKS of Puccinia graminis f. sp. tritici",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:15Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "virulence",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8261"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27327"
+        }
+    ],
+    "description": {
+        "value": "The stem rust resistance gene Sr24 is effective against most races of Puccinia graminis f. sp. tritici, including race TTKS (syn. Ug99), and is used widely in commercial wheat cultivars worldwide. In 2006, susceptible infection responses were observed on wheat lines and cultivars carrying Sr24 in a field stem rust screening nursery at Njoro, Kenya. We derived 28 single-pustule isolates from stem rust samples collected from the 2006 Njoro nursery. The isolates were evaluated for virulence on 16 North American stem rust differential lines; on wheat lines carrying Sr24, Sr31, Sr38, and SrMcN; and on a wheat cultivar with a combination of Sr24 and Sr31. All isolates were identified as race TTKS with additional virulence on Sr31 and Sr38. These isolates were divided into two groups: group A (seven isolates and the two control isolates), producing a low infection type, and group B (21 isolates), producing a high infection type on Sr24, respectively. Isolates of group B represented a new variant of race TTKS with virulence to Sr24. Eighteen simple sequence repeat (SSR) markers were used to examine the genetic relationship between these two groups of isolates in race TTKS and five North American races (MCCF, QCCQ, RCRS, RTHS, and TPMK) that are representative of distinct lineage groups. All isolates of race TTKS shared an identical SSR genotype and were clearly different from North American races. The virulence and SSR data indicated that the new variant of race TTKS with Sr24 virulence likely has arisen via mutation within the TTKS genetic lineage. We propose to revise the North American stem rust nomenclature system by the addition of four genes (Sr24, Sr31, Sr38, and SrMcN) as the fifth set. This revision recognizes the virulence on Sr31 and differentiates isolates within race TTKS into two separate races: TTKSK and TTKST, with avirulence and virulence on Sr24, respectively. The occurrence of race TTKST with combined virulence on Sr24 and Sr31 has substantially increased the vulnerability of wheat to stem rust worldwide.",
+        "lang": "eng"
+    },
+    "appid": "10883_2642",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2642"
+}}

@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT 1982 Annual report",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:34Z",
+    "created": "2014-03-13T00:47:23Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "developing countries",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticales",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "reports",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330893"
+        }
+    ],
+    "description": {
+        "value": "A non-technical annual report summarizing CIMMYT's activities during the year, with emphasis in financial and special project reporting.",
+        "lang": "eng"
+    },
+    "appid": "10883_3565",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3565"
+}}

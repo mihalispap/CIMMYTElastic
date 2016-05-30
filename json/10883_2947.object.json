@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Mapping of quantitative trait loci for adult plant resistance to stripe rust in German wheat cultivar Ibis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia striiformis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "apr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simple sequence repeat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "The German wheat cultivar Ibis has excellent adult plant resistance (APR) to stripe rust in Gansu, a hotspot for stripe rust in China. To elucidate the genetic basis of APR to stripe rust in Ibis, 237 F3 lines derived from the cross Ibis/Huixianhong were evaluated at Tianshui, Gansu, in the 2008?2009 and 2009?2010 cropping seasons, and at Chengdu, Sichuan Province, China, in the 2009?2010 cropping season. Inoculations were conducted with a mixture of several prevalent Pst races in both locations. Maximum disease severity (MDS) data showed a continuous distribution of response, indicating quantitative nature of resistance to stripe rust in Ibis. The broad-sense heritability of MDS was 0.75 based on the mean values averaged across three environments. A total of 723 simple sequence repeat (SSR) markers were used to map the QTL for APR by inclusive composite interval mapping (ICIM). QTLs mapping to chromosomes 2BS and 6BS, designated as QYr.caas-2BS.1 and QYr.caas-6BS.1, respectively, explained 4.1?40.7% of the phenotypic variance in MDS across environments. The major effect QTL QYr.caas-2BS.1, flanked by Xgwm148 and Xwmc360, was consistently detected at all three sites as well as the averaged data over three environments, accounting for 40.7, 24.2, 5.2 and 29.9% of phenotypic variance, respectively. The molecular markers closely linked to this QTL have potential for use in marker-assisted selection and gene pyramiding to improve the durability of stripe rust resistance in wheat breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2947",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2947"
+}}

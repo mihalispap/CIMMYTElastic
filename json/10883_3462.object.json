@@ -1,0 +1,156 @@
+{"object": {
+    "title": {
+        "value": "Resistance to multiple cereal aphids in wheat-alien substitution and translocation lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:29Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rhopalosiphum padi",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30786",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "schizaphis graminum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30787",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sitobion avenae",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30789",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "secale cereale",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6919",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "aegilops speltoides",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33584",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "aphids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30757"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8736
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "translocation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7869"
+        }
+    ],
+    "description": {
+        "value": "Rhopalosiphum padi, Schizaphis graminum, and Sitobion avenae are three of the most destructive aphid species of wheat (Triticum aestivum L.). They can significantly reduce wheat yields directly by feeding and indirectly by transmitting viruses. This study aimed to search for resistance to these aphid species among lines derived from different rye (Secale cereale) origins and from Aegilops speltoides, all in the genetic background of the wheat cultivar Pavon F76. Resistance was quantified as aphid weight (R. padi, S. avenae, and S. graminum) and the number of aphids and percentage of infested leaf area exhibiting chlorosis (S. graminum). The most resistant genotypes reduced R. padi and S. avenae weight by 24.2 and 34.3 %, respectively, at the seedling stage, compared with Pavon F76 control plants. Strong S. graminum resistance was found only in A. speltoides-derived lines, the most resistant of which (7A.7S-L5) sustained just 3 % chlorosis and reduced S. graminum colony weight by 67.7 %. One line carrying the 1AL.1RSam wheat?rye translocation from Amigo wheat (originally from Insave rye) reduced S. avenae weight by 23.2 and 21.8 % in seedling and adult plants, respectively. Single genotypes carrying the complete 1R chromosome or the 1RS chromosome arm derived from E12165 wheat and Presto triticale proved to be resistant to both R. padi and S. avenae at the seedling stage. Further research should be conducted to unravel the genetic basis of resistance to these aphids in 1RS genotypes. The sources of resistance identified here may be useful for incorporating multiple aphid species resistance in wheat breeding programs, particularly for R. padi and S. avenae, to which no resistant wheats have been bred.",
+        "lang": "eng"
+    },
+    "appid": "10883_3462",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3462"
+}}

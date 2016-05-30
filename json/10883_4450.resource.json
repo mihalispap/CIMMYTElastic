@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kenya",
+        "uri": [
+            "http://sws.geonames.org/192950",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+        ]
+    },
+    "updatedDate": "2015-09-07T16:36:26Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CASFESA Project;",
+    "appid": "10883_4450",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Presentation",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4450"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4450"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4450",
+    "creator": [
+        {
+            "id": 4287510,
+            "value": "Weya, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/4287510"
+        },
+        {
+            "id": 1379002105,
+            "value": "Michieni, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1379002105"
+        },
+        {
+            "id": 1039556444,
+            "value": "Kagendo, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1039556444"
+        },
+        {
+            "id": 671515228,
+            "value": "Njeru, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/671515228"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4450/1/Agronomic+Analysis+Results.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4252056
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4450/2/Agronomic+Analysis+Results.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4450/3/Agronomic+Analysis+Results.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6601
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4450/1/Agronomic+Analysis+Results.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4450/2/Agronomic+Analysis+Results.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4450/3/Agronomic+Analysis+Results.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4450"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Kenya",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Kenya",
+    "doi": ""
+}}

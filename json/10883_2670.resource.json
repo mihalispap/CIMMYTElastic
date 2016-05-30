@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Iran",
+        "uri": [
+            "http://sws.geonames.org/130758",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Iran"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:19Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2670",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2670"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2670"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2670",
+    "creator": [
+        {
+            "id": 1233507433,
+            "value": "Khazaei, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1233507433"
+        },
+        {
+            "id": 1041049812,
+            "value": "Mohammady, S.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1041049812"
+        },
+        {
+            "id": 546170670,
+            "value": "Zaharieva, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/546170670"
+        },
+        {
+            "id": 322532743,
+            "value": "Monneveux, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/322532743"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2670/1/90650.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 320208
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2670/2/90650.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 39111
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2670/3/90650.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5495
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2670/1/90650.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2670/2/90650.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2670/3/90650.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2670"
+        }
+    },
+    "extent": "",
+    "page": "105-114",
+    "coverage": [
+        "Iran",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "Combining ability and heterosis under pest epidemics in a broad-based global wheat-breeding population",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:13Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "diallel analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37366",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype-by-environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34327",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6496
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7401
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "heterosis",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3705"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7436
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Wheat breeders rarely apply population improvement schemes or select parental sources according to combining ability and heterotic patterns. They rely on pedigree selection methods for breeding new cultivars. This experiment was undertaken to assess the advantages of using diallel crosses to define combining ability and understand heterosis in a broad-based wheat-breeding population across different environments affected by yellow rust. Sixty-four genotypes derived from a full diallel mating scheme were assessed for grain yield in two contrasting growing seasons at two locations for two consecutive years. Parental genotypes showed significant combining ability for grain yield that was affected by yellow rust and genotype-by-environment (GE) interactions, both of which affected heterosis for grain yield. Significant GE interactions suggested that decentralized selection for specific environments could maximize the use of this wheat germplasm. Cultivar effects and specific heterosis were the most important factors influencing grain yield. Some crosses capitalized on additive genetic variation for grain yield. This research shows the power of available quantitative breeding tools to help breeders choose parental sources in a population improvement programme.",
+        "lang": "eng"
+    },
+    "appid": "10883_2630",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2630"
+}}

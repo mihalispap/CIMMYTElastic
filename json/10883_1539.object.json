@@ -55,6 +55,12 @@
             "uri": ""
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 0.6105,
+            "value": "agroecosystems",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36669"
+        },
+        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -67,6 +73,24 @@
             "uri": [
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_5192"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6594
+            ],
+            "value": "improvement",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330895"
             ]
         },
         {
@@ -88,19 +112,10 @@
             "uri": "http://aims.fao.org/aos/agrovoc/c_15591"
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "use efficiency",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_36789"
-            ]
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36789"
         },
         {
             "vocabulary": "agrovoc",

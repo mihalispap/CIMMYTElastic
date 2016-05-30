@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Sample size for detecting transgenic plants using inverse binomial group testing with dilution effect",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T17:59:59Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adventitious presence of transgenic plants (ap)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dilution effect",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inverse sampling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "negative binomial pool testing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sample size",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "In this study we developed a sample size procedure for estimating the proportion of genetically modified plants (adventitious presence of unwanted transgenic plants, AP) under inverse negative binomial group testing sampling, which guarantees that exactly r positive pools will be present in the sample. To achieve this aim, pools are drawn one by one until the sample contains r positive pools. The use of group testing produces significant savings because groups that contain several units (plants) are analysed without having to inspect individual plants. However, when using group testing we need to consider an appropriate pool size (k) because if the k individuals that form a pool are mixed and homogenized, the AP will be diluted. This effect increases with the size of the pool; it may also decrease the AP concentration in the pool below the laboratory test detection limit (d), thereby increasing the number of false negatives. The method proposed in this study determines the required sample size considering the dilution effect and guarantees narrow confidence intervals. In addition, we derived the maximum likelihood estimator of p and an exact confidence interval (CI) under negative binomial pool testing considering the detection limit of the laboratory test, d, and the concentration of AP per unit (c). Simulated data were created and tables presented showing different potential scenarios that a researcher may encounter. We also provide an R program that can be used to create other scenarios.",
+        "lang": "eng"
+    },
+    "appid": "10883_3451",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3451"
+}}

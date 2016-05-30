@@ -1,0 +1,180 @@
+{"object": {
+    "title": {
+        "value": "Efficient and rapid Agrobacterium-mediated genetic transformation of durum wheat (Triticum turgidum L. var. durum) using additional virulence genes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:16Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "transgenic wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "agrobacterium tumefaciens",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27444",
+                "http://aims.fao.org/aos/agrovoc/c_27444",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "transformation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331037",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pasta",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9836,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "virulence genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9737
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14386"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8403
+            ],
+            "value": "genetic transformation",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3220"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7842
+            ],
+            "value": "plasmids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16014"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9702
+            ],
+            "value": "agrobacterium",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_206"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9789
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "transgenics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34283"
+        }
+    ],
+    "description": {
+        "value": "Genetic transformation of wheat, using biolistics or Agrobacterium, underpins a range of specific research methods for identifying genes and studying their function in planta. Transgenic approaches to study and modify traits in durum wheat have lagged behind those for bread wheat. Here we report the use of Agrobacterium strain AGL1, with additional vir genes housed in a helper plasmid, to transform and regenerate the durum wheat variety Ofanto. The use of the basic pSoup helper plasmid with no additional vir genes failed to generate transformants, whereas the presence of either virG542 or the 15 kb Komari fragment containing virB, virC and virG542 produced transformation efficiencies of between 0.6 and 9.7%. Of the 42 transgenic plants made, all but one (which set very few seeds) appeared morphologically normal and produced between 100 and 300 viable seeds. The transgene copy number and the segregation ratios were found to be very similar to those previously reported for bread wheat. We believe that this is the first report describing successful genetic transformation of tetraploid durum wheat (Triticum turgidum L. var. durum) mediated by Agrobacterium tumefaciens using immature embryos as the explant.",
+        "lang": "eng"
+    },
+    "appid": "10883_2650",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2650"
+}}

@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1991-637X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Ethiopia",
+        "uri": [
+            "http://sws.geonames.org/337996",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+        ]
+    },
+    "updatedDate": "2013-11-24T18:23:50Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3267",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3267"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3267"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3267",
+    "creator": [
+        {
+            "id": 1970977946,
+            "value": "Abebe Zerihun",
+            "type": "person",
+            "uri": "/cimmyt/person/1970977946"
+        },
+        {
+            "id": 976173050,
+            "value": "J. J. Sharma",
+            "type": "person",
+            "uri": "/cimmyt/person/976173050"
+        },
+        {
+            "id": 1859056292,
+            "value": "Dechasa Nigussie",
+            "type": "person",
+            "uri": "/cimmyt/person/1859056292"
+        },
+        {
+            "id": 1684793971,
+            "value": "Kanampiu Fred",
+            "type": "person",
+            "uri": "/cimmyt/person/1684793971"
+        }
+    ],
+    "publisher": {
+        "id": 1183871750,
+        "value": "http://www.academicjournals.org/ajar/abstracts/abstracts/Abstracts%202013/1Aug/Zerihun%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1183871750"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3267/1/98084.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 508169
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3267/6/98084.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3267/5/98084.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8162
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3267/1/98084.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3267/6/98084.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3267/5/98084.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3267"
+        }
+    },
+    "extent": "",
+    "page": "3921-3929",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Advancement toward new spot blotch resistant wheats in South Asia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:02Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6531
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7384
+            ],
+            "value": "blotches",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_973"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Spot blotch, caused by Cochliobolus sativus, is a constraint to wheat (Triticum aestivum L.) production in South Asia. A set of genotypes was grown in Bangladesh, India, and Nepal to assess the current status of genetic resistance across locations. This study examined spot blotch resistance and agronomic performance of 24 wheat genotypes through regional trials in 2003, 2004, and 2005 and the estimated reduction in yield caused by spot blotch. We analyzed the area under the disease progress curve (AUDPC) and AUDPC d-1 to assess spot blotch severity, and recorded grain yield, 1000-kernel weight (TKW), days to heading, and plant height. Disease severity differed in the 3 yr. The highest AUDPC d-1 in 2005 was associated with the lowest grain yield, with an average 14.8% disease-induced yield reduction. Several genotypes showed low disease severity. A few genotypes had high grain yield. A few resistant genotypes such as Milan/Shanghai #7, Chirya.1, and Chirya.7 had grain yield reductions of about 5%. The genotype BL1473 showed high disease severity but\nlow (~5%) disease-induced reduction in grain yield. The genotype Milan/Shanghai #7, with the lowest disease severity and highest grain yield, was also the most stable for spot blotch resistance and grain yield. The results indicated that wheat genotypes with improved spot blotch resistance, high grain yield, acceptable TKW, and plant height are available as a result of the international collaboration in South Asia.",
+        "lang": "eng"
+    },
+    "appid": "10883_2561",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2561"
+}}

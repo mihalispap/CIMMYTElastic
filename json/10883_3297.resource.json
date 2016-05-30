@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "0187-7380",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-11-25T02:37:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3297",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3297"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3297"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3297",
+    "creator": [
+        {
+            "id": 2116941143,
+            "value": "Hernandez Espinosa, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/2116941143"
+        },
+        {
+            "id": 80242468,
+            "value": "Posadas Romano, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/80242468"
+        },
+        {
+            "id": 827788243,
+            "value": "Cervantes Lopez, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/827788243"
+        },
+        {
+            "id": 1781208964,
+            "value": "Gonzalez Santoyo, H.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1781208964"
+        },
+        {
+            "id": 1042257331,
+            "value": "Santacruz Varela, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1042257331"
+        },
+        {
+            "id": 1291120088,
+            "value": "Benitez Riquelme, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1291120088"
+        },
+        {
+            "id": 1143886948,
+            "value": "Peña Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1143886948"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3297/1/98002.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40259
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3297/4/98002.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6349
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3297/5/98002.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 415785
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3297/1/98002.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3297/4/98002.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3297/5/98002.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3297"
+        }
+    },
+    "extent": "",
+    "page": "137-145",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

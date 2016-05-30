@@ -1,0 +1,152 @@
+{"resource": {
+    "citation": "",
+    "issn": "0025-6153",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:38Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3104",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3104"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3104"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3104",
+    "creator": [
+        {
+            "id": 1269649279,
+            "value": "Zaidi, P.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1269649279"
+        },
+        {
+            "id": 868088310,
+            "value": "Maniselvan, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/868088310"
+        },
+        {
+            "id": 1361461623,
+            "value": "Srivastava, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1361461623"
+        },
+        {
+            "id": 1042622787,
+            "value": "Yadav, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1042622787"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3104/1/94046.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 162390
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3104/2/94046.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53717
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3104/3/94046.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5155
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3104/1/94046.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3104/2/94046.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3104/3/94046.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3104"
+        }
+    },
+    "extent": "",
+    "page": "17-26",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

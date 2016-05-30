@@ -1,0 +1,207 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/1814991",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Italy",
+            "uri": [
+                "http://sws.geonames.org/4700234",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Italy"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/3175395",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:30Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2739",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2739"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2739"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2739",
+    "creator": [
+        {
+            "id": 663623980,
+            "value": "Yaming Lu",
+            "type": "person",
+            "uri": "/cimmyt/person/663623980"
+        },
+        {
+            "id": 1023495902,
+            "value": "Caixia Lan",
+            "type": "person",
+            "uri": "/cimmyt/person/1023495902"
+        },
+        {
+            "id": 1337793953,
+            "value": "Shanshan Liang",
+            "type": "person",
+            "uri": "/cimmyt/person/1337793953"
+        },
+        {
+            "id": 451457997,
+            "value": "Xiangchun Zhou",
+            "type": "person",
+            "uri": "/cimmyt/person/451457997"
+        },
+        {
+            "id": 2044781693,
+            "value": "Di Liu",
+            "type": "person",
+            "uri": "/cimmyt/person/2044781693"
+        },
+        {
+            "id": 404040319,
+            "value": "Gang Zhou",
+            "type": "person",
+            "uri": "/cimmyt/person/404040319"
+        },
+        {
+            "id": 990446903,
+            "value": "Qinglin Lu",
+            "type": "person",
+            "uri": "/cimmyt/person/990446903"
+        },
+        {
+            "id": 2124972895,
+            "value": "Jinxue Jing",
+            "type": "person",
+            "uri": "/cimmyt/person/2124972895"
+        },
+        {
+            "id": 1703034521,
+            "value": "Meinan wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1703034521"
+        },
+        {
+            "id": 1937449740,
+            "value": "Xianchun Xia",
+            "type": "person",
+            "uri": "/cimmyt/person/1937449740"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2739/1/93472.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 363289
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2739/2/93472.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46639
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2739/3/93472.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5892
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2739/1/93472.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2739/2/93472.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2739/3/93472.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2739"
+        }
+    },
+    "extent": "",
+    "page": "1349-1359",
+    "coverage": [
+        "Italy",
+        "Europe"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

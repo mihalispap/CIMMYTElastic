@@ -118,6 +118,12 @@
             ]
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -143,12 +149,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_3346"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "yields",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
         }
     ],
     "description": {

@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Morpho-physiological traits associated with cold stress tolerance in tropical maize (Zea mays L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9871,
+                0.9871,
+                0.9871,
+                1,
+                ""
+            ],
+            "value": "cold stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37531",
+                "http://aims.fao.org/aos/agrovoc/c_37531",
+                "http://aims.fao.org/aos/agrovoc/c_37531",
+                "http://aims.fao.org/aos/agrovoc/c_37531",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7435,
+                0.7435,
+                0.7435,
+                1,
+                ""
+            ],
+            "value": "low temperature",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1743",
+                "http://aims.fao.org/aos/agrovoc/c_1743",
+                "http://aims.fao.org/aos/agrovoc/c_1743",
+                "http://aims.fao.org/aos/agrovoc/c_1743",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "secondary traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8054
+            ],
+            "value": "anthesis",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2992"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Winter season maize (Zea mays L.) has emerged a new crop in many parts of South and Southeast Asia, where the crop has to face low temperature regimes (<5°C) for few weeks during vegetative growth stage. The objective of this study was to identify the morphological and physiological traits associated with cold stress tolerance during vegetative growth period, when maximum dry matter is accumulated and floral primodia are formed. A total of 80 cultivars, including hybrids and open pollinated varieties (OPVs) from International Maize and Wheat Improvement Center (CIMMYT) and Indian maize program were evaluated in replicated trials at Indian Agricultural Research Institute (IARI), New Delhi and at Regional Research Station, Haryana Agriculture University, Karnal, India during the winter season, where critical period of vegetative growth and floral primodia developmental stage was exposed to <10°C temperature. Data on various growth and developmental traits and key physiological traits were recorded during the low temperature regime. Except ears per plant and physiological maturity, the cold stress significantly affected all the growth and developmental traits and also physiological traits studied. However, significant genotypic variability was observed for most of the traits studied. Genotypes with relatively high leaf appearance and extension rate, less cold injury symptoms and cell membrane damage showed good level of cold tolerance in terms of reproductive behavior and eventually grain yield under cold stress. These secondary traits could be used in selection index along with days to anthesis, anthesis-silking interval (ASI) and grain yield for selection and improvement of tropical maize for low temperature adaptation.",
+        "lang": "eng"
+    },
+    "appid": "10883_3113",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3113"
+}}

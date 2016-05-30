@@ -3,7 +3,7 @@
         "value": "Herbicidal effect on the growth and yield of wheat",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:38Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-05T15:45:42Z",
     "subject": [
         {
@@ -41,6 +41,12 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_11451"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6264,
+            "value": "cynodon dactylon",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2069"
         },
         {
             "vocabulary": [
@@ -98,12 +104,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8373"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6264,
-            "value": "cynodon dactylon",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2069"
         }
     ],
     "description": {

@@ -1,0 +1,191 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Russia",
+            "uri": [
+                "http://sws.geonames.org/2017370",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Russia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ukraine",
+            "uri": [
+                "http://sws.geonames.org/690791",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ukraine"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/EU",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2832",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2832"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2832"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2832",
+    "creator": [
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        },
+        {
+            "id": 1517426984,
+            "value": "Ablova, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1517426984"
+        },
+        {
+            "id": 278214662,
+            "value": "Babayants, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/278214662"
+        },
+        {
+            "id": 278214755,
+            "value": "Babayants, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/278214755"
+        },
+        {
+            "id": 155428773,
+            "value": "Bespalova, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/155428773"
+        },
+        {
+            "id": 1736768847,
+            "value": "Khudokormov, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/1736768847"
+        },
+        {
+            "id": 1519475109,
+            "value": "Litvinenko, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1519475109"
+        },
+        {
+            "id": 2097629311,
+            "value": "Shamanin, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/2097629311"
+        },
+        {
+            "id": 1572229105,
+            "value": "Syukov, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1572229105"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2832/1/95015.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 362891
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2832/2/95015.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53256
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2832/3/95015.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5557
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2832/1/95015.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2832/2/95015.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2832/3/95015.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2832"
+        }
+    },
+    "extent": "",
+    "page": "297-311",
+    "coverage": [
+        "Russia",
+        "Ukraine",
+        "Europe"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

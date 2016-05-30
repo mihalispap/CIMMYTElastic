@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Lateral flow colloidal gold based immunoassay for the rapid detection of deoxynivalenol with two indicator ranges",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:15Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "deoxynivalenol",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34143",
+                "http://aims.fao.org/aos/agrovoc/c_34143",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lateral-flow immunoassay",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "colloidal gold",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rapid method",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ms",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12421"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "immunoassay",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3807"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gold",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33067"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "methods",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4788"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "A lateral-flow immunoassay using a colloidal gold-labelled monoclonal antibody was developed for the rapid detection of deoxynivalenol (DON). Different parameters, such as the amount of immunoreagents, type of the materials, composition of the blocking solution and of the detector reagent mixture, were investigated to provide the optimum assay performance. The experimental results demonstrated that such a visual test had an indicator range rather than a cut-off value. Thus, tests for DON determination with two different indicator ranges of 250&ndash;500 and 1000&ndash;2000 µg kg-1 were designed. The method allowed detection of DON at low and high concentration levels, which could be useful for research and practical purposes. The assay applied to spiked wheat and pig feed samples demonstrated accurate and reproducible results. The applicability of the developed lateral-flow test was also confirmed under real field conditions. The test strips prepared in Belgium were sent to Mexico, where they were used for the screening of DON contamination in different bread wheat entries from Fusarium Head Blight inoculated plots. The results were compared with those obtained by ELISA and LC&ndash;MS/MS. A poor correlation between ELISA and LC&ndash;MS/MS was observed. Visual results of the dipstick tests were in a good agreement with the results of the LC&ndash;MS/MS method. Coupled with a simple and fast sample preparation, this qualitative one-step test based on the visual evaluation of results did not require any equipment. Results could be obtained within 10 min. The described assay format can be used as a simple, rapid, cost-effective and robust on-site screening tool for mycotoxin contamination in different agricultural commodities",
+        "lang": "eng"
+    },
+    "appid": "10883_2637",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2637"
+}}

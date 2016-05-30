@@ -1,0 +1,130 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Nepal",
+        "uri": [
+            "http://sws.geonames.org/1282988",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:16Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2978",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2003",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2978"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2978"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2978",
+    "creator": [
+        {
+            "id": 1367302285,
+            "value": "Ransom, J.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1367302285"
+        },
+        {
+            "id": 451313083,
+            "value": "Paudyal, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/451313083"
+        },
+        {
+            "id": 1779899848,
+            "value": "Adhikari, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1779899848"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2978/1/78777.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 78043
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2978/2/78777.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 27812
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2978/3/78777.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2798
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2978/1/78777.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2978/2/78777.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2978/3/78777.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2978"
+        }
+    },
+    "extent": "",
+    "page": "299-305",
+    "coverage": [
+        "Nepal",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

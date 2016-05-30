@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/1699805",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "None",
+            "uri": [
+                "http://sws.geonames.org/3172215",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/None"
+            ]
+        }
+    ],
+    "updatedDate": "2015-05-29T21:15:01Z",
+    "rights": [
+        "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International § CIMMYT manages Intellectual Assets as International Public Goods. In case you want to make non-exclusive commercial use of this item or you want to adapt it in any manner and use such adaptation, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the code/name of this item and the kind of use you intend; CIMMYT will contact you with the terms and conditions for such use.",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "relation": [
+        "Training In Experimental Fields;",
+        "CIANO, Sonora;"
+    ],
+    "appid": "10883_4315",
+    "collection": [
+        {
+            "id": 1717216103,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1717216103"
+        },
+        {
+            "id": 1846298821,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1846298821"
+        }
+    ],
+    "format": "JPG",
+    "type": "Photograph",
+    "date": null,
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4315"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4315"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4315",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4315/3/CIMMC-3-3.10-00004.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 148590
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4315/4/CIMMC-3-3.10-00004.jpg.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 2250
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4315/3/CIMMC-3-3.10-00004.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4315/4/CIMMC-3-3.10-00004.jpg.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4315"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "Mexico",
+        "None"
+    ],
+    "contributor": {
+        "id": 972148915,
+        "value": "International Maize and Wheat Improvement Center (CIMMYT)",
+        "type": "person",
+        "uri": "/cimmyt/person/972148915"
+    },
+    "isbn": "",
+    "quality": "150 dpi",
+    "place": "El Batan, Texcoco, Edo. de Mexico (Mexico)",
+    "doi": ""
+}}

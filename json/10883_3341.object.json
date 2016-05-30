@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Economic, production and poverty impacts of investing in maize tolerant to drought in Africa: An ex-ante assessment",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-12-09T20:30:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "africa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drought tolerant",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "poverty ex-ante assessment",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7604
+            ],
+            "value": "poverty",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6151"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "malawi",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4532"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "assessment",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330990"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The potential impacts of investing in drought tolerant maize (DTM) in 13 countries of eastern, southern and western Africa were analyzed through an innovative economic surplus analysis framework, to identify where greatest economic returns and poverty reduction may be achieved. Assuming a potential full replacement of improved varieties with DTM varieties, by 2016 there would be economic gains of US$ 907 million over all countries under conservative yield gains, or US$ 1,535 million under optimistic yield gains. Largest gains in terms of consumer and producers surplus are in Nigeria, Zimbabwe and Malawi. However, in terms of production gains and poverty reduction, the countries gaining most are Nigeria, Kenya and Malawi (in terms of production); and Zimbabwe, Malawi and Kenya (number of people out of poverty). A total of 4 million people ?both producers and consumers? would have their poverty greatly reduced in all countries. To achieve these impacts, deployment strategies are discussed and various options are suggested, which depend on local context and state of the national seed sectors.",
+        "lang": "eng"
+    },
+    "appid": "10883_3341",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3341"
+}}

@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Gene action of canopy temperature in bread wheat under diverse environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7201
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6777
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        }
+    ],
+    "description": {
+        "value": "While canopy temperature (CT) shows a strong and reliable association with yield under drought and heat stress and is used in wheat breeding to select for yield, little is known of its genetic control. The objective of this study was to determine the gene action controlling CT in five wheat populations grown in diverse environments (heat, drought, and well-irrigated conditions). CT showed negative phenotypic correlations with grain yield under drought and well-irrigated environments. Additive × additive effects were most prevalent and significant for all crosses and environments. Dominance and dominance × dominance gene actions were also found, though the significance and direction was specific for each environment and genotypic cross. The use of CT as a selection criterion to improve tolerance to drought was supported by its significant association with grain yield and the genotype differences observed between cultivars. Our results indicated that genetic gains for CT in wheat could be achieved through conventional breeding. However, given some dominance and epistatic effects, it would be necessary to delay the selection process until the frequency of heterozygous loci within families is reduced.",
+        "lang": "eng"
+    },
+    "appid": "10883_2757",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2757"
+}}

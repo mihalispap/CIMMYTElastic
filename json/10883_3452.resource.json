@@ -1,0 +1,254 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-05T17:59:59Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3452",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3452"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3452"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3452",
+    "creator": [
+        {
+            "id": 1563974667,
+            "value": "Mir, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1563974667"
+        },
+        {
+            "id": 905483772,
+            "value": "Zerjal, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/905483772"
+        },
+        {
+            "id": 1722421019,
+            "value": "Combes, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1722421019"
+        },
+        {
+            "id": 235756842,
+            "value": "Dumas, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/235756842"
+        },
+        {
+            "id": 1826128427,
+            "value": "Madur, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1826128427"
+        },
+        {
+            "id": 778176139,
+            "value": "Bedoya, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/778176139"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 1729213603,
+            "value": "Franco, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1729213603"
+        },
+        {
+            "id": 1684489506,
+            "value": "Grudloyma, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1684489506"
+        },
+        {
+            "id": 1281501854,
+            "value": "Hao, P.X.",
+            "type": "person",
+            "uri": "/cimmyt/person/1281501854"
+        },
+        {
+            "id": 539435916,
+            "value": "Hearne, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/539435916"
+        },
+        {
+            "id": 317735834,
+            "value": "Jampatong, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/317735834"
+        },
+        {
+            "id": 1959897067,
+            "value": "Laloe, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1959897067"
+        },
+        {
+            "id": 453359096,
+            "value": "Muthamia, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/453359096"
+        },
+        {
+            "id": 1126217588,
+            "value": "Nguyen, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1126217588"
+        },
+        {
+            "id": 656143979,
+            "value": "Prasanna, B.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/656143979"
+        },
+        {
+            "id": 842693573,
+            "value": "Taba, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/842693573"
+        },
+        {
+            "id": 1095874487,
+            "value": "Xie, C.X.",
+            "type": "person",
+            "uri": "/cimmyt/person/1095874487"
+        },
+        {
+            "id": 1900961595,
+            "value": "Yunus, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1900961595"
+        },
+        {
+            "id": 540721275,
+            "value": "Zhang, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/540721275"
+        },
+        {
+            "id": 1572659283,
+            "value": "Warburton, M.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1572659283"
+        },
+        {
+            "id": 1369835716,
+            "value": "Charcosset, A",
+            "type": "person",
+            "uri": "/cimmyt/person/1369835716"
+        }
+    ],
+    "publisher": {
+        "id": 1662314135,
+        "value": "http://link.springer.com/article/10.1007%2Fs00122-013-2164-z",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1662314135"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3452/1/98079.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54970
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3452/2/98079.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5746
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3452/3/98079.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 946797
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3452/1/98079.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3452/2/98079.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3452/3/98079.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3452"
+        }
+    },
+    "extent": "",
+    "page": "2671-2682",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,191 @@
+{"resource": {
+    "citation": "",
+    "issn": "2226-5724",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zambia",
+            "uri": [
+                "http://sws.geonames.org/895949",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zambia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Angola",
+            "uri": [
+                "http://sws.geonames.org/3351879",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Angola"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-24T18:23:50Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3272",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3272"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3272"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3272",
+    "creator": [
+        {
+            "id": 895955641,
+            "value": "Kassie, G.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/895955641"
+        },
+        {
+            "id": 1401560831,
+            "value": "Langyintuo, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1401560831"
+        },
+        {
+            "id": 1323266426,
+            "value": "Erenstein, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1323266426"
+        },
+        {
+            "id": 459971974,
+            "value": "Maleni, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/459971974"
+        },
+        {
+            "id": 1003944431,
+            "value": "Gwara, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1003944431"
+        },
+        {
+            "id": 1080410367,
+            "value": "Abate, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1080410367"
+        }
+    ],
+    "publisher": {
+        "id": 136983108,
+        "value": "http://www.aessweb.com/abstract.php?m=October2013&id=5003&aid=2267",
+        "type": "organization",
+        "uri": "/cimmyt/organization/136983108"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3272/1/98144.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 824825
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3272/6/98144.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3272/5/98144.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5415
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3272/1/98144.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3272/6/98144.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3272/5/98144.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3272"
+        }
+    },
+    "extent": "",
+    "page": "956-973",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

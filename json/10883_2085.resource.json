@@ -1,0 +1,161 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2085",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2001",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2085"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2085"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2085",
+    "creator": [
+        {
+            "id": 1923206123,
+            "value": "De Groote, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1923206123"
+        },
+        {
+            "id": 1908103184,
+            "value": "Douro-Kpindou, O.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1908103184"
+        },
+        {
+            "id": 1406524723,
+            "value": "Ouambama, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/1406524723"
+        },
+        {
+            "id": 937236883,
+            "value": "Gbongboui, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/937236883"
+        },
+        {
+            "id": 338828883,
+            "value": "Muller, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/338828883"
+        },
+        {
+            "id": 925356733,
+            "value": "Attignon, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/925356733"
+        },
+        {
+            "id": 1202655894,
+            "value": "Lomer, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1202655894"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2085/1/76941.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 234281
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2085/2/76941.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 71402
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2085/3/76941.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5509
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2085/1/76941.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2085/2/76941.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2085/3/76941.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2085"
+        }
+    },
+    "extent": "",
+    "page": "413-428",
+    "coverage": "West Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

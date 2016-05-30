@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Agronomic Analysis Results",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2015-09-07T16:36:26Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agronomic analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "analysis",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49928"
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4450",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4450"
+}}

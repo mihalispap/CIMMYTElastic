@@ -1,0 +1,129 @@
+{"object": {
+    "title": {
+        "value": "Dissecting genome-wide association signals for loss-of-function phenotypes in sorghum flavonoid pigmentation traits",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:02Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "structured populations",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "null alleles",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome scan",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain pigmentation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "population",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330887"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "pigmentation",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5873"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "flavonoids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2964"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.812,
+            "value": "sorghum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7244"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.779,
+            "value": "phenotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5776"
+        }
+    ],
+    "description": {
+        "value": "Genome-wide association studies (GWAS) are a powerful method to dissect the genetic basis of traits, though in practice the effects of complex genetic architecture and population structure remain poorly understood. To compare mapping strategies we dissect the genetic control of flavonoid pigmentation traits in the cereal grass sorghum using high-resolution genotyping-by-sequencing (GBS) SNP markers. Studying the grain tannin trait, we find that General Linear Models (GLM) are not able to precisely map tan1-a, a known loss-of-function allele of the Tannin1 gene, with either a small panel (n = 142) or large association panel (n = 336), and that indirect associations limit the mapping of the Tannin1 locus to Mb-resolution. A GLM that accounts for population structure (Q) or standard Mixed Linear Model (MLM) that accounts for kinship (K) can identify tan1-a, while compressed MLMs performs worse than the naive GLM. Interestingly, a simple loss-of-function genome scan, for genotype-phenotype covariation only in the putative loss-of-function allele, is able to precisely identify the Tannin1 gene without considering relatedness. We also find that the tan1-a allele can be mapped with gene resolution in a biparental recombinant inbred line (RIL) family (n = 263) using GBS markers, but lower precision in the mapping of vegetative pigmentation traits suggest that consistent gene-level resolution will likely require larger families or multiple RILs. These findings highlight that complex association signals can emerge from even the simplest traits given epistasis and structured alleles, but that gene-resolution mapping of these traits is possible with high marker density and appropriate models.",
+        "lang": "eng"
+    },
+    "appid": "10883_3411",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3411"
+}}

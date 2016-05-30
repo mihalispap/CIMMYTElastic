@@ -25,12 +25,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "puddling",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_35282"
-        },
-        {
             "vocabulary": [
                 "",
                 "",
@@ -93,6 +87,12 @@
         {
             "vocabulary": "agrovoc",
             "score": 1,
+            "value": "puddling",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35282"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "plains",
             "uri": "http://aims.fao.org/aos/agrovoc/c_5948"
         },
@@ -107,6 +107,12 @@
             "score": 1,
             "value": "water use efficiency",
             "uri": "http://aims.fao.org/aos/agrovoc/c_36790"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6778,
+            "value": "direct seeding",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25803"
         }
     ],
     "description": {

@@ -1,0 +1,154 @@
+{"resource": {
+    "citation": "",
+    "issn": "2008-868X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Iran",
+        "uri": [
+            "http://sws.geonames.org/130758",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Iran"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:43Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2839",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2839"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2839"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2839",
+    "creator": [
+        {
+            "id": 1299474617,
+            "value": "Esmaeilzadeh Moghaddam, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1299474617"
+        },
+        {
+            "id": 2115899877,
+            "value": "Jalal-Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2115899877"
+        },
+        {
+            "id": 546088788,
+            "value": "Kazemi, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/546088788"
+        },
+        {
+            "id": 1413468313,
+            "value": "Amini, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1413468313"
+        },
+        {
+            "id": 1079998780,
+            "value": "Bozorghipour, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1079998780"
+        },
+        {
+            "id": 655498827,
+            "value": "Najafian, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/655498827"
+        },
+        {
+            "id": 1958811943,
+            "value": "Baghaei, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1958811943"
+        }
+    ],
+    "publisher": {
+        "id": 1846597327,
+        "value": "http://www.yektawebsite.ir/~spii/cbjournal/browse.php?a_id=13&sid=1&slc_lang=en",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1846597327"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2839/1/95482.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 286692
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2839/2/95482.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 18689
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2839/3/95482.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4910
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2839/1/95482.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2839/2/95482.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2839/3/95482.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2839"
+        }
+    },
+    "extent": "",
+    "page": "29-40",
+    "coverage": [
+        "Iran",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,55 @@
+{"object": {
+    "title": {
+        "value": "The first flight over El Batan with a fix wings UAV",
+        "lang": "eng"
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2015-11-05T17:21:09Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "equipment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drones",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "flight",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24948"
+        }
+    ],
+    "description": [
+        {
+            "value": "The first flight over El Batan",
+            "lang": "eng"
+        },
+        {
+            "value": "Tattaris, M.",
+            "lang": ""
+        },
+        {
+            "value": "Rodrigues, F.",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4614",
+    "language": [
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4614"
+}}

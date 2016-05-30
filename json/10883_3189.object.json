@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Haploid fertility in temperate and tropical maize germplasm",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8589
+            ],
+            "value": "haploids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3490"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Doubled haploid (DH) technology facilitates rapid development of homozygous inbred lines for hybrid breeding in maize (Zea mays L.). However, the required artificial chromosome duplication step, which commonly involves toxic and costly chemicals, represents a bottleneck. Exploiting the haploids? natural fertility may enable abolishment of artificial treatments and enhance efficiency of line development. We screened haploid populations derived from U.S. Corn Belt and tropical germplasm for the proportion of fertile haploids (FP) and the number of intact seeds (IS) on selfed ears and examined the effects of environments, heterotic groups, maturity groups, and population types on FP and IS. The FP ranged from 0 to 20% under field conditions and from 0 to 70% under greenhouse conditions. Tropical elite germplasm had higher median FP and mean IS than tropical landrace accessions. The Corn Belt heterotic group Stiff Stalk had higher median FP than Iodent and Lancaster while early germplasm showed higher median FP than the other maturity groups. Significant (p > 0.01) genetic variance for FP was observed among elite Corn Belt materials and heritability was 0.79, indicating that recurrent selection to increase FP is promising. We propose that artificial chromosome duplication is not necessary for DH line production from germplasm with high FP. This seems particularly relevant to enable small maize breeding programs in developing countries to adopt the DH technology for line development.",
+        "lang": "eng"
+    },
+    "appid": "10883_3189",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3189"
+}}

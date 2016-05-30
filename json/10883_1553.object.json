@@ -51,6 +51,45 @@
                 "",
                 "",
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6203
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fertilizers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2867"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "",
                 "",
                 "agrovoc"
@@ -79,45 +118,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_28279"
-            ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "fertilizers",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2867"
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                0.6203
-            ],
-            "value": "wheats",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8373"
             ]
         },
         {

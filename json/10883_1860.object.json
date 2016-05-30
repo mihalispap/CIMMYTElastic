@@ -41,15 +41,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.8476,
-            "value": "arabidopsis",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_33291"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 1,
             "value": "maize",
             "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8476,
+            "value": "arabidopsis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33291"
         }
     ],
     "description": {

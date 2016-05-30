@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Mapping quantitative trait loci for pre-harvest sprouting resistance in white-grained winter wheat line CA 0431",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-12-09T20:48:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "icim",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microsatellite markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pre-harvest sprouting",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tritium aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9424,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sprouting",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15923"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8178,
+            "value": "broad-sense heritability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1373982832607"
+        }
+    ],
+    "description": {
+        "value": "Pre-harvest sprouting (PHS) in wheat severely reduces yield and end-use quality, resulting in substantial economic losses. The Chinese winter wheat line CA 0431, with white grain, showed high PHS resistance for many years. To identify quantitative trait loci (QTLs) of PHS resistance in this line, 220 F2 plants and the corresponding F2 : 3 lines derived from a cross between CA 0431 and the PHS-susceptible cultivar Zhongyou 206 were used for PHS testing and QTL analysis. Field trials were conducted in Beijing during the 2010?11 and 2011?12 cropping seasons, and in Anyang during 2011?12. PHS resistance was evaluated by assessing the sprouting responses of intact spikes. In total, 1444 molecular markers were used to screen the parents, and 31 markers with polymorphisms between the resistant and susceptible bulks were used to genotype the entire F2 population. Broad-sense heritability of sprouting rate was 0.71 across environments. Inclusive composite interval mapping identified four QTLs, QPhs.caas-2BL, QPhs.caas-3AS.1, QPhs.caas-3AS.2, and QPhs.caas-3AL, each explaining 2.8?27.7% of the phenotypic variance across environments. The QTLs QPhs.caas-3AS.1, QPhs.caas-3AS.2, and QPhs.caas-3AL were located at similar positions to QTLs reported previously, whereas QPhs.caas-2BL is likely a new QTL flanked by markers Xbarc1042 and Xmag3319. Line CA 0431 and the identified markers can be used in breeding programs targeting improvement of PHS resistance for white-kernel wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_3373",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3373"
+}}

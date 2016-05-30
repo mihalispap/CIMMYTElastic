@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Triticale: CIMMYT-bibliography",
+        "lang": ""
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:56Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticales",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7791,
+                ""
+            ],
+            "value": "agronomy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_211",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8305,
+                ""
+            ],
+            "value": "cytology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2091",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adaptation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yields",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "baking",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "subject headings",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49841"
+        }
+    ],
+    "description": {
+        "value": "This bibliography includes 166 titles related to triticale written by CIMMYT researchers. It covers conventional published literature as well as unconventional reports, studies, and conference proceedings. Entries are subdivided into subject headings (agronomy, breeding, cytology, diseases, yield and adaptation, industrial use and quality, and general approach) and arranged alphabetically by senior author. A complete author index is also included",
+        "lang": "eng"
+    },
+    "appid": "10883_4001",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4001"
+}}

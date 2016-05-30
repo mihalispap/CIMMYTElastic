@@ -3,7 +3,7 @@
         "value": "Genetic structures of the CIMMYT international yield trial targeted to irrigated environments",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:30Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:47Z",
     "subject": [
         {
@@ -40,21 +40,6 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.7894
-            ],
-            "value": "germplasm",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3249"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "genetic distance",
@@ -76,6 +61,21 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7894
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
             ]
         },
         {

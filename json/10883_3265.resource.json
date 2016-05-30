@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "1991-637X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Ethiopia",
+        "uri": [
+            "http://sws.geonames.org/337996",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+        ]
+    },
+    "updatedDate": "2013-11-24T18:23:49Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3265",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3265"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3265"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3265",
+    "creator": [
+        {
+            "id": 274505502,
+            "value": "Abera, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/274505502"
+        },
+        {
+            "id": 1659688204,
+            "value": "Hussein, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1659688204"
+        },
+        {
+            "id": 1267799003,
+            "value": "Derera, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1267799003"
+        },
+        {
+            "id": 1182377127,
+            "value": "Worku, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1182377127"
+        },
+        {
+            "id": 869698164,
+            "value": "Laing, M.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/869698164"
+        }
+    ],
+    "publisher": {
+        "id": 753056918,
+        "value": "http://www.academicjournals.org/ajar/abstracts/abstracts/Abstracts%202013/18Apr/Abera%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/753056918"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3265/1/98030.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 396105
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3265/2/98030.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40109
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3265/3/98030.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7737
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3265/1/98030.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3265/2/98030.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3265/3/98030.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3265"
+        }
+    },
+    "extent": "",
+    "page": "1245-1254",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

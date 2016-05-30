@@ -7,27 +7,6 @@
     "created": "2013-06-07T21:02:37Z",
     "subject": [
         {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.8462
-            ],
-            "value": "genotypes",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3225"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "genetics",
@@ -35,9 +14,9 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.7968,
-            "value": "factor analysis",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_10728"
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
         }
     ],
     "description": {

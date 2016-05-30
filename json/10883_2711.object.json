@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Mapping of wheat stripe rust resistance gene YrZH84 with RGAP markers and its application",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:26Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6512
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6251,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Zhou 8425B, with an effective stripe rust resistance gene YrZH84, is a hall-mark parent line of wheat (Triticum aestivum L.) in the Yellow-Huai Rivers wheat growing region. An F2 population derived from the cross Zhou 8425B/Chinese Spring and their parents were used for polymorphism analysis employing the resistance gene-analog polymorphism (RGAP) markers and bulked segregant analysis (BSA) based on marker genotypes and phenotypes selection. An RGAP marker Xrga-1 was identified, which was tightly linked to the stripe rust resistance gene YrZH84, with a genetic distance of 0.8 cM. The fragment amplified by Xrga-1 was 343 bp. BLAST analysis indicated that the rga-1 showed 93% of identical nucleotide sequences to barley stem rust resistance gene Rpg1, and 92% to barley powdery mildew resistance gene Mla homology family. Fifty-eight cultivars from Yellow-Huai rivers wheat growing region were genotyped by the RGAP marker Xrga-1. From the information of genotypes, pedigrees and resistance responses, the cultivars Zhoumai 11, Zhoumai 20, Zhoumai 22, Aikang 58, 04 Zhong 36, Yuanyu 3, 05 Zhong 37, Wankang 18, and Yuzhan 10 were identified to carry the resistance gene YrZH84. These cultivars were the derivatives of Zhou 8425B. These results will greatly benefit the marker-assisted selection in wheat and cloning of the resistance gene YrZH84.",
+        "lang": "eng"
+    },
+    "appid": "10883_2711",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2711"
+}}

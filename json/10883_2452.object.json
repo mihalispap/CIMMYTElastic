@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Leaf rust (puccinia triticina) resistance in wheat (triticum aestivum) cultivars grown in Northern Europe 1992-2002",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:47Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8508,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2452",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2452"
+}}

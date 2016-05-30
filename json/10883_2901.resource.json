@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "0261-2194",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Tunisia",
+        "uri": [
+            "http://sws.geonames.org/2464461",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tunisia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2901",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2901"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2901"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2901",
+    "creator": [
+        {
+            "id": 382580990,
+            "value": "Chekali, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/382580990"
+        },
+        {
+            "id": 43399045,
+            "value": "Gargouri, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/43399045"
+        },
+        {
+            "id": 750620309,
+            "value": "Paulitz, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/750620309"
+        },
+        {
+            "id": 1895644386,
+            "value": "Nicol, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1895644386"
+        },
+        {
+            "id": 1442473801,
+            "value": "Rezgui, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1442473801"
+        },
+        {
+            "id": 1612172204,
+            "value": "Nasraoui, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1612172204"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2901/1/96433.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 749753
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2901/2/96433.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45172
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2901/3/96433.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4221
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2901/1/96433.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2901/2/96433.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2901/3/96433.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2901"
+        }
+    },
+    "extent": "",
+    "page": "718-725",
+    "coverage": [
+        "Tunisia",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

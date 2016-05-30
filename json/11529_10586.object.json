@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "International Late Yellow Hybrid Trial - ILYH0508",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2014-12-05T08:00:00Z",
     "created": "",
@@ -289,12 +289,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "hybrids",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
-        },
-        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -312,13 +306,19 @@
         {
             "vocabulary": "agrovoc",
             "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "aspergillus flavus",
             "uri": "http://aims.fao.org/aos/agrovoc/c_26370"
         }
     ],
     "description": {
         "value": "Summary results and individual trial results from the International Late Yellow Hybrid - ILYH, (Advanced Tropical Three-Way and Single CrossesYellow Normal and QPM Late - TTWSCYL) conducted in 2005.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10586",
     "language": {

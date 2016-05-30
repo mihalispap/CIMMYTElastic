@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "The growths of leaves, shoots, roots and reproductive organs partly share their genetic control in maize plants",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:47Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "meta-analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pleiotropy",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf growth",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9052
+            ],
+            "value": "growth",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3394"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        }
+    ],
+    "description": {
+        "value": "We have tested to what extent the growth ability of several organs of maize share a common genetic control. Every night, leaf elongation rate reaches a maximum value (LERmax) that has a high heritability, is repeatable between experiments and is correlated with final leaf length. Firstly, we summarized quantitative trait loci (QTLs) of LERmax and of leaf length in three mapping populations. Among the 14 consensus QTLs (cQTLs) of leaf length, seven co-located with cQTLs of LERmax with consistent allelic effects. Nine cQTLs of LERmax (4% of the genome) were highly reliable and confirmed by introgression lines. We then compared these QTLs with those affecting the growths of leaves, shoots, roots or young reproductive organs, detected with the same mapping populations in three field experiments or in literature datasets. Five of the nine most reliable cQTLs of LERmax co-located with QTLs involved in the growth of other organs (but not in flowering time) with consistent allelic effects. Reciprocally, two-thirds of the 20 QTLs of growth of different organs co-located with cQTLs of LERmax. Hence, LERmax, as determined in a phenotyping platform, is an indicator of the growth ability of other organs of the plant in controlled or in-field conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_3256",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3256"
+}}

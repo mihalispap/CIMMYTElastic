@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Methodological development in linking farmer participatory research with simulation modelling for improvemed resource management and productivity in Southern Zimbabwe",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2014-03-13T01:05:23Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "production economics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26808",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "simulation models",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24242",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farming systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agricultural resources",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_28001",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "management",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16086",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.8627,
+                ""
+            ],
+            "value": "zimbabwe",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8516",
+                "http://aims.fao.org/aos/agrovoc/c_8516",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.709,
+            "value": "simulation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5209"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "resource management",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6524"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7759,
+            "value": "productivity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3834",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3834"
+}}

@@ -1,0 +1,160 @@
+{"resource": {
+    "citation": "",
+    "issn": "0578-1752",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "China",
+        "uri": [
+            "http://sws.geonames.org/1814991",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:51Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2896",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2896"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2896"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2896",
+    "creator": [
+        {
+            "id": 762897986,
+            "value": "Xiao Yong-Gui",
+            "type": "person",
+            "uri": "/cimmyt/person/762897986"
+        },
+        {
+            "id": 249416396,
+            "value": "Yin Gui-Hong",
+            "type": "person",
+            "uri": "/cimmyt/person/249416396"
+        },
+        {
+            "id": 2008791240,
+            "value": "LI Hui-Hui",
+            "type": "person",
+            "uri": "/cimmyt/person/2008791240"
+        },
+        {
+            "id": 1965699741,
+            "value": "Xia Xian-Chun",
+            "type": "person",
+            "uri": "/cimmyt/person/1965699741"
+        },
+        {
+            "id": 263092105,
+            "value": "Yan Jun",
+            "type": "person",
+            "uri": "/cimmyt/person/263092105"
+        },
+        {
+            "id": 1767658847,
+            "value": "Zheng Tian-Cun",
+            "type": "person",
+            "uri": "/cimmyt/person/1767658847"
+        },
+        {
+            "id": 605982597,
+            "value": "Ji Wan-Quan",
+            "type": "person",
+            "uri": "/cimmyt/person/605982597"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        }
+    ],
+    "publisher": {
+        "id": 148014750,
+        "value": "http://211.155.251.135:81/Jwk_zgnykx/EN/Y2011/V44/I19/3919",
+        "type": "organization",
+        "uri": "/cimmyt/organization/148014750"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2896/1/96109.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 525506
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2896/2/96109.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45507
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2896/3/96109.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5348
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2896/1/96109.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2896/2/96109.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2896/3/96109.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2896"
+        }
+    },
+    "extent": "",
+    "page": "3919-3929",
+    "coverage": [
+        "China",
+        "East Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

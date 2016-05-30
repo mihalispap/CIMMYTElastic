@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "China",
+        "uri": [
+            "http://sws.geonames.org/1814991",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:01Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2557",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2557"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2557"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2557",
+    "creator": [
+        {
+            "id": 695783047,
+            "value": "Zhang Ping-ping",
+            "type": "person",
+            "uri": "/cimmyt/person/695783047"
+        },
+        {
+            "id": 426864829,
+            "value": "Zhang Yong",
+            "type": "person",
+            "uri": "/cimmyt/person/426864829"
+        },
+        {
+            "id": 1966653053,
+            "value": "Xia Xian-chun",
+            "type": "person",
+            "uri": "/cimmyt/person/1966653053"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        }
+    ],
+    "publisher": {
+        "id": 1320854052,
+        "value": "http://caod.oriprobe.com/articles/12464200/Protocol_Establishment_of_Reversed_Phase_High_Performance_Liquid_Chrom.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1320854052"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2557/1/89947.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 495230
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2557/2/89947.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 29849
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2557/3/89947.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5084
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2557/1/89947.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2557/2/89947.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2557/3/89947.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2557"
+        }
+    },
+    "extent": "",
+    "page": "1002-1009",
+    "coverage": [
+        "China",
+        "East Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "0496-3490",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:59:51Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3435",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3435"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3435"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3435",
+    "creator": [
+        {
+            "id": 2100905342,
+            "value": "Sun Zi-Qi",
+            "type": "person",
+            "uri": "/cimmyt/person/2100905342"
+        },
+        {
+            "id": 1750072547,
+            "value": "Huihui Li",
+            "type": "person",
+            "uri": "/cimmyt/person/1750072547"
+        },
+        {
+            "id": 1128813834,
+            "value": "ZHANG Lu-Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/1128813834"
+        },
+        {
+            "id": 743597875,
+            "value": "Jian-Kang Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/743597875"
+        }
+    ],
+    "publisher": {
+        "id": 534686341,
+        "value": "http://211.155.251.148:8080/zwxb/EN/10.3724/SP.J.1006.2013.00001#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/534686341"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3435/1/98312.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40192
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3435/2/98312.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 345885
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3435/1/98312.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3435/2/98312.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3435"
+        }
+    },
+    "extent": "",
+    "page": "11-Jan",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

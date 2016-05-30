@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "White wheat grain quality changes with genotype, nitrogen fertilization, and water stress",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8231,
+            "value": "water stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8404,
+            "value": "fertilization",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2863"
+        }
+    ],
+    "description": {
+        "value": "Th e production of hard white winter (HWW) wheats (Triticum aestivum L.) with acceptable protein content and quality over diff erent environments requires the correct combination of genotypes and management practices. Th e objectives of this study were to evaluate moisture defi cit and N management on grain protein and quality of seven HWW and two soft white winter (SWW) genotypes, and to identify genotypes and traits that minimize grain quality variability. Plots were irrigated during grain fi ll to replace from 100 to <30% of estimated evapotranspiration (ET). Biomass of three genotypes across the irrigation levels was used as an integrated estimation of plant water stress at late grain fi ll. Biomass reductions under water stress tended to be higher if plots received high N fertilization. Water stress reduced grain yield, test weight, and kernel weight and diameter. Reducing irrigation increased average grain protein content from 116.4 to 128.3 g kg&ndash;1. Nitrogen treatment did not aff ect grain yield. Additional N increased grain protein content and hardness for all genotypes. Reductions in test weight, and grain weight and diameter were observed under high N fertilization. High N fertilization would increase the numbers of kernels and extend the grain-fi ll period, which result in greater water and heat stress. Th e SWW genotypes had greater reductions in test weight than HWW genotypes with increasing water stress. Among HWW genotypes, late maturing genotypes had larger reductions in test weight than early genotypes. In regions where late season water stress is common, early maturing genotypes are more likely to produce consistent grain quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_2644",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2644"
+}}

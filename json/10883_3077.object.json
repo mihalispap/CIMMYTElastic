@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Habilidad combinatoria general y especifica de lineas endogamicas de maiz tolerantes a bajo fosforo",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fosforo",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "herencia",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "suelo acido",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dialelo",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "para",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5556"
+        }
+    ],
+    "description": {
+        "value": "Los cruzamientos dialelos de 12 padres contrastantes en la toma y uso de fosforo se evaluaron en dos niveles de fosforo (4 y 15 ppm) usando un diseno experimental de alpha lattice con tres repeticiones. Se uso el diseno genetico propuesto por Hallauer y Miranda. En bajo y alto fosforo se encontraron diferencias altamente significativas entre los genotipos, i.e. cruzamientos (C), padres (P) y PvsC. En alto fosforo, PvsC explicaron 58% de la suma de cuadrados de los genotipos y los cruzamientos 66% en bajo fosforo. En bajo fosforo se encontraron diferencias altamente significativas para el contraste de tolerantes (T) vs susceptibles (S). Los cruzamientos de padres TxT, SxS y TxS fueron estadisticamente diferentes, lo que sugirio que el caracter es poligenico. HCG y HCE fueron altamente significativas en los dos ambientes y HCE fue tres veces mas grande, lo que sugirio que en la tolerancia a bajo fosforo son mas importantes los efectos geneticos no aditivos.",
+        "lang": "spa"
+    },
+    "appid": "10883_3077",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3077"
+}}

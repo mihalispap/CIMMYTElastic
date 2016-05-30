@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Genetic diversity and genome-wide association analysis of stripe rust resistance among the core wheat parent Zhou 8425B and its derivatives",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:51Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "core parent",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zhou 8425b",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic structure",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stripe rust resistance loci",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9923
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "parents",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5585"
+        }
+    ],
+    "description": {
+        "value": "{Objective} Zhou 8425B is the most important core parent and has been widely used in the South Part of the Yellow and Huai Valleys Winter Wheat Zone. Understanding the principal components and detecting the wheat stripe rust resistance loci in Zhou 8425B will provide important information for the future genetic improvement of wheat varieties. {Method}The core parent Zhou 8425B and its 50 derivative varieties and lines were used to compare their genetic structure and components among different generations. Whole-genome association mapping was employed to identify the stripe rust resistance loci using 921 Diversity Array Technology (DArT) and 83 SSR markers. {Result} The averaged genetic similarity index was 67.6% among Zhou 8425B and its derivatives, and the clustering results for these genotypes were basically in consistent with that from the pedigree analysis. On the whole-genome levels, Zhou 8425B had the contribution ratios of 67.7%, 63.6% and 58.8% to its first, second and third generation derivatives, respectively. The genetic contribution ratios of A, B and D subgenome levels were 68.7%, 62.0% and 59.4%, respectively. As for single chromosome level, 44.9% (4A) to 70.9% (1D) of Zhou 8425B alleles could be detected on the derivative varieties. Four loci were detected to be associated with stripe rust resistance by association mapping (P ?0.01), in which two loci QYr.caas-2BL and QYr.caas-7BL were found in the same genomic regions of Yr7 and YrZH84, respectively. A QTL QYr.caas-1BL was found in the same genomic region as leaf rust resistance gene LrZH84 reported previously, which might be attributed to be pleiotropic effect or tight linkage each other. A new locus QYr.caas-3AL was located on the long arm of chromosome 3A and linked with the terminal marker wPt-0398, explaining 22.9% of the phenotypic variance.{Conclusion} The contribution ratios transferred from the core parent to its derivatives on genome and chromosome levels were probably caused by various important alleles associated with agronomic traits and resistance genes. Four QTLs for stripe rust resistance detected in 50 derivative varieties were derived from the core parent Zhou 8425B. Therefore, it is presumed that these loci for stripe rust resistance and other important traits derived from Zhou 8425B could play important roles in the future wheat breeding program in China, especially in the South Part of the Yellow and Huai Valleys Winter Wheat Zone.",
+        "lang": "eng"
+    },
+    "appid": "10883_2896",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2896"
+}}

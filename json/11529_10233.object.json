@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Extending the Marker × Environment Interaction Model for Genomic-Enabled Prediction and Genome Wide Association Analyses in Durum Wheat",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -11,21 +11,33 @@
                 "",
                 "",
                 "",
+                "",
+                "",
                 "agrovoc"
             ],
             "score": [
                 "",
                 "",
                 "",
-                0.6002
+                "",
+                "",
+                0.8927
             ],
-            "value": "grain",
+            "value": "prediction",
             "uri": [
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_3346"
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3041"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
         },
         {
             "vocabulary": [
@@ -47,12 +59,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_1598"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "environment",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
         },
         {
             "vocabulary": [
@@ -101,6 +107,27 @@
                 "",
                 "",
                 "",
+                0.6002
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
                 0.6821
             ],
             "value": "genomics",
@@ -112,33 +139,6 @@
             ]
         },
         {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                0.8927
-            ],
-            "value": "prediction",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3041"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 0.8098,
             "value": "genomes",
@@ -147,7 +147,7 @@
     ],
     "description": {
         "value": "The marker × environment interaction (M×E) genomic model can be used to generate predictions for untested individuals and identify genomic regions whose effects are stable across environments and others that show environmental specificity. The objectives of this study were: (1) to extend the M×E interaction model using priors that produce shrinkage and variable selection such as Bayesian Ridge Regression (BRR) and BayesB (BB), respectively, and (2) to evaluate the genomic prediction accuracy of M×E interaction, single-environment, and across-environment models using a multi-parental durum wheat population characterized for grain yield, grain volume weight, thousand-kernel weight and heading date in four environments. Breeding value predictions were generated for two prediction problems: cross-validation problem 1 (CV1) and cross-validation problem 2 (CV2). In general, results showed that the M×E interaction model performed better than the single-environment and across-environment models, in terms of minimization of the model residual variance, for both CV1 and CV2. The improved data-fitting gain over the other models was more evident for thousand-kernel weight and heading date (up to two-fold differences) as compared to grain yield and grain volume weight, which showed more complex genetic bases and smaller single-marker effects. Considering the Bayesian models used, BB showed better overall prediction accuracy than BRR. As proof-of-concept for the M×E interaction model, the major controllers of heading date, Ppd and FT on chromosomes 2A, 2B, and 7A, showed stable effects across environments as well as environment-specific effects. For GY, besides the regions on chromosomes 2B and 7A, additional chromosome regions with large marker effects were detected in all chromosome groups",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10233",
     "language": {

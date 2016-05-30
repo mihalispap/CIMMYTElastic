@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Genetic diversity of Pyrenophora tritici-repentis in Algeria as revealed by amplified fragement length polymorphism (AFLP) analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pyrenophora tritici-repentis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "aflp",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331160",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "algeria",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_259",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "virulence",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8261"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7847
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6888
+            ],
+            "value": "pyrenophora",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6382"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Tan spot caused by Pyrenophora tritici-repentis is a major wheat disease. DNA of 61 isolates of P.$$tritici-repentis from different cereal growing areas in Algeria were analyzed using amplified fragment$$length polymorphism (AFLP) in order to study the genetic diversity among this population. Initially, 78$$primer combinations were tested, of which 12 were selected and applied to the 61 isolates. There was a$$high genetic diversity in this population of P. tritici-repentis with 61 different haplotypes among the 61$$isolates selected. The Jaccard similarity index range was 1.43 to 68.37%. Cluster analysis showed that,$$clustering of isolates was independent of their race classification, geographic origin, or host plant.$$However, one isolate (Ptr24) that showed a new virulence pattern in our previous race analysis study$$was clearly distinguished from the rest of the population studied. This isolate had not only new$$virulence but also different genetic makeup to other P. tritici-repentis isolates and requires additional$$studies to decipher complete knowledge of host-pathogen interactions for tan spot of wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_3300",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3300"
+}}

@@ -1,0 +1,153 @@
+{"object": {
+    "title": {
+        "value": "Genetic gains for grain yield in high latitude spring wheat grown in western Siberia in 1900-2008",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spring wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "short season",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic gains",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9417
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.764
+            ],
+            "value": "maturity",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4656"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "genetic gain",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34003"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6775
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "seasons",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6911"
+        }
+    ],
+    "description": {
+        "value": "Short season high latitude (50-N-56 N) spring wheat (Triticum aestivum L.) is grown on approximately 7 million ha in Western Siberia with average yield of 1.5-2.0 t/ha. A historical set of 47 varieties developed and grown in the region between 1900 and 2000 was evaluated at a trial in Siberian Research Institute of Agriculture (Omsk) in 2002-2008. The genetic gains for grain yield and associated changes in agronomic traits were analyzed for three maturity groups (early, medium and late) and four breeding periods (before 1930, 1950-1975, 1976-1985 and after 1985). The overall yield was 3.71 t/ha for modern varieties versus 2.18 t/ha for old varieties representing 0.7% increase per year in the course of 100 years. The genetic gains between the breeding periods indicated that the rate of progress for the early and medium maturity groups was more or less comparable from one breeding period to the other. For the late maturity group there was an obvious and sharp decline in genetic gain with time. Modern varieties were also characterized by average response to environmental mean and good grain yield stability evaluated according to Eberhart and Russell (1966). Thousand kernel weight and number of grains per unit area were linearly correlated with grain yield and genetic gain over time suggested their importance for breeding progress. Resistance to leaf rust insomemodern varieties sustained and contributed to stability of genetic gains. The yield increase over time was not associated with plant height reduction and incorporation of Rht genes. The maturity range of the newer varieties is narrower compared to old germplasm as they tend to belong to medium maturity group. Translocation 1B.1R had limited contribution to Western Siberian germplasm being observed in only three varieties. The increase in adaptation, yield potential and its stability has been reached due to gradual accumulation of favorable genes through diverse crosses, robust selection and testing system. Resistance to leaf rust and other prevalent pathogens is of paramount importance for future progress.",
+        "lang": "eng"
+    },
+    "appid": "10883_2784",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2784"
+}}

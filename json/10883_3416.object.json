@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Evidence for maternal inheritance of the chloroplast genome in cultivated carrot (Daucus carota L. ssp. sativus)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:04Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "chloroplast dna",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1354097286629",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "daucus carota l. ssp. sativus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maternal inheritance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "carrots",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9640"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7553
+            ],
+            "value": "daucus carota",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2132"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The incidence and inheritance of a chloroplast DNA (cpDNA) mutation/marker, BP10U, was studied in crosses among cultivated carrots (Daucus carota ssp. sativus). BP10U is about larger than the more common BP10L allele. The occurrence of BP10U among carrot inbreds was widespread. Individual plants exhibited only one form of BP10, and cpDNA inheritance was strictly maternal. BP10U only occurred in male-fertile plants. Some male-fertile inbreds and all cytoplasmically male-sterile (petaloid) carrots had the BP10L allele. Alloplasmic cpDNA variation has been reported previously in Daucus, but this is the first report of variation and inheritance of cpDNA within cultivated carrot.",
+        "lang": "eng"
+    },
+    "appid": "10883_3416",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3416"
+}}

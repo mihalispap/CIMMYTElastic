@@ -86,27 +86,6 @@
                 "",
                 "",
                 "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.7472
-            ],
-            "value": "genotypes",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3225"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
                 "",
                 "",
                 "agrovoc"
@@ -130,10 +109,25 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 0.7279,
-            "value": "yield components",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_24419"
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7472
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
         }
     ],
     "description": {

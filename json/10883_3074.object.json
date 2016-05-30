@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Relationship between drought and excess moisture tolerance in maize (Zea mays L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "secondary trait",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Maize crops grown during summer-rainy season in Asian tropics are prone to face both drought and excess moisture stress due uneven distribution patterns of monsoon rains in the region. We attempted to identify the relationship between drought and excess moisture tolerance through evaluation of a set of elite maize inbred lines, including lines with known performance under drought, excess moisture and normal inbred lines with unknown performance under either of the stresses. Under normal moisture, performance of normal lines was slightly better than drought and excess moisture lines. However, under stress condition performance of normal lines was very poor with average yield 9.1% under drought and 18.7% under excess moisture stress in comparison to normal moisture. On the other hand, drought lines yielded up to 61.8% under drought and 52.1% under excess moisture in comparison to their yields under normal moisture. Performance of excess moisture lines was also good across stress environments with average yield 68.2% under excess moisture and 35.6% under drought. Relationship between yields under drought and excess moisture stress was strong and significant with drought lines (R2 = 0.587**), but it was relatively weak with excess moisture lines (R2 = 0.288*), while the relationship highly weak with normal lines (R2 = 0.043ns). Our results suggest that improved performance of drought tolerant lines across environments might be related to constitutive changes in stress-adaptive secondary traits such as - anthesis-silking interval <5.0 days, reduced barrenness, delayed senescence and minimum loss of leaf chlorophyll under stress conditions. These constitutive changes with selection and improvement for flowering stage drought tolerance might resulted in improved performance of genotypes under both drought and excess moisture stress, without any yield penalty under normal moisture.",
+        "lang": "eng"
+    },
+    "appid": "10883_3074",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3074"
+}}

@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Common cereal viruses",
+        "lang": ""
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "plant viruses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5985",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "hosts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3673",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vectors",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "viroses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8260",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9802,
+                1,
+                ""
+            ],
+            "value": "barley yellow dwarf virus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15942",
+                "http://aims.fao.org/aos/agrovoc/c_15942",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "barley yellow mosaic virus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34752"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "viruses",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8262"
+        }
+    ],
+    "description": {
+        "value": "A summary of the general characteristics of viruses is followed by sections on six common cereal viruses: Barley Yellow Dwarf Virus (BYDV), Soilborne Wheat Mosaic Virus (SBWMV), Wheat Streak Mosaic Virus (WSMV), Brome Mosaic Virus (BMV), Barley Yellow Mosaic Virus (BYMV), and Barley Stripe Mosaic Virus (BSMV). For each virus, a description of plant symptoms is given, accompanied by short sections on the appearance of the virus, its vectors, hosts, distribution, and importance",
+        "lang": "eng"
+    },
+    "appid": "10883_4005",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4005"
+}}

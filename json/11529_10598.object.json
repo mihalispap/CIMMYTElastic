@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "International Intermediate Yellow Hybrid Trial - IIYH0515",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-12T09:00:01Z",
     "created": "",
@@ -268,12 +268,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "hybrids",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
-        },
-        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -291,13 +285,19 @@
         {
             "vocabulary": "agrovoc",
             "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "rusts",
             "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
         }
     ],
     "description": {
         "value": "Summary results and individual trial results from the International Intermediate Yellow Hybrid Trial - IIYH, (Highland Intermediate Yellow Hybrids - CHTHIY) conducted in 2005.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10598",
     "language": {

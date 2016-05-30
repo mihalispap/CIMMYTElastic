@@ -7,6 +7,12 @@
     "created": "2013-06-05T15:45:45Z",
     "subject": [
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "smallholders",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14343"
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -23,12 +29,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_33485"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "smallholders",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_14343"
         }
     ],
     "description": {

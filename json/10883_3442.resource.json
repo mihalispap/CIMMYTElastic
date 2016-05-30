@@ -1,0 +1,120 @@
+{"resource": {
+    "citation": "",
+    "issn": "0018-067X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:59:55Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3442",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3442"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3442"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3442",
+    "creator": [
+        {
+            "id": 1901541462,
+            "value": "Charles Chen",
+            "type": "person",
+            "uri": "/cimmyt/person/1901541462"
+        },
+        {
+            "id": 1310123489,
+            "value": "Ritland, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1310123489"
+        }
+    ],
+    "publisher": {
+        "id": 1176734564,
+        "value": "http://www.nature.com/hdy/journal/v111/n2/full/hdy201324a.html",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1176734564"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3442/1/98309.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48240
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3442/4/98309.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6057
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3442/5/98309.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 778321
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3442/1/98309.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3442/4/98309.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3442/5/98309.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3442"
+        }
+    },
+    "extent": "",
+    "page": "106-113",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Post-harvest losses in African maize in the face of increasing food shortage",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:51Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "africa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food security",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8586,
+                0.8586,
+                0.8586,
+                0.8586,
+                0.8586,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "post-harvest insect pests",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "post-harvest losses",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "harvesting losses",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3501"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "insect pests",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5729"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8801,
+            "value": "food shortages",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_10969"
+        }
+    ],
+    "description": {
+        "value": "Maize is the most important food staple for resource-poor smallholders in Africa, providing food and income to millions. One of the key constraints to improving food and nutritional security in Africa is the poor post-harvest management that leads to between 14 % and 36 % loss of maize grains, thereby aggravating hunger. Post-harvest losses contribute to high food prices by removing part of the supply from the market. Reducing post-harvest losses in maize is an essential component in any strategy to make more food available without increasing the burden on the natural environment. Solving the post-harvest management problems in maize will require cooperation and effective linkage among the following: research, extension, agro-industry, marketing system and favorable policy environment. Biological and socio-economic causes of post-harvest losses in maize in Africa are discussed in relation to climate change and food security, and strategies to reduce the post-harvest losses are suggested.",
+        "lang": "eng"
+    },
+    "appid": "10883_2238",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2238"
+}}

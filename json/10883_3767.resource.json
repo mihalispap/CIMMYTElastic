@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Malawi",
+        "uri": [
+            "http://sws.geonames.org/927384",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Country Report - Malawi",
+    "appid": "10883_3767",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3767"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3767"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3767",
+    "creator": [
+        {
+            "id": 344978191,
+            "value": "Mangisoni, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/344978191"
+        },
+        {
+            "id": 658638693,
+            "value": "Katengeza, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/658638693"
+        },
+        {
+            "id": 1401560831,
+            "value": "Langyintuo, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1401560831"
+        },
+        {
+            "id": 1741331322,
+            "value": "La Rovere, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1741331322"
+        },
+        {
+            "id": 1761530427,
+            "value": "Mwangi, W.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761530427"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3767/1/95606.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 788598
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3767/2/95606.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 118720
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3767/3/95606.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3289
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3767/1/95606.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3767/2/95606.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3767/3/95606.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3767"
+        }
+    },
+    "extent": "",
+    "page": "ix, 46 p.",
+    "coverage": "Malawi",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

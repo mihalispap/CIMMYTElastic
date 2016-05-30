@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-11-25T02:37:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3308",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3308"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3308"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3308",
+    "creator": [
+        {
+            "id": 1720176653,
+            "value": "Santillano-Cazares, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1720176653"
+        },
+        {
+            "id": 881876808,
+            "value": "Lopez-Lopez, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/881876808"
+        },
+        {
+            "id": 957768179,
+            "value": "Ortiz-Monasterio, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/957768179"
+        },
+        {
+            "id": 280251985,
+            "value": "Raun, W.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/280251985"
+        }
+    ],
+    "publisher": {
+        "id": 84264325,
+        "value": "http://portal.chapingo.mx/terra/index.php?module=resumenes&id=312095",
+        "type": "organization",
+        "uri": "/cimmyt/organization/84264325"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3308/1/98087.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41265
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3308/4/98087.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6881
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3308/5/98087.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 219733
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3308/1/98087.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3308/4/98087.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3308/5/98087.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3308"
+        }
+    },
+    "extent": "",
+    "page": "95-103",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

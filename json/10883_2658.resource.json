@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:18Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2658",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2008",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2658"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2658"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2658",
+    "creator": [
+        {
+            "id": 2088422090,
+            "value": "Leyva-Mir, S.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2088422090"
+        },
+        {
+            "id": 1941949710,
+            "value": "Gilchrist-Saavedra, L.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1941949710"
+        },
+        {
+            "id": 1393075174,
+            "value": "Huerta-Espino, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1393075174"
+        },
+        {
+            "id": 1079810848,
+            "value": "Villaseñor-Mir, H.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1079810848"
+        }
+    ],
+    "publisher": {
+        "id": 2027603325,
+        "value": "http://bit.ly/YqvhxB",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2027603325"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2658/1/90521.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 557119
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2658/2/90521.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 26
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2658/3/90521.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7153
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2658/1/90521.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2658/2/90521.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2658/3/90521.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2658"
+        }
+    },
+    "extent": "",
+    "page": "15-20",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Strategic approaches to targeting technology generation: assessing the coincidence of poverty and drought-prone crop production",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farming systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "child stunting",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "staple food crops",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "risk",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8851
+            ],
+            "value": "crop improvement",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331560"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The world's poorest and most vulnerable farmers on the whole have not benefited from international agricultural research and development. Past efforts have tried to increase the production of countries in more favourable environments; farmers with relatively higher potential for improvement benefited most from these advances. Current and future crop improvement efforts will focus more on marginal environments, especially those prone to drought. The objective of this research is to guide crop improvement efforts by prioritizing areas of high poverty, the key problem of high drought risk and the crops grown and consumed in these areas. Global spatial data on crop production, climate and poverty (as proxied by child stunting) were used to identify geographic areas of high priority for crop improvement. The analysis employed spatial overlay, drought modelling and descriptive statistics to identify where best to target technology generation to achieve its intended human welfare goals. Analysis showed that drought coincides with high levels of poverty in 15 major farming systems, especially in South Asia, the Sahel and eastern and southern Africa, where high diversity in drought frequency characterizes the environments. Thirteen crops make up the bulk of food production in these areas. A database was developed for use in agricultural research and development targeting and priority setting to raise the productivity of crops on which the poor in marginal environments depend.",
+        "lang": "eng"
+    },
+    "appid": "10883_2227",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2227"
+}}

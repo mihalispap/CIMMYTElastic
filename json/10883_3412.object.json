@@ -1,0 +1,162 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of traits of resistance to postharvest insect pests in tropical maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:03Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "postharvest insect pests",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6359,
+                0.6359,
+                0.6359,
+                0.6359,
+                ""
+            ],
+            "value": "texture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15578",
+                "http://aims.fao.org/aos/agrovoc/c_15578",
+                "http://aims.fao.org/aos/agrovoc/c_15578",
+                "http://aims.fao.org/aos/agrovoc/c_15578",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain losses",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "husk cover",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7447
+            ],
+            "value": "weevils",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_30063"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9551
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7579
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6635
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7332,
+            "value": "sitophilus zeamais",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26683"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "insect pests",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5729"
+        }
+    ],
+    "description": {
+        "value": "The maize weevil Sitophilus zeamais (Motschulsky) is among the most grain damaging insect in sub-saharan Africa. The objective of the study was to determine differences in traits associated with resistance to the maize weevil in the field and in storage. Two hundred and ninenty five (295) maize genotypes comprising of 120 inbred lines, 100 hybrids and open pollinated varieties (OPVs), and 75 landraces including resistant and susceptible checks were used in the study. The test materials were planted in two rows of 5 m replicated three times in alpha lattice designs. Husk tip length (cm) was measured in 10 plants of each row. Grain texture was rated visually and mechanical hardness of grain samples determined using a force displacement meter. Grain samples of 100 grams were taken from each plot of the three replications of each of the experiments and tested in the screening laboratory for resistance to maize weevil. Analysis of variance for the individual traits, correlation analysis and weight loss (%) was performed. High phenotypic variation in traits associated with postharvest resistance was evident. Grain hardness was high in the resistant compared to the susceptible genotypes. Genotypes with flint grain texture had longer tip length. The resistant hybrids and inbred lines were flinty in texture whereas the susceptible were dent. There was a positive relationship (r = 0.77) between grain texture and husk cover. The study showed that mechanisms of resistance vary among genotypes hence resistance should not be based on a single trait.",
+        "lang": "eng"
+    },
+    "appid": "10883_3412",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3412"
+}}

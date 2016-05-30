@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping of terminal heat tolerance in hexaploid wheat (T. aestivum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7726
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6902,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6004
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.743,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hexaploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24400"
+        }
+    ],
+    "description": {
+        "value": "High temperature (>30 °C) at the time of grain filling is one of the major causes of yield reduction in wheat in many parts of the world, especially in tropical countries. To identify quantitative trait loci (QTL) for heat tolerance under terminal heat stress, a set of 148 recombinant inbred lines was developed by crossing a heat-tolerant hexaploid wheat (Triticum aestivum L.) cultivar (NW1014) and a heat-susceptible (HUW468) cultivar. The F5, F6, and F7 generations were evaluated in two different sowing dates under field conditions for 2 years. Using the trait values from controlled and stressed trials, four different traits (1) heat susceptibility index (HSI) of thousand grain weight (HSITGW); (2) HSI of grain fill duration (HSIGFD); (3) HSI of grain yield (HSIYLD); and (4) canopy temperature depression (CTD) were used to determine heat tolerance. Days to maturity was also investigated. A linkage map comprising 160 simple sequence repeat markers was prepared covering the whole genome of wheat. Using composite interval mapping, significant genomic regions on 2B, 7B and 7D were found to be associated with heat tolerance. Of these, two (2B and 7B) were co-localized QTL and explained more than 15 % phenotypic variation for HSITGW, HSIGFD and CTD. In pooled analysis over three trials, QTL explained phenotypic variation ranging from 9.78 to 20.34 %. No QTL × trial interaction was detected for the identified QTL. The three major QTL obtained can be used in marker-assisted selection for heat stress in wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2915",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2915"
+}}

@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Translational research impacting on crop productivity in drought-prone environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:17Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "productivity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9516,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        }
+    ],
+    "description": {
+        "value": "Conventional breeding for drought-prone environments (DPE) has been complemented by using exotic germplasm to extend crop gene pools and physiological approaches that consider water uptake (WU), water-use efficiency (WUE), and harvest index (HI) as drivers of yield. Drivers are associated with proxy genetic markers, such as carbon-isotope discrimination for WUE, canopy temperature for WU, and anthesis-silking interval for HI in maize. Molecular markers associated with relevant quantitative trait loci are being developed. WUE has also been increased through combining understanding of root-to-shoot signaling with deficit irrigation. Impacts in DPE will be accelerated by combining proven technologies with promising new strategies such as marker-assisted selection, and genetic transformation, as well as conservation agriculture that can increase WU while averting soil degradation.",
+        "lang": "eng"
+    },
+    "appid": "10883_2653",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2653"
+}}

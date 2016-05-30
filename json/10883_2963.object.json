@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Prosper': A High-Yielding Hard Red Spring Wheat Cultivar Adapted to the North Central Plains of the USA",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:00Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6013,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6546,
+            "value": "gibberella zeae",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35494"
+        }
+    ],
+    "description": {
+        "value": "Providing wheat (Triticum aestivum L.) growers and industry with adapted wheat cultivars with high-quality attributes is essential for maintaining wheat as a competitive crop in the spring-wheat growing region of the USA. Therefore, our breeding program aims to develop modern wheat cultivars using both traditional and modern breeding tools. ?Prosper? (Reg. No. CV-1080, PI 662387) hard red spring wheat was developed at North Dakota State University and released jointly by the North Dakota Agricultural Experiment Station and the Minnesota Agricultural Experiment Station because of its good adaptation to the spring-wheat-growing regions in the U.S. North Central Plains. However, the high yield potential of Prosper under high rainfall conditions makes it more adapted mainly to wheat-growing regions in eastern North Dakota, western Minnesota, and high-rainfall regions of neighboring states. It has high yield potential and good milling and baking properties. Gene postulation shows that Prosper has the Lr21 gene, which confers resistance to leaf rust (caused by Puccinia triticina Eriks.). However, 2011 field observations show that Prosper is susceptible to a new race that overcomes the Lr21 gene. Prosper is resistant to stem rust (caused by Puccinia graminis Per.:Pers. f. sp. tritici Eriks. & E. Henn) and moderately resistant to Fusarium head blight (FHB), or scab [caused by Fusarium graminearum Schwabe; telomorph Gibberella zeae (Schwein.) Petch].",
+        "lang": "eng"
+    },
+    "appid": "10883_2963",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2963"
+}}

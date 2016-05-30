@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "Maize variety options for Africa : Kenya",
+        "lang": ""
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2016-01-15T22:22:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7565,
+            "value": "kenya",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4086"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4651",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4651"
+}}

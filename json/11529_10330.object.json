@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "International Late Yellow Hybrid Trial - ILYH1331",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2014-12-05T08:00:00Z",
     "created": "",
@@ -218,11 +218,17 @@
             "score": 1,
             "value": "hybrids",
             "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7,
+            "value": "provitamins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13634"
         }
     ],
     "description": {
         "value": "Summary results and individual trial results from the International Late Yellow Hybrid - ILYH (CIMMYT Hybrid Trials Mid-altitude/Subtropical Three Way Crosses Yellow Hybrids, With High Concentrations of Provitamin A (especially beta-carotene)) CHTSPROA conducted in 2013.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10330",
     "language": {

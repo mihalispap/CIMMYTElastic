@@ -1,0 +1,204 @@
+{"resource": {
+    "citation": "",
+    "issn": "0733-5210",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:49Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3195",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": [
+        2008,
+        2012
+    ],
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3195"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3195"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3195",
+    "creator": [
+        {
+            "id": 514446281,
+            "value": "Saint Pierre, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/514446281"
+        },
+        {
+            "id": 1605600713,
+            "value": "Peterson, C.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1605600713"
+        },
+        {
+            "id": 1136431673,
+            "value": "Ross, A.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1136431673"
+        },
+        {
+            "id": 946193832,
+            "value": "Ohm, J.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/946193832"
+        },
+        {
+            "id": 299324956,
+            "value": "Verhoeven, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/299324956"
+        },
+        {
+            "id": 2096809578,
+            "value": "Larson, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2096809578"
+        },
+        {
+            "id": 1063604011,
+            "value": "Hoefer, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1063604011"
+        },
+        {
+            "id": 523853470,
+            "value": "Murenga, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/523853470"
+        },
+        {
+            "id": 992643481,
+            "value": "Danson, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/992643481"
+        },
+        {
+            "id": 568815455,
+            "value": "Mugo, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/568815455"
+        },
+        {
+            "id": 359596698,
+            "value": "Githiri, S.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/359596698"
+        },
+        {
+            "id": 1423695280,
+            "value": "Wanjala, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1423695280"
+        }
+    ],
+    "publisher": {
+        "id": 1950671597,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0733521007000902",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1950671597"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3195/1/97689.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 206952
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3195/2/97689.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 51725
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3195/3/97689.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5937
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3195/1/97689.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3195/2/97689.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3195/3/97689.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3195"
+        }
+    },
+    "extent": "",
+    "page": [
+        "407-416",
+        "11181-11186"
+    ],
+    "coverage": [
+        "Kenya",
+        "Global",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

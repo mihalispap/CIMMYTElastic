@@ -1,0 +1,124 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Afghanistan",
+        "uri": [
+            "http://sws.geonames.org/1149361",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Afghanistan"
+        ]
+    },
+    "updatedDate": "2014-03-13T01:09:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "PARC/CIMMYT Paper",
+    "appid": "10883_3900",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1987",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3900"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3900"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3900",
+    "creator": {
+        "id": 373012181,
+        "value": "Smale, M.",
+        "type": "person",
+        "uri": "/cimmyt/person/373012181"
+    },
+    "publisher": [
+        {
+            "id": 2448354,
+            "value": "PARC",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2448354"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3900/1/9129.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5016653
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3900/2/9129.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 188666
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3900/3/9129.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5169
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3900/1/9129.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3900/2/9129.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3900/3/9129.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3900"
+        }
+    },
+    "extent": "No. 87-23",
+    "page": "xi, 75 p.",
+    "coverage": [
+        "Afghanistan",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Faisalabad (Pakistan)",
+    "doi": ""
+}}

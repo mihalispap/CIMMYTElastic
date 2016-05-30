@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Genotype × environment interaction for zinc and iron concentration of wheat grain in eastern Gangetic plains of India",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "micronutrients",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7834",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype × environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "site regression model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "factorial regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "partial least squares",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zinc",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8517"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        }
+    ],
+    "description": {
+        "value": "Zinc and iron are important micronutrients for human health for which widespread deficiency   occurs in many regions of the world including South Asia. Breeding efforts for enriching wheat grains with more zinc and iron are in progress in India, Pakistan and CIMMYT (International Maize and Wheat Improvement Centre). Further knowledge on genotype × environment interaction of these nutrients in the grain is expected to contribute to better understand the magnitude of this interaction and the potential identification of more stable genotypes for this trait. Elite lines from CIMMYT were evaluated in a multilocation trial in the eastern Gangetic plains (EGP) of India to determine genotype × environment (GE) interactions for agronomic and nutrient traits. Agronomic (yield and days to heading) data were available for 14 environments, while zinc and iron concentration of grains for 10 environments. Soil and meteorological data of each of the locations were also used. GE was significant for all the four traits. Locations showed contrasting response to grain iron and zinc. Compared to iron, zinc showed greater variation across locations. Maximum temperature was the major determinant for the four traits. Zinc content in 30?60 cm soil depth was also a significant determinant for grain zinc as well as iron concentration. The results suggest that the GE was substantial for grain iron and zinc and established varieties of eastern Gangetic plains India are not inferior to the CIMMYT germplasm tested. Hence, greater efforts taking care of GE interactions are needed to breed iron and zinc rich wheat lines.",
+        "lang": "eng"
+    },
+    "appid": "10883_2790",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2790"
+}}

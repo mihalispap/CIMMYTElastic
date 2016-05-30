@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Southern Africa",
+        "uri": [
+            "http://sws.geonames.org/9406051",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3000",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2005",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3000"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3000"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3000",
+    "creator": [
+        {
+            "id": 1866911153,
+            "value": "Dhliwayo, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1866911153"
+        },
+        {
+            "id": 767522288,
+            "value": "Pixley, K.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/767522288"
+        },
+        {
+            "id": 103663163,
+            "value": "Kazembe, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/103663163"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3000/1/81359.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 74892
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3000/2/81359.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36315
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3000/3/81359.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7332
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3000/1/81359.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3000/2/81359.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3000/3/81359.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3000"
+        }
+    },
+    "extent": "",
+    "page": "662-667",
+    "coverage": "Southern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

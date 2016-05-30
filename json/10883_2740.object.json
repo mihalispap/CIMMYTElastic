@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Effects of flour extraction rate, added water, and salt on color and texture of Chinese white noodles",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "noodles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12848"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6553,
+            "value": "extraction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36910"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7548,
+            "value": "flours",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2988"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.611,
+            "value": "texture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15578"
+        }
+    ],
+    "description": {
+        "value": "Both cultivar and noodle composition and preparation have important effects on noodle quality. In this study, the effects of flour extraction rate (50, 60, and 70%), added water (33, 35, and 37%), and salt concentration (0, 1, and 2%, w/w) on color and texture of Chinese white noodle (CWN) were investigated using flour samples from five leading Chinese wheat cultivars. The five samples showed large variations in protein content, ash content, flour color, farinograph, and extensigraph parameters, and starch pasting properties. Analyses of variance indicated that cultivar, flour extraction rate, level of water addition, salt concentration, and the interactions had significant effects on color of raw noodle sheets and color and textural properties of CWN. Cultivar and water addition were more important sources of variation than flour extraction rate and salt concentration. The brightness (L*) and redness (a*) values of raw noodle sheets were significantly reduced and increased, respectively, as flour extraction rate increased from 50 to 70%, and noodle scores were slightly higher at flour extraction rates of 50%. Water addition showed different effects on raw noodle sheet color at 2 and 24 hr, and a significant improvement was observed for noodle appearance, firmness, viscoelasticity, smoothness, and total score as water addition increased from 33 to 37%. L* of raw noodle sheets, and firmness and viscoelasticity of cooked noodles, were significantly improved, but noodle flavor significantly deteriorated as salt concentration increased from 0 to 2%; 1% salt produced the highest noodle score. Thus, the recommended composition for laboratory preparation of CWN is 60% flour extraction, 35% water addition, and 1% salt concentration.",
+        "lang": "eng"
+    },
+    "appid": "10883_2740",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2740"
+}}

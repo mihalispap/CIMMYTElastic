@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Levels of control of Chilo partellus stem borer in segregating tropical Bt maize populations in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bt maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "chilo partellus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27152",
+                "http://aims.fao.org/aos/agrovoc/c_27152",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bt ä-endotoxins",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "biosafety",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "greenhouse",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7045
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stem borers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7389"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "endotoxins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2564"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "greenhouses",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3379"
+        }
+    ],
+    "description": {
+        "value": "In Kenya, stem borers destroy an estimated 400,000 metric tons, or 13.5%, of farmers' annual maize harvest costing about US$80 millions. Bacillus thuringiensis (Bt) maize controls stem borers without harming humans, livestock and the environment and was sown to 140m ha-1 globally in 2009. Two public Bt maize lines of cry1Ab::ubi gene (Event 216 and Event 223) were crossed with two non-Bt maize inbred lines, CML144 and CML159. The efficacy in the control of Chilo partellus stem borers in the parents, F1 and F2:3 successive generations were studied in a biosafety level 2 greenhouse. The Bt-gene effectively reduced stem borer damage with lower values for number of exit holes, tunneling length, proportion of stalk tunneled, number of larvae and number of pupae than the non Bt-maize and the check cultivars. The F1 generations values for all damage parameters studied were comparable to those for the Bt-maize inbred lines as expected. The F2:3 generations showed a spread of damage parameters from resistant to susceptible. These results suggest that the Cry1A(b) genes in the study was inherited following the Mendelian segregation.",
+        "lang": "eng"
+    },
+    "appid": "10883_3125",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3125"
+}}

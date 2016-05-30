@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Does low yield heterosis limit commercial hybrids in wheat?",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hybrid",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "heterosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        }
+    ],
+    "description": {
+        "value": "Heterosis has contributed to productivity gains in several crops like maize, rice, sorghum, cotton etc. Wheat breeders have largely been unsuccessful to take advantage from this technology at commercial level. Lack of commercial level yield heterosis is regarded as a major reason for this failure as compared to other technical barriers like difficult pollination control and seed production. The allopolyploidy nature of wheat endows even wheat purelines with a fixed intergenomic heterosis which perhaps is the foremost reason for lack of classical yield heterosis in wheat. The coming together of three diverse but functionally similar genomes causes differential gene expression among several other outcomes and leads to a diploid behaving self-sustaining intergenomic hybrid. A long history of highly successful pureline breeding and shortage of nicking parents are other two reasons responsible for failure to realize commercial level heterosis in wheat. Molecular biology tools now make it possible to dissect the phenomenon of heterosis into detectable Mendelian factors to tailor nicking parents to develop commercially sustainable wheat hybrids. This review probes the reasons for the absence of commercial-scale heterosis in wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_3471",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3471"
+}}

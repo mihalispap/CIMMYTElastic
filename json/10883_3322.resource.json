@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "2305-2147",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-26T17:39:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3322",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3322"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3322"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3322",
+    "creator": [
+        {
+            "id": 895955641,
+            "value": "Kassie, G.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/895955641"
+        },
+        {
+            "id": 459971974,
+            "value": "Maleni, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/459971974"
+        },
+        {
+            "id": 1003944431,
+            "value": "Gwara, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1003944431"
+        },
+        {
+            "id": 38865236,
+            "value": "Emana, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/38865236"
+        }
+    ],
+    "publisher": {
+        "id": 678124228,
+        "value": "http://www.aessweb.com/abstract.php?m=August2013&id=5002&aid=1998",
+        "type": "organization",
+        "uri": "/cimmyt/organization/678124228"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3322/1/97987.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 455494
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3322/2/97987.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40709
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3322/3/97987.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5288
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3322/1/97987.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3322/2/97987.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3322/3/97987.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3322"
+        }
+    },
+    "extent": "",
+    "page": "1018-1032",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

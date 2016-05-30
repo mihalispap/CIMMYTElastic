@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Nepal",
+        "uri": [
+            "http://sws.geonames.org/1282988",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+        ]
+    },
+    "updatedDate": "2014-03-05T17:57:38Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3424",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3424"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3424"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3424",
+    "creator": [
+        {
+            "id": 1013639600,
+            "value": "Joshi, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013639600"
+        },
+        {
+            "id": 739472997,
+            "value": "Devkota, K.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/739472997"
+        },
+        {
+            "id": 1828202337,
+            "value": "Harris, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1828202337"
+        },
+        {
+            "id": 39913657,
+            "value": "Khanal, N.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/39913657"
+        },
+        {
+            "id": 451312804,
+            "value": "Paudyal, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/451312804"
+        },
+        {
+            "id": 633772908,
+            "value": "Sapkota, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/633772908"
+        },
+        {
+            "id": 1542741194,
+            "value": "Witcombe, J.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1542741194"
+        }
+    ],
+    "publisher": {
+        "id": 920217148,
+        "value": "http://www.sciencedirect.com/science/article/pii/S037842901200086X",
+        "type": "organization",
+        "uri": "/cimmyt/organization/920217148"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3424/1/98470.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 665287
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3424/6/98470.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3424/5/98470.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3691
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3424/1/98470.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3424/6/98470.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3424/5/98470.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3424"
+        }
+    },
+    "extent": "",
+    "page": "40-48",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

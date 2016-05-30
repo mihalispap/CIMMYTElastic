@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Inheritance of resistance to Fusarium head blight in the wheat lines CJ 9306 and CJ 9403",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "trtiticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8165,
+                ""
+            ],
+            "value": "fusarium graminearum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35494",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "disease resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "area under disease progress curve",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heritability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "scabs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6836"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6925,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Fusarium head blight (FHB or scab) caused by Fusarium graminearum is a worldwide serious disease in wheat. Exploitation and genetic studies of elite resistance sources can speed up the development of resistant cultivars. To characterize the inheritance of host plant resistance in two new lines, 'CJ 9306' and 'CJ 9403', developed from a recurrent selection programme in China, six generations P1, P2, F1, F2, B1 and B2 of four crosses and 137 F6 : 7 recombinant inbred lines (RILs) from one cross were evaluated in the greenhouse for scab resistance using single-floret inoculation. The data of area under disease progress curve (AUDPC) in F2, backcross (BC) and RIL populations exhibited mono-modal distributions without clear-cut demarcations and skewing towards resistance. An additive&ndash;dominance model was well-fitted, additive effects played a predominating role, and dominance effects were also significant. Continuous distributions with two major peaks and one minor peak for the number or percentage of scabby spikelets (NSS or PSS) in segregating populations implied the existence of major genes or quantitative trait loci (QTL) for resistance. The estimates of broadsense and narrow-sense heritabilities based on the six-generation experiment were 56&ndash;76% and 26&ndash;67% respectively. The estimates of broad-sense heritabilities based on ANOVA with RILs were 89&ndash;90%. These two improved lines with excellent scab resistance and good agronomic traits are of interest for wheat breeding and production.",
+        "lang": "eng"
+    },
+    "appid": "10883_2517",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2517"
+}}

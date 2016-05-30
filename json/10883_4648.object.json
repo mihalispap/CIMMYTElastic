@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Maize variety options for Africa : Benin",
+        "lang": ""
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2016-01-15T22:14:43Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "benin",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_875"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4648",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4648"
+}}

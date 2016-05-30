@@ -1,0 +1,149 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2337",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2003",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2337"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2337"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2337",
+    "creator": [
+        {
+            "id": 459115978,
+            "value": "Sivapalan, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/459115978"
+        },
+        {
+            "id": 177757824,
+            "value": "O'Brien, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/177757824"
+        },
+        {
+            "id": 2032391186,
+            "value": "Ortiz Ferrara, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2032391186"
+        },
+        {
+            "id": 1013765367,
+            "value": "Hollamby, G.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013765367"
+        },
+        {
+            "id": 582773837,
+            "value": "Barclay, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/582773837"
+        },
+        {
+            "id": 1444102481,
+            "value": "Martin, P.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1444102481"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2337/1/75925.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 140838
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2337/2/75925.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36813
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2337/3/75925.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 1057
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2337/1/75925.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2337/2/75925.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2337/3/75925.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2337"
+        }
+    },
+    "extent": "",
+    "page": "91-100",
+    "coverage": [
+        "Australia",
+        "West Asia",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -8,12 +8,6 @@
     "subject": [
         {
             "vocabulary": "agrovoc",
-            "score": 0.6362,
-            "value": "germplasm",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 1,
             "value": "genetics",
             "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
@@ -29,6 +23,12 @@
             "score": 0.8781,
             "value": "germplasm collections",
             "uri": "http://aims.fao.org/aos/agrovoc/c_36739"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6362,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
         },
         {
             "vocabulary": "agrovoc",

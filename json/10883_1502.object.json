@@ -59,6 +59,51 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 0.7244,
+            "value": "minimum tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_32734"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7261
+            ],
+            "value": "sustainability",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_33560"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9945
+            ],
+            "value": "cropping systems",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1971"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6113,
+            "value": "crop diversification",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2344"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 1,
             "value": "plains",
             "uri": "http://aims.fao.org/aos/agrovoc/c_5948"
@@ -89,12 +134,6 @@
             "score": 1,
             "value": "yields",
             "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "cropping systems",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1971"
         }
     ],
     "description": {

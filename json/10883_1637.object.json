@@ -103,6 +103,12 @@
             ]
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -124,10 +130,19 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "alleles",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6636
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24030"
+            ]
         },
         {
             "vocabulary": [
@@ -142,21 +157,6 @@
             "uri": [
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_34331"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6636
-            ],
-            "value": "molecular markers",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_24030"
             ]
         },
         {

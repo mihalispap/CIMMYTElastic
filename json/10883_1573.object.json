@@ -17,14 +17,14 @@
                 "",
                 "",
                 "",
-                0.7091
+                0.7155
             ],
-            "value": "potassium",
+            "value": "cereals",
             "uri": [
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_6139"
+                "http://aims.fao.org/aos/agrovoc/c_1474"
             ]
         },
         {
@@ -38,15 +38,21 @@
                 "",
                 "",
                 "",
-                0.7155
+                0.7091
             ],
-            "value": "cereals",
+            "value": "potassium",
             "uri": [
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_1474"
+                "http://aims.fao.org/aos/agrovoc/c_6139"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6255,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
         }
     ],
     "description": {

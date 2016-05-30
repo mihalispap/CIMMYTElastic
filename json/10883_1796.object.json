@@ -9,6 +9,21 @@
         {
             "vocabulary": [
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "trials",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2758"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
                 "",
                 "",
                 "",
@@ -31,21 +46,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8157"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
-            "value": "trials",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_2758"
             ]
         }
     ],

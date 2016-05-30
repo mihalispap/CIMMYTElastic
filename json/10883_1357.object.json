@@ -3,7 +3,7 @@
         "value": "Characterizing the cereal systems and identifying the potential of conservation agriculture in South Asia",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:49Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-01-17T15:58:16Z",
     "subject": [
         {
@@ -189,14 +189,17 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
                 1,
+                0.7789,
                 ""
             ],
             "value": "south asia",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_29172",
                 "http://aims.fao.org/aos/agrovoc/c_29172",
                 ""
             ]

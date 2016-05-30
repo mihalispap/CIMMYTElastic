@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Analysis of genetic diversity in the North Eastern Himalayan (NEH) maize landraces of India using microsatellite markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "india",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3825",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "landraces",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssrs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "population genetics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        }
+    ],
+    "description": {
+        "value": "Population DNA fingerprinting of 48 selected North Eastern Himalayan (NEH) landrace accessions was undertaken using 41 polymorphic fluorescent dye-labelled microsatellite/Simple Sequence Repeat (SSR) markers, using a DNA Sequencer. The analysis revealed a large number of SSR alleles (576), with high mean number of alleles per locus (13.8), and Polymorphism Information Content (PIC) of 0.63, reflecting the level of diversity in the NEH accessions and the informativeness of the SSR markers. The study also led to identification of 135 unique alleles, differentiating 44 out of the 48 accessions. Five highly frequent (major) SSR alleles (umc154580bp, phi062162bp, umc1367159bp, umc2250152bp and phi112152bp) were detected indicating that chromosomal regions harbouring these SSR alleles might not be selectively neutral. Analysis of population genetic parameters, including Wright?s F statistics, revealed high level of genetic differentiation, very low levels of inbreeding, and restricted gene flow between the NEH landraces. AMOVA (Analysis of Molecular Variance) showed that 67 per cent of the total variation in the accessions could be attributed to within-population diversity, and the rest between the accessions. Cluster analysis of SSR data using Rogers? genetic distance and UPGMA, showed significant genetic diversity among the landraces from Sikkim. This is the first detailed study of SSR allele frequency-based analysis of genetic diversity in the NEH maize landraces of India.",
+        "lang": "eng"
+    },
+    "appid": "10883_3114",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3114"
+}}

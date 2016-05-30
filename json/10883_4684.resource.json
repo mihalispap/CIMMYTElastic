@@ -1,0 +1,164 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mozambique",
+            "uri": [
+                "http://sws.geonames.org/1036973",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mozambique"
+            ]
+        }
+    ],
+    "updatedDate": [
+        "2016-01-25T18:23:27Z",
+        null
+    ],
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "SIMLESA Bulletin",
+    "appid": "10883_4684",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Bulletin",
+    "date": "",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4684"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4684"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4684",
+    "creator": {
+        "id": 1835230430,
+        "value": "CIMMYT Int.",
+        "type": "person",
+        "uri": "/cimmyt/person/1835230430"
+    },
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 62097112,
+            "value": "ACIAR",
+            "type": "organization",
+            "uri": "/cimmyt/organization/62097112"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4684/1/56894dec2015.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2990
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4684/5/56894dec2015.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 59109
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4684/4/56894dec2015.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 1750919
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4684/1/56894dec2015.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4684/5/56894dec2015.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4684/4/56894dec2015.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4684"
+        }
+    },
+    "extent": "",
+    "page": 20,
+    "coverage": [
+        "Ethiopia",
+        "Kenya",
+        "Malawi",
+        "Mozambique"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Australia",
+    "doi": ""
+}}

@@ -3,7 +3,7 @@
         "value": "Maize of the ancestors and modern varieties: The microeconomics of high yielding variety adoption in Malawi",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:47Z",
+    "updated": "2016-01-22T23:05:40Z",
     "created": "2013-06-07T21:09:26Z",
     "subject": [
         {
@@ -129,43 +129,16 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
                 1,
-                0.6959,
                 ""
             ],
             "value": "malawi",
             "uri": [
                 "http://aims.fao.org/aos/agrovoc/c_4532",
-                "http://aims.fao.org/aos/agrovoc/c_4532",
                 ""
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                0.6198
-            ],
-            "value": "hybrids",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3707"
             ]
         },
         {
@@ -193,6 +166,30 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_2867"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6198
+            ],
+            "value": "hybrids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3707"
             ]
         },
         {

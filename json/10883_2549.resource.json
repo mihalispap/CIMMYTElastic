@@ -1,0 +1,196 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-4797",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Bangladesh",
+        "uri": [
+            "http://sws.geonames.org/1210997",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:00Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2549",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2549"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2549"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2549",
+    "creator": [
+        {
+            "id": 486124901,
+            "value": "Rawson, H.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/486124901"
+        },
+        {
+            "id": 774587243,
+            "value": "Gomez-Macpherson, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/774587243"
+        },
+        {
+            "id": 163931783,
+            "value": "Hossain, A.B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/163931783"
+        },
+        {
+            "id": 1238815576,
+            "value": "Saifuzzaman, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1238815576"
+        },
+        {
+            "id": 1306922713,
+            "value": "Rashid, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1306922713"
+        },
+        {
+            "id": 346964212,
+            "value": "Sufian, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/346964212"
+        },
+        {
+            "id": 1247419236,
+            "value": "Samad, M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1247419236"
+        },
+        {
+            "id": 2115853207,
+            "value": "Sarker, A.Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/2115853207"
+        },
+        {
+            "id": 282118849,
+            "value": "Ahmed, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/282118849"
+        },
+        {
+            "id": 1531995351,
+            "value": "Talukder, Z.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1531995351"
+        },
+        {
+            "id": 761368522,
+            "value": "Rahman, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/761368522"
+        },
+        {
+            "id": 20139741,
+            "value": "Siddique, M.M.A.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/20139741"
+        },
+        {
+            "id": 711245800,
+            "value": "Hossain, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/711245800"
+        },
+        {
+            "id": 1618799642,
+            "value": "Amin, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1618799642"
+        }
+    ],
+    "publisher": {
+        "id": 1482360019,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=654260&fulltextType=RA&fileId=S0014479706004224",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1482360019"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2549/1/89931.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 237482
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2549/2/89931.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 61204
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2549/3/89931.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4721
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2549/1/89931.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2549/2/89931.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2549/3/89931.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2549"
+        }
+    },
+    "extent": "",
+    "page": "21-40",
+    "coverage": [
+        "Bangladesh",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

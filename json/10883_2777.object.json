@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Relationships between population densities of the cereal cyst nematode, Heterodera latipons and yield losses of winter wheat in microplots",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "damage potential",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wana",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.82
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6824
+            ],
+            "value": "cereals",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1474"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.891
+            ],
+            "value": "nematodes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5112"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6848,
+            "value": "heterodera",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3580"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "damage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26768"
+        }
+    ],
+    "description": {
+        "value": "The cereal cyst nematode, Heterodera latipons, has been shown internationally to be a serious nematode pest causing yield losses in cereals and it occurs in some cereal-growing provinces of Iran. The objectives of this research were to study the effect of different initial population (Pi) densities (0, 2.5, 5, 10 and 20 eggs and second-stage juveniles/gram of soil) of H. latipons on yield and growth parameters of the winter wheat cv. Sardari. Two experiments were conducted in the 2006?07 and 2007?08 growing seasons in field microplots in the Markazi province of Iran. H. latipons was shown to significantly reduce grain yield by up to 55%, root dry weight by up to 70%, aerial shoot dry weight by up to 48%, spike height by up to 36% and plant height by up to 32% at the highest Pi. The final population of H. latipons increased significantly with increasing Pi levels in both years, while the reproduction factor decreased. Regression analysis clearly demonstrated inverse relationships between Pi density and grain yield, which was modelled using the exponential association equation: Grain Yield Loss (%) = 52.86 (1 ? e?0.17Pi).",
+        "lang": "eng"
+    },
+    "appid": "10883_2777",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2777"
+}}

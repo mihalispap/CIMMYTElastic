@@ -1,0 +1,174 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/1814991",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Japan",
+            "uri": [
+                "http://sws.geonames.org/1861060",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Japan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/6255148",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:19Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2667",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2008",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2667"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2667"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2667",
+    "creator": [
+        {
+            "id": 2008532749,
+            "value": "Duveiller, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/2008532749"
+        },
+        {
+            "id": 233741657,
+            "value": "Mezzalama, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/233741657"
+        },
+        {
+            "id": 1983023871,
+            "value": "Murakami, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1983023871"
+        },
+        {
+            "id": 1354964288,
+            "value": "Lewis, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1354964288"
+        },
+        {
+            "id": 1325659965,
+            "value": "Ban, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1325659965"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2667/1/90610.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 139922
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2667/2/90610.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 32695
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2667/3/90610.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2678
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2667/1/90610.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2667/2/90610.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2667/3/90610.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2667"
+        }
+    },
+    "extent": "",
+    "page": "11-19 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

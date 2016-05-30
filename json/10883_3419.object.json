@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Field high-throughput phenotyping: the new crop breeding frontier",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:05Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "remote sensing",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6498",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spatial variability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stress tolerance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9308
+            ],
+            "value": "fields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2894"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7727
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9159
+            ],
+            "value": "efficiency",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2491"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8449,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7992,
+            "value": "genetic improvement",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11119"
+        }
+    ],
+    "description": {
+        "value": "Constraints in field phenotyping capability limit our ability to dissect the genetics of quantitative traits, particularly those related to yield and stress tolerance (e.g., yield potential as well as increased drought, heat tolerance, and nutrient efficiency, etc.). The development of effective field-based high-throughput phenotyping platforms (HTPPs) remains a bottleneck for future breeding advances. However, progress in sensors, aeronautics, and high-performance computing are paving the way. Here, we review recent advances in field HTPPs, which should combine at an affordable cost, high capacity for data recording, scoring and processing, and non-invasive remote sensing methods, together with automated environmental data collection. Laboratory analyses of key plant parts may complement direct phenotyping under field conditions. Improvements in user-friendly data management together with a more powerful interpretation of results should increase the use of field HTPPs, therefore increasing the efficiency of crop genetic improvement to meet the needs of future generations.",
+        "lang": "eng"
+    },
+    "appid": "10883_3419",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3419"
+}}

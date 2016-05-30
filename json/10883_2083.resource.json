@@ -1,0 +1,140 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Benin",
+        "uri": [
+            "http://sws.geonames.org/2395170",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Benin"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:30Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2083",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2002",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2083"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2083"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2083",
+    "creator": [
+        {
+            "id": 592086743,
+            "value": "Bokonon-Ganta, A.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/592086743"
+        },
+        {
+            "id": 1923206123,
+            "value": "De Groote, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1923206123"
+        },
+        {
+            "id": 1494388400,
+            "value": "Neuenschwander, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1494388400"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2083/1/76496.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 105469
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2083/2/76496.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45604
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2083/3/76496.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2520
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2083/1/76496.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2083/2/76496.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2083/3/76496.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2083"
+        }
+    },
+    "extent": "",
+    "page": "367-378",
+    "coverage": [
+        "Benin",
+        "West Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

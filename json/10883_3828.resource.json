@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-13T01:05:21Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Soil Fertility Network for Maize-Based Cropping Systems in Malawi and Zimbabwe -- Network Research Results Working Paper",
+    "appid": "10883_3828",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2002",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3828"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3828"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3828",
+    "creator": [
+        {
+            "id": 1752007571,
+            "value": "Bellon, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1752007571"
+        },
+        {
+            "id": 1035540830,
+            "value": "Gatsi, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1035540830"
+        },
+        {
+            "id": 943329178,
+            "value": "Waddington, S.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/943329178"
+        },
+        {
+            "id": 1815595597,
+            "value": "Gambara, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1815595597"
+        },
+        {
+            "id": 1974352222,
+            "value": "Machemedze, T.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1974352222"
+        },
+        {
+            "id": 255265891,
+            "value": "Mwenye, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/255265891"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3828/1/447679.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 3777712
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3828/2/447679.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 126696
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3828/3/447679.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6322
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3828/1/447679.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3828/2/447679.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3828/3/447679.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3828"
+        }
+    },
+    "extent": "No. 8",
+    "page": "54 p.",
+    "coverage": "Zimbabwe",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Harare (Zimbabwe)",
+    "doi": ""
+}}

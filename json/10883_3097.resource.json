@@ -1,0 +1,188 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3097",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3097"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3097"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3097",
+    "creator": [
+        {
+            "id": 959266020,
+            "value": "Gupta, H.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/959266020"
+        },
+        {
+            "id": 1806270242,
+            "value": "Agrawal, P.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1806270242"
+        },
+        {
+            "id": 2084965546,
+            "value": "Mahajan, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/2084965546"
+        },
+        {
+            "id": 1466329682,
+            "value": "Bisht, G.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1466329682"
+        },
+        {
+            "id": 467553813,
+            "value": "Kumar, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/467553813"
+        },
+        {
+            "id": 415631145,
+            "value": "Verma, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/415631145"
+        },
+        {
+            "id": 1361461623,
+            "value": "Srivastava, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1361461623"
+        },
+        {
+            "id": 1881238294,
+            "value": "Saha, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1881238294"
+        },
+        {
+            "id": 2130038142,
+            "value": "Babu, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2130038142"
+        },
+        {
+            "id": 1827760983,
+            "value": "Pant, M.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1827760983"
+        },
+        {
+            "id": 1244964121,
+            "value": "Mani, V.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1244964121"
+        }
+    ],
+    "publisher": {
+        "id": 1466947679,
+        "value": "http://bit.ly/10RALQC",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1466947679"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3097/1/93455.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 184317
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3097/2/93455.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38058
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3097/3/93455.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6396
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3097/1/93455.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3097/2/93455.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3097/3/93455.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3097"
+        }
+    },
+    "extent": "",
+    "page": "230-237",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

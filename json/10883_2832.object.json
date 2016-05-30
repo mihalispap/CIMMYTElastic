@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Genetic protection of wheat from rusts and development of resistant varieties in Russia and Ukraine",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6325,
+                0.6325,
+                0.6325,
+                0.6325,
+                0.6325,
+                ""
+            ],
+            "value": "genes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3214",
+                "http://aims.fao.org/aos/agrovoc/c_3214",
+                "http://aims.fao.org/aos/agrovoc/c_3214",
+                "http://aims.fao.org/aos/agrovoc/c_3214",
+                "http://aims.fao.org/aos/agrovoc/c_3214",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9288
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust represents the major threat to wheat production in Russia and Ukraine. It has been present for many years and epidemics of the pathogen occur in different regions on both winter and spring wheat. In some regions there is evidence of more frequent epidemics, probably due to higher precipitation as a result of climate change. There is evidence that the virulence of the leaf rust population in Ukraine and European Russia and on winter wheat and spring wheat is similar. The pathogen population structure in Western Siberia is also similar to the European part, although there are some significant differences based on the genes employed in different regions. Ukrainian wheat breeders mostly rely on major resistance genes from wide crosses and have succeeded in developing resistant varieties. The North Caucasus winter wheat breeding programs apply the strategy of deploying varieties with different types of resistance and genes. This approach resulted in decreased leaf rust incidence in the region. Genes Lr23 and Lr19 deployed in spring wheat in the Volga region were rapidly overcome by the pathogen. There are continuing efforts to incorporate resistance from wild species. The first spring wheat leaf rust resistant varieties released in Western Siberia possessed gene LrTR which protected the crop for 10?15 years, but was eventually broken in 2007. Slow rusting is being utilized in several breeding programs in Russia and Ukraine, but has not become a major strategy",
+        "lang": "eng"
+    },
+    "appid": "10883_2832",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2832"
+}}

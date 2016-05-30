@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Concerted changes in N and C primary metabolism in alfalfa (Medicago sativa) under water restriction",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-12-09T20:48:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "alfalfa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4693",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "c/n",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drought",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "metabolomic",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nodule",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "proteomic",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.725
+            ],
+            "value": "metabolism",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4769"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "oxidative stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37481"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7353,
+            "value": "medicago sativa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4693"
+        }
+    ],
+    "description": {
+        "value": "Although the mechanisms of nodule N2 fixation in legumes are now well documented, some uncertainty remains on the metabolic consequences of water deficit. In most cases, little consideration is given to other organs and, therefore, the coordinated changes in metabolism in leaves, roots, and nodules are not well known. Here, the effect of water restriction on exclusively N2-fixing alfalfa (Medicago sativa L.) plants was investigated, and proteomic, metabolomic, and physiological analyses were carried out. It is shown that the inhibition of nitrogenase activity caused by water restriction was accompanied by concerted alterations in metabolic pathways in nodules, leaves, and roots. The data suggest that nodule metabolism and metabolic exchange between plant organs nearly reached homeostasis in asparagine synthesis and partitioning, as well as the N demand from leaves. Typically, there was (i) a stimulation of the anaplerotic pathway to sustain the provision of C skeletons for amino acid (e.g. glutamate and proline) synthesis; (ii) re-allocation of glycolytic products to alanine and serine/glycine; and (iii) subtle changes in redox metabolites suggesting the implication of a slight oxidative stress. Furthermore, water restriction caused little change in both photosynthetic efficiency and respiratory cost of N2 fixation by nodules. In other words, the results suggest that under water stress, nodule metabolism follows a compromise between physiological imperatives (N demand, oxidative stress) and the lower input to sustain catabolism.",
+        "lang": "eng"
+    },
+    "appid": "10883_3371",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3371"
+}}

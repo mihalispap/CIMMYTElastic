@@ -1,0 +1,156 @@
+{"object": {
+    "title": {
+        "value": "Suppression expression of resistance to stripe rust in synthetic hexaploid wheat (Triticum turgidum x T. tauschii)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:25Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mycoses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5024",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6354",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hexaploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24400"
+        }
+    ],
+    "description": {
+        "value": "Some 74 hexaploid wheats, synthesized by either crossing resistant Triticum turgidum var. durum [T. durum] with susceptible/intermediate T. tauschii [Aegilops squarrosa] or susceptible/intermediate T. turgidum with resistant T. tauschii, and their parents were evaluated as seedlings in the greenhouse and as adult plants at two field locations in Mexico for resistance to pathotype 14E14 of stripe rust (Puccinia striiformis). The seedlings of different synthetic hexaploids showed high phenotypic diversity for resistance. However, the resistance level of only 15 of the 74 synthetic hexaploid wheats was similar to the low infection types of the respective donor parents. The remaining synthetic wheats displayed either intermediate or high levels of infection. A similar result was also obtained in field tests, where only 18 synthetic hexaploids were resistant as adult plants. In general, genotypes with seedling resistance were also resistant as adult plants. A few synthetic hexaploids, of intermediate or susceptible infection type as seedlings, were resistant as adult plants, indicating that additional genes for adult-plant resistance were also present. The fact that the resistance of some donor parents was not expressed, or only partially expressed, in a synthetic hexaploid background suggests the presence of suppressor genes in both the A and D genomes of T. turgidum and T. tauschii, respectively. The resistance of a donor parent was expressed in a synthetic hexaploid only if the corresponding suppressor was absent in the second parent. Moreover, the suppressors appeared to be resistance gene specific",
+        "lang": "eng"
+    },
+    "appid": "10883_2300",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2300"
+}}

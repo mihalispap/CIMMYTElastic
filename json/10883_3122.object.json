@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Combining ability of maize (Zea mays L.) inbred lines resistant to stem borers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "combining ability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15954",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.7007,
+                ""
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24039",
+                "http://aims.fao.org/aos/agrovoc/c_24039",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "stem borers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7389",
+                "http://aims.fao.org/aos/agrovoc/c_7389",
+                "http://aims.fao.org/aos/agrovoc/c_7389",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "Ten inbred parents with varying resistance levels to Chilo partellus and Busseola fusca were crossed in a half diallel mating scheme to generate 45 F1 hybrids. The hybrids and five commercial checks were evaluated across four locations in Kenya under artificial and natural infestation in 2009. Genotype (G) by environment (E) interaction (G x E) was non-significant for stem borer leaf damage, number of exit holes and tunnel length, suggesting that screening for stem borer resistance at one location would be adequate. On the other hand, G x E and general combining ability (GCA) x environment interactions were highly significant for gray leaf spot and turcicum leaf blight, indicating an inbred line resistance to a disease in one location may have a different reaction to the same disease in another location. The results of combining ability analysis showed that GCA effects were significant for stem borer resistance traits (leaf damage scores, number of exit holes, and tunnel length) while the opposite was true for specific combining ability (SCA) effects. Parents 5, 2, 6, 9 and 3, were good sources of genes for higher grain yield while parents 1 and 4 were good sources of resistance genes for stem borers. Hybrid 5 x 9 was the best performing hybrid in grain yield (6.53 t/ha) across the locations, while hybrid 1 x 4 was the least performing in grain yield (3.08 t/ha). The source of stem borer resistance identified in the study may be useful for improving levels of stem borer resistance in maize breeding programs in eastern and southern Africa.",
+        "lang": "eng"
+    },
+    "appid": "10883_3122",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3122"
+}}

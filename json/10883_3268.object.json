@@ -1,0 +1,108 @@
+{"object": {
+    "title": [
+        {
+            "value": "Identificacion de razas mexicanas de maiz adaptadas a condiciones deficientes de humedad mediante datos biogeograficos",
+            "lang": ""
+        },
+        {
+            "value": "Identification of Mexican maize races adapted to moisture deficient conditions using biogeographical data",
+            "lang": "eng"
+        }
+    ],
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adaptacion a sequia",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drought adaptation",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "races",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic resources",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cambio climatico",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "razas de maiz",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "recursos geneticos",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "climate change",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "para",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5556"
+        }
+    ],
+    "description": [
+        {
+            "value": "Se trabajo con una base de datos de accesiones recientes de 54 razas de maiz de Mexico, cuyos datos pasaporte se extrajeron de la Unidad de Recursos Geneticos del Banco de Germoplasma del INIFAP. A partir de las coordenadas geograficas de las accesiones, se hizo una caracterizacion por sitios de accesion, de las condiciones de disponibilidad de humedad del periodo mayo-octubre para el desarrollo del maiz, con base en el sistema de informacion ambiental del INIFAP y el sistema IDRISI Andes. Con estos datos se realizo un analisis estadistico que incluyo analisis de varianza y un analisis de taxonomia numerica (analisis cluster) con la opcion de correlacion de momento producto entre razas. Adicionalmente se realizo un analisis de accesiones por raza para identificar las accesiones que desarrollan bajo ambientes con deficiencia de humedad. Se seleccionaron las accesiones con adaptacion a un ambiente con indice de humedad (IH) (precipitacion/evapotranspiracion potencial) mayo-octubre inferior a 0.5. Los resultados mostraron la identificacion de cinco grupos raciales, de los cuales uno de ellos se destaco por su adaptacion a un IH entre 0.39 y 0.53. Este grupo incluyo las razas Chapalote, Dulcillo del Noroeste, Tuxpeño Norteño, Conico Norteño, Tablilla de Ocho y Gordo. El analisis de accesiones reporto la presencia de maiz en un total de 677 sitios con condiciones de semiaridez en la temporada mayo-octubre. Las 677 accesiones representan a 24 razas. Estos resultados permiten concluir que en Mexico existen recursos geneticos, relacionados con las razas de maiz, los cuales podrian ser de utilidad en los programas de mejoramiento genetico de maiz enfocados a la adaptacion a estres por sequia.",
+            "lang": "spa"
+        },
+        {
+            "value": "We worked with a database of recent accessions of 54 races of maize from Mexico, whose passport details were extracted from the Genetic Resource Unit from INIFAP´s Germplasm Bank. From the geographical coordinates of the accessions, was made an accession characterization by site, conditions of moisture availability for the period from May to October for the development of maize, based on the environmental information system from INIFAP and the IDRISI Andes system. With these data, a statistical analysis was made that included an analysis f variance and analysis of numerical taxonomy (cluster analysis) with the product moment correlation between races. Additionally was performed an accessions analysis by race to identify the accessions that developed under moisture-deficient environments. Accessions were selected with adaptation to an environment with humidity index (IH) (precipitation / potential evapotranspiration) from May to October less than 0.5. The results showed the identification of five racial groups, of which one of them stood out for its adaptation to an HI between 0.39 and 0.53. This group included Chapalote, Dulcillo Northwest, Tuxpeño Norteño, Conical Norteño, Tablilla of Ocho and Gordo races. Accessions analysis reported the presence of maize in a total of 677 sites with semi-arid conditions in the May-October season. The 677 accessions represent 24 races. These results suggest that in Mexico there are genetic resources, related to the races of maize, which could be useful in breeding programs aimed to maize adaptation to drought stress.",
+            "lang": "eng"
+        }
+    ],
+    "appid": "10883_3268",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3268"
+}}

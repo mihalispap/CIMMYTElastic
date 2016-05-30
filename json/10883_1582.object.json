@@ -5,98 +5,21 @@
     },
     "updated": "2016-01-22T23:05:38Z",
     "created": "2013-06-05T15:45:46Z",
-    "subject": [
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
-            "value": "wheats",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8373"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.7027
-            ],
-            "value": "monoculture",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_4915"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                0.753
-            ],
-            "value": "grain",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3346"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                0.7804
-            ],
-            "value": "yields",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8488"
-            ]
-        }
-    ],
+    "subject": {
+        "vocabulary": [
+            "",
+            "agrovoc"
+        ],
+        "score": [
+            "",
+            1
+        ],
+        "value": "wheats",
+        "uri": [
+            "",
+            "http://aims.fao.org/aos/agrovoc/c_8373"
+        ]
+    },
     "description": {
         "value": "The planting system on permanent raised-beds for rainfed wheat (Triticum aestivum L.) production in the central highlands of Mexico is an option that needs to be documented for moderate-yield environments. Long-term plots were established under this technology in the 2002 crop season. The objective was to evaluate wheat grain yield performance as related to rainfall and soil characteristics until 2009. The experiment was conducted in rotation with maize (Zea mays L.) and monoculture. Four N rates were applied to wheat (0, 40, 80, and 120 kg ha&#8722;1) and three to maize (0, 60, and 120 kg ha&#8722;1). Nitrogen rates to the subsequent wheat crop were superimposed to each one of the preceding maize crop. Crop residues of both crops were left on the soil surface. Results showed that the amount of soil N measured as N?NO3 and N?NH4 was reduced during the first three seasons after the establishment of permanent beds. Although this reduction was substantial, stepwise regression procedures indicated that wheat grain yield was mostly determined by the amount of rainfall and distribution during the crop season, except for the 2009 season when the standard deviation of this measurement was larger. In addition to those N measurements, total soil N, available P, and exchangeable K had no effect on grain yield. The response of grain yield to N application rates >40 kg ha&#8722;1 was negligible for both crop rotations. In average, wheat grain yield in rotation was greater than wheat in monoculture. Grain yield reduction in monoculture resulted from fewer heads m&#8722;2.",
         "lang": "eng"

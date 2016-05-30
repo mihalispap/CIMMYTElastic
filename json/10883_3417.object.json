@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Linkage relationships among molecular markers and storage root traits of carrot (Daucus carota L. ssp. sativus)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:04Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic map",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rflp",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34255",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "aflp",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331160",
+                "http://aims.fao.org/aos/agrovoc/c_331160",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rapd",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_36341",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sampl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "daucus carota l. ssp. sativus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic maps",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24002"
+        }
+    ],
+    "description": {
+        "value": "A 109-point linkage map consisting of three phenotypic loci (, and Rs), six restriction fragment length polymorphisms (RFLPs), two random amplified polymorphic DNAs (RAPDs), 96 amplified fragment length polymorphisms (AFLPs), and two selective amplification of microsatellite polymorphic loci (SAMPL) was constructed for carrot (Daucus carota L. ssp. sativus; 2n=2x=18). The incidence of polymorphism was 36% for RFLP probes, 20% for RAPD primers, and 42% for AFLP primers. The overall incidence of disturbed segregation was 18%. Linkage relationships at a LOD score of 4.0 and indicated 11 linkage groups. The total map length was  and the map was clearly unsaturated with markers spaced at . AFLP P6B15 was from P 1, AFLP P1B34 was  from Y 2, and AFLP P3B30XA was  from Rs.",
+        "lang": "eng"
+    },
+    "appid": "10883_3417",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3417"
+}}

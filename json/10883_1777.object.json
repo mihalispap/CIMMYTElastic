@@ -22,10 +22,28 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 0.9292,
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.738
+            ],
             "value": "genomics",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
         },
         {
             "vocabulary": "agrovoc",

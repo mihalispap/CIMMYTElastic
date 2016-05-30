@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-12-09T20:40:03Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3356",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3356"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3356"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3356",
+    "creator": [
+        {
+            "id": 1323266426,
+            "value": "Erenstein, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1323266426"
+        },
+        {
+            "id": 1468022009,
+            "value": "Blummel, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1468022009"
+        },
+        {
+            "id": 749935783,
+            "value": "Grings, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/749935783"
+        }
+    ],
+    "publisher": {
+        "id": 1807807257,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429013003559",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1807807257"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3356/1/98235.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 26327
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3356/2/98235.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6127
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3356/3/98235.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 221659
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3356/1/98235.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3356/2/98235.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3356/3/98235.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3356"
+        }
+    },
+    "extent": "",
+    "page": "4-14 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

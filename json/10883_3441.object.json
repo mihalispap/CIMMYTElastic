@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Genomic prediction in CIMMYT maize and wheat breeding programs",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T17:59:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bayesian lasso",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "international maize and wheat improvement center",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype × environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "reproducing kernel hilbert space regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        }
+    ],
+    "description": {
+        "value": "Genomic selection (GS) has been implemented in animal and plant species, and is regarded as a useful tool for accelerating genetic gains. Varying levels of genomic prediction accuracy have been obtained in plants, depending on the prediction problem assessed and on several other factors, such as trait heritability, the relationship between the individuals to be predicted and those used to train the models for prediction, number of markers, sample size and genotype_environment interaction (GE). The main objective of this article is to describe the results of genomic prediction in International Maize and Wheat Improvement Center's (CIMMYT's) maize and wheat breeding programs, from the initial assessment of the predictive ability of different models using pedigree and marker information to the present, when methods for implementing GS in practical global maize and wheat breeding programs are being studied and investigated. Results show that pedigree (population structure) accounts for a sizeable proportion of the prediction accuracy when a global population is the prediction problem to be assessed. However, when the prediction uses unrelated populations to train the prediction equations, prediction accuracy becomes negligible. When genomic prediction includes modeling GE, an increase in prediction accuracy can be achieved by borrowing information from correlated environments. Several questions on how to incorporate GS into CIMMYT's maize and wheat programs remain unanswered and subject to further investigation, for example, prediction within and between related biparental crosses. Further research on the quantification of breeding value components for GS in plant breeding populations is required.",
+        "lang": "eng"
+    },
+    "appid": "10883_3441",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3441"
+}}

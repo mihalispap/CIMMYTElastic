@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "1212-1975",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:47Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2870",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2870"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2870"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2870",
+    "creator": [
+        {
+            "id": 2010708303,
+            "value": "Velu G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2010708303"
+        },
+        {
+            "id": 1566228191,
+            "value": "Singh R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1566228191"
+        },
+        {
+            "id": 1393075174,
+            "value": "Huerta-Espino, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1393075174"
+        },
+        {
+            "id": 732776015,
+            "value": "Peña-Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/732776015"
+        },
+        {
+            "id": 957768179,
+            "value": "Ortiz-Monasterio, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/957768179"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2870/1/95925.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 184634
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2870/2/95925.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 12617
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2870/3/95925.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4752
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2870/1/95925.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2870/2/95925.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2870/3/95925.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2870"
+        }
+    },
+    "extent": "",
+    "page": "S174-S177",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

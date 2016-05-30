@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Streak Infection on Maize Plants",
+        "lang": "eng"
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-02-26T22:23:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6145,
+                1,
+                0.6145,
+                ""
+            ],
+            "value": "infection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3852",
+                "http://aims.fao.org/aos/agrovoc/c_3852",
+                "http://aims.fao.org/aos/agrovoc/c_3852",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "Presentation on the Infection on Maize Plants",
+        "lang": "eng"
+    },
+    "appid": "10883_4728",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4728"
+}}

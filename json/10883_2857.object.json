@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Implication of rate and time of nitrogen application on wheat (Triticum aestivum. l .) yield and quality in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "baking quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "loaf volume",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6919,
+                0.6919,
+                0.6919,
+                0.6919,
+                0.6919,
+                1,
+                ""
+            ],
+            "value": "nitrogen",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8004
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "baking",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_786"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "volume",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8288"
+        }
+    ],
+    "description": {
+        "value": "In Kenya, Nitrogen is the first limiting macro-element on many farms where bread wheat (Triticum aestivum) has been grown continuously for more than a decade. On-farm trials were conducted in Kenya by superimposing the treatments on farmers? fields in Nakuru (5 sites), Uasin Gishu (3 sites), and Timau (2 sites) districts during the main growing seasons of 1997-99. This was to study the effect of rate and time of application of fertilizer nitrogen (N) on bread wheat (Triticum aestivum) grain yield, yield components, and grain quality. Wheat grain samples from the ten (N) nitrogen rates and timing treatments combined across replications were analysed at the Small Grain Institute, Bethlehem, Republic of South Africa for milling and baking quality in accordance with standard analytical procedures (Pyler, 1973; Kent, 1983; Hoseney, 1986). Results revealed that flour protein content (FPC) and grain nitrogen (GN) increased significantly in response to N rate. Nitrogen application increased timing of sedimentation (SDSS) rate and loaf volume, but decreased the kernel weight, falling number (FLN) and flour yield (FLY) percentage. N application had P<0.05 effects only on mixing development time (MDT), FLN and (SDSS). Split application of N resulted in superior quality attributes than when the entire N was applied at once.  The sensitivity of rate and time of N application was found to be greater in the wheat quality attributes than the grain yield and yield components.  These results can therefore be used in situations where good wheat prices are determined on the basis of grain quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_2857",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2857"
+}}

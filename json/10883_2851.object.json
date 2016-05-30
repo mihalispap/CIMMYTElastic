@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Aflak, A new bread wheat cultivar, resistant to yellow and leaf rusts and terminal heat stress for cultivation under irrigated conditions in Southern warm and dry areas of Iran",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:44Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.755,
+            "value": "heat stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11488"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2851",
+    "language": {
+        "value": "fas",
+        "uri": "http://lexvo.org/id/iso639-3/fas"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2851"
+}}

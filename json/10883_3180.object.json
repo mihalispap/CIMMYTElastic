@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Pre-germination anaerobic stress tolerance in tropical maize (Zea mays L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8578
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7452"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9221
+            ],
+            "value": "germination",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3247"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "Pre-germination anaerobic stress caused by temporary soil water-logging at the planting and seedling establishment stage is an important constraint for maize (Zea mays L.) production in the tropics, especially in South and Southeast Asia. Whilst it is commonly accepted that the occurrence of excessive soil moisture following planting adversely affects the establishment and early growth of maize crops, the threshold limit and genotypic variability for pre-germination anaerobic stress tolerance in tropical maize germplasm have not been determined. We aimed to identify the threshold limit for pre-germination anaerobic stress tolerance and available genotypic variability in tropical maize for this stress. A set of 100 elite maize inbred lines selected from a wide genetic background were exposed to different durations of pre-germination anaerobic stress (12, 36, 72, 96, and 120 h). Two independent but key traits for crop establishment, germination percentage (> 80%) and delay in coleoptile emergence (<5 days), were compared under normal conditions and anaerobic stress conditions. These traits were used as the basic criteria for identifying the threshold limit of pregermination anaerobic stress tolerance. By varying the duration of managed anaerobic stress screening, it was observed that 72 h of exposure to the stress resulted in the best identification of available genotypic variability. Any further increase in stress duration (96 and 120 h) masked the genotypic variation as almost all entries were susceptible. After identifying the threshold limit, we tested two different sets of test-cross progenies to identify the available genotypic variability in tropical maize for pre-germination anaerobic stress tolerance. This included 214 entries of test-cross progenies of recombinant inbred lines (developed by crossing vegetative stage water-logging tolerant and susceptible lines) and 296 entries of drought tolerant maize (DTM) association mapping panel, representing a wide genetic background of tropical maize. Our results clearly indicate significant genotypic variability in tropical maize for pre-germination anaerobic stress tolerance, which could be systematically selected for and further improved using a managed anaerobic stress screening technique. This study also showed that test weight (100 seed weight) is significantly (P<0.01) correlated with seedling vigor (shoot and root dry weight) under pre-germination anaerobic stress; however, there was no relationship with the test weight and seed germination or time to seedling emergence.",
+        "lang": "eng"
+    },
+    "appid": "10883_3180",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3180"
+}}

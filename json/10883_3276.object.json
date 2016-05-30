@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Protecting South Asian wheat production from Stem Rust (Ug99) epidemic",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ug99",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adult plant resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "puccinia graminis tritici",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "race non-specific resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7674
+            ],
+            "value": "kenya",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4086"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27327"
+        }
+    ],
+    "description": {
+        "value": "The Ug99 group of stem rust races (Puccinia graminis Pers. f. sp. tritici Eriks. & E. Henn.) has evolved and migrated. While the original variant overcame the widely deployed gene Sr31, and Sr21 (in Chinese Spring background), but not Sr21 in Einkorn, a new strain of Ug99, virulent on Sr24, was detected in 2006 and caused a severe epidemic in 2007 in Kenya. Forms virulent on Sr36 and Sr21 were identified in 2007. Likewise, an Ug99 variant virulent to both Sr21 and Sr24 was identified in 2008 in Kenya. Simultaneously, the original strain spread to Yemen and Sudan in 2006. Fears of a spread into Asia were confirmed when this race was detected in Iran in 2007. This has raised serious concerns that Ug99 could follow the same migratory route from Africa to Asia as Yr9 and cause major epidemics across the epidemiological region of South Asia. In 2005?06, screening in Kenya and Ethiopia of wheat materials from Asian countries revealed a very low frequency of lines resistant to Ug99 and its variants. Under the umbrella of the Borlaug Global Rust Initiative (BGRI), significant efforts have been made to counter the challenges posed by Ug99 and its derivative races. Diverse sources of resistance to the pathogen have been identified and incorporated in high-yielding wheat backgrounds. The most promising strategy has been to deploy spring wheat varieties possessing adult plant resistance (APR) in infested and bordering areas to decrease inoculum amounts and slow down the development of new virulence, for example four CIMMYT genotypes with Sr2+ have been released in Afghanistan and their seed is also distributed in region bordering Iran. For an immediate remedy, race-specific resistance genes can be deployed in combinations using marker-assisted selection. Several Ug99-resistant varieties have already been released in South Asian countries (Afghanistan, India, Nepal, Bangladesh and Pakistan), and seed dissemination is underway. The Ug99 risk in the region can be reduced to minimum levels by identifying, releasing and providing seed of high-yielding and resistant cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_3276",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3276"
+}}

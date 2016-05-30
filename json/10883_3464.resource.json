@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0133-3720",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kazakhstan",
+        "uri": [
+            "http://sws.geonames.org/1522867",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kazakhstan"
+        ]
+    },
+    "updatedDate": "2014-03-05T18:04:31Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3464",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3464"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3464"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3464",
+    "creator": [
+        {
+            "id": 313253223,
+            "value": "Morgounov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/313253223"
+        },
+        {
+            "id": 2035804614,
+            "value": "Abugalieva, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2035804614"
+        },
+        {
+            "id": 435035310,
+            "value": "Martynov, A.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/435035310"
+        }
+    ],
+    "publisher": {
+        "id": 1481357070,
+        "value": "http://www.akademiai.com/content/y8uu02g84778h231/",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1481357070"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3464/1/98191.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 348943
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3464/2/98191.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 28953
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3464/3/98191.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3458
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3464/1/98191.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3464/2/98191.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3464/3/98191.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3464"
+        }
+    },
+    "extent": "",
+    "page": "163-172",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

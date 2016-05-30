@@ -1,0 +1,129 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Algeria",
+            "uri": [
+                "http://sws.geonames.org/2589581",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Algeria"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Australia",
+            "uri": [
+                "http://sws.geonames.org/2077456",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-13T00:57:13Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3627",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1975",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3627"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3627"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3627",
+    "creator": {
+        "id": 1026688084,
+        "value": "Carter, E.D.",
+        "type": "person",
+        "uri": "/cimmyt/person/1026688084"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3627/1/25823.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2187722
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3627/2/25823.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 151795
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3627/3/25823.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4770
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3627/1/25823.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3627/2/25823.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3627/3/25823.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3627"
+        }
+    },
+    "extent": "",
+    "page": "viii, 54 p.",
+    "coverage": [
+        "Algeria",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Bt-transgenic maize does not deter oviposition by two important African cereal stem borers, Chilo partellus Swinhoe (Lepidoptera: Crambidae) and Sesamia calamistis Hampson (Lepidoptera: Noctuidae)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:34Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bacillus thuringiensis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_761",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environmental biosafety",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "natural enemies",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5085",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gm maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "sesamia calamistis",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34480"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9638
+            ],
+            "value": "chilo partellus",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27152"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "biosafety",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35030"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Objective: To assess Chilo partellus Swinhoe (Lepidoptera: Crambidae) and Sesamia calamistis Hampson (Lepidoptera: Noctuidae) ovipositional responses on Bt (Event 216, containing the Cry1Ab gene) and isogenic non-Bt (CML 216) maize plants. Methodology and results: Stem borer moths were allowed to oviposit on maize plants in oviposition cages under both choice (cages containing both Bt and non-Bt plants) and non-choice conditions (cages containing either only Bt or non-Bt plants). There were no significant differences in the mean numbers of: egg batches per plant, eggs per batch, eggs laid per plant and egg hatchability between Bt and non-Bt plants in both choice and non-choice tests. Conclusion and application of findings: Event 216 did not deter oviposition by Chilo partellus and Sesamia calamistis. This factor should be taken into consideration when designing suitable refuge arrangements for managing resistance. Although most of the larvae exposed to the Bt plants would be killed, thus reducing chances of the pests developing resistance, an effective resistance management strategy would require that the Bt plants are further engineered to incorporate additional genes that would make them unattractive for oviposition by stem borer moths.",
+        "lang": "eng"
+    },
+    "appid": "10883_3075",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3075"
+}}

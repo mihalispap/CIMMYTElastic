@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Coefficient of parentage users manual",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:06Z",
+    "created": "2014-03-13T01:09:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "computers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1799",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "databases",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24833",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1972",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "parentage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_394"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3938",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3938"
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Spatial analysis to support geographic targeting of genotypes to environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-11-26T17:39:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spatial analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype-by-environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "geographic targeting",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        }
+    ],
+    "description": {
+        "value": "Crop improvement efforts have benefited greatly from advances in available data, computing technology, and methods for targeting genotypes to environments. These advances support the analysis of genotype by environment interactions (GEI) to understand how well a genotype adapts to environmental conditions. This paper reviews the use of spatial analysis to support crop improvement research aimed at matching genotypes to their most appropriate environmental niches. Better data sets are now available on soils, weather and climate, elevation, vegetation, crop distribution, and local conditions where genotypes are tested in experimental trial sites. The improved data are now combined with spatial analysis methods to compare environmental conditions across sites, create agro-ecological region maps, and assess environment change. Climate, elevation, and vegetation data sets are now widely available, supporting analyses that were much more difficult even 5 or 10 years ago. While detailed soil data for many parts of the world remains difficult to acquire for crop improvement studies, new advances in digital soil mapping are likely to improve our capacity. Site analysis and matching and regional targeting methods have advanced in parallel to data and technology improvements. All these developments have increased our capacity to link genotype to phenotype and point to a vast potential to improve crop adaptation efforts.",
+        "lang": "eng"
+    },
+    "appid": "10883_3321",
+    "language": {
+        "value": "Engish",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3321"
+}}

@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "The potential of a herbicide resistant maize technology for Striga control in Africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "africa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "pest control",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5726",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9216,
+                0.9216,
+                0.9216,
+                0.9216,
+                0.9216,
+                1,
+                ""
+            ],
+            "value": "striga",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                "http://aims.fao.org/aos/agrovoc/c_7453",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "herbicide resistant",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "weeds (jel q12)",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Striga is an obligate parasitic weed that attacks cereal crops in sub-Saharan Africa. In Western Kenya, it has been identified by farmers as their major pest problem in maize. A new technology, consisting of coating seed of imidazolinone resistant (IR) maize varieties with the imidazolinone herbicide, imazapyr, has proven to be very effective in controlling Striga on farmer fields. To bring this technology to the farmer, a sustainable delivery system needs to be developed, preferably with substantial participation of the private sector. To help extension agents and seed companies to develop appropriate strategies, the potential for this technology was analyzed by combining different data sources into a Geographic Information System (GIS). Superimposing secondary data, field surveys, agricultural statistics and farmer surveys made it possible to clearly identify the Striga-prone areas in western Kenya. Results found that Striga affected a maize area of 246,000 ha annually, with a population of 6.4 million people and maize production of 580,000 tons, or 81 kg/person. Population density in this area is high at 359 people/km2. A survey of 123 farmers revealed that 70% of them have Striga in their fields. A contingent valuation (CV) survey indicated that farmers would, on average, be willing to buy 3.67 kg of the IR-maize seed each at current seed prices, sufficient to sow 44% of their maize area. By extrapolation over the maize area in the zone, total potential demand for IR-maize seed is estimated at 2000&ndash;2700 tons annually. Similar calculations, but based on much less precise data and expert opinion rather than farmer surveys or trials, gives an estimate of the potential demand for IR-maize seed in Africa of 153,000 tons.",
+        "lang": "eng"
+    },
+    "appid": "10883_3063",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3063"
+}}

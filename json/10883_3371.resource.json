@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "0022-0957",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-12-09T20:48:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3371",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3371"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3371"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3371",
+    "creator": [
+        {
+            "id": 634941448,
+            "value": "Aranjuelo, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/634941448"
+        },
+        {
+            "id": 382267723,
+            "value": "Tcherkez, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/382267723"
+        },
+        {
+            "id": 1045471091,
+            "value": "Molero, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1045471091"
+        },
+        {
+            "id": 919170821,
+            "value": "Gilard, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/919170821"
+        },
+        {
+            "id": 493509942,
+            "value": "Avice, J-C",
+            "type": "person",
+            "uri": "/cimmyt/person/493509942"
+        },
+        {
+            "id": 1671513004,
+            "value": "Nogues, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1671513004"
+        }
+    ],
+    "publisher": {
+        "id": 2144470331,
+        "value": "http://jxb.oxfordjournals.org/content/64/4/1.1.abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2144470331"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3371/1/98274.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 60764
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3371/2/98274.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 18600
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3371/3/98274.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1940400
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3371/1/98274.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3371/2/98274.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3371/3/98274.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3371"
+        }
+    },
+    "extent": "",
+    "page": "885-897",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

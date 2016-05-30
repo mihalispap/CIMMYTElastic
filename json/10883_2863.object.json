@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis of adult plant, quantitative resistance to stripe rust in wheat cultivar 'Stephens' in multi-environment trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8659
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8669,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7997,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9951,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6691,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "The wheat (Triticum aestivum L.) cultivar 'Stephens' has been grown commercially in the USA Pacific Northwest for 30 years. The durable resistance of ?Stephens? to stripe rust (Puccinia striiformis f. sp. tritici) was believed to be due to a combination of seedling and adult plant resistance genes. Multilocation field trials, diversity array technology (DArT), and simple sequence repeat (SSR) markers were used to identify quantitative trait loci (QTL) for resistance. Recombinant inbred lines were assessed for stripe rust response in eight locations/years, five in 2008 and three in 2009. The data from Mt. Vernon, WA, differed from all other environments, and composite interval mapping (CIM) identified three QTL, QYrst.orr-1AL, QYrst.orr-4BS, and QYrpl.orr-6AL, which accounted for 12, 11, and 6% of the phenotypic variance, respectively. CIM across the remaining six environments identified four main QTL. Two QTL, QYrst.orr-2BS.2 and QYrst.orr-7AS, were detected in five of six environments and explained 11 and 15% of the phenotypic variance, respectively. Two other QTL, QYrst.orr-2AS and QYrpl.orr-4BL, were detected across four and three of six environments, and explained 19 and 9% of the phenotypic variance, respectively. The susceptible parent ?Platte? contributed QYrpl.orr-4BL and QYrpl.orr-6AL, with the remaining QTL originating from ?Stephens?. For each environment, additional minor QTL were detected, each accounting for 6?10% of the phenotypic variance. Different QTL with moderate effects were identified in both ?Stephens? and ?Platte?. Significant QTL × environment interactions were evident, suggesting that specificity to plant stage, pathogen genotype, and/or temperature was important.",
+        "lang": "eng"
+    },
+    "appid": "10883_2863",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2863"
+}}

@@ -1,0 +1,129 @@
+{"object": {
+    "title": {
+        "value": "Behaviour of Quality Protein Maize (QPM) genotypes under well irrigated and water stress conditions in subtropical climate",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-11-23T00:49:22Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qpm",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8492,
+                0.8492,
+                0.8492,
+                0.8492,
+                ""
+            ],
+            "value": "water stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tolerance indices",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "principal component analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9495
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.823
+            ],
+            "value": "gmp",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331064"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6635
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Drought or water stress is one of the prime problems affecting production of maize at global level. A major ob¬jective of QPM breeding programs in semi arid tropics or subtropical climatic conditions is to increase genetic potential of QPM genotypes under water stress conditions. In order to identify drought tolerant single cross QPM hybrids an experiment with 85 genotypes was conducted under well irrigated and water stress conditions. Six drought tolerance indices viz, mean productivity (MP), geometric mean productivity (GMP), yield index (YI), toler¬ance index (TOL), stress susceptibility index (SSI), and superiority measures (SM) were used on the basis of grain yield in water stress (Ys) and well irrigated (Yp) conditions. Highest significant positive correlations were observed among MP, GMP and YI indices. The hybrids 75, 38, 27, and 50 were more drought tolerant based on drought tol-erance indices. Three dimensional plot, bi-plot and cluster analysis confirmed these results. Principal component analysis reduced six indices down to two components with 90.71% proportional cumulative variance. Genotypes were grouped by two ways cluster analysis (using Ward?s method) based on Yp, Ys and drought tolerance indices. Also, the results of correlation, 3D graphs, bi-plot and cluster analysis reveals that the most suitable indices to screen QPM genotypes in drought stress conditions were MP, GMP and YI. These indices could be used in QPM breeding programs to introduce drought tolerance in single cross hybrids",
+        "lang": "eng"
+    },
+    "appid": "10883_3229",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3229"
+}}

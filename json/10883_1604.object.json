@@ -3,9 +3,24 @@
         "value": "Relay planting of wheat in cotton: an innovative technology for enhancing productivity and profitability of wheat in cotton-wheat production system of South Asia",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:27Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T20:59:24Z",
     "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
         {
             "vocabulary": [
                 "",
@@ -37,21 +52,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_1926"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
-            "value": "wheats",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8373"
             ]
         }
     ],

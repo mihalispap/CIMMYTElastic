@@ -3,7 +3,7 @@
         "value": "Agricultural research strategies for favoured and marginal areas: The experience of farming systems research in Pakistan",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:05:40Z",
     "created": "2013-06-07T21:09:23Z",
     "subject": [
         {
@@ -89,15 +89,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.805,
-            "value": "agricultural research",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8679"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 1,
             "value": "marginal areas",
             "uri": "http://aims.fao.org/aos/agrovoc/c_4287"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.805,
+            "value": "agricultural research",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8679"
         }
     ],
     "description": {

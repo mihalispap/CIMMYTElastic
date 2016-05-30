@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "0971-3441",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:53Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2261",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2261"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2261"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2261",
+    "creator": [
+        {
+            "id": 280385342,
+            "value": "Kumar Ranjit",
+            "type": "person",
+            "uri": "/cimmyt/person/280385342"
+        },
+        {
+            "id": 2136259155,
+            "value": "Alam Khurshid",
+            "type": "person",
+            "uri": "/cimmyt/person/2136259155"
+        },
+        {
+            "id": 1840670049,
+            "value": "Krishna Vijesh V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1840670049"
+        },
+        {
+            "id": 50526848,
+            "value": "Srinivas K.",
+            "type": "person",
+            "uri": "/cimmyt/person/50526848"
+        }
+    ],
+    "publisher": {
+        "id": 368532948,
+        "value": "http://www.indianjournals.com/ijor.aspx?target=ijor:aerr&volume=25&issue=conf&article=004",
+        "type": "organization",
+        "uri": "/cimmyt/organization/368532948"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2261/1/97819.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 351650
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2261/2/97819.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 37243
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2261/3/97819.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4938
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2261/1/97819.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2261/2/97819.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2261/3/97819.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2261"
+        }
+    },
+    "extent": "",
+    "page": "387-398",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

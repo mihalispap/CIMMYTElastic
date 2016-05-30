@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Photothermal quotient specifications to improve wheat cultivar yield component models",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:23Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9895
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9837
+            ],
+            "value": "anthesis",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2992"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9617,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yield components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24419"
+        }
+    ],
+    "description": {
+        "value": "Previous research has demonstrated the importance and statistical significance of the photothermal quotient (PTQ) to predict and explain wheat (Triticum aestivum L.) yields. The objective of this study is to respecify PTQ to enhance the explanatory power of statistical models used to explain grains per square meter (GM&ndash;2), and increase understanding of weather's impact on yields. The primary objective is to identify and quantify potential gains from including separate components of solar radiation (Solar) and temperature (Temp) in place of PTQ (Solar/Temp) to improve wheat yield model explanatory ability. The study also determines the optimal time interval that defines PTQ by varying the number of days before and after 50% anthesis. Using wheat test plot data from Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT) in Mexico's Yaqui Valley, a multivariate regression-based stochastic model of wheat yields was used to estimate the impact of altering PTQ definition and specification. Results support previous research: the maximum F-test value of 66.02 and adjusted R2 value of 0.446 were obtained for 31 d before to 1 d after 50% anthesis. Interpretation and analysis were also enhanced by disaggregating PTQ into separate variables Solar and Temp. A 1 MJ m&ndash;2 d&ndash;1 increase in Solar increased GM&ndash;2 by 1.25%, whereas a 1°C increase in Temp decreased GM&ndash;2 by 2.8%. This difference in yield responsiveness to weather components results in greater statistical significance, explanatory power, and interpretation of GM&ndash;2 models. Future research that builds on these results will better explain, predict, and forecast crop yields.",
+        "lang": "eng"
+    },
+    "appid": "10883_2693",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2693"
+}}

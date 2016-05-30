@@ -5,12 +5,20 @@
     },
     "updated": "2016-01-22T23:05:45Z",
     "created": "2013-06-07T21:02:27Z",
-    "subject": {
-        "vocabulary": "agrovoc",
-        "score": 1,
-        "value": "inbred lines",
-        "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
-    },
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9728,
+            "value": "aflp",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331160"
+        }
+    ],
     "description": {
         "value": "",
         "lang": ""

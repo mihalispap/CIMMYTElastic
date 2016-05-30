@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Healthier food for a healthier and (more equitably) wealthier world",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:34Z",
+    "created": "2016-03-02T22:01:18Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "healthier food",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "foods",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3032"
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4747",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4747"
+}}

@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Prediction of maize seed attributes using a rapid single kernel near infrared instrument",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-06-30T05:24:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "corn",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nir",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "partial least squares regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plsr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "kernels",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25387"
+        }
+    ],
+    "description": {
+        "value": "Non-destructive measurements of seed attributes would significantly enhance breeder selection of seeds with specific traits, and could potentially improve hybrid development. A single kernel near infrared reflectance (NIR) instrument was developed for rapidly predicting maize grain attributes, which would enable plant breeders to quickly select promising individual seeds. With the overall goal being to develop spectrometric calibrations, absorbance spectra from 904 to 1685 nm were collected from 87 maize samples, with 30 kernels of each sample (2610 kernels total), representing a wide variability in the essential amino acids tryptophan and lysine, crude protein, oil and soluble sugar contents. Average sample spectra were matched to bulk reference values. Partial least squares regression (PLSR) calibration models with cross-validation were developed for both relative (% dry matter) and absolute (mg kernel&#8722;1) constituent contents. Similarly, models using bagging PLSR were developed. The best model obtained was for relative crude protein content, with an R2p of 0.75 and a SEP of 0.47%. Kernel mass was also highly predictable (R2p=0.76, SEP=0.03 g). Tryptophan, lysine and oil were less predictable, but showed good potential for segregating individual seeds using NIR. Soluble sugar contents produced poor model statistics. Bagging PLSR yielded models with similar levels of prediction.",
+        "lang": "eng"
+    },
+    "appid": "10883_3200",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3200"
+}}

@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "Construction and three-way ordination of the wheat phenome atlas",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:37Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "principal component analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "Long-term plant breeding programs generate large quantities of genealogical, genotypic, phenotypic and environment characterization data. Marker-trait association studies are starting to be used to integrate and represent such data, but the results are context dependent, as trait associated markers depend on the germplasm investigated, the environments in which they are studied, and the interaction of genotype and environment. The concept of a trait-associated marker block, defined as markers in a linkage disequilibrium block that show significant association with a trait, addresses non-independency of markers in association analysis. A Phenome Atlas is a collection of diagrammatic representations of chromosome regions that affect trait inheritance (phenome maps) to document the patterns of trait inheritance across the genome. This methodology is illustrated using the Wheat Phenome Atlas constructed from a genome wide association study of 20 economically important traits from the first 25 years of an international wheat breeding program. Three-way principal component analysis then provides information about which genotypes carry favourable trait-associated marker block combinations, which marker blocks discriminate among genotypes and which marker block combinations are available for any given combination of genotypes and traits. Context dependency is illustrated through different patterns of marker trait association profiles being observed when analysing the same genotypes for different marker blocks and trait combinations, and through data obtained from different combinations of environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_2789",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2789"
+}}

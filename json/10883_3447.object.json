@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Single nucleotide polymorphism genotyping using Kompetitive Allele Specific PCR (KASP): overview of the technology and its application in crop improvement",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:59:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kaspar",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality control",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "uniplex assay",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crop improvement",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331560"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7375,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8296
+            ],
+            "value": "recurrent selection",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27595"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Single nucleotide polymorphism (SNP) data can be obtained using one of the numerous uniplex or multiplex SNP genotyping platforms that combine a variety of chemistries, detection methods, and reaction formats. Kompetitive Allele Specific PCR (KASP) is one of the uniplex SNP genotyping platforms, and has evolved to be a global benchmark technology. However, there are no publications relating either to the technology itself or to its application in crop improvement programs. In this review, we provide an overview of the different aspects of the KASP genotyping platform, discuss its application in crop improvement, and compare it with the chip-based Illumina GoldenGate platform. The International Maize and Wheat Improvement Center routinely uses KASP, generating in excess of a million data points annually for crop improvement purposes. We found that (1) 81 % of the SNPs used in a custom-designed GoldenGate assay were transferable to KASP; (2) using KASP, negative controls (no template) consistently clustered together and rarely produced signals exceeding the threshold values for allele calling, in contrast to the situation observed using GoldenGate assays; (3) KASP's average genotyping error in positive control DNA samples was 0.7-1.6 %, which is lower than that observed using GoldenGate (2.0-2.4 %); (4) KASP genotyping costs for marker-assisted recurrent selection were 7.9-46.1 % cheaper than those of the BeadXpress and GoldenGate platforms; and (5) KASP offers cost-effective and scalable flexibility in applications that require small to moderate numbers of markers, such as quality control analysis, quantitative trait loci (QTL) mapping in bi-parental populations, marker-assisted recurrent selection, marker-assisted backcrossing, and QTL fine mapping.",
+        "lang": "eng"
+    },
+    "appid": "10883_3447",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3447"
+}}

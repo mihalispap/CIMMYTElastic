@@ -1,0 +1,189 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Central America",
+        "uri": [
+            "http://sws.geonames.org/7729892",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+        ]
+    },
+    "updatedDate": "2013-03-06T21:12:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_4220",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4220"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4220"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4220",
+    "creator": [
+        {
+            "id": 1731987035,
+            "value": "Schmidt, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1731987035"
+        },
+        {
+            "id": 1040739834,
+            "value": "Eitzinger, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1040739834"
+        },
+        {
+            "id": 2095098774,
+            "value": "Sonder, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2095098774"
+        },
+        {
+            "id": 1921872846,
+            "value": "Sain, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1921872846"
+        },
+        {
+            "id": 823223390,
+            "value": "Rizo, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/823223390"
+        },
+        {
+            "id": 705810785,
+            "value": "Rodriguez, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/705810785"
+        },
+        {
+            "id": 286719450,
+            "value": "Hellin, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/286719450"
+        },
+        {
+            "id": 1988763802,
+            "value": "Fisher, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1988763802"
+        },
+        {
+            "id": 1688923652,
+            "value": "Laderach, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1688923652"
+        },
+        {
+            "id": 1478309753,
+            "value": "San Vicente, F.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1478309753"
+        },
+        {
+            "id": 1140866240,
+            "value": "Robertson, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1140866240"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 121218026,
+            "value": "Catholic Relief Services",
+            "type": "organization",
+            "uri": "/cimmyt/organization/121218026"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2068249,
+            "value": "CIAT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2068249"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4220/1/97718.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 3876239
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4220/2/97718.pdf.jpg",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4516
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4220/3/97718.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4220/1/97718.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4220/2/97718.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4220/3/97718.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4220"
+        }
+    },
+    "extent": "",
+    "page": "123 p.",
+    "coverage": "Central America",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978\u2010607\u20108263\u201024\u20100",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

@@ -1,0 +1,189 @@
+{"object": {
+    "title": {
+        "value": "Common cereal aphids",
+        "lang": ""
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rhopalosiphum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6577",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sitobion",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7088",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "schizaphis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6848",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "metopolophium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4789",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "pest insects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5729",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "hosts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3673",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vectors",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9559
+            ],
+            "value": "aphids",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_30757"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "metopolophium dirhodum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30780"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "diuraphis noxia",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30772"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sitobion avenae",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30789"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9722,
+            "value": "schizaphis graminum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30787"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8572,
+            "value": "rhopalosiphum padi",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30786"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rhopalosiphum maidis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30785"
+        }
+    ],
+    "description": {
+        "value": "A general description of aphids and their life cycle is supplemented by color diagrams. Color photographs of six common cereal aphids (Rhopalosiphum padi, Rhopalosiphum maidis, Sitobion avenae, Schizaphis graminum, Metopolophium dirhodum, and Diuraphis noxia) are accompanied by descriptions of the aphids, their feeding habits, the damage they inflict, and their common names",
+        "lang": "eng"
+    },
+    "appid": "10883_4006",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4006"
+}}

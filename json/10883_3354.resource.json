@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "2315-7739",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-12-09T20:40:03Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3354",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3354"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3354"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3354",
+    "creator": [
+        {
+            "id": 898344048,
+            "value": "Gebre Hadgu",
+            "type": "person",
+            "uri": "/cimmyt/person/898344048"
+        },
+        {
+            "id": 1685988933,
+            "value": "Kindie Tesfaye Fantaye",
+            "type": "person",
+            "uri": "/cimmyt/person/1685988933"
+        },
+        {
+            "id": 2792370,
+            "value": "Girma Mamo",
+            "type": "person",
+            "uri": "/cimmyt/person/2792370"
+        },
+        {
+            "id": 388212148,
+            "value": "Belay Kassa",
+            "type": "person",
+            "uri": "/cimmyt/person/388212148"
+        }
+    ],
+    "publisher": {
+        "id": 2126871875,
+        "value": "http://academiapublishing.org/ajar/abstract/2013/June/Hadgu%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2126871875"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3354/1/98217.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 759694
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3354/2/98217.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54037
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3354/3/98217.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6199
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3354/1/98217.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3354/2/98217.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3354/3/98217.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3354"
+        }
+    },
+    "extent": "",
+    "page": "088-100",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Genetic and QTL analyses of seed dormancy and preharvest sprouting resistance in the wheat germplasm CN10955",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:14Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8765
+            ],
+            "value": "seed dormancy",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14168"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "preharvest sprouting",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35274"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The inheritance and genetic linkage analysis for seed dormancy and preharvest sprouting (PHS) resistance were carried out in an F8 recombinant inbred lines (RILs) derived from the cross between &ldquo;CN19055&rdquo; (white-grained, PHS-resistant) with locally adapted Australian cultivar &ldquo;Annuello&rdquo; (white-grained, PHS-susceptible). Seed dormancy was assessed as germination index (GI7) while assessment for preharvest sprouting resistance was based on whole head assay (sprouting index, SI) and visibly sprouted seeds (VI). Segregation analysis of the F2, F3 data from the glasshouse and the RIL population in 2004 and 2005 field data sets indicated that seed dormancy and PHS resistance in CN19055 is controlled by at least two genes. Heritabilities for GI7 and VI were high and moderate for SI. The most accurate method for assessing PHS resistance was achieved using VI and GI7 while SI exhibited large genotype by environment interaction. Two quantitative trait loci (QTLs) QPhs.dpivic.4A.1 and QPhs.dpivic.4A.2 were identified. On pooled data across four environments, the major QTL, QPhs.dpivic.4A.2, explained 45% of phenotypic variation for GI7, 43% for VI and 20% for SI, respectively. On the other hand, QPhs.dpivic.4A.1 which accounted for 31% of the phenotypic variation in GI7 in 2004 Horsham field trial, was not stable across environments. Physical mapping of two SSR markers, Xgwm937 and Xgwm894 linked to the major QTL for PHS resistance, using Chinese Spring deletions lines for chromosome 4AS and 4AL revealed that the markers were located in the deletion bins 4AL-12 and 4AL-13. The newly identified SSR markers (Xgwm937/Xgwm894) showed strong association with seed dormancy and PHS resistance in a range of wheat lines reputed to possess PHS resistance. The results suggest that Xgwm937/Xgwm894 could be used in marker-assisted selection (MAS) for incorporating preharvest sprouting resistance into elite wheat cultivars susceptible to PHS.",
+        "lang": "eng"
+    },
+    "appid": "10883_2633",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2633"
+}}

@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Molecular genetic characterization of the Lr34/Yr18 slow rusting resistance gene region in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:55Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6975
+            ],
+            "value": "clones",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1678"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rflp",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34255"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7965
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7523
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "molecular genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27577"
+        }
+    ],
+    "description": {
+        "value": "Wheat expressed sequence tags (wESTs) were identiWed in a genomic interval predicted to span the Lr34/Yr18 slow rusting region on chromosome 7DS and that corresponded to genes located in the syntenic region of rice chromosome 6 (between 2.02 and 2.38Mb). A subset of the wESTs was also used to identify corresponding bacterial artiWcial chromosome (BAC) clones from the diploid D genome of wheat (Aegilops tauschii). Conservation and deviation of microcolinearity within blocks of genes were found in the D genome BACs relative to the orthologous sequences in rice. Extensive RFLP analysis using the wEST derived clones as probes on a panel of wheat genetic stocks with or without Lr34/Yr18 revealed monomorphic patterns as the norm in this region of the wheat genome. A similar pattern was observed with single nucleotide polymorphism analysis on a subset of the wEST derived clones and subclones from corresponding D genome BACs. One exception was a wEST derived clone that produced a consistent RFLP pattern that distinguished the Lr34/Yr18 genetic stocks and well-established cultivars known either to possess or lack Lr34/ Yr18. Conversion of the RFLP to a codominant sequence tagged site (csLV34) revealed a bi-allelic locus, where a variant size of 79 bp insertion in an intron sequence was associated with lines or cultivars that lacked Lr34/Yr18. This association with Lr34/Yr18 was validated in wheat cultivars from diverse backgrounds. Genetic linkage between csLV34 and Lr34/Yr18 was estimated at 0.4 cM.",
+        "lang": "eng"
+    },
+    "appid": "10883_2518",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2518"
+}}

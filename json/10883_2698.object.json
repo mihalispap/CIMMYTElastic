@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Multi-environment QTL mixed models for drought stress adaptation in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:24Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8605
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6488
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "anthesis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2992"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        }
+    ],
+    "description": {
+        "value": "Many quantitative trait loci (QTL) detection methods ignore QTL-by-environment interaction (QEI) and are limited in accommodation of error and environment-specific variance. This paper outlines a mixed model approach using a recombinant inbred spring wheat population grown in six drought stress trials. Genotype estimates for yield, anthesis date and height were calculated using the best design and spatial effects model for each trial. Parsimonious factor analytic models best captured the variance&ndash;covariance structure, including genetic correlations, among environments. The 1RS.1BL rye chromosome translocation (from one parent) which decreased progeny yield by 13.8 g m-2 was explicitly included in the QTL model. Simple interval mapping (SIM) was used in a genome-wide scan for significant QTL, where QTL effects were fitted as fixed environment-specific effects. All significant environment-specific QTL were subsequently included in a multi-QTL model and evaluated for main and QEI effects with non-significant QEI effects being dropped. QTL effects (either consistent or environment-specific) included eight yield, four anthesis, and six height QTL. One yield QTL co-located (or was linked) to an anthesis QTL, while another co-located with a height QTL. In the final multi-QTL model, only one QTL for yield (6 g m-2) was consistent across environments (no QEI), while the remaining QTL had significant QEI effects (average size per environment of 5.1 g m-2). Compared to single trial analyses, the described framework allowed explicit modelling and detection of QEI effects and incorporation of additional classification information about genotypes.",
+        "lang": "eng"
+    },
+    "appid": "10883_2698",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2698"
+}}

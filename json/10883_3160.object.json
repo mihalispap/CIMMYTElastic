@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Geostatistical analysis of quality protein maize outcrossing with pollen from adjacent normal endosperm maize varieties",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "outcrossing",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16577"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6091,
+            "value": "endosperm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2561"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Nutritional advantages of quality protein maize (QPM) (Zea mays L.) over normal endosperm maize (NM) were previously demonstrated by several researchers. However, QPM grain quality loss occurs when a QPM crop receives pollen from NM. This is because the opaque-2 gene allele that confers the QPM trait is recessive. The objective was to estimate outcrossing levels and patterns in QPM growing adjacent to NM. White grain QPM crops were grown on nine blocks of 0.21 ha each surrounded by at least a 10-m band of yellow NM at two sites in Zimbabwe. At maturity 160 samples of five QPM ears each were randomly selected to determine outcrossing. Outcrossing was estimated as percentage of yellow kernels on each ear. Ordinary kriging was used to estimate outcrossing levels in areas that were not sampled. Both prediction and error surfaces were produced for each block using the best ordinary kriging model out of the available 11 in ArcMAP 9.2 computer package. Results indicated that five models (exponential, stable, pentaspherical, rational quadratic, and J-Bessel) predicted outcrossing patterns of the nine experiments. Outcrossing levels were high (63 to 83%) in the peripheral areas of the QPM crops, but less than 20% outcrossing was observed on at least 60% of each of the crop areas with no significant compromise of QPM quality based on a QPM quality index of 0.8. In conclusion, QPM and NM can coexist, and ordinary kriging could be used in visualizing spatial distribution of outcrossing in a QPM crop.",
+        "lang": "eng"
+    },
+    "appid": "10883_3160",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3160"
+}}

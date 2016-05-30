@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Heritability, correlated response, and indirect selection involving spectral reflectance indices and grain yield in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:00Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "water index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "normalised water index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "normalised difference vegetation index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "simple ration",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "photochemical reflectance index",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.958
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "vegetation index",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9000171"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "reflectance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_28538"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heritability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3570"
+        }
+    ],
+    "description": {
+        "value": "The objectives of this study were to assess the potential of using spectral reflectance indices (SRIs) as an indirect selection tool for grain yield in wheat under irrigated conditions. This paper demonstates the genetic correlation between grain yield and SRIs, heritability and expected response to selection for grain yield and SRIs, correlated response to selection for grain yield estimated from SRIs, and efficiency of indirect selection for grain yield using SRIs in different spring wheat populations. Four field experiments, GHIST (15 CIMMYT globally adapted genotypes), RLs1 (25 random F3-derived families), RLs2 (36 random F3-derived families), and RLs3 (64 random F5-derived families) were conducted under irrigated conditions at the CIMMYT research station in north-west Mexico in 3 different years. Spectral reflectance was measured at 3 growth stages (booting, heading, and grain filling) and 7 SRIs were calculated using average values of spectral reflectance at heading and grain filling. Five previously developed SRIs (PRI, WI, RNDVI, GNDVI, SR), and 2 newly calculated SRIs (NWI-1 and NWI-2) were evaluated in the experiments. In general, the within- and between-year genetic correlations between grain yield and SRIs were significant. Three NIR-based indices (WI, NWI-1, and NWI-2) showed higher genetic correlations (0.73&ndash;0.92) with grain yield than the other indices (0.35&ndash;0.67), and these observations were consistent in all populations. Broad-sense heritability estimates for all indices were in general moderate to high (0.60&ndash;0.80), and higher than grain yield (0.45&ndash;0.70). The realised heritability for the 3 NIR-based indices was higher than for the other indices and for grain yield itself. Expected response to selection for all indices was moderate to high (0.54&ndash;0.85). The correlated response for grain yield estimated from the 3 NIR-based indices (0.59&ndash;0.64) was much higher than the correlated response for grain yield estimated from the other indices (0.31&ndash;0.46), and the efficiency of indirect selection for these 3 NIR-based indices was 90&ndash;96% of the efficiency of direct selection for grain yield. These results demonstrate the potential for using the 3 NIR-based SRI tools in breeding programs for selecting for increased genetic gains for yield.",
+        "lang": "eng"
+    },
+    "appid": "10883_2551",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2551"
+}}

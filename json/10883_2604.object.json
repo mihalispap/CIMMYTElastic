@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Identification of SNPs and development of functional markers for LMW-GS genes at Glu-D3 and Glu-B3 loci in bread wheat ( Triticum aestivum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:08Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lmw glutenin subunit genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "functional markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9349
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14386"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8546
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        }
+    ],
+    "description": {
+        "value": "Low-molecular-weight glutenin subunits (LMW-GS) have great effect on wheat processing quality, but were numerous and difficult to dissect by SDS-PAGE. The development of functional markers may be the most effective way for a clear discrimination of different LMW-GS genes. In the present study, three different approaches were used to identify SNPs of different genes at Glu-D3 and Glu-B3 loci in bread wheat for the development of six STS markers (3 for Glu-D3 and 3 for Glu-B3 genes) that were validated with distinguished wheat cultivars. Firstly, seven LMW-GS gene sequences ( AY585350, AY585354, AY585355, AY585356, AY585349, AY585351 and AY585353 ) from Aegilops tauschii, the diploid donor of the D-genome of bread wheat, were chosen to design seven pairs of AS-PCR primers for Glu-D3 genes. By amplifying the corresponding genes from five bread wheat cultivars with different Glu-D3 alleles (a, b, c, d and e) and Ae. tauschii, a primer set, S13F2/S13R1, specific to the gene AY585356, was found to be positive to cultivars with alleles Glu-D3c and d. Nevertheless, the other five pairs of primers designed from AY585350, AY585349, AY585353, AY585354 and AY585355, respectively, did not produce specific PCR products to the cultivars tested. Secondly, all the PCR products from the five primer sets without specific characteristics were sequenced and an SNP from the gene AY585350 was detected in the cultivar Hartog, which resulted in the second STS marker S1F1/S1R3 specific to the allelic variant of AY585350. Thirdly, three Glu-D3 sequences (AB062851, AB062865 and AB062872) and three Glu-B3 sequences (AB062852, AB062853 and AB062860) defined by Ikeda et al. (2002) were chosen to query wheat EST and NR databases, and DNA markers were developed based on the putative SNPs among the sequences. Using this approach, four STS markers were developed and validated with 16-19 bread wheat cultivars. The primer set T1F4/T1R1 was also a Glu-D3 gene-specific marker for AB062872, while T2F2/T2R2, T5F3/T5R1 and T13F4/T13R3 were all Glu-B3 gene specific markers for AB062852, BF293671 and AY831800, respectively. The chromosomal locations of the six markers were verified by amplifying the genomic DNA of Ae. tauschii (DD), T. monococcum (AA) and T. turgidum (AABB) entries, as well as Chinese Spring and its group 1 chromosome nulli-tetrasomic lines. The results are useful to discriminate the corresponding Glu-D3 and Glu-B3 genes in wheat breeding programs",
+        "lang": "eng"
+    },
+    "appid": "10883_2604",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2604"
+}}

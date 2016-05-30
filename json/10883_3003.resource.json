@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Southern Africa",
+        "uri": [
+            "http://sws.geonames.org/9406051",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3003",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2005",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3003"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3003"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3003",
+    "creator": [
+        {
+            "id": 1872509183,
+            "value": "Setimela, P.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1872509183"
+        },
+        {
+            "id": 505957950,
+            "value": "Chitalu, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/505957950"
+        },
+        {
+            "id": 1794109727,
+            "value": "Jonazi, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1794109727"
+        },
+        {
+            "id": 677002439,
+            "value": "Mambo, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/677002439"
+        },
+        {
+            "id": 753547311,
+            "value": "Hodson, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/753547311"
+        },
+        {
+            "id": 1655599573,
+            "value": "Banziger, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1655599573"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3003/1/82540.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 593257
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3003/2/82540.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 25554
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3003/3/82540.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4789
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3003/1/82540.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3003/2/82540.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3003/3/82540.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3003"
+        }
+    },
+    "extent": "",
+    "page": "123-132",
+    "coverage": "Southern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

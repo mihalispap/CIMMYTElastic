@@ -1,18 +1,42 @@
 {"resource": {
     "citation": "",
-    "issn": "0378-3774",
-    "location": {
-        "vocabulary": [
-            "geonames",
-            "faogeopolitical"
-        ],
-        "value": "Senegal",
-        "uri": [
-            "http://sws.geonames.org/2245662",
-            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Senegal"
-        ]
-    },
-    "updatedDate": "2013-06-07T20:59:21Z",
+    "issn": "0014-4797",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malawi",
+            "uri": [
+                "http://sws.geonames.org/927384",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malawi"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Senegal",
+            "uri": [
+                "http://sws.geonames.org/2245662",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Senegal"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-23T00:49:25Z",
     "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
     "relation": "",
     "appid": "10883_1593",
@@ -30,55 +54,43 @@
     ],
     "format": "",
     "type": "Journal article",
-    "date": "2012",
-    "url": [
-        {
-            "broken": false,
-            "value": "http://hdl.handle.net/10883/1593"
-        },
-        {
-            "broken": false,
-            "value": "http://repository.cimmyt.org/xmlui/handle/10883/1593"
-        }
-    ],
+    "date": "2013",
+    "url": {
+        "broken": false,
+        "value": "http://repository.cimmyt.org/xmlui/handle/10883/1593"
+    },
     "appuri": "/cimmyt/resource/10883_1593",
     "creator": [
         {
-            "id": 199054752,
-            "value": "Krupnik, T.J.",
+            "id": 953305271,
+            "value": "Ngwira, A.R.",
             "type": "person",
-            "uri": "/cimmyt/person/199054752"
+            "uri": "/cimmyt/person/953305271"
         },
         {
-            "id": 1251303440,
-            "value": "Rodenburg, J.",
+            "id": 1823058277,
+            "value": "Thierfelder, C.",
             "type": "person",
-            "uri": "/cimmyt/person/1251303440"
+            "uri": "/cimmyt/person/1823058277"
         },
         {
-            "id": 2059335935,
-            "value": "Haden, van R.",
+            "id": 721884763,
+            "value": "Eash, N.",
             "type": "person",
-            "uri": "/cimmyt/person/2059335935"
+            "uri": "/cimmyt/person/721884763"
         },
         {
-            "id": 1008938550,
-            "value": "Mbaye, D.",
+            "id": 1455199140,
+            "value": "Lambert, D.M.",
             "type": "person",
-            "uri": "/cimmyt/person/1008938550"
-        },
-        {
-            "id": 206774460,
-            "value": "Shennan, C.",
-            "type": "person",
-            "uri": "/cimmyt/person/206774460"
+            "uri": "/cimmyt/person/1455199140"
         }
     ],
     "publisher": {
-        "id": 2145456767,
-        "value": "http://www.sciencedirect.com/science/article/pii/S0378377412002302",
+        "id": 410829775,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8915548",
         "type": "organization",
-        "uri": "/cimmyt/organization/2145456767"
+        "uri": "/cimmyt/organization/410829775"
     },
     "aggregation": {
         "linkToResource": [

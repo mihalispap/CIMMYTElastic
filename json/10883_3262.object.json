@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Cropping system diversification, conservation tillage and modern seed adoption in Ethiopia: Impacts on household income, agrochemical use and demand for labor",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-11-24T18:23:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ethiopia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agrochemical use",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "labor demand",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize income",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multinomial switching regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sustainable agricultural practices",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sap",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6791"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8089
+            ],
+            "value": "conservation tillage",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_33445"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agrochemicals",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24430"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "labor",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4128"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "The type and combination of sustainable agricultural practices (SAPs) adopted have a significant effect on agricultural productivity and food security. This study develops a multinomial endogenous switching regression model of farmers' choice of combination of SAPs and impacts on maize income and agrochemicals and family labor use in rural Ethiopia. Four primary results were found. First, adoption of SAPs increases maize income and the highest payoff is achieved when SAPs are adopted in combination rather than in isolation. Second, nitrogen fertilizer use is lower in the package that contains system diversification and conservation tillage. Third, conservation tillage increased pesticide application and labor demand, perhaps to compensate for reduced tillage. However, when it is used jointly with system diversification, it does not have a significant impact on pesticide and labor use. Fourth, in most cases adoption of a package of SAPs increases women workload, suggesting that agricultural intensification technology interventions may not be gender neutral. This implies that policy makers and other stakeholders promoting a combination of technologies can enhance household food security through increasing income and reducing production costs, but need to be aware of the potential gender related outcomes.",
+        "lang": "eng"
+    },
+    "appid": "10883_3262",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3262"
+}}

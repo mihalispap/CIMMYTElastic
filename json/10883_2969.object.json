@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis and mapping of seedling resistance to Septoria tritici blotch in 'Steele-ND'/'ND 735' bread wheat population",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "septoria tritici blotch",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8768
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8968
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6387
+            ],
+            "value": "diseases",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49879"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mycosphaerella graminicola",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27261"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "septoria tritici",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27261"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        }
+    ],
+    "description": {
+        "value": "Septoria triticiblotch (STB) caused by Mycosphaerella graminicola, is one of the most destructive foliar diseases of wheat (Triticum aestivum L.) especiallyin temperate and humid regions across the world. The susceptibility of recently released varieties, evolution of resistance to fungicides and increasing incidence of STB disease emphasizes the need to understand the genetics of resistance to this disease and to incorporate host resistance into adapted cultivars.This study aimed to decipher the genetics and map the resistance to STB using a recombinant inbred line (RIL) mapping population derived from ?Steele-ND? (susceptible parent) and ?ND 735? (resistant parent). The RILs were evaluated in three greenhouse experiments, using a North Dakota (ND) isolate of STB pathogen. The mean disease severity of parental genotypes, ?ND 735? (11.96%) and ?Steele-ND? (66.67%)showed significant differences (p < 0.05). The population segregated for STB and the frequency distribution of RILs indicated quantitative inheritance for resistance. The mean disease severity in RILs ranged from 0 to 71.55% with a mean of 21.98%. The genome map of this population was developed using diversity array technology (DArT) and simple sequence repeat (SSR) markers. The framework linkage map of this population was developed using 469 molecular markers. This map spanned a total distance of 1,789.3 cM and consisted of 17 linkage groups. QTL mapping using phenotypic data and the framework linkage maps detected three QTL through composite interval mapping. One QTL was consistently detected in all experimentson the long arm of chromosome 5B, and explained up to 10.2% phenotypic variation. The other two QTLs, detected in single environments, were mapped to 1D and 7A and explain 13% and 5.5% of the phenotypic variation, respectively. The map position of the consistent QTL on 5BL coincides with the map position of durable resistance gene Stb1suggesting the importance of this region of ?ND 735? as a source of durable STB resistance for the wheat germplasm.",
+        "lang": "eng"
+    },
+    "appid": "10883_2969",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2969"
+}}

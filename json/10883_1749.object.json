@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Probability models for detecting transgenic plants",
-        "lang": "eng"
+        "lang": ""
     },
     "updated": "2016-01-22T23:05:46Z",
     "created": "2013-06-07T21:02:34Z",
@@ -49,10 +49,43 @@
             "uri": "http://aims.fao.org/aos/agrovoc/c_49823"
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7743
+            ],
+            "value": "size",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7093"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6402
+            ],
             "value": "transgenic plants",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_27619"
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27619"
+            ]
         },
         {
             "vocabulary": [

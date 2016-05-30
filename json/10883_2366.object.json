@@ -1,0 +1,156 @@
+{"object": {
+    "title": {
+        "value": "Characterization of greenbug (Homoptera: Aphididae) resistance in synthetic hexaploid wheats",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:01Z",
+    "created": "2013-06-07T21:11:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum dicoccum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7954",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.688,
+                ""
+            ],
+            "value": "homoptera",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3649",
+                "http://aims.fao.org/aos/agrovoc/c_3649",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "aegilops speltoides",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33584",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.8975,
+                ""
+            ],
+            "value": "aphididae",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_525",
+                "http://aims.fao.org/aos/agrovoc/c_525",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6672,
+                ""
+            ],
+            "value": "hexaploids",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24400",
+                "http://aims.fao.org/aos/agrovoc/c_24400",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "insect resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "developing countries",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "insects",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3890"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "greenbugs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30787"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2366",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2366"
+}}

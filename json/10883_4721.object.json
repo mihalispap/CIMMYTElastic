@@ -1,0 +1,73 @@
+{"object": {
+    "title": {
+        "value": "Deficiencia de Nitrógeno en las Plantas de Maíz.",
+        "lang": "spa"
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-02-24T22:45:30Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "trainees",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "insecticide",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fertilizer",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fertilization",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2863"
+        }
+    ],
+    "description": [
+        {
+            "value": "Alejandro Violic explanation for Trainees about fertilization effects in maize and weed control.",
+            "lang": "eng"
+        },
+        {
+            "value": "Alejandro Violic",
+            "lang": ""
+        },
+        {
+            "value": "Federico Kocher",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4721",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4721"
+}}

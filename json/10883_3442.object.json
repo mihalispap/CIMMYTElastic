@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Lineage-specific mapping of quantitative trait loci",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T17:59:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait locus mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "evolution of mating systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mimulus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37139",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8216
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "lineage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mating systems",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24923"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "We present an approach for quantitative trait locus (QTL) mapping, termed as 'lineage-specific QTL mapping', for inferring allelic changes of QTL evolution along with branches in a phylogeny. We describe and analyze the simplest case: by adding a third taxon into the normal procedure of QTL mapping between pairs of taxa, such inferences can be made along lineages to a presumed common ancestor. Although comparisons of QTL maps among species can identify homology of QTLs by apparent co-location, lineage-specific mapping of QTL can classify homology into (1) orthology (shared origin of QTL) versus (2) paralogy (independent origin of QTL within resolution of map distance). In this light, we present a graphical method that identifies six modes of QTL evolution in a three taxon comparison. We then apply our model to map lineage-specific QTLs for inbreeding among three taxa of yellow monkey-flower: Mimulus guttatus and two inbreeders M. platycalyx and M. micranthus, but critically assuming outcrossing was the ancestral state. The two most common modes of homology across traits were orthologous (shared ancestry of mutation for QTL alleles). The outbreeder M. guttatus had the fewest lineage-specific QTL, in accordance with the presumed ancestry of outbreeding. Extensions of lineage-specific QTL mapping to other types of data and crosses, and to inference of ancestral QTL state, are discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_3442",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3442"
+}}

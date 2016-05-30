@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:11:18Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2269",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1976",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2269"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2269"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2269",
+    "creator": [
+        {
+            "id": 839123745,
+            "value": "Fischer, R.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/839123745"
+        },
+        {
+            "id": 1376708073,
+            "value": "Aguilar-Mariscal, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1376708073"
+        },
+        {
+            "id": 1684763505,
+            "value": "Maurer O., R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1684763505"
+        },
+        {
+            "id": 1121182497,
+            "value": "Rivas, A., S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1121182497"
+        }
+    ],
+    "publisher": {
+        "id": 225178038,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=4576636",
+        "type": "organization",
+        "uri": "/cimmyt/organization/225178038"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2269/1/14488.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 833207
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2269/2/14488.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 39085
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2269/3/14488.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6163
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2269/1/14488.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2269/2/14488.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2269/3/14488.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2269"
+        }
+    },
+    "extent": "",
+    "page": "137-147",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

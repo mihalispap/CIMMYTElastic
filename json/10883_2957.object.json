@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "The distribution of Russian Wheat Aphid, Diuraphis noxia (Kurdjumov) (Hemiptera: Aphididae) in Turkey",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:59Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6622,
+                1,
+                1,
+                ""
+            ],
+            "value": "diuraphis noxia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30772",
+                "http://aims.fao.org/aos/agrovoc/c_30772",
+                "http://aims.fao.org/aos/agrovoc/c_30772",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "russian wheat aphid",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "distribution",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2338",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "damage rate",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "aphids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_30757"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "damage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26768"
+        }
+    ],
+    "description": {
+        "value": "The Russian wheat aphid, Diuraphis noxia (Kurdjumov) (Hemiptera: Aphididae), is one of the most economically important and widely distributed pests of wheat in the world. In 1962, D. noxia caused crop losses between 25 and 60% in the central province of Konya, Turkey. In this study, the current status of the pest in wheat-producing areas of Turkey was investigated along a route from Izmir to Manisa, Usak, Kutahya, Eskisehir, Aksehir, Ankara, Konya, Aksaray, Nevsehir, Yozgat and Erzurum. D. noxia was detected in 58 of the 100 wheat fields surveyed in most fields and wheat was at the heading stage. The population density of the pest was low in 23 fields, medium in 22 fields and high in 13 fields. The percentage of infestation was low in 31 fields, medium in 12 fields, and high in three fields and very high in three fields. D. noxia was collected from bread or durum wheat plants (71%), barley plants (10%), volunteer oats (8%) (Avena fatua), volunteer wheat (6%), false barley (Hordeum murinum) (4%) and natural grasses (1%). According to results of the study, population density, damage and infestation rates of D. noxia were higher in high altitudes.",
+        "lang": "eng"
+    },
+    "appid": "10883_2957",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2957"
+}}

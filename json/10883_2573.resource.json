@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:03Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2573",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2573"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2573"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2573",
+    "creator": [
+        {
+            "id": 1059854087,
+            "value": "Tovar-Soto, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1059854087"
+        },
+        {
+            "id": 120352175,
+            "value": "Cid del Prado-Vera, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/120352175"
+        },
+        {
+            "id": 1895644386,
+            "value": "Nicol, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1895644386"
+        },
+        {
+            "id": 1516817748,
+            "value": "Evans, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1516817748"
+        },
+        {
+            "id": 204828016,
+            "value": "Sandoval-Islas, J.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/204828016"
+        },
+        {
+            "id": 917654557,
+            "value": "Martinez-Garza, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/917654557"
+        },
+        {
+            "id": 400280630,
+            "value": "Cardenas-Soriano, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/400280630"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2573/1/90052.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 150457
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2573/2/90052.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 29797
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2573/3/90052.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5809
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2573/1/90052.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2573/2/90052.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2573/3/90052.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2573"
+        }
+    },
+    "extent": "",
+    "page": "555-561",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

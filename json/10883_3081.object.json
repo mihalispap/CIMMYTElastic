@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Validation of consensus quantitative trait loci associated with resistance to multiple foliar pathogens of maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:34Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Maize production in sub-Saharan Africa incurs serious losses to epiphytotics of foliar diseases. Quantitative trait loci conditioning partial resistance (rQTL) to infection by causal agents of gray leaf spot (GLS), northern corn leaf blight (NCLB), and maize streak have been reported. Our objectives were to identify simple-sequence repeat (SSR) molecular markers linked to consensus rQTL and one recently identified rQTL associated with GLS, and to determine their suitability as tools for selection of improved host resistance. We conducted evaluations of disease severity phenotypes in separate field nurseries, each containing 410 F2:3 families derived from a cross between maize inbred CML202 (NCLB and maize streak resistant) and VP31 (a GLS-resistant breeding line) that possess complimentary rQTL. F2:3 families were selected for resistance based on genotypic (SSR marker), phenotypic, or combined data and the selected F3:4 families were reevaluated. Phenotypic values associated with SSR markers for consensus rQTL in bins 4.08 for GLS, 5.04 for NCLB, and 1.04 for maize streak significantly reduced disease severity in both generations based on single-factor analysis of variance and marker-interval analysis. These results were consistent with the presence of homozygous resistant parent alleles, except in bin 8.06, where markers were contributed by the NCLB-susceptible parent. Only one marker associated with resistance could be confirmed in bins 2.09 (GLS) and 3.06 (NCLB), illustrating the need for more robust rQTL discovery, fine-mapping, and validation prior to undertaking marker-based selection.",
+        "lang": "eng"
+    },
+    "appid": "10883_3081",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3081"
+}}

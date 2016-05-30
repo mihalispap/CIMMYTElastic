@@ -30,14 +30,17 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
+                0.6455,
                 1,
                 ""
             ],
             "value": "quantitative trait loci",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
                 "http://aims.fao.org/aos/agrovoc/c_37974",
                 ""
             ]
@@ -70,18 +73,15 @@
             "vocabulary": [
                 "agrovoc",
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
                 1,
                 1,
-                0.7176,
                 ""
             ],
             "value": "water uptake",
             "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_8329",
                 "http://aims.fao.org/aos/agrovoc/c_8329",
                 "http://aims.fao.org/aos/agrovoc/c_8329",
                 ""
@@ -92,6 +92,63 @@
             "score": "",
             "value": "spikelet sterility",
             "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.824
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7185
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7123
+            ],
+            "value": "drought stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24993"
+            ]
         },
         {
             "vocabulary": "agrovoc",

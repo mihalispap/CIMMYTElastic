@@ -7,12 +7,6 @@
     "created": "2013-06-07T21:02:53Z",
     "subject": [
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "models",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
-        },
-        {
             "vocabulary": [
                 "",
                 "",
@@ -44,6 +38,12 @@
             "score": 0.8106,
             "value": "triticum aestivum",
             "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
         },
         {
             "vocabulary": "agrovoc",

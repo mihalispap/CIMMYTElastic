@@ -1,0 +1,130 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/1699805",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2014-03-13T01:09:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": [
+        "CIMMYT Miscellaneous Reports",
+        "CIMMYT Reporte Miscelaneo"
+    ],
+    "appid": "10883_3903",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "1964",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3903"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3903"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3903",
+    "creator": [
+        {
+            "id": 1847030409,
+            "value": "Borlaug, N.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1847030409"
+        },
+        {
+            "id": 172440267,
+            "value": "Ortega C., J.",
+            "type": "person",
+            "uri": "/cimmyt/person/172440267"
+        },
+        {
+            "id": 405313275,
+            "value": "Rodriguez, R.,",
+            "type": "person",
+            "uri": "/cimmyt/person/405313275"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3903/1/23382.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1822689
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3903/2/23382.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 62165
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3903/3/23382.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4186
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3903/1/23382.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3903/2/23382.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3903/3/23382.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3903"
+        }
+    },
+    "extent": "No. 4",
+    "page": "32 p.",
+    "coverage": "Mexico",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

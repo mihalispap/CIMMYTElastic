@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Genealogical analysis of diversity of spring bread wheat cultivars released in Kazakhstan from 1929-2004",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:11:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pedigree",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adaptation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "landraces",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6462
+            ],
+            "value": "kazakhstan",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11952"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "The genetic diversity of 116 spring bread wheat cultivars released in Kazakhstan from 1929&ndash;2004 was studied by means of a genealogical analysis. The tendency of genetic diversity to change over time was traced by analysing a series of n×m matrices, where n is the number of released cultivars and m is the number of landrace ancestors. The pool of landrace ancestors of spring wheat cultivars in 1929&ndash;2004 contained a total of 114 landraces and old varieties, including 19 from Kazakhstan and Central Asia and 23 from neighbouring regions of Russia. The original ancestors differ significantly in frequency of presence and hence in their importance in the genepool of spring wheats cultivated in Kazakhstan. Significant differences in the contributions of dominant ancestors to cultivars for various regions have been revealed, showing that those ancestors were specifically adapted to different growing conditions. During the past 75 years, genetic diversity has increased due to the wide use of foreign materials in breeding programmes. A more detailed study has shown that during the period analysed, 15 landraces from Kazakhstan and neighbouring regions of Central Asia and Russia (35% of local germplasm) were lost from the pedigrees. The cluster structure of modern cultivars included in the Kazakhstan Official List (2002) was established. By analysing coefficients of parentage, significant differences in the genetic diversity of cultivars from various growing regions were revealed.",
+        "lang": "eng"
+    },
+    "appid": "10883_2534",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2534"
+}}

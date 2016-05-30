@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Spatial distribution of Fusarium head blight pathogens and associated mycotoxins in wheat fields",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:19Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fusarium head blight",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium graminearum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35494",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mycotoxin",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "deoxynivalenol",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34143",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "gis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35131",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "fusarium",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "mycotoxins",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5026"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6641,
+            "value": "blight",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_957"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.872,
+            "value": "spatial distribution",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36230"
+        }
+    ],
+    "description": {
+        "value": "Fusarium Head Blight (FHB) is one the most important diseases in small grain cereals and often is caused by a complex of Fusarium species. Some of these species are able to produce one or several mycotoxins. The spatial distribution of the disease and associated mycotoxins was examined in this study. Results were mapped and analysed with a geographic information system (GIS). Correlations between the incidence of the deoxynivalenol (DON) producing Fusarium species and DON contamination of kernels were rather weak. The level of DON contamination seemed to be less influenced by the frequency of DON producing Fusarium species than by other factors.",
+        "lang": "eng"
+    },
+    "appid": "10883_2668",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2668"
+}}

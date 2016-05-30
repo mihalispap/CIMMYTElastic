@@ -3,7 +3,7 @@
         "value": "Household inventories and marketed surplus in semisubsistence agriculture",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-06-07T21:09:16Z",
     "subject": [
         {
@@ -24,14 +24,26 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
+                0.6037,
+                0.6037,
+                0.6037,
+                0.6037,
                 1,
                 ""
             ],
             "value": "households",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3676",
+                "http://aims.fao.org/aos/agrovoc/c_3676",
+                "http://aims.fao.org/aos/agrovoc/c_3676",
+                "http://aims.fao.org/aos/agrovoc/c_3676",
                 "http://aims.fao.org/aos/agrovoc/c_3676",
                 ""
             ]

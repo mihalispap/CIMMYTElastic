@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:57Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3773",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": [
+        "Research Reports",
+        "Books and monographs"
+    ],
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3773"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3773"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3773",
+    "creator": [
+        {
+            "id": 1973299707,
+            "value": "Badu-Apraku, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1973299707"
+        },
+        {
+            "id": 1905962719,
+            "value": "Menkir, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1905962719"
+        },
+        {
+            "id": 1864243085,
+            "value": "Onyibe, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1864243085"
+        },
+        {
+            "id": 1600468599,
+            "value": "Buah, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1600468599"
+        },
+        {
+            "id": 941073876,
+            "value": "Yallou, C.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/941073876"
+        },
+        {
+            "id": 1012726982,
+            "value": "Coulibaly, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1012726982"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2247565,
+            "value": "IITA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2247565"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3773/1/95626.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2573749
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3773/2/95626.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 65550
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3773/3/95626.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6670
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3773/1/95626.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3773/2/95626.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3773/3/95626.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3773"
+        }
+    },
+    "extent": "",
+    "page": "29 p.",
+    "coverage": "West Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Ibadan (Nigeria)",
+    "doi": ""
+}}

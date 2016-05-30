@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Inheritance of resistance to Ascochyta rabiei in 15 chickpea germplasm accessions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:37Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chickpea",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ascochyta blight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sources of resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "recessive genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6470"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6579,
+            "value": "ascochyta rabiei",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34509"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6579
+            ],
+            "value": "ascochyta",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_660"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chickpeas",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9785"
+        }
+    ],
+    "description": {
+        "value": "Inheritance of resistance to race 4 of Ascochyta rabiei was studied in fifteen chickpea accessions known internationally for Ascochyta blight (AB) resistance. Resistance in ILC 200, ILC 5921, ILC 6043 and ILC 6090 was governed by a single recessive gene. Resistance in ILC 202 and ILC 2956 was conferred by two recessive complementary genes. In the case of ILC 5586, resistance was controlled by two dominant complementary genes and in the case of ILC 2506, two recessive genes with epistasis interaction were responsible for resistance. Resistance in ILC 3279, ILC 3856 and ILC 4421 was controlled either by three recessive genes or two recessives duplicated genes and in ILC 72, ILC 182 and ILC 187 resistance was polygenic in nature. The study provided insights into the genetics of Ascochyta blight resistance, and these could be used in crossing programmes to develop durable resistance. While the virulence spectrum of the pathogen in a region plays a crucial role in the deployment of resistance, ILC72, ILC182, ILC200, ILC442 and ILC6090 could provide acceptable level of resistance if incorporated into commercial cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_3479",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3479"
+}}

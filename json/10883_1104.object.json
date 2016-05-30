@@ -3,7 +3,7 @@
         "value": "The increasing role of wheat consumption and imports in the developing world",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:44Z",
+    "updated": "2016-01-22T23:05:41Z",
     "created": "2012-01-06T05:14:16Z",
     "subject": [
         {
@@ -105,17 +105,14 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
                 1,
-                0.7558,
                 ""
             ],
             "value": "imports",
             "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_3815",
                 "http://aims.fao.org/aos/agrovoc/c_3815",
                 ""
             ]
@@ -146,12 +143,6 @@
             "score": "",
             "value": "urban areas",
             "uri": ""
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.8511,
-            "value": "consumption",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1827"
         }
     ],
     "description": {

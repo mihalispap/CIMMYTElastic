@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-24T18:23:46Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3251",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3251"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3251"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3251",
+    "creator": [
+        {
+            "id": 2100477471,
+            "value": "Fei Lu",
+            "type": "person",
+            "uri": "/cimmyt/person/2100477471"
+        },
+        {
+            "id": 122005779,
+            "value": "Lipka, A.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/122005779"
+        },
+        {
+            "id": 1992673506,
+            "value": "Glaubitz, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1992673506"
+        },
+        {
+            "id": 2037550096,
+            "value": "Elshire, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2037550096"
+        },
+        {
+            "id": 309310702,
+            "value": "Cherney, J.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/309310702"
+        },
+        {
+            "id": 1889820573,
+            "value": "Casler, M.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1889820573"
+        },
+        {
+            "id": 414811860,
+            "value": "Buckler. E.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/414811860"
+        },
+        {
+            "id": 486192296,
+            "value": "Costich, D.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/486192296"
+        }
+    ],
+    "publisher": {
+        "id": 286967100,
+        "value": "http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003215",
+        "type": "organization",
+        "uri": "/cimmyt/organization/286967100"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3251/1/97837.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 76549
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3251/2/97837.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 7341
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3251/3/97837.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 2501640
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3251/1/97837.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3251/2/97837.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3251/3/97837.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3251"
+        }
+    },
+    "extent": "",
+    "page": "e1003215",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

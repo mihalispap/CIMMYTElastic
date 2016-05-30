@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:11:35Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2366",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2003",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2366"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2366"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2366",
+    "creator": [
+        {
+            "id": 1753434805,
+            "value": "Lage, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1753434805"
+        },
+        {
+            "id": 83483977,
+            "value": "Skovmand, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/83483977"
+        },
+        {
+            "id": 59695533,
+            "value": "Andersen, S.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/59695533"
+        }
+    ],
+    "publisher": {
+        "id": 1400983241,
+        "value": "http://www.bioone.org/doi/abs/10.1603/0022-0493-96.6.1922",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1400983241"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2366/1/79070.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 86948
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2366/2/79070.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 37605
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2366/3/79070.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5282
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2366/1/79070.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2366/2/79070.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2366/3/79070.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2366"
+        }
+    },
+    "extent": "",
+    "page": "1922-1928",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

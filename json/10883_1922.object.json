@@ -7,10 +7,43 @@
     "created": "2013-06-07T21:02:57Z",
     "subject": [
         {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8418
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "pods",
             "uri": "http://aims.fao.org/aos/agrovoc/c_13475"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.78,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
         },
         {
             "vocabulary": "agrovoc",

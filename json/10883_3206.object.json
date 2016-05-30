@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Yield and agronomic performance of maize hybrids resistant to the maize weevil Sitophilus zeamais Motschulsky (Coleoptera: Curculionidae)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-06-30T05:24:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "host resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9344,
+                0.9344,
+                0.9344,
+                0.9344,
+                0.9344,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "postharvest loss",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.717,
+                ""
+            ],
+            "value": "sitophilus zeamais",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8337
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7282
+            ],
+            "value": "weevils",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_30063"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hosts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3673"
+        }
+    ],
+    "description": {
+        "value": "This study evaluated improved maize hybrids (Zea mays L.) with varying level of resistance to the maize weevil, Sitophilus zeamais Motschulsky, for yield and agronomic traits for two seasons. A total of 22 improved maize hybrids and three commercial standards were tested. Out of the 22 tested, two hybrids CKPH08035 (7.4?9.9 t ha&#8722;1) and CKPH08039 (7.3?9.8 t ha&#8722;1) significantly out yielded the commercial standards WH505 (8.8 t ha&#8722;1) and BH140 (5.5 t ha&#8722;1). In addition to yield, the improved hybrids also possess desirable traits including good plant height, good plant and ear aspects and good husk cover. The hybrid CKPH08004 had the lowest Dobie index of susceptibility and was regarded as resistant to S. zeamais. Weevils fed with the resistant hybrids produced low numbers of F1 generation weevils, had a high median developmental time and a low percentage of grain damage and grain weight loss. An increasing number of F1 generation resulted in an increasing grain damage and grain weight loss. We found an inverse relationship between the susceptibility index and percent mortality. However, the numbers of F1 generation, percent grain damage and grain weight loss were positively correlated with the susceptibility index. The use of resistant maize hybrids should be promoted in managing S. zeamais in stored maize under subsistence farming conditions in Africa.",
+        "lang": "eng"
+    },
+    "appid": "10883_3206",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3206"
+}}

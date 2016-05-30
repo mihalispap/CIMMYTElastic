@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Right-sizing stem-rust research",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:38Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27327"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7281
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Stem rust caused by Puccinia graminis f. sp. tritici is a potentially devastating fungal disease that can kill wheat plants and small grain cereals but more typically reduces foliage, root growth, and grain yields [e.g., (1, 2)]. After years of success in keeping the disease at bay, new virulent races (collectively referred to as ?Ug99?) have emerged, with the potential to infect much of the world's wheat (3). Despite, or because of, the success of past research, these programs saw an eventual rundown in support (4). We estimate global wheat losses over the past 50 years absent investments in research to limit impacts of stem rust and discuss how this can inform decisions about ?right-sizing? research investments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3286",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3286"
+}}

@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Outlook of future climate in northwestern Ethiopia",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "amhara regional state",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8097,
+                0.8097,
+                0.8097,
+                1,
+                ""
+            ],
+            "value": "climate change",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ethiopia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2676",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hadcm3",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "statistical downscaling",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.925
+            ],
+            "value": "rainfall",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6435"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "temperature",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7657"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "state",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_330998"
+        }
+    ],
+    "description": {
+        "value": "Climate change is described as the most universal and irreversible environmental problem facing the planet Earth. While climate change is already manifesting in Ethiopia through changes in temperature and rainfall, its magnitude is poorly studied at regional levels. The objective of this paper was to assess and quantify the magnitude of future changes of climate parameters using Statistical Downscaling Mode (SDSM) version 4.2 in Amhara Regional State which is located between 8°45\u2018N and 13°45\u2018N latitude and 35°46\u2018E and 40°25\u2018E longitude. Daily climate data (1979- 2008) of rainfall, maximum and minimum temperatures were collected from 10 observed meteorological stations (predictand). The stations were grouped and compared using clustering and Markov chain model, whereas the degree of climate change in the study area was estimated using the coupled HadCM3 general circulation model (GCM) with A2a emission scenarios (Predictors). Both maximum and minimum temperatures showed an increasing trend; the increase in mean maximum temperature ranges between 1.55°C and 6.07°C and that of the mean minimum temperature ranges from 0.11°C and 2.81°C. While the amount of annual rainfall and rainy days decreased in the study Regions in the 2080s. The negative changes in rainfall and temperature obtained from the HadCM3 model in the current study are alarming and suggest the need for further study with several GCM models to confirm the current results and develop adaptation options.",
+        "lang": "eng"
+    },
+    "appid": "10883_2258",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2258"
+}}

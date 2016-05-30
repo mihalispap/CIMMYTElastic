@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Assessing the potential economic impact of Bacillus thuringiensis (Bt) maize in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetically modified crops",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bacillus thuringiensis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_761",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "economic impact",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7136,
+            "value": "participatory rural appraisal",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35291"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8302,
+            "value": "busseola fusca",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27140"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9848,
+            "value": "sesamia calamistis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34480"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9484,
+            "value": "chilo partellus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27152"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        }
+    ],
+    "description": {
+        "value": "The Insect Resistant Maize for Africa (IRMA) project is currently developing Bt maize for Kenya. So far, Bt genes with resistance to Chilo partellus, Chilo orichalcociliellus, Eldana sacharina, and Sesamia calamistis, four of the five major stemborers were successfully incorporated into elite CIMMYT maize inbred line (CML216) and tested in insect bioassays in Kenya. Participatory Rural Appraisals showed that stem borers are indeed major pest problems for farmers. Four seasons of on-farm crop loss assessment showed an average crop loss of 13.5%, or 0.4 million tons, valued at US$ 80 million. If the project manages to find a Bt gene that is effective to the fifth stemborer, Busseola fusca, adoption rates are likely to be high, and therefore the returns. Under standard assumptions, the economic surplus of the project is calculated at $ 208 million over 25 years (66% of which is consumer surplus) as compared to a cost of $5.7 million. Geographically, the project should focus on the high production moist-transitional zone. However, if such gene cannot be found, Bt maize technology would only be effective in the low potential areas, and adoption rates would be fairly low, although benefits would still exceed costs.",
+        "lang": "eng"
+    },
+    "appid": "10883_2214",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2214"
+}}

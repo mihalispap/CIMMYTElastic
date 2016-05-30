@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Identification of drought, heat, and combined drought and heat tolerant donors in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:49Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7047
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.936
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Low maize (Zea maysL.) yields and the impacts of climate change on maize production highlight the need to improve yields in eastern and southern Africa. Climate projections suggest higher temperatures within drought-prone areas. Research in model species suggests that tolerance to combined drought and heat stress is genetically distinct from tolerance to either stress alone, but this has not been confirmed in maize. In this study we evaluated 300 maize inbred lines testcrossed to CML539. Experiments were conducted under optimal conditions, reproductive stage drought stress, heat stress, and combined drought and heat stress. Lines with high levels of tolerance to drought and combined drought and heat stress were identified. Significant genotype × trial interaction and very large plot residuals were observed; consequently, the repeatability of individual managed stress trials was low. Tolerance to combined drought and heat stress in maize was genetically distinct from tolerance to individual stresses, and tolerance to either stress alone did not confer tolerance to combined drought and heat stress. This finding has major implications for maize drought breeding. Many current drought donors and key inbreds used in widely grown African hybrids were susceptible to drought stress at elevated temperatures. Several donors tolerant to drought and combined drought and heat stress, notably La Posta Sequia C7-F64-2-6-2-2 and DTPYC9-F46-1-2-1-2, need to be incorporated into maize breeding pipelines.",
+        "lang": "eng"
+    },
+    "appid": "10883_3263",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3263"
+}}

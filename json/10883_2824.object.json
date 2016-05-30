@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Complexity in climate-change impacts: an analytical framework for effects mediated by plant disease",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cereal head blight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "isease risk",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ecosystem services",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1348040570280",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium graminearum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35494",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "potato late blight",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "phytophthora infestans",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27304",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "blight",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_957"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "risk",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6612"
+        }
+    ],
+    "description": {
+        "value": "The impacts of climate change on ecosystem services are complex in the sense that effective prediction requires consideration of a wide range of factors. Useful analysis of climate-change impacts on crops and native plant systems will often require consideration of the wide array of other biota that interact with plants, including plant diseases, animal herbivores, and weeds. We present a framework for analysis of complexity in climate-change effects mediated by plant disease. This framework can support evaluation of the level of model complexity likely to be required for analysing climate-change impacts mediated by disease. Our analysis incorporates consideration of the following set of questions for a particular host, pathogen, host?pathogen combination, or geographic region. 1. Are multiple biological interactions important? 2. Are there environmental thresholds for population responses? 3. Are there indirect effects of global change factors on disease development? 4. Are spatial components of epidemic processes affected by climate? 5. Are there feedback loops for management? 6. Are networks for intervention technologies slower than epidemic networks? 7. Are there effects of plant disease on multiple ecosystem services? 8. Are there feedback loops from plant disease to climate change? Evaluation of these questions will help in gauging system complexity, as illustrated for fusarium head blight and potato late blight. In practice, it may be necessary to expand models to include more components, identify those components that are the most important, and synthesize such models to include the optimal level of complexity for planning and research prioritization.",
+        "lang": "eng"
+    },
+    "appid": "10883_2824",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2824"
+}}

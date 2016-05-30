@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "China",
+        "uri": [
+            "http://sws.geonames.org/3530839",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:57Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2530",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2530"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2530"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2530",
+    "creator": [
+        {
+            "id": 1465215242,
+            "value": "He Sheng-mei",
+            "type": "person",
+            "uri": "/cimmyt/person/1465215242"
+        },
+        {
+            "id": 1253999022,
+            "value": "Chen Dong-Sheng",
+            "type": "person",
+            "uri": "/cimmyt/person/1253999022"
+        },
+        {
+            "id": 540419058,
+            "value": "Zhang Yan",
+            "type": "person",
+            "uri": "/cimmyt/person/540419058"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        }
+    ],
+    "publisher": {
+        "id": 1593353288,
+        "value": "http://211.155.251.135:81/Jwk_zgnykx/EN/abstract/abstract9036.shtml",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1593353288"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2530/1/89673.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 204350
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2530/2/89673.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 20636
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2530/3/89673.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4948
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2530/1/89673.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2530/2/89673.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2530/3/89673.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2530"
+        }
+    },
+    "extent": "",
+    "page": "212-216",
+    "coverage": [
+        "China",
+        "East Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -3,7 +3,7 @@
         "value": "Has the green revolution been sustained? The quantitative impact of the seed-fertilizer revolution in Pakistan revisited",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:06:00Z",
     "created": "2013-06-07T21:09:26Z",
     "subject": [
         {
@@ -153,19 +153,16 @@
         {
             "vocabulary": [
                 "",
-                "",
                 "agrovoc"
             ],
             "score": [
                 "",
-                "",
-                0.6116
+                0.6483
             ],
-            "value": "yields",
+            "value": "sustainability",
             "uri": [
                 "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8488"
+                "http://aims.fao.org/aos/agrovoc/c_33560"
             ]
         },
         {
@@ -186,21 +183,6 @@
         {
             "vocabulary": [
                 "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6483
-            ],
-            "value": "sustainability",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_33560"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
                 "",
                 "agrovoc"
             ],
@@ -214,6 +196,24 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6116
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
             ]
         },
         {

@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Southern Africa",
+        "uri": [
+            "http://sws.geonames.org/9406051",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/southern_Africa"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:33Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3068",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2008",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3068"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3068"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3068",
+    "creator": [
+        {
+            "id": 1267799003,
+            "value": "Derera, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1267799003"
+        },
+        {
+            "id": 1881255417,
+            "value": "Tongoona, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1881255417"
+        },
+        {
+            "id": 2127154185,
+            "value": "Vivek, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2127154185"
+        },
+        {
+            "id": 869698164,
+            "value": "Laing, M.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/869698164"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3068/1/90479.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 191153
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3068/2/90479.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 42483
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3068/3/90479.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5866
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3068/1/90479.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3068/2/90479.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3068/3/90479.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3068"
+        }
+    },
+    "extent": "",
+    "page": "411-422",
+    "coverage": "Southern Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

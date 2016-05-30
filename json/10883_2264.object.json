@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Soil water relations and relative turgidity of leaves in the wheat crop",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "evapotranspiration",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2741",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "leaves",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4243",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "moisture content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4886",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water balance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8311",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "soil water",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7205"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2264",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2264"
+}}

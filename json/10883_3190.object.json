@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Root-lodging resistance in maize as an example for high-throughput genetic mapping via single nucleotide polymorphism-based selective genotyping",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "selective genotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "root lodging",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait loci",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "segregation distortion regions",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "high-throughput genetic mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "lodging",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15592"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6231
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6022,
+            "value": "allele frequency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331020"
+        }
+    ],
+    "description": {
+        "value": "Large-scale selective genotyping and high-throughput analysis are two important strategies for low-cost and high-effective genetic mapping. In this study, selective genotyping was applied to four maize F2 populations. Thirty plants were selected from each of the two tails of the original F2 populations to represent extreme resistant and susceptible plants to root lodging, and genotyped individually with 1536 single nucleotide polymorphisms (SNPs). A quantitative trait locus (QTL) was declared when at least three closely linked SNPs showed significant allele frequency difference between the two tails. Nine QTL were identified for root lodging across the four populations, which were located on chromosomes 2, 4, 5, 7, 8 and 10 and one of them was shared between two populations. A total of 20 segregation distortion regions (SDRs) were identified across the four populations, one of which was co-localized with a QTL on chromosome 4. The tightly linked SNPs identified in this study can be used for marker-assisted selection for root lodging. Selective genotyping, when combined with pooled DNA analysis, can be used to develop strategies for high-throughput genetic mapping for all crops.",
+        "lang": "eng"
+    },
+    "appid": "10883_3190",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3190"
+}}

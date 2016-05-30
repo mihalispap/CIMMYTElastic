@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Combining ability among twenty insect resistant maize inbred lines resistant to Chilo partellus and Busseola fusca Stem borers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "kenya",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4086",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6987,
+                0.6987,
+                0.6987,
+                0.6987,
+                0.6987,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "stem borers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7389",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "combining ability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15954",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "partial diallel",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "insect resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        }
+    ],
+    "description": {
+        "value": "A partial diallel design was used among 20 maize inbred lines to form 110 F1 hybrids to generate information on the values of these lines for developing insect resistant maize varieties during the short rains season of 2006. The hybrids were evaluated for resistance to the C. partellus and B. fusca, and for agronomic performance over two seasons during long and short rains of 2007 at a mid-altitude dry early maturity site at KARI Kiboko, and the moist mid-altitude medium maturity site at KARI Embu. leaf damage score (using a scale of 1-9 where: 1= No damage and 9= extremely damaged), number of exit holes, cumulative tunnel length, and grain yield were measured as resistance traits. The genotype sum of square was partitioned into general combining ability (GCA) and specific combining ability (SCA) effects. Maize inbred lines with good general combining ability for insect resistance including maize inbred lines with significant and negative GCA`s for leaf damage were identified as lines 12,16,18,19 and 20 at Kiboko and lines 8, 17, 18, and 20 in Embu. Results showed that the problem of stem borers intensified by over 40% within four years in the experimental region of Eastern Kenya; currently mean yield loss due to stem borers was assessed to be about 56%. Several hybrids had significant negative SCA for leaf damage and significant positive SCA for grain yield. The maize inbred lines studied revealed their potential for use in breeding programs for insect resistance that could result in a correlated response for increased grain yield. Recurrent selection would be the best option to develop high yielding insect resistant germplasm for this region of Kenya considering that additive gene action were predominant. Evidently, it would be more difficult to develop host plant resistance to B. fusca than to C. partellus.",
+        "lang": "eng"
+    },
+    "appid": "10883_3099",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3099"
+}}

@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "1212-1975",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Bangladesh",
+        "uri": [
+            "http://sws.geonames.org/1210997",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:43Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2841",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2841"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2841"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2841",
+    "creator": [
+        {
+            "id": 622070140,
+            "value": "Pandit D.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/622070140"
+        },
+        {
+            "id": 846582919,
+            "value": "Mandal M.S.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/846582919"
+        },
+        {
+            "id": 1140273128,
+            "value": "Hakim M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1140273128"
+        },
+        {
+            "id": 785986290,
+            "value": "Barma N.C.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/785986290"
+        },
+        {
+            "id": 1729578750,
+            "value": "Tiwari T.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1729578750"
+        },
+        {
+            "id": 1012655519,
+            "value": "Joshi A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1012655519"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2841/1/95547.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 257205
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2841/2/95547.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 17106
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2841/3/95547.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4812
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2841/1/95547.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2841/2/95547.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2841/3/95547.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2841"
+        }
+    },
+    "extent": "",
+    "page": "S160-S164",
+    "coverage": [
+        "Bangladesh",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

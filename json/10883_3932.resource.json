@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-13T01:09:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3932",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Reprint",
+    "date": "1992",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3932"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3932"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3932",
+    "creator": [
+        {
+            "id": 249162922,
+            "value": "Huke, E.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/249162922"
+        },
+        {
+            "id": 249550112,
+            "value": "Huke, R.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/249550112"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 2256160,
+            "value": "IRRI",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2256160"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2031280,
+            "value": "BARC",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2031280"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3932/1/67587.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2393220
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3932/2/67587.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30904
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3932/3/67587.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5066
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3932/1/67587.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3932/2/67587.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3932/3/67587.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3932"
+        }
+    },
+    "extent": "",
+    "page": "50 p.",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Manila (Philippines)",
+    "doi": ""
+}}

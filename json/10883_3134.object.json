@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Large-scale screening for maize drought resistance using multiple selection criteria evaluated under water-stressed and well-watered environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6117,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "drought resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.9339,
+                ""
+            ],
+            "value": "selection criteria",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1078",
+                "http://aims.fao.org/aos/agrovoc/c_1078",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "germplasm evaluation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "normalized difference vegetation index (ndvi)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "vegetation index",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9000171"
+        }
+    ],
+    "description": {
+        "value": "A total of 550 maize inbred lines collected from global breeding programs were evaluated for drought resistance under both well-watered and water-stressed environments. The evaluation was based on multiple measurements of biomass taken before and after the drought stress was applied using the normalized difference vegetation index (NDVI), along with other selection criteria including anthesis-silking interval, leaf senescence, chlorophyll content, root capacitance, final grain yield, and grain yield components. Kernel weight was the most stable trait under drought stress. Correlations between the primary trait (grain yield) and the secondary traits, except the root capacitance and ASI under water-stressed condition, were all significant. Root capacitance had relatively low heritability and low genetic correlation with other drought resistance criteria, and is not recommended as a drought resistance criterion. Significant reduction of NDVI values measured in the afternoon when the leaves became rolling, compared to those measured in the morning when the leaves were open, provides a reliable index for leaf rolling, which however was not significantly correlated with grain yield. NDVIs measured across different developmental stages were highly correlated with each other and with most of the secondary traits as well as, grain yield, indicating that NDVI can be used as a secondary trait for large-scale drought resistance screening. Regression models built based on non-yield drought criteria and yield components explained about 40% and 95% of the variation for the grain yield, respectively. Some maize lines developed in China for temperate regions showed strong drought resistance comparable to tropical maize lines when tested under tropical condition, indicating that temperate lines with a wide adaptability can be used in drought resistance breeding for both temperate and tropical environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3134",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3134"
+}}

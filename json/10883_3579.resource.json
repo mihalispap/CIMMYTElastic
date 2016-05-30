@@ -1,0 +1,113 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "America",
+        "uri": [
+            "http://sws.geonames.org/10861432",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/America"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:01Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3579",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1982",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3579"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3579"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3579",
+    "creator": {
+        "id": 585189249,
+        "value": "Sprague, E.W.",
+        "type": "person",
+        "uri": "/cimmyt/person/585189249"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3579/1/21850.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 393669
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3579/2/21850.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33242
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3579/3/21850.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6923
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3579/1/21850.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3579/2/21850.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3579/3/21850.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3579"
+        }
+    },
+    "extent": "",
+    "page": "10:00 PM",
+    "coverage": "America",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

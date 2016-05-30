@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "Dissecting of the FHB resistance QTL on the short arm of wheat chromosome 2D using a comparative genomic approach: from QTL to candidate gene",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:19Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "comparative genomics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fusarium head blight (fhb)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multidrug resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "associated protein (mrp)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mycotoxin",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6892
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8654
+            ],
+            "value": "rice",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6599"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6182
+            ],
+            "value": "mycotoxins",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5026"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.77
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fusarium",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3156"
+        }
+    ],
+    "description": {
+        "value": "Colinearity in gene content and order between rice and closely related cereal crops has been a powerful tool for gene identification. Using a comparative genomic approach, we have identified the rice genomic region syntenous to the region of the short arm of wheat chromosome 2D, on which quantitative trait loci (QTLs) for Fusarium head blight (FHB) resistance and for controlling accumulation of the mycotoxin deoxynivalenol (DON) are closely located. Utilizing markers known to reside near the FHB resistance QTL and data from several wheat genetic maps, we have limited the syntenous region to 6.8 Mb of the short arm of rice chromosome 4. From the 6.8-Mb sequence of rice chromosome 4, we found three putative rice genes that could have a role in detoxification of mycotoxins. DNA sequences of these putative rice genes were used in BLAST searches to identify wheat expressed sequence tags (ESTs) exhibiting significant similarity. Combined data from expression analysis and gene mapping of wheat homologues and results of analysis of DON accumulation using doubled haploid populations revealed that a putative gene for multidrug resistance-associated protein (MRP) is a possible candidate for the FHB resistance and/or DON accumulation controlling QTLs on wheat chromosome 2DS and can be used as a molecular marker to eliminate the susceptible allele when the Chinese wheat variety Sumai 3 is used as a resistance source.",
+        "lang": "eng"
+    },
+    "appid": "10883_2664",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2664"
+}}

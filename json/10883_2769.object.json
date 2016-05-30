@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Spectral water indices for assessing yield in elite bread wheat genotypes under well-irrigated, water-stressed, and high-temperature conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:34Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7125,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "The objective of the present work was to determine the relationship between spectral reflectance indices (SRI) and yield in spring wheat (Triticum aestivum L.) in NW Mexico in three environments (irrigated, water-stress, and hightemperature). The SRI were classifi ed into vegetative indices (three indices) and water indices (five indices). The SRI were determined at booting, heading, and grain-filling in advanced lines of three trials of the International Maize and Wheat Improvement Centre in Mexico (CIMMYT), Elite Spring Wheat Yield Trial (ESWYT),Semi-Arid Wheat Yield Trial (SAWYT), and High Temperature Wheat Yield Trial (HTWYT). Two water indices (NWI-1 and NWI-3) always provided higher correlations with grain yield when heading and grain filling were combined in SAWYT, ESWYT, and HTWYT. Vegetative indices showed inconsistency in their relationship with grain yield. The water indices gave higher genetic correlations and correlated response with grain yield than the vegetative indices in the three trials in all the environments across years. The relationship between yield and canopy temperature determined at grain filling also showed stronger association with yield. The high-temperature environment showed the strongest associations between SRI and grain yield. The water indices can be used for breeding purposes for selecting high-yielding lines in well-irrigated, water-stressed, and hot environments,and canopy temperature could complement this selection.",
+        "lang": "eng"
+    },
+    "appid": "10883_2769",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2769"
+}}

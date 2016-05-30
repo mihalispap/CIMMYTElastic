@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Part 2 of 4: Site management for nitrogen-use-efficient maize trials",
+        "lang": ""
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-03-11T18:14:54Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                0.8826,
+                ""
+            ],
+            "value": "nitrogen",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "efficiency",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2491",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "experimentation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2758",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "site",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331000",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "management",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16086",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen-use-efficient",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "low-nitrogen",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "guidelines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_50228"
+        }
+    ],
+    "description": {
+        "value": "Guidelines for maize breeders on the steps in selecting, establishing and managing a low-nitrogen screening site. The guidelines will allow researchers to carefully manage stress levels and collect data in a standardized and timely manner. Among others, key considerations include site size, soil type and texture, access to irrigation, and a site with few pests and diseases.",
+        "lang": "eng"
+    },
+    "appid": "10883_4734",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4734"
+}}

@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Ethiopia",
+        "uri": [
+            "http://sws.geonames.org/337996",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+        ]
+    },
+    "updatedDate": "2013-11-25T02:37:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3309",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "No"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3309"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3309"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3309",
+    "creator": [
+        {
+            "id": 1252423853,
+            "value": "Edae, E.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1252423853"
+        },
+        {
+            "id": 1363549492,
+            "value": "Byrne, P.F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1363549492"
+        },
+        {
+            "id": 241810633,
+            "value": "Manmathan, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/241810633"
+        },
+        {
+            "id": 1185695872,
+            "value": "Haley, S.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1185695872"
+        },
+        {
+            "id": 2117117822,
+            "value": "Moragues, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2117117822"
+        },
+        {
+            "id": 166519627,
+            "value": "Lopes, M.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/166519627"
+        },
+        {
+            "id": 755828583,
+            "value": "Reynolds, M.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/755828583"
+        }
+    ],
+    "publisher": {
+        "id": 1927515591,
+        "value": "https://www.crops.org/publications/tpg/abstracts/6/2/plantgenome2013.04.0010",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1927515591"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3309/1/98090.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 66079
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3309/2/98090.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5950
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3309/3/98090.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1046325
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3309/1/98090.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3309/2/98090.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3309/3/98090.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3309"
+        }
+    },
+    "extent": "",
+    "page": "13 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

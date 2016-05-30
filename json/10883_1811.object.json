@@ -11,27 +11,6 @@
                 "",
                 "",
                 "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.928
-            ],
-            "value": "mapping",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_1344"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
                 "",
                 "",
                 "agrovoc"
@@ -55,10 +34,49 @@
             ]
         },
         {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.928
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "inbred lines",
             "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8395
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
         },
         {
             "vocabulary": [
@@ -79,24 +97,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_49928"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.8395
-            ],
-            "value": "maize",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_12332"
             ]
         },
         {

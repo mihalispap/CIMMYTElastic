@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Development of functional markers for a Lipoxygenase gene TaLox-B1 on chromosome 4BS in common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:54Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8378
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7444,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8043,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "lipoxygenase",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12199"
+        }
+    ],
+    "description": {
+        "value": "Lipoxygenase (LOX) activity in grain influences the color and processing quality of wheat (Triticum spp.)-based products. Characterization of LOX genes and development of functional markers are of importance for marker-assisted selection in common wheat (Triticum aestivum L.) breeding. In the present study, the full-length genomic DNA (gDNA) sequence of a LOX gene (designated TaLox-B1) located on chromosome 4BS was characterized by in silico cloning and experimental validation. Two complementary dominant sequence tagged site (STS) markers, LOX16 and LOX18, were developed based on the single nucleotide polymorphism (SNP) of two alleles at the TaLox-B1 locus, amplifying 489- and 791-bp fragments in cultivars with higher and lower LOX activities, respectively. The two markers were mapped on chromosome 4BS using a doubled haploid (DH) population derived from Zhongyou 9507 × CA9632, a set of Chinese Spring nullisomic?tetrasomic lines, ditelosomic line 4BS, and Langdon (LDN) 4D(4B) chromosome substitution line. Quantitative trait loci (QTL) analysis indicated that TaLox-B1 co-segregated with the two functional markers and was closely linked to simple sequence repeat (SSR) locus Xgwm251 on chromosome 4BS with a genetic distance of 1.8 cM. LOX16 and LOX18 were validated on 198 Chinese wheat cultivars and advanced lines and showed highly significant (p < 0.01) associations with LOX activity. These results suggested that LOX16 and LOX18, co-segregating with TaLox-B1, could be used for the improvement of color attributes of noodles and other wheat-based products in wheat breeding programs.",
+        "lang": "eng"
+    },
+    "appid": "10883_2918",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2918"
+}}

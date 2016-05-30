@@ -20,15 +20,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "maize",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 0.7636,
             "value": "wheats",
             "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
         }
     ],
     "description": {

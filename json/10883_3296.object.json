@@ -1,0 +1,171 @@
+{"object": {
+    "title": {
+        "value": "QTL for yield, yield components and canopy temperature depression in wheat under late sown field conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait locus",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "abiotic stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35768",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7939,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "canopy temperature",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9945,
+                0.9945,
+                0.9945,
+                1,
+                ""
+            ],
+            "value": "heat stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.607
+            ],
+            "value": "spikes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24086"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9582
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7342,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "canopy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1262"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yield components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24419"
+        }
+    ],
+    "description": {
+        "value": "A wheat (Triticum aestivum L.) recombinant inbred line (RIL) population was used to identify quantitative trait loci (QTL) associated with yield, yield components, and canopy temperature depression (CTD) under field conditions. The RIL population, consisting of 118 lines derived from a cross between the stress tolerant cultivar ?Halberd? and heat stress sensitive cultivar ?Karl92?, was grown under optimal and late sown conditions to impose heat stress. Yield and yield components including biomass, spikes m&#8722;2, thousand kernel weight, kernel weight and kernel number per spike, as well as single kernel characteristics were determined. In addition, CTD was measured during both moderate (32?33 °C) and extreme heat stress (36?37 °C) during grain-filling. Yield traits showed moderate to high heritability across environments with a large percentage of the variance explained by genetic effects. Composite interval mapping detected 25 stable QTL for the 15 traits measured, with the amount of phenotypic variation explained by individual QTL ranging from 3.5 to 27.1 %. Two QTL for both yield and CTD were co-localized on chromosomes 3BL and 5DL and were independent of phenological QTL. At both loci, the allele from Halberd was associated with both higher yield and a cooler crop canopy. The QTL on 3BL was also pleiotropic for biomass, spikes m&#8722;2, and heat susceptibility index. This region as well as other QTL identified in this study may serve as potential targets for fine mapping and marker assisted selection for improving yield potential and stress adaptation of wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_3296",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3296"
+}}

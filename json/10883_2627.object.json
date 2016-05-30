@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Characterization of phytoene synthase 1 gene (Psy1) located on common wheat chromosome 7A and development of a functional marker",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:13Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6826
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "common wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Phytoene synthase (Psy), a critical enzyme in the carotenoid biosynthetic pathway, demonstrated high association with the yellow pigment (YP) content in wheat grain. Characterization of Psy genes and the development of functional markers for them are of importance for marker-assisted selection in wheat breeding. In this study, the full-length genomic DNA sequence of a Psy gene (Psy-A1) located on chromosome 7A, was characterized by in silico cloning and experimental validation. The cloned Psy-A1 comprises six exons and five introns, 4,175 bp in total, and an ORF of 1,284 bp. A co-dominant marker, YP7A, was developed based on polymorphisms of two haplotypes of Psy-A1, yielding 194 and 231-bp fragments in cultivars with high and low YP content, respectively. The marker YP7A was mapped on chromosome 7AL using an RIL population from cross PH82-2/Neixing 188, and a set of Chinese Spring nullisomic&ndash;tetrasomic lines and ditelosomic line 7AS. Psy-A1, co-segregating with the STS marker YP7A, was linked to SSR marker Xwmc809 on chromosome 7AL with a genetic distance of 5.8 cM, and explained 20&ndash;28% of the phenotypic variance for YP content across three environments. A total of 217 Chinese wheat cultivars and advanced lines were used to validate the association between the polymorphic band pattern and grain YP content. The results showed that the functional marker YP7A was closely related to grain YP content and, therefore, could be used in wheat breeding programs targeting of YP content for various wheat-based products.",
+        "lang": "eng"
+    },
+    "appid": "10883_2627",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2627"
+}}

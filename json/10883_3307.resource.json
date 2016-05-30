@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "2008-868X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-25T02:37:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3307",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3307"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3307"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3307",
+    "creator": [
+        {
+            "id": 439732175,
+            "value": "Derakhshan, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/439732175"
+        },
+        {
+            "id": 274107289,
+            "value": "Mohammadi, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/274107289"
+        },
+        {
+            "id": 1354161471,
+            "value": "Moghaddam, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1354161471"
+        },
+        {
+            "id": 1635171672,
+            "value": "Jalal Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1635171672"
+        }
+    ],
+    "publisher": {
+        "id": 118581749,
+        "value": "http://cbjournal.spii.ir/browse.php?a_id=178&sid=1&slc_lang=en",
+        "type": "organization",
+        "uri": "/cimmyt/organization/118581749"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3307/1/98083.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 39695
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3307/4/98083.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6431
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3307/5/98083.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 614328
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3307/1/98083.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3307/4/98083.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3307/5/98083.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3307"
+        }
+    },
+    "extent": "",
+    "page": "11-14 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

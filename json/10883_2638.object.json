@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Identification and molecular characterization of leaf rust resistance gene Lr14a in durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:15Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9797
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8489,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7976,
+            "value": "amplified fragment length polymorphism",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331160"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8269
+            ],
+            "value": "common wheat",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9495
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7761,
+            "value": "triticum turgidum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7958"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8012
+            ],
+            "value": "aflp",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331160"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Leaf rust, caused by Puccinia triticina, is an important disease of durum wheat (Triticum turgidum subsp. durum) and only a few designated resistance genes are known to occur in this crop. A dominant leaf rust resistance gene in the Chilean durum cv. Llareta INIA was mapped to chromosome arm 7BL through bulked segregant analysis using the amplified fragment length polymorphism (AFLP) technique, and by mapping three polymorphic markers in the common wheat (T. aestivum) International Triticeae Mapping Initiative population. Several simple sequence repeat (SSR) markers, including Xgwm344-7B and Xgwm146-7B, were associated with the leaf rust resistance gene. Resistance response and chromosomal position indicated that this gene is likely to be Lr14a. The SSR markers Xgwm344-7B and Xgwm146-7B and one AFLP marker also differentiated common wheat cv. Thatcher from the near-isogenic line with Lr14a, as well as durum &lsquo;Altar C84&rsquo; from durum wheat with Lr14a. This is the first report of the presence of Lr14a in durum wheat, although the gene originally was transferred from emmer wheat &lsquo;Yaroslav&rsquo; to common wheat. Lr14a is also present in CIMMYT-derived durum &lsquo;Somateria&rsquo; and effective against Mexican and other P. triticina races of durum origin. Lr14a should be deployed in combination with other effective leaf rust resistance genes to prolong its effectiveness in durum wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2638",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2638"
+}}

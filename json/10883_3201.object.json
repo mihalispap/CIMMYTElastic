@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Caracterizacion nutricional del grano de 50 accesiones de maiz Cubano",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-06-30T05:24:50Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6468,
+                0.6468,
+                0.6468,
+                0.6468,
+                0.6468,
+                1,
+                ""
+            ],
+            "value": "quality",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nutritive value",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5278",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triptophan",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6323,
+                0.6323,
+                ""
+            ],
+            "value": "lysine",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4487",
+                "http://aims.fao.org/aos/agrovoc/c_4487",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "A nutritional quality analysis was performed to  50 yellow maize accessions collected in some farms from three regions of Cuba (western, center and east). Thus, the following characters were tested: ash, oil, total sugar, nitrogen, lysine and triptophan contents (%), at the International Breeding Center of Maize and Wheat (CIMMYT) in Mexico. As a result, standard values of ash, oil, sugar and lysine were obtained; however, with regard to sugar content, three accessions were notable. Concerning triptophan content, 76 % accessions have shown relatively high values, even when compared to some high-quality protein maize (QPM), which explains that 74 % of the overall population evaluated has a relatively high quality index surpassing a standard variety used as control, and even seven accessions overcome QPM evaluative reports in another  region. This is an encouraging result, since it permits to draw up several strategies for improving the nutritional quality of some accessions, to be further applied to feed target populations and animals of interest. Also, significant correlations were recorded at the population studied. On the other hand, accessions were scattered when a Main Component analysis was made, so that accessions splitted up from others according to the characters having a decisive influence on maize nutritional quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_3201",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3201"
+}}

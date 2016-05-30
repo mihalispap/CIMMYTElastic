@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Achieving yield gains in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:55Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food security",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic resources",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3218",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hi",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "partitioning",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7854,
+                0.7854,
+                ""
+            ],
+            "value": "photosynthesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "physiological breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rue",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat yield consortium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "harvest index",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24854"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.858
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Wheat provides 20% of calories and protein consumed by humans. Recent genetic gains are <1% per annum (p.a.), insufficient to meet future demand. The Wheat Yield Consortium brings expertise in photosynthesis, crop adaptation and genetics to a common breeding platform. Theory suggest radiation use efficiency (RUE) of wheat could be increased ¡­50%; strategies include modifying specificity, catalytic rate and regulation of Rubisco, up-regulating Calvin cycle enzymes, introducing chloroplast CO2 concentrating mechanisms, optimizing light and N distribution of canopies while minimizing photoinhibition, and increasing spike photosynthesis. Maximum yield expression will also require dynamic optimization of source: sink so that dry matter partitioning to reproductive structures is not at the cost of the roots, stems and leaves needed to maintain physiological and structural integrity. Crop development should favour spike fertility to maximize harvest index so phenology must be tailored to different photoperiods, and sensitivity to unpredictable weather must be modulated to reduce conservative responses that reduce harvest index. Strategic crossing of complementary physiological traits will be augmented with wide crossing, while genome-wide selection and high throughput phenotyping and genotyping will increase efficiency of progeny screening. To ensure investment in breeding achieves agronomic impact, sustainable crop management must also be promoted through crop improvement networks.",
+        "lang": "eng"
+    },
+    "appid": "10883_2930",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2930"
+}}

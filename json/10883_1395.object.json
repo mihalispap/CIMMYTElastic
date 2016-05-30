@@ -3,7 +3,7 @@
         "value": "Effect of stubble management, tillage and cropping sequence on the severity of take-all and eyespot diseases of wheat",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:35Z",
+    "updated": "2016-01-22T23:06:10Z",
     "created": "2013-06-05T15:45:20Z",
     "subject": [
         {
@@ -101,6 +101,12 @@
                 "http://aims.fao.org/aos/agrovoc/c_7176",
                 ""
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9896,
+            "value": "tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7771"
         },
         {
             "vocabulary": "agrovoc",

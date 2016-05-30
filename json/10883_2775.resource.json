@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "1562-5540",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Iran",
+        "uri": [
+            "http://sws.geonames.org/130758",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Iran"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:35Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2775",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2775"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2775"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2775",
+    "creator": [
+        {
+            "id": 198927059,
+            "value": "Moshattati, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/198927059"
+        },
+        {
+            "id": 780956190,
+            "value": "Alami-Saied, Kh.",
+            "type": "person",
+            "uri": "/cimmyt/person/780956190"
+        },
+        {
+            "id": 1399284472,
+            "value": "Siadat, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1399284472"
+        },
+        {
+            "id": 315776757,
+            "value": "Bakhshandeh, A.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/315776757"
+        },
+        {
+            "id": 2115899877,
+            "value": "Jalal-Kamali, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2115899877"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2775/1/94110.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 259712
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2775/2/94110.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 64990
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2775/1/94110.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2775/2/94110.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2775"
+        }
+    },
+    "extent": "",
+    "page": "85-99",
+    "coverage": [
+        "Iran",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

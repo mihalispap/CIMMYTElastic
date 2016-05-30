@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Common herbicides and their application rates in Conservation Agriculture (CA) systems",
+        "lang": "eng"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2015-04-21T21:51:16Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "herbicides",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "conservation tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33445",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "herbicide selectivity",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37583",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agriculture",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4261",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4261"
+}}

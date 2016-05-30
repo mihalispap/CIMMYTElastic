@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Revisiting the hetero-fertilization phenomenon in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7192
+            ],
+            "value": "dna",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2347"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8684
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "endosperm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2561"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fertilization",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2863"
+        }
+    ],
+    "description": {
+        "value": "Development of a seed DNA-based genotyping system for marker-assisted selection (MAS) has provided a novel opportunity for understanding aberrant reproductive phenomena such as hetero-fertilization (HF) by observing the mismatch of endosperm and leaf genotypes in monocot species. In contrast to conventional approaches using specific morphological markers, this approach can be used for any population derived from diverse parental genotypes. A large-scale experiment was implemented using seven F2 populations and four three-way cross populations, each with 534 to 1024 individuals. The frequency of HF within these populations ranged from 0.14% to 3.12%, with an average of 1.46%. The highest frequency of HF in both types of population was contributed by the pollen gametes. Using three-way crosses allowed, for the first time, detection of the HF contributed by maternal gametes, albeit at very low frequency (0.14%?0.65%). Four HF events identified from each of two F2 populations were tested and confirmed using 1032 single nucleotide polymorphic markers. This analysis indicated that only 50% of polymorphic markers can detect a known HF event, and thus the real HF frequency can be inferred by doubling the estimate obtained from using only one polymorphic marker. As expected, 99% of the HF events can be detected by using seven independent markers in combination. Although seed DNA-based analysis may wrongly predict plant genotypes due to the mismatch of endosperm and leaf DNA caused by HF, the relatively low HF frequencies revealed with diverse germplasm in this study indicates that the effect on the accuracy of MAS is limited. In addition, comparative endosperm and leaf DNA analysis of specific genetic stocks could be useful for revealing the relationships among various aberrant fertilization phenomena including haploidy and apomixis.",
+        "lang": "eng"
+    },
+    "appid": "10883_3135",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3135"
+}}

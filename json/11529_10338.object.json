@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "20th  Semi-Arid Wheat Yield Trial",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -312,13 +312,13 @@
             "score": [
                 "",
                 "",
-                0.9362
+                0.8075
             ],
-            "value": "rusts",
+            "value": "drought",
             "uri": [
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_6710"
+                "http://aims.fao.org/aos/agrovoc/c_2391"
             ]
         },
         {
@@ -330,13 +330,13 @@
             "score": [
                 "",
                 "",
-                0.8075
+                0.9362
             ],
-            "value": "drought",
+            "value": "rusts",
             "uri": [
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_2391"
+                "http://aims.fao.org/aos/agrovoc/c_6710"
             ]
         },
         {
@@ -384,7 +384,7 @@
     ],
     "description": {
         "value": "The Semi-Arid Wheat Yield Trial (SAWYT) is a replicated yield trial that contains spring bread wheat (Triticum aestivum) germplasm adapted to low rainfall, drought prone environments typically receiving less than 500 mm of water available during the cropping cycle. The combination of water-use efficiency and water responsive broad adaptation plus yield potential is important in drought environments where rainfall is frequently erratic across and within years. Stripe rust, leaf rust and stem rust, root rots, nematodes, and bunts are the key biotic constraints. Typical target environments include winter rain or Mediterranean-type drought associated with post-flowering moisture stress and heat stress such as those found at Aleppo (Syria), Settat (Morocco) and Marcos Juarez (Argentina), all classified by CIMMYT within Wheat Mega Environment 4 (Low rainfall, semi-arid environment; ME4: SA). It is distributed to 150 locations, and contains 50 entries.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10338",
     "language": {

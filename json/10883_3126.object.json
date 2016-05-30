@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Testing public Bt maize events for control of stem borers in the first confined field trials in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6601,
+                0.6601,
+                0.6601,
+                0.6601,
+                0.6601,
+                0.6601,
+                0.6601,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bt",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "stem borers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7389",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "confined field trials",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Transgenic  maize (Zea mays L), developed using modified genes from the bacterium Bacillus thuringiensis (Bt), controls stem borers without observable negative effects to humans, livestock or the environment, and is now sown on 134 million hectares globally. Bt maize could contribute to increasing maize production in Kenya. Nine public Bt maize events of cry1Ab and cry1Ba genes were tested in confined field trials site (CFTs) to assess the control of four major Kenyan stem borer species. Leaf damage rating, number of exit holes and tunnel length were scored in the field evaluations. Leaf area consumed and mortality rates among stem borers were scored in the leaf bioassays in a Biosafety Level II laboratory, located at the Kenya Agricultural Research Institute (KARI), National Agricultural Research Laboratories (NARL).  Field evaluations showed that Bt maize controlled Chilo partellus with mean damage scores of 1.2 against 2.7 for the non-Bt CML216 control. Laboratory bioassays showed high control for Eldana saccharina and Sesamia calamistis, with mean larval mortality of 64 and 92%, respectively. However, substantial control was not observed for Busseola fusca. These results showed that Bt maize could control three of the four major stem borers in Kenya with mortality records of 52.7% for B. fusca, 62.3% for E. saccharina and 85.8% for S. calamistis.  Additional Bt genes need to be sought and tested for effective stem borer control in all maize growing ecologies in Kenya.",
+        "lang": "eng"
+    },
+    "appid": "10883_3126",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3126"
+}}

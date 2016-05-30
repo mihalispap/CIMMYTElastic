@@ -3,7 +3,7 @@
         "value": "The potential impacts of climate change on maize production in Africa and Latin America in 2055",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:35Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-06-05T15:45:26Z",
     "subject": [
         {
@@ -147,26 +147,17 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
                 1,
-                0.8452,
                 ""
             ],
             "value": "latin america",
             "uri": [
                 "http://aims.fao.org/aos/agrovoc/c_4221",
-                "http://aims.fao.org/aos/agrovoc/c_4221",
                 ""
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.9117,
-            "value": "climate change",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1666"
         }
     ],
     "description": {

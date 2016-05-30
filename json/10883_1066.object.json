@@ -3,7 +3,7 @@
         "value": "From agronomic data to farmer recommendations: An economics training manual",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:44Z",
+    "updated": "2016-01-22T23:05:51Z",
     "created": "2012-01-06T05:10:57Z",
     "subject": [
         {
@@ -157,6 +157,12 @@
             ]
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "analysis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
+        },
+        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -170,12 +176,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8488"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "analysis",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_49928"
         }
     ],
     "description": {

@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Prevalence of a novel puroindoline b allele in Yunnan endemic wheats (Triticum aestivum ssp. yunnanense King)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:00Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yunnan endemic wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum ssp",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yunnanense",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kernel hardness",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "puroindoline alleles",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8279
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7571
+            ],
+            "value": "yunnan",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8496"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Grain hardness is a major factor influencing the classification and end-use quality of bread wheat. In this study, 40 Yunnan endemic wheats, 21 historical cultivars and 66 current cultivars and advanced lines were investigated for kernel hardness and puroindoline alleles using molecular and biochemical markers. The frequencies of soft, mixed and hard genotypes were 10.0%, 5.0% and 85.0%, respectively, in Yunnan endemic wheats, whereas the corresponding frequencies were 47.6%, 23.8% and 28.6% in historical cultivars, and 36.3%, 6.1% and 57.6% in current cultivars and advanced lines. Four known puroindoline alleles, Pina-D1b, Pinb-D1b, Pinb-D1d and Pinb-D1e, were found in the hard wheat cultivars. Compared with endemic wheats and historical cultivars, current cultivars from Yunnan province have relatively high frequencies of Pina-D1b and Pinb-D1b alleles at 43.5% and 16.1%, respectively. All 32 hard Yunnan endemic wheats (Triticum aestivum ssp. yunnanense King) contained a new puroindoline b allele, designated Pinb-D1u, that was characterized as a single nucleotide (G) deletion at position 127 in the coding sequence of the Pinb gene, leading to a shift of the open reading frame (ORF) from position 14 in the deduced amino acid sequence and a stop codon corresponding to position Leu- 18. The average SKCS hardness of genotypes with Pina-D1b (68.2) is significantly higher than those of Pinb-D1b (60.3) and Pinb-D1u (60.5). The study of puroindoline alleles in Yunnan germplasm could provide useful information for improving processing quality and further understanding the molecular basis of kernel hardness in bread wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2553",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2553"
+}}

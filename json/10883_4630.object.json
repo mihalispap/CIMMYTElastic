@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "SIMLESA : Policy briefs",
+        "lang": ""
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2015-11-09T18:53:22Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "intensification",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33485",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cropping systems",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1971",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food security",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4630",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4630"
+}}

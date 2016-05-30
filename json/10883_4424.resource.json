@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Pakistan",
+        "uri": [
+            "http://sws.geonames.org/1168579",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+        ]
+    },
+    "updatedDate": "2015-08-31T19:53:14Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT : Agricultural Innovation Program (AIP) for Pakistan",
+    "appid": "10883_4424",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Presentation",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4424"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4424"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4424",
+    "creator": {
+        "id": 1240297383,
+        "value": "Ferguson, L.",
+        "type": "person",
+        "uri": "/cimmyt/person/1240297383"
+    },
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 81036734,
+            "value": "USAID",
+            "type": "organization",
+            "uri": "/cimmyt/organization/81036734"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4424/1/Perennial+Horticulture+in+Pakistan+Innovations+and+Interventions.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 9230220
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4424/2/Perennial+Horticulture+in+Pakistan+Innovations+and+Interventions.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4424/3/Perennial+Horticulture+in+Pakistan+Innovations+and+Interventions.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6486
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4424/1/Perennial+Horticulture+in+Pakistan+Innovations+and+Interventions.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4424/2/Perennial+Horticulture+in+Pakistan+Innovations+and+Interventions.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4424/3/Perennial+Horticulture+in+Pakistan+Innovations+and+Interventions.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4424"
+        }
+    },
+    "extent": "",
+    "page": "33 p.",
+    "coverage": "Pakistan",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Islamabad, (Pakistan)",
+    "doi": ""
+}}

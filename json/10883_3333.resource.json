@@ -1,0 +1,137 @@
+{"resource": {
+    "citation": "",
+    "issn": "1023-070X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mozambique",
+        "uri": [
+            "http://sws.geonames.org/1036973",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mozambique"
+        ]
+    },
+    "updatedDate": "2013-12-09T20:20:20Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3333",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3333"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3333"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3333"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3333",
+    "creator": [
+        {
+            "id": 2081538587,
+            "value": "Famba, S.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/2081538587"
+        },
+        {
+            "id": 1271092194,
+            "value": "Loiskandl, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1271092194"
+        },
+        {
+            "id": 1823058277,
+            "value": "Thierfelder, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1823058277"
+        },
+        {
+            "id": 387220284,
+            "value": "Wall, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/387220284"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3333/1/98169.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 82767
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3333/4/98169.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 34512
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3333/5/98169.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5602
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3333/1/98169.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3333/4/98169.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3333/5/98169.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3333"
+        }
+    },
+    "extent": "",
+    "page": "255-262",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

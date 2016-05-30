@@ -61,33 +61,6 @@
             "vocabulary": [
                 "",
                 "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                0.8644
-            ],
-            "value": "rice",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_6599"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
                 "agrovoc"
             ],
             "score": [
@@ -100,6 +73,30 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8644
+            ],
+            "value": "rice",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6599"
             ]
         },
         {
@@ -167,15 +164,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.8934,
-            "value": "productivity",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 0.8227,
             "value": "simulation",
             "uri": "http://aims.fao.org/aos/agrovoc/c_5209"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8934,
+            "value": "productivity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6210"
         },
         {
             "vocabulary": "agrovoc",

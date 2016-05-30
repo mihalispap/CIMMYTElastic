@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Adapting maize production to climate change in sub-Saharan Africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-11-24T18:23:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7812,
+                0.7812,
+                0.7812,
+                0.7812,
+                0.7812,
+                1,
+                ""
+            ],
+            "value": "climate change",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "heat stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sub-saharan africa",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "germplasm improvement",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seed delivery systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "africa",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_165"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        }
+    ],
+    "description": {
+        "value": "Given the accumulating evidence of climate change in sub-Saharan Africa, there is an urgent need to develop more climate resilient maize systems. Adaptation strategies to climate change in maize systems in sub-Saharan Africa are likely to include improved germplasm with tolerance to drought and heat stress and improved management practices. Adapting maize systems to future climates requires the ability to accurately predict future climate scenarios in order to determine agricultural responses to climate change and set priorities for adaptation strategies. Here we review the projected climate change scenarios for Africa?s maize growing regions using the outputs of 19 global climate models. By 2050, air temperatures are expected to increase throughout maize mega- environments within sub-Saharan Africa by an average of 2.1°C. Rainfall changes during the maize growing season varied with location. Given the time lag between the development of improved cultivars until the seed is in the hands of farmers and adoption of new management practices, there is an urgent need to prioritise research strategies on climate change resilient germplasm development to offset the predicted yield declines.",
+        "lang": "eng"
+    },
+    "appid": "10883_3257",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3257"
+}}

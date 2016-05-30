@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT review 1977",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2015-04-01T22:46:00Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6786,
+                ""
+            ],
+            "value": "genetic resources",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3218",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9701,
+                ""
+            ],
+            "value": "innovation adoption",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3878",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant biotechnology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seed production",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "food security",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sustainability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "research policies",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "economic analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cropping systems",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agricultural research",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "organization research",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "developing countries",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Plant breeding; Genetic resources; Innovation\r\nadoption; Plant biotechnology;\r\nSeed production; Food security; Sustainability;\r\nResearch policies; Economic\r\nanalysis; Cropping systems; Agricultural\r\nresearch; Organization of research; Developing\r\ncountries",
+        "lang": "eng"
+    },
+    "appid": "10883_4231",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4231"
+}}

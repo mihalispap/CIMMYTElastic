@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Improving the use of experimental auctions in Africa: Theory and evidence",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6746
+            ],
+            "value": "experiments",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2758"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prices",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6178"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.998
+            ],
+            "value": "auctions",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_708"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Experimental auctions have not been widely used in Africa. However, auctions are important tools for evaluating new products and technologies. To increase the quality of these experiments, we explore an alternative first-price bidding mechanism that is more similar to African market exchanges and we analyze factors likely to affect bidding. Experiments with African consumers show that the proposed first-price mechanism has no advantage over conventional second-price mechanisms. Results show high and significant cash-in-hand, experimenter, and time of day effects in main rounds, and significant ordering effects in test rounds. These effects need to be carefully considered when applying the Becker-DeGroot-Marschak mechanism in Africa.",
+        "lang": "eng"
+    },
+    "appid": "10883_2213",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2213"
+}}

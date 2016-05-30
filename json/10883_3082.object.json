@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "Oxygen isotope enrichment (Delta 18O) reflects yield potential and drought resistance in maize",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "oxygen",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5477",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "enrichment",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8811
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6101
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6611
+            ],
+            "value": "isotopes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11852"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6012,
+            "value": "stomatal conductance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37253"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "Measurement of stable isotopes in plant dry matter is a useful phenotypic tool for speeding up breeding advance in C3 crops exposed to different water regimes. However, the situation in C4 crops is far from resolved, since their photosynthetic metabolism precludes (at least in maize) the use of carbon isotope discrimination. This paper investigates the use of oxygen isotope enrichment (Delta 18O) as a new secondary trait for yield potential and drought resistance in maize (Zea mays L). A set of tropical maize hybrids developed by the International Maize and Wheat Improvement Center was grown under three contrasting water regimes in field conditions. Water regimes clearly affected plant growth and yield. In accordance with the current theory, a decrease in water input was translated into large decreases in stomatal conductance and increases in leaf temperature together with concomitant 18O enrichment of plant matter (leaves and kernels). In addition, kernel Ä18O correlated negatively with grain yield under well-watered and intermediate water stress conditions, while it correlated positively under severe water stress conditions. Therefore, genotypes showing lower kernel Delta 18O under well-watered and intermediate water stress had higher yields in these environments, while the opposite trend was found under severe water stress conditions. This illustrates the usefulness of Delta 18O for selecting the genotypes best suited to differing water conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_3082",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3082"
+}}

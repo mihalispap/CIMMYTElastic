@@ -1,0 +1,160 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        }
+    ],
+    "updatedDate": "2016-01-15T22:17:11Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Maize variety options for Africa",
+    "appid": "10883_4649",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Poster",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4649"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4649"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4649",
+    "creator": [
+        {
+            "id": 435805678,
+            "value": "Tsedeke Abate",
+            "type": "person",
+            "uri": "/cimmyt/person/435805678"
+        },
+        {
+            "id": 1658311181,
+            "value": "Dagne Wegary Gissa",
+            "type": "person",
+            "uri": "/cimmyt/person/1658311181"
+        },
+        {
+            "id": 648022277,
+            "value": "Bogale, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/648022277"
+        },
+        {
+            "id": 263409161,
+            "value": "Keno, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/263409161"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 2247565,
+            "value": "IITA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2247565"
+        },
+        {
+            "id": 2108964,
+            "value": "DTMA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2108964"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4649/1/57183.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2976
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4649/3/57183.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 2369
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4649/2/57183.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 431678
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4649/1/57183.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4649/3/57183.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4649/2/57183.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4649"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Ethiopia",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

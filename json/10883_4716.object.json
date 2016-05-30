@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Mobile based application for urea calculation \u2018N Calculator\u2019 using greenseeker",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:36Z",
+    "created": "2016-02-19T22:24:04Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "urea",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8090"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7973,
+            "value": "calculators",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_23870"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4716",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4716"
+}}

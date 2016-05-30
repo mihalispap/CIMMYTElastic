@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0260-8774",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:12:55Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2928",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2928"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2928"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2928",
+    "creator": [
+        {
+            "id": 1734020476,
+            "value": "Hernandez-Estrada, Z.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1734020476"
+        },
+        {
+            "id": 736305251,
+            "value": "Figueroa, J.D.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/736305251"
+        },
+        {
+            "id": 2019470406,
+            "value": "Rayas-Duarte P.",
+            "type": "person",
+            "uri": "/cimmyt/person/2019470406"
+        },
+        {
+            "id": 732776015,
+            "value": "Peña-Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/732776015"
+        }
+    ],
+    "publisher": {
+        "id": 154809355,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0260877412002622",
+        "type": "organization",
+        "uri": "/cimmyt/organization/154809355"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2928/1/97157.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 548192
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2928/2/97157.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41728
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2928/3/97157.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6584
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2928/1/97157.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2928/2/97157.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2928/3/97157.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2928"
+        }
+    },
+    "extent": "",
+    "page": "19-26",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Relationships of mixolab parameters with Farinograph, Extensograph parameters, and bread-making quality",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:27Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixolab",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farinograph",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "extensograph",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "common wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bread-making quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6589
+            ],
+            "value": "bread",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1071"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "extensographs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28366"
+        }
+    ],
+    "description": {
+        "value": "Bread-making quality based on dough properties is routinely measured with various equipments to predict quality of wheat cultivar. It is critical to clarify the association between the newly available Mixolab parameters and dough characteristics determined by Farinograph, Extensograph, and bread-making quality, Forty-one breeding lines were used to measure parameters of Mixolab, Farinograph, Extensograph and bread-making quality,and to determine the associations between parameters of Mixolab and Farinograph and Extensograph and the reliability of predicting bread-making quality using these parameters.  These results indicated that parameters of Farinograph and Extensograph could be predicted by Mixolab Cl(development time), stability, C2(protein weakening during heating) and time C4(time to come setback of starch pasting), accounting for 74-90% of the variation.  Mixolab C2 could be used in prediction of loaf volume, bread appearance, structure, and total score, accounting for 52%, 73%, 70%, and 68% of variation, respectively.  For bread texture and elasiticity, the Mixolab stability,C2, parameters of starch pasting properties, such as time C3, C4, C5, and ToC5, were more important parameters.  The effects of protein property and starch quality on bread baking quality were explained weil with Mixolab parameters thus, Mixolab was particularly applicable to determine wheat quality property.  Because of the different contributions to the evaluations of bread volume, texture, and structure, Mixolab, Farinograph, and Extensograph are suggested to be used according to experimental purposes",
+        "lang": "eng"
+    },
+    "appid": "10883_2719",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2719"
+}}

@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "QTL analysis of the spring wheat 'Chapio' identifies stable stripe rust resistance despite inter-continental genotype × environment interactions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:38Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7711
+            ],
+            "value": "additives",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_118"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8488
+            ],
+            "value": "locus",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8117
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7047
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        }
+    ],
+    "description": {
+        "value": "Chapio is a spring wheat developed by CIMMYT in Mexico by a breeding program that focused on multigenic resistances to leaf rust and stripe rust. A population consisting of 277 recombinant inbred lines (RILs) was developed by crossing Chapio with Avocet. The RILs were genotyped with DArT markers (137 randomly selected RILs) and bulked segregant analysis conducted to supplement the map with informative SSR markers. The final map consisted of 264 markers. Phenotyping against stripe rust was conducted for three seasons in Toluca, Mexico and at three sites over two seasons (total of four environments) in Sichuan Province, China. Significant loci across the two inter-continental regions included Lr34/Yr18 on 7DS, Sr2/Yr30 on 3BS, and a QTL on 3D. There were significant genotype × environment interactions with resistance gene Yr31 on 2BS being effective in most of the Toluca environments; however, a late incursion of a virulent pathotype in 2009 rendered this gene ineffective. This locus also had no effect in China. Conversely, a 5BL locus was only effective in the Chinese environments. There were also complex additive interactions. In the Mexican environments, Yr31 suppressed the additive effect of Yr30 and the 3D locus, but not of Lr34/Yr18, while in China, the 3D and 5BL loci were generally not additive with each other, but were additive when combined with other loci. These results indicate the importance of maintaining diverse, multi-genic resistances as Chapio had stable inter-continental resistance despite the fact that there were QTLs that were not effective in either one or the other region.",
+        "lang": "eng"
+    },
+    "appid": "10883_3288",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3288"
+}}

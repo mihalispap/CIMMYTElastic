@@ -5,12 +5,20 @@
     },
     "updated": "2016-01-22T23:05:45Z",
     "created": "2013-06-07T21:02:29Z",
-    "subject": {
-        "vocabulary": "agrovoc",
-        "score": 1,
-        "value": "translocation",
-        "uri": "http://aims.fao.org/aos/agrovoc/c_7869"
-    },
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7875,
+            "value": "disease resistance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2328"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "translocation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7869"
+        }
+    ],
     "description": {
         "value": "",
         "lang": ""

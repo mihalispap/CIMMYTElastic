@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Uso de sensores opticos para la fertilizacion de trigo (Triticum aestivum L.)",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agricultura sustentable",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "greenseeker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "calibracion",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "validacion",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "transferencia de tecnologia",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "para",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5556"
+        }
+    ],
+    "description": {
+        "value": "A pesar de su importancia economica, la produccion de trigo en el valle de Mexicali, B.C., Mexico, atraviesa por dificultades debido a su baja rentabilidad. Una de las causas radica en que los productores podrian estar utilizando mas fertilizantes nitrogenados de los necesarios. Ademas, el nitrogeno (N) que no es recuperado por el cultivo se pierde al ambiente por lixiviacion, volatilizacion, desnitrificacion o escurrimiento, acentuando los problemas de contaminacion. Una estrategia innovadora, es el uso de sensores opticos (GreenSeeker®) en combinacion con un algoritmo matematico y una franja rica en nitrogeno, lo cual esta actualmente demostrando eficacia en el manejo sustentable de los fertilizantes a nivel mundial. Los objetivos de este trabajo fueron: (1) generar una ecuacion de prediccion confiable de los rendimientos de trigo cultivados localmente y (2) comparar los rendimientos de trigo, dosis de fertilizante y costos de fertilizacion quimica, obtenidos mediante la estrategia basada en el uso de sensores, contra la practica de fertilizacion convencional de los productores. Se establecieron trabajos de calibracion, validacion y transferencia de tecnologia de 2010 a 2012. Se obtuvo una ecuacion de prediccion del rendimiento, que demostro ser util en la recomendacion de dosis optimas de fertilizante nitrogenado. No se detecto reduccion en los rendimientos al comparar la practica convencional de los productores y el uso de sensores (P = 0.2713), la fertilizacion media aplicada, de acuerdo con la tecnologia del uso de sensores, fue inferior en 68 kg de N ha-1 en comparacion con la aplicada por los productores acorde a la practica convencional (P = 0.0015). Estos ahorros representaron $1339 ha-1. Se concluye que en Mexicali, a traves del uso de la tecnologia de sensores, es posible obtener ahorros sustanciales en los costos de fertilizacion nitrogenada de trigo, contribuir a incrementar la rentabilidad para los productores y reducir los impactos ambientales al evitar la aplicacion de fertilizantes innecesarios.",
+        "lang": "spa"
+    },
+    "appid": "10883_3308",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3308"
+}}

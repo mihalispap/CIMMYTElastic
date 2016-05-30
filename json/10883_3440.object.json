@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Genomic prediction in maize breeding populations with genotyping-by sequencing",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:59:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gblup",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genpred",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rkhs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping by sequencing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "imputation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "shared data resources",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6617
+            ],
+            "value": "data",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49816"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        }
+    ],
+    "description": {
+        "value": "Genotyping-by-sequencing (GBS) technologies have proven capacity for delivering large numbers of marker genotypes with potentially less ascertainment bias than standard single nucleotide polymorphism (SNP) arrays. Therefore, GBS has become an attractive alternative technology for genomic selection. However, the use of GBS data poses important challenges, and the accuracy of genomic prediction using GBS is currently undergoing investigation in several crops, including maize, wheat, and cassava. The main objective of this study was to evaluate various methods for incorporating GBS information and compare them with pedigree models for predicting genetic values of lines from two maize populations evaluated for different traits measured in different environments (experiments 1 and 2). Given that GBS data come with a large percentage of uncalled genotypes, we evaluated methods using nonimputed, imputed, and GBS-inferred haplotypes of different lengths (short or long). GBS and pedigree data were incorporated into statistical models using either the genomic best linear unbiased predictors (GBLUP) or the reproducing kernel Hilbert spaces (RKHS) regressions, and prediction accuracy was quantified using cross-validation methods. The following results were found: relative to pedigree or marker-only models, there were consistent gains in prediction accuracy by combining pedigree and GBS data; there was increased predictive ability when using imputed or nonimputed GBS data over inferred haplotype in experiment 1, or nonimputed GBS and information-based imputed short and long haplotypes, as compared to the other methods in experiment 2; the level of prediction accuracy achieved using GBS data in experiment 2 is comparable to those reported by previous authors who analyzed this data set using SNP arrays; and GBLUP and RKHS models with pedigree with nonimputed and imputed GBS data provided the best prediction correlations for the three traits in experiment 1, whereas for experiment 2 RKHS provided slightly better prediction than GBLUP for drought-stressed environments, and both models provided similar predictions in well-watered environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3440",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3440"
+}}

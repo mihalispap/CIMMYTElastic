@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Gene action determining Phaeosphaeria leaf spot disease resistance in experimental maize hybrids",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:31Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "inheritance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6498,
+                0.6498,
+                0.6498,
+                0.6498,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phaeosphaeria maydis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        }
+    ],
+    "description": {
+        "value": "Phaeosphaeria leaf spot (Phaeosphaeria maydis Henn.) has the potential to cause substantial yield losses in maize. Maize is grown by small-scale farmers without fungicides; hence there is need to breed for resistance in regionally adapted germplasm. Little information about the gene action determining Phaeosphaeria leaf spot disease (PLS) resistance in African maize germplasm is currently available. This study was therefore conducted to determine the gene action controlling resistance to PLS in African maize germplasm. Seventy-two experimental hybrids were generated in eight sets according to a North Carolina Design II mating scheme. Experimental and check hybrids were evaluated in an 8 x 8 simple lattice design during the 2003/4 season, and in an 8 x 10 á-lattice design, with two replications, during the 2004/5 seasons at the Cedara and Rattray Arnold Research Stations, in South Africa and Zimbabwe, respectively. There was significant variation among hybrids for resistance. General combining ability (GCA) due to both male and female inbred parents were highly significant (P<0.01), whereas specific combining ability effects were not significant for PLS scores, indicating that mainly additive gene action conditioned PLS resistance in experimental hybrids. Significant differences between male and female GCA variances, suggested the importance of cytoplasmic inheritance for PLS resistance. Resistance was highly heritable indicating that selection could be used to improve the resistance in this germplasm.",
+        "lang": "eng"
+    },
+    "appid": "10883_3054",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3054"
+}}

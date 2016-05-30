@@ -1,0 +1,151 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3709",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2002",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3709"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3709"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3709",
+    "creator": [
+        {
+            "id": 8786673,
+            "value": "Cordova, H.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/8786673"
+        },
+        {
+            "id": 1317648260,
+            "value": "Trifunovic, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1317648260"
+        },
+        {
+            "id": 185630368,
+            "value": "Vergara, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/185630368"
+        },
+        {
+            "id": 145754140,
+            "value": "Avila, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/145754140"
+        },
+        {
+            "id": 816154087,
+            "value": "Ramírez, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/816154087"
+        },
+        {
+            "id": 49219214,
+            "value": "Cano, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/49219214"
+        },
+        {
+            "id": 1761187653,
+            "value": "Calderón, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1761187653"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3709/1/78963.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 23028677
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3709/2/78963.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2320552
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3709/3/78963.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7648
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3709/1/78963.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3709/2/78963.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3709/3/78963.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3709"
+        }
+    },
+    "extent": "",
+    "page": "376 p.",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

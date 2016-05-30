@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Spectral reflectance to estimate genetic variation for in-season biomass, leaf chlorophyll, and canopy temperature in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:50Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6086,
+            "value": "canopy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1262"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8939,
+            "value": "chlorophylls",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1577"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7693,
+            "value": "biomass",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_926"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "reflectance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28538"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9351,
+            "value": "genetic variation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15975"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_2478",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2478"
+}}

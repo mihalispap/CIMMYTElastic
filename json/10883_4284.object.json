@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "MLN pathogen diagnosis, MLN-free seed production and safe exchange to non-endemic countries",
+        "lang": "eng"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2015-05-08T17:35:24Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "necrosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15509",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "viruses",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8262",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "infection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3852",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "damage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26768",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chlorotic",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sugarcane",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "streak",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Maize Lethal Necrosis (MLN) is a viral disease caused by a synergistic interaction of\r\nMaize Chlorotic Mottle Virus (MCMV) and Sugarcane Mosaic Virus (SCMV) or other\r\nviruses such as Maize Dwarf Mosaic Virus (MDMV) or Wheat Streak Mosaic Virus\r\n(WSMV). In eastern Africa, MLN has so far been reported to be caused by a combination\r\nof MCMV and SCMV infection, but MCMV and SCMV alone are also capable of causing\r\nsignificant damage. Therefore, most research efforts, including standardization of\r\ndiagnostic protocols, are focused on these two viruses (MCMV and SCMV).",
+        "lang": "eng"
+    },
+    "appid": "10883_4284",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4284"
+}}

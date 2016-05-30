@@ -1,0 +1,153 @@
+{"object": {
+    "title": {
+        "value": "Confirming quantitative trait loci for aflatoxin resistance from Mp313E in different genetic backgrounds",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8955,
+                1,
+                ""
+            ],
+            "value": "aspergillus flavus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26370",
+                "http://aims.fao.org/aos/agrovoc/c_26370",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "aflatoxin",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9403,
+                1,
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize (zea mays l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "host plant resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331556",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic background",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7485
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "aflatoxins",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8638"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        }
+    ],
+    "description": {
+        "value": "The fungus Aspergillus flavus (Link:Fr) causes ear rot of maize (Zea mays L.) and produces the toxic metabolic product aflatoxin. One particularly effective method of controlling the fungus is via host plant resistance, but while several resistant breeding lines have been identified, transferring the resistance genes from these lines into elite cultivars has been less effective than needed. A high number of genes involved with resistance, each with a small effect, and some only found under certain environmental conditions, has hampered resistance breeding. The identification of markers linked to genomic regions associated with resistance would aid in this effort. The goals of this study were to identify and characterize quantitative trait loci (QTL) conferring resistance to aflatoxin accumulation from resistant maize donor Mp313E in a background of the susceptible inbred line Va35; to compare them to the QTL identified from Mp313E in a background of B73; and to test the stability of the QTL identified in Mp313E × Va35 in multiple environments by remapping the phenotypic tails of the Mp313E × Va35 mapping population in new locations. Twenty different QTL were found in this study, 11 of which were also found in different environments using the phenotypic tail subset mapping population, and five of which were likely the same as those reported in the Mp313E × B73 mapping population. This indicates that many of the QTL are stable over the environments and genetic backgrounds tested, which will make them more valuable in breeding efforts.",
+        "lang": "eng"
+    },
+    "appid": "10883_3255",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3255"
+}}

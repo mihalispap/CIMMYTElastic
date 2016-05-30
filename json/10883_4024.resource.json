@@ -1,0 +1,158 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/3530839",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Australia",
+            "uri": [
+                "http://sws.geonames.org/2077456",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+            ]
+        }
+    ],
+    "updatedDate": "2014-05-28T17:18:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_4024",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4024"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4024"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4024",
+    "creator": [
+        {
+            "id": 553326098,
+            "value": "Meng, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/553326098"
+        },
+        {
+            "id": 1169284776,
+            "value": "Brennan, J.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1169284776"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 1102623373,
+            "value": "Science Publishers",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1102623373"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/1/93744.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1468758
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/2/license.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1748
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/3/93744.pdf.txt",
+                "label": "",
+                "type": "text/plain; charset=utf-8",
+                "size": 497324
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/4/93744.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6446
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/1/93744.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/2/license.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/3/93744.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4024/4/93744.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4024"
+        }
+    },
+    "extent": "",
+    "page": "xiv, 192 p.",
+    "coverage": [
+        "Australia",
+        "China",
+        "East Asia",
+        "Australia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-1-57808-575-0",
+    "quality": "",
+    "place": "Enfield, NH (USA)",
+    "doi": ""
+}}

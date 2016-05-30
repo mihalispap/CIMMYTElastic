@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Characterization of CIMMYT bread wheats for high- and low-molecular weight glutenin subunits and other quality-related genes with SDS-PAGE, RP-HPLC and molecular markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:27Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality parameters",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hmw-gs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lmw-gs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sds-page",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rp-hplc",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quality",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6400"
+        }
+    ],
+    "description": {
+        "value": "Two hundred and seventy-three CIMMYT bread wheat cultivars and advanced lines grown under irrigated conditions in Mexico during the 2005-06 Yaqui crop cycle were characterized for quality-related genetic traits using gene-specific markers for some high- and low-molecular-weight glutenin subunit (HMW-GS and LMW-GS) genes, polyphenol oxidase (PPO), phytoene synthase (PSY), and waxy genes. Of them, 142 were analyzed for quality parameters including SDS sedimentation volume (SDS-SV), dough mixing time, and Alveograph parameters, and for HMW-GS and LMW-GS compositions using sodium-dodecyl-sulfate polyacrylamide gel electrophoresis (SDS-PAGE), and reversed-phase high-performance liquid chromatography (RP-HPLC). For the Ppo-A1 locus tested with the marker PPO18, the frequencies of alleles Ppo-A1a and Ppo-A1b were 79.1 and 20.2%, respectively, and no PCR fragment was amplified in 2 lines (0.73%), whereas 227 lines (83.2%) contained the allele Ppo-D1a and 46 lines (16.8%) had Ppo-D1b detected by markers PPO16 and PPO29. For the marker YP7A, 142 lines (52.0%) were assumed to have the allele Psy-A1a and 131 lines (48.0%) contained the allele Psy-A1b. In the case of the marker YP7B for the gene Psy-B1, the alleles Psy-B1a and Psy-B1b were detected in 155 (56.8%) and 43 (15.8%) lines, respectively, and 75 (27.4%) lines possessed the allele Psy-B1d detected by the marker YP7B-3. All 273 lines contained the alleles Wx-A1a and Wx-D1a as determined by markers MAG264 and MAG269, respectively. Using the marker Wx-B1, 204 lines (74.7%) were presumed to have the Wx-B1a allele and 69 (25.3%) possessed Wx-B1b. The over-expressing allele of Bx7 OE and subunit By8*, not clearly seen with SDS-PAGE, were detected by RP-HPLC. The numbers of lines with subunits Ax2*, By8, By9, Bx17, Bx20, Dx5, and Glu-B3j were 90, 16, 57, 5, 46, 118, and 33, respectively, in the 142 lines analyzed with molecular markers, and were consistent with the results obtained by SDS-PAGE, except for one line with the 1A.1R translocation. Subunits Ax1 and Ax2* at the Glu-A1 locus showed significantly better effects on all quality parameters than subunit Null. Subunits 5 + 10 gave significantly better effects for all parameters. Subunit Glu-A3b showed more positive effects than its alternative alleles on SDS-SV and SDS-sedimentation volume/protein content index (SPI). The allele Glu-B3g showed the best effect on SDS-SV and Alveograph W, whereas Glu-B3j, associated with the 1B.1R translocation, exhibited a strongly negative effect on all quality parameters.",
+        "lang": "eng"
+    },
+    "appid": "10883_2718",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2718"
+}}

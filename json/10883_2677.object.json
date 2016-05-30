@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Development of an STS marker tightly linked to Yr26 against wheat stripe rust using the resistance gene-analog polymorphism (RGAP) technique",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:20Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stripe rust resistance gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance gene-analog polymorphism",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sts marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6525
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9694
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8151
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "polymorphism",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6088"
+        }
+    ],
+    "description": {
+        "value": "The gene Yr26 confers resistance to all races of Puccinia striiformis f. sp. tritici (PST), the casual pathogen of wheat stripe rust in China. Here, we report development of a molecular marker closely linked to Yr26 using a resistance gene-analog polymorphism (RGAP) technique. A total of 787 F2 plants and 165 F3 lines derived from the cross Chuanmai 42/Taichung 29 were used for linkage analysis. Eighteen near-isogenic lines (NILs) and 18 Chinese wheat cultivars and advanced lines with different genes for stripe rust resistance were employed for the validation of STS markers. A total of 1,711 RGAP primer combinations were used to test the parents and resistant and susceptible bulks. Five polymorphic RGAP markers were used for genotyping all F2 plants. Linkage analysis showed that the five RGAP markers were closely linked to Yr26 with genetic distances ranging from 0.5 to 2.9 cM. These markers were then converted into STS markers, one, CYS-5, of which was located 0.5 cM to Yr26 and was closely associated with the resistance gene when validated over 18 NILs and 18 Chinese wheat cultivars and lines. The results indicated that CYS-5 can be used in marker-assisted selection targeted at pyramiding Yr26 and other genes for stripe rust resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_2677",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2677"
+}}

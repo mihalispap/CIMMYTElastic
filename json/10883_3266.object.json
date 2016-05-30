@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Leaf senescence induced by nitrogen deficiency as indicator of genotypic differences in nitrogen efficiency in tropical maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:49Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chlorophyll",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8634,
+                0.8634,
+                0.8634,
+                0.8634,
+                0.8634,
+                0.8634,
+                1,
+                ""
+            ],
+            "value": "cultivars",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "n-uptake kinetics",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6456,
+                0.6456,
+                0.6456,
+                0.6456,
+                ""
+            ],
+            "value": "photosynthesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spad",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "senescence",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14200"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chlorophylls",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1577"
+        }
+    ],
+    "description": {
+        "value": "Nitrogen efficiency is a complex trait. Identification of secondary plant traits correlating with N efficiency would facilitate the breeding for N-efficient cultivars. Sixteen tropical maize cultivars differing in grain yield at low N supply (N efficiency) under field conditions in Zimbabwe exhibited a significant negative correlation between N efficiency and leaf senescence during grain filling. The same cultivars were studied for leaf senescence under N deficiency in a short-term nutrient-solution experiment. Leaf chlorophyll contents as estimated by SPAD values and photosynthesis rates were used as measures for leaf senescence. Cultivars differed both in SPAD values and photosynthesis rates of the older leaves during N deprivation. Significant negative correlations were found between SPAD values, photosynthesis rates in the nutrient-solution experiment, and leaf-senescence scores in the field experiments, and positive correlations were found between photosynthesis rates and grain yield under low-N conditions in the field. Relationships between physiological root parameters, which were also investigated in the nutrient-solution experiment, and N uptake or grain yield of the cultivars in the field could not be established. It is concluded, that the assessment of the capacity of a genotype to maintain a higher photosynthetic capacity of older leaves during N deficiency?induced senescence at the seedling stage is a suitable selection parameter for the N efficiency of tropical maize cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_3266",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3266"
+}}

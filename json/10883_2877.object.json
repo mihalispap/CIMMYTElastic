@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Alternative splicing in the coding region of Ppo-A1 directly influences the polyphenol oxidase activity in common wheat (Triticum aestivum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:48Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "alternative splicing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nonsense-mediated mrna decay",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "premature termination codon",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ppo gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8356
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "polyphenol oxidase",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29496"
+        }
+    ],
+    "description": {
+        "value": "Polyphenol oxidase (PPO) plays a crucial role in browning reactions in fresh and processed fruits and vegetables, as well as products made from cereal grains. Common wheat (Triticum aestivum L.) has a large genome, representing an interesting system to advance our understanding of plant PPO gene expression, regulation and function. In the present study, we characterized the expression of Ppo-A1, a major PPO gene located on wheat chromosome 2A, using DNA sequencing, semi-quantitative RT-PCR, PPO activity assays and whole-grain staining methods during grain development. The results indicated that the expression of the Ppo-A1b allele was regulated by alternative splicing of pre-mRNAs, resulting from a 191-bp insertion in intron 1 and one C/G SNP in exon 2. Eight mRNA isoforms were identified in developing grains based on alignments between cDNA and genomic DNA sequences. Only the constitutively spliced isoform b encodes a putative full-length PPO protein based on its coding sequence whereas the other seven spliced isoforms, a, c, d, e, f, g and h, have premature termination codons resulting in potential nonsense-mediated mRNA decay. The differences in expression of Ppo-A1a and Ppo-A1b were confirmed by PPO activity assays and whole grain staining, providing direct evidence for the influence of alternative splicing in the coding region of Ppo-A1 on polyphenol oxidase activity in common wheat grains.",
+        "lang": "eng"
+    },
+    "appid": "10883_2877",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2877"
+}}

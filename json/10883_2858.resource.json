@@ -1,0 +1,166 @@
+{"resource": {
+    "citation": "",
+    "issn": "1896-0782",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Egypt",
+            "uri": [
+                "http://sws.geonames.org/357994",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Egypt"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ukraine",
+            "uri": [
+                "http://sws.geonames.org/690791",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ukraine"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2858",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2858"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2858"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2858",
+    "creator": [
+        {
+            "id": 435835173,
+            "value": "Basnet, B.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/435835173"
+        },
+        {
+            "id": 2009680863,
+            "value": "Ali, M.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2009680863"
+        },
+        {
+            "id": 262250612,
+            "value": "Ibrahim, A.M.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/262250612"
+        },
+        {
+            "id": 96867704,
+            "value": "Payne, T.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/96867704"
+        },
+        {
+            "id": 499197679,
+            "value": "Mosaad, M.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/499197679"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2858/1/95611.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1841626
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2858/2/95611.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54778
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2858/3/95611.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5597
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2858/1/95611.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2858/2/95611.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2858/3/95611.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2858"
+        }
+    },
+    "extent": "",
+    "page": "31-47",
+    "coverage": [
+        "Egypt",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

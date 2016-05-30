@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping for important quality traits in common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:16Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "common wheat (triticum aestivum l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "protein content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6251",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixing time",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "eight minute width",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "peak viscosity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breakdown",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "(Objective): QTL for wheat processing quality traits and their linked molecular markers are to be identified for wheat quality improvement with marker-assisted selection. (Method) In the present study, a total of 240 F5:6 lines from the cross PH82-2/Neixiang 188 were planted in a Latinized alpha-lattice design in Jiaozuo and Anyang of Henan Province and Taian of Shandong Province, respectively. Grain protein contents, Zeleny sedimentation value, Mixograph and RVA parameters were evaluated. A genetic map was constructed based on 188 SSRs and four protein markers. QTL analysis was conducted with the software QTL Cartographer 2.5. (Result): Three QTLs were detected for kernel protein content on chromosomes 3A and 3B. Three QTLs were found for Zeleny sedimentation value on chromosomes 1B, 1D and 3B, in which the QTLs on chromosome 1B and 1D were detected across three environments, explaining 5.5%-17.6% of phenotypic variance. Three QTLs for mixing time were mapped on chromosomes 1B and 1D across three environments, accounting for 7.9%-55.3% of phenotypic variance. Five QTLs were detected for eight minute width on chromosomes 1B, 1D and 4B. Besides, two QTLs on chromosome 1B were found both in Taian and Anyang, accounting for 5.2%-18.6% of phenotypic variance. Four QTLs for peak viscosity were detected on chromosomes 1A, 1B, 3A and 7B. Five QTLs for breakdown were found on chromosomes 1B, 4A, 5B, 6B and 7A. The QTLs controlling Zeleny sedimentation value, mixing time, eight minute width, peak viscosity and breakdown were mapping on the same region of chromosome 1B, with genetic distances of 0.1-0.8 cM from the nearest marker Glu-B3j, indicating the big influences of 1BL/1RS translocation on these traits. In addition, on chromosome 1D, one QTL was found to control the Zeleny sedimentation value, mixing time and eight minute width, with genetic distances of 2.5-3.3 cM from the nearest marker Dx5+Dy10, exhibiting a great effect of HMW glutenin subunits Dx5+Dy10 on these traits. The QTLs for mixing time and breakdown on chromosome 1B, and the one for eight minute width on chromosome 1D were detected across three environments, with stable effects on the traits. (Conclusion): The identified molecular markers related to the quality traits in this study will benefit for marker-assisted selection in breeding programs",
+        "lang": "eng"
+    },
+    "appid": "10883_2649",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2649"
+}}

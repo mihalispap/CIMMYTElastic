@@ -1,0 +1,162 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:59:54Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3439",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3439"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3439"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3439",
+    "creator": [
+        {
+            "id": 1320973893,
+            "value": "Dawson, J.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1320973893"
+        },
+        {
+            "id": 1324598980,
+            "value": "Endelman, J.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1324598980"
+        },
+        {
+            "id": 221193937,
+            "value": "Heslot, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/221193937"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1076207906,
+            "value": "Poland, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1076207906"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 1654088401,
+            "value": "Manes, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1654088401"
+        },
+        {
+            "id": 837505512,
+            "value": "Sorrells, M.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/837505512"
+        },
+        {
+            "id": 900892004,
+            "value": "Jean-Luc Jannink",
+            "type": "person",
+            "uri": "/cimmyt/person/900892004"
+        }
+    ],
+    "publisher": {
+        "id": 1807778392,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429013002645",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1807778392"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3439/1/98563.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 71902
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3439/4/98563.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5445
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3439/5/98563.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1253097
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3439/1/98563.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3439/4/98563.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3439/5/98563.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3439"
+        }
+    },
+    "extent": "",
+    "page": "22-Dec",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

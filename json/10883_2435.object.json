@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "Adapting wheat cultivars to resource conserving farming practices and human nutritional needs",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water use",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16065",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "conservation tillage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_33445",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "human nutrition",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27933",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6223,
+            "value": "foliar diseases",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25240"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6373
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9188
+            ],
+            "value": "nutritional value",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5278"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "As farmers increasingly adopt resource conserving farming practices, there is a need for wheat cultivars that better adapt to the changing environment and the nutritional needs of people, particularly those living in developing countries. Improved adaptation to zero and minimum tillage, better water use effi ciency, improved root health, durable resistance to foliar diseases and enhanced nutritional value of the grain are key selection criteria for plant breeders. Signifi cant responses to selection for these constraints have been achieved at the International Maize and Wheat Improvement Center (CIMMYT), by selecting segregating populations and advanced lines in carefully managed tillage, moisture defi cit and heat stressed environments, that correlate with key spring wheat growing environments globally. Root health has been improved through a combination of marker assisted selection and disease bioassays, and the nutritional value of wheat grain has been enhanced using genetic variation for high Fe and Zn grain content found among tetraploid wheat ancestral species.",
+        "lang": "eng"
+    },
+    "appid": "10883_2435",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2435"
+}}

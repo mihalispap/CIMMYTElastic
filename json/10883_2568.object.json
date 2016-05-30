@@ -1,0 +1,138 @@
+{"object": {
+    "title": {
+        "value": "Regional trial results show wheat yield declining in the eastern Gangetic plains of south Asia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:03Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "eastern gangetic plains (egp)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spot blotch",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield trend",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8752
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "blotches",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_973"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9123,
+            "value": "cochliobolus sativus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34517"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "plains",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5948"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "trends",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24911"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9406,
+            "value": "south asia",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29172"
+        }
+    ],
+    "description": {
+        "value": "A study was undertaken at 9 to 11 sites in seven years (2000-2006) in the Eastern Gangetic Plains (EGP) to examine yield trend through optimum managed wheat crop in the region using 21 experimental lines and four checks (Bhrikuti, PBW343, Kanchan and Sonalika). Data on grain yield, 1000-kernel weight (TKW), spot blotch severity, maturity and plant height were analyzed. Trend analysis revealed decreasing trend in grain yield and TKW. Spot blotch (Cochliobolus sativus) severity has increased over this period. Results indicate an effect of spot blotch severity on the reductions in grain yield and TKW. These findings have direct implications for developing strategies to improve wheat yields in the EGP region.",
+        "lang": "eng"
+    },
+    "appid": "10883_2568",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2568"
+}}

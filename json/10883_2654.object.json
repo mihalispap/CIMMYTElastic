@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Response to two cycles of divergent selection for grain yield under drought stress in four rice breeding populations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "response to selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7452"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "divergent selection",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34366"
+        }
+    ],
+    "description": {
+        "value": "Drought is a major production constraint in rainfed rice (Oryza sativa L.). Lack of effective selection criteria is a major limitation hampering progress in breeding for drought tolerance. In an earlier report, we showed in two populations that one cycle of direct selection was effective in increasing grain yield under stress. In the present study, we retested the efficiency of direct selection for grain yield under drought stress in rice using four populations derived from crossing upland-adapted, drought-tolerant varieties (Apo, Vandana) to high-yielding, lowland-adapted, drought-susceptible varieties (IR64, IR72). Each population was subjected to two cycles of divergent selection either under drought stress in upland or under nonstress conditions in lowland conditions. Following selection, approximately 40 high-yielding lines selected under each protocol from each population, along with a set of unselected lines, were evaluated in a series of selection response trials over a range of moisture levels. Significant response to direct selection under stress was realized in 9 out of 15 combinations of populations and stress environments, and in 6 of the 7 severe stress trials. Averaging over all the populations and stress environments, the stress-selected lines had a yield advantage of 25 and 37% over nonstress-selected and random lines, respectively. In contrast to this, under nonstress, the nonstress-selected lines had an average yield advantage of only 7 and 13% over stress-selected and random lines, respectively. Direct selection in managed stress trials during dry seasons gave significant response (25% on average relative to indirect selection in nonstress conditions) under naturally occurring wet season stress. In addition, direct selection under stress in upland gave an average gain of 16 and 45% over nonstress-selected and random lines, respectively, under stress in lowland. The yield advantage of the stress-selected lines appears to result mainly from maintenance of higher harvest index. These results show that direct selection for grain yield under stress is effective and does not reduce yield potential. Overall, this is the first report in rice demonstrating that (a) selection under managed drought stress in the dry season can result in yield gains under natural stress in the wet season, and (b) that selection under upland drought stress can, at least under the conditions of the present study, result in gains under lowland drought conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_2654",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2654"
+}}

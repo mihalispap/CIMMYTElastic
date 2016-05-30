@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping for adult-plant resistance to stripe rust in wheat cultivar Chuanmai 107",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7899
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6316
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6691,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "The aim of this study was to identify adult-plant resistance gene to stripe rust in wheat cultivar Chuanmai 107 and the closely linked molecular markers, for breeding wheat cultivars with durable resistance. ¡¾Method¡¿ A recombinant inbred line (RIL) population with 148 F5 lines generated from the cross between Chuanmai 107 and Avocet-YrA (highly susceptible) were planted, together with their parents, in Chengdu and Ya¡¯an, China and Toluca, Mexico during 2006 and 2007 cropping seasons for evaluating disease severities. A total of 940 SSR markers were used to screen two parents and the resistant and susceptible bulks, and subsequently the polymorphic SSRs between two bulks were used for QTL mapping based on composite interval mapping method. ¡¾Result¡¿ A major QTL for adult-plant resistance to stripe rust was mapped on chromosome 1BL in the marker interval of Xcwem32¨CXgwm818 with genetic distance of 3.9 cM. The QTL was tentatively designated QYr.saas-1BL. It presented resistance to yellow rust resistance in all the three environments and explained 19.3%, 16.9%, and 27.4% of phenotypic variation at Toluca, Chengdu, and Ya¡¯an, respectively. ¡¾Conclusion¡¿ This major QTL is considered as a non-race-specific resistance locus in Chuanmai 107.",
+        "lang": "eng"
+    },
+    "appid": "10883_2764",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2764"
+}}

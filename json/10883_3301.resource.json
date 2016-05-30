@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "0733-5210",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-25T02:37:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3301",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3301"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3301"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3301",
+    "creator": [
+        {
+            "id": 1615409046,
+            "value": "Lan Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1615409046"
+        },
+        {
+            "id": 369787768,
+            "value": "Yang Yao",
+            "type": "person",
+            "uri": "/cimmyt/person/369787768"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        },
+        {
+            "id": 1457558776,
+            "value": "Desen Wang",
+            "type": "person",
+            "uri": "/cimmyt/person/1457558776"
+        },
+        {
+            "id": 1957607420,
+            "value": "Aihua Liu",
+            "type": "person",
+            "uri": "/cimmyt/person/1957607420"
+        },
+        {
+            "id": 1582803931,
+            "value": "Yong Zhang",
+            "type": "person",
+            "uri": "/cimmyt/person/1582803931"
+        }
+    ],
+    "publisher": {
+        "id": 743984362,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0733521012002172",
+        "type": "organization",
+        "uri": "/cimmyt/organization/743984362"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3301/1/98013.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 37149
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3301/2/98013.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6286
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3301/3/98013.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 131461
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3301/1/98013.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3301/2/98013.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3301/3/98013.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3301"
+        }
+    },
+    "extent": "",
+    "page": "67-72",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

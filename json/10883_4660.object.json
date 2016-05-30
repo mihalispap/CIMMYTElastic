@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Maize variety options for Africa: Uganda",
+        "lang": "eng"
+    },
+    "updated": "2016-02-22T17:38:53Z",
+    "created": "2016-01-15T22:47:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "ears",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2436"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6573,
+            "value": "measuring",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4668"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.948,
+            "value": "uganda",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8038"
+        }
+    ],
+    "description": {
+        "value": "Extension official  measuring ear size  of longe 10H with her arm, Nalweyo, Kibale district.",
+        "lang": "eng"
+    },
+    "appid": "10883_4660",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4660"
+}}

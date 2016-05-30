@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Allelic variants at the TaZds-D1 locus on wheat chromosome 2DL and their association with yellow pigment content",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6389,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6456,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8712,
+            "value": "pigments",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5875"
+        }
+    ],
+    "description": {
+        "value": "Zeta (æ)-carotene desaturase (ZDS) is a key enzyme in the carotenoid biosynthetic pathway, which determines the yellow pigment (YP) content in wheat (Triticum aestivum L.) grains. In the present study, the full-length DNA sequence of a ZDS gene on wheat chromosome 2DL, designated TaZds-D1, was characterized. The TaZds-D1 gene has an open reading frame of 1707 bp, including 13 introns and 14 exons, and a deduced peptide containing 568 amino acid residues with a predicted molecular weight of 62.5 kDa. The TaZds-D1 gene was located on chromosome 2DL based on polymerase chain reaction amplifications of Chinese Spring nullisomic-tetrasomic lines, Langdon?Chinese Spring D-genome chromosome disomic substitution lines, and Rusty D-genome chromosome disomic substitution lines as well as linkage analysis. Two allelic variants, TaZds-D1a and TaZds-D1b, were detected in Chinese wheat cultivars, and a functional marker, YP2D-1, was developed based on the sequence polymorphism between TaZds-D1a and TaZds-D1b. A major quantitative trait locus, located at the TaZds-D1 region in the marker interval of YP2D-1 and Xgwm157 on chromosome 2DL, explained 18.4% of the phenotypic variance for YP content in a doubled haploid population derived from the cross Zhongyou 9507/CA 9632. This confirmed the association between allelic variation at the TaZds-D1 locus and YP content.",
+        "lang": "eng"
+    },
+    "appid": "10883_2875",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2875"
+}}

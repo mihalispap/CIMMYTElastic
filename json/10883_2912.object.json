@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Functional markers in wheat: current status and future prospects",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6947
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8282
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6229
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24030"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Functional markers (FM) are developed from sequence polymorphisms present in allelic variants of a functional gene at a locus. FMs accurately discriminate alleles of a targeted gene, and are ideal molecular markers for marker-assisted selection in wheat breeding. In this paper, we summarize FMs developed and used in common wheat. To date, more than 30 wheat loci associated with processing quality, agronomic traits, and disease resistance, have been cloned, and 97 FMs were developed to identify 93 alleles based on the sequences of those genes. A general approach is described for isolation of wheat genes and development of FMs based on in silico cloning and comparative genomics. The divergence of DNA sequences of different alleles that affect gene function is summarized. In addition, 14 molecular markers specific for alien genes introduced from common wheat relatives were also described. This paper provides updated information on all FMs and gene-specific STS markers developed so far in wheat and should facilitate their application in wheat breeding programs.",
+        "lang": "eng"
+    },
+    "appid": "10883_2912",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2912"
+}}

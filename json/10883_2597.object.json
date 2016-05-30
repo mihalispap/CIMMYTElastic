@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "QTL analysis of resistance to Fusarium head blight in the novel wheat germplasm CJ 9306. I. Resistance to fungal spread",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:07Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "fusarium",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3156"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9748,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7081,
+            "value": "blight",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_957"
+        }
+    ],
+    "description": {
+        "value": "Fusarium head blight (FHB or scab) caused by Fusarium species is a destructive disease in wheat and barley worldwide. The objectives of our study were to identify quantitative trait loci (QTLs) for resistance to FHB spread (Type II resistance) and to quantify the magnitude of their effects in a novel highly resistant wheat germplasm, CJ 9306. A set of 152 F7 recombinant inbred lines (RILs) derived from a cross Veery/CJ 9306 and two parents were evaluated for FHB resistance by single-floret inoculation in three greenhouse experiments in 2002 and 2004. Percentage (PSS) and number (NSS) of scabby spikelets at 25 days post-inoculation were analyzed. In total 682 simple sequence repeat (SSR) markers were screened for polymorphism between the two parents, and a genetic linkage map was constructed with 208 polymorphic markers. Ten QTLs associated with FHB resistance were detected, five from CJ 9306 and five from Veery. The major QTL on 3BS (QFhs.ndsu&ndash;3BS) was validated in CJ 9306, exhibiting greatest additive effects and explained 30.7% of phenotypic variation for PSS on the overall average of three experiments. Another major QTL on 2DL (QFhs.nau&ndash;2DL) from CJ 9306 explained 9.9&ndash;28.4% of phenotypic variation, with a significant QTL × environment interaction. QFhs.nau&ndash;1AS and QFhs.nau-7BS showed lower additive effects and explained lower variance (4.5&ndash;9.5%). A QTL on 5AS, decreasing PSS by 10.3% on average, was validated by simple marker analysis and joint trait/experiment IM/CIM analysis despite insignificance for single-experiment IM and CIM analyses. Likewise, QFhs.nau-2BL and QFhs.nau-1BC from Veery could reduce PSS by 13.2 and 11.4%, respectively. The effects of other three minor QTLs from Veery were significant for one experiment and combined analysis. Comparisons of two- and three-locus combinations suggested that the effects of FHB resistance QTLs/genes could be accumulated, and the resistance could be feasibly enhanced by selection of favorable alleles for multiple loci. Four two-locus combinations and two three-locus combinations were suggested as the preferential choices in practical marker-assisted selection program.",
+        "lang": "eng"
+    },
+    "appid": "10883_2597",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2597"
+}}

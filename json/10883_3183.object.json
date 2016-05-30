@@ -1,0 +1,162 @@
+{"object": {
+    "title": {
+        "value": "Phenotypic and genotypic variation in tropical maize inbred lines for resistance to the maize weevil and larger grain borer",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:47Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "postharvest insect pests",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7684,
+                1,
+                ""
+            ],
+            "value": "prostephanus truncatus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30002",
+                "http://aims.fao.org/aos/agrovoc/c_30002",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8668,
+                1,
+                ""
+            ],
+            "value": "sitophilus zeamais",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "host-plant resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6536
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7822
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7426
+            ],
+            "value": "insect pests",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5729"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8807
+            ],
+            "value": "weevils",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_30063"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heritability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3570"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hosts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3673"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "The maize weevil (Sitophilus zeamais) and larger grain borer (Prostephanus truncatus) are economicallyimportant postharvest insect pests that cause severe losses in stored grain. The use of host-plant resistance is the most effective and benign way of overcoming storage-pest damage. The objectives of this study were to estimate heritability and to identify maize inbred lines with dual resistance to weevil and larger grain borer (LGB). One hundred and twenty (120) inbred lines were evaluated in the field for adaptation and tested in the laboratory for resistance to the LGB and weevil. Insect-damage parameters namely grain damage, weight loss, flour weight and number of insects, were measured. Heritability, genotypic and phenotypic variances for the damage traits were determined. Genotype stability for insect pest resistance was determined based on genotypic variance and coefficient of variation (CVi) for each genotype. There were significant differences (P<0.001) among the lines for all the traits measured. Heritability values were high (ranging from 0.7-0.9) in all the traits, and the genotypic variance was higher (ranging from 0.012-0.04) than the environmental variances (0.007-0.033) for all the traits. Dual resistance and stability were observed in CKSPL10028, CKSPL10035, CKSPL10088, CKSPL10021, CKSPL10042, CKSPL10295 and CKSPL10112.",
+        "lang": "eng"
+    },
+    "appid": "10883_3183",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3183"
+}}

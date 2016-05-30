@@ -126,17 +126,14 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
                 1,
-                0.6424,
                 ""
             ],
             "value": "zimbabwe",
             "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_8516",
                 "http://aims.fao.org/aos/agrovoc/c_8516",
                 ""
             ]
@@ -146,12 +143,6 @@
             "score": 1,
             "value": "smallholders",
             "uri": "http://aims.fao.org/aos/agrovoc/c_14343"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6605,
-            "value": "maize",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
         }
     ],
     "description": {

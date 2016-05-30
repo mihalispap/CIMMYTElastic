@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-21T22:00:26Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_2976",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Dataset",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2976"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2976"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2976",
+    "creator": {
+        "id": 1922443943,
+        "value": "Crossa, J.",
+        "type": "person",
+        "uri": "/cimmyt/person/1922443943"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/7/R+and+Java+scripts.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 46580
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/1/Maize-Flowering.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 42306502
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/2/Maize-Gray+Leaf+Spot.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 39268163
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/3/Maize-Yield.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 11785167
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/4/Wheat-Stem+Rust.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 263669
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/5/Wheat-Yellow+Rust.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 223183
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/6/Wheat-Yield.zip",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 714005
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/7/R+and+Java+scripts.zip"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/1/Maize-Flowering.zip"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/2/Maize-Gray+Leaf+Spot.zip"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/3/Maize-Yield.zip"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/4/Wheat-Stem+Rust.zip"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/5/Wheat-Yellow+Rust.zip"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2976/6/Wheat-Yield.zip"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2976"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1435-0653",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:59:53Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3437",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3437"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3437"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3437",
+    "creator": [
+        {
+            "id": 2065860418,
+            "value": "Suwarno, W.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2065860418"
+        },
+        {
+            "id": 767522288,
+            "value": "Pixley, K.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/767522288"
+        },
+        {
+            "id": 1516184394,
+            "value": "Palacios-Rojas, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1516184394"
+        },
+        {
+            "id": 48234310,
+            "value": "Kaeppler, S.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/48234310"
+        },
+        {
+            "id": 2130038142,
+            "value": "Babu, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/2130038142"
+        }
+    ],
+    "publisher": {
+        "id": 742481174,
+        "value": "https://www.crops.org/publications/cs/pdfs/54/1/14",
+        "type": "organization",
+        "uri": "/cimmyt/organization/742481174"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3437/1/98081.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 53012
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3437/4/98081.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 20002
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3437/5/98081.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1393413
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3437/1/98081.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3437/4/98081.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3437/5/98081.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3437"
+        }
+    },
+    "extent": "",
+    "page": "14-24",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

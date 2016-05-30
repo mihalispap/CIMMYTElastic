@@ -7,6 +7,12 @@
     "created": "2013-06-07T21:02:42Z",
     "subject": [
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -25,14 +31,7 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "crops",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
-        },
-        {
             "vocabulary": [
-                "",
                 "",
                 "",
                 "",
@@ -42,12 +41,10 @@
                 "",
                 "",
                 "",
-                "",
                 0.6781
             ],
             "value": "ontology",
             "uri": [
-                "",
                 "",
                 "",
                 "",

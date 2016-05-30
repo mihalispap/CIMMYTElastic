@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Results of the first International Scab Resistance Screening Nursery (SRSN) 1985-86",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:06Z",
+    "created": "2014-03-13T01:09:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "scabs",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6836",
+                "http://aims.fao.org/aos/agrovoc/c_6836",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "septoria",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3907",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3907"
+}}

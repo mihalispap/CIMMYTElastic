@@ -7,6 +7,30 @@
     "created": "2013-06-07T21:02:50Z",
     "subject": [
         {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6184
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6272,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        },
+        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "genotypes",

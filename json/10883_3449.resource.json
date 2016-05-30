@@ -1,0 +1,216 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Africa",
+            "uri": [
+                "http://sws.geonames.org/6255146",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/6255148",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-05T17:59:58Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3449",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3449"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3449"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3449",
+    "creator": [
+        {
+            "id": 161258849,
+            "value": "Bao-Lam Huynh",
+            "type": "person",
+            "uri": "/cimmyt/person/161258849"
+        },
+        {
+            "id": 645807178,
+            "value": "Close, T.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/645807178"
+        },
+        {
+            "id": 1164998704,
+            "value": "Roberts, P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1164998704"
+        },
+        {
+            "id": 859274901,
+            "value": "Zhiqiu Hu",
+            "type": "person",
+            "uri": "/cimmyt/person/859274901"
+        },
+        {
+            "id": 816577674,
+            "value": "Wanamaker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/816577674"
+        },
+        {
+            "id": 1666763939,
+            "value": "Lucas, M.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1666763939"
+        },
+        {
+            "id": 443514445,
+            "value": "Chiulele, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/443514445"
+        },
+        {
+            "id": 158193069,
+            "value": "Cisse, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/158193069"
+        },
+        {
+            "id": 647932715,
+            "value": "David, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/647932715"
+        },
+        {
+            "id": 539435916,
+            "value": "Hearne, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/539435916"
+        },
+        {
+            "id": 1778769325,
+            "value": "Fatokun, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1778769325"
+        },
+        {
+            "id": 804014970,
+            "value": "Diop, N.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/804014970"
+        },
+        {
+            "id": 1886573311,
+            "value": "Ehlers, J.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1886573311"
+        }
+    ],
+    "publisher": {
+        "id": 261613185,
+        "value": "https://www.crops.org/publications/tpg/abstracts/6/3/plantgenome2013.03.0005",
+        "type": "organization",
+        "uri": "/cimmyt/organization/261613185"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3449/1/98721.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36029
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3449/4/98721.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5707
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3449/5/98721.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 2094798
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3449/1/98721.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3449/4/98721.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3449/5/98721.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3449"
+        }
+    },
+    "extent": "",
+    "page": "8-Jan",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

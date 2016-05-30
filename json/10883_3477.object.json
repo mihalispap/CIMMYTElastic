@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Genetic diversity of microsatellite alleles located at quantitative resistance loci for Ascochyta blight resistance in a global collection of chickpea germplasm",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:36Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "ascochyta rabiei",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34509",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "c. arietinum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chickpea",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6575
+            ],
+            "value": "ascochyta",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_660"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6575
+            ],
+            "value": "pathotypes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24059"
+            ]
+        }
+    ],
+    "description": {
+        "value": "A global collection of 43 chickpea (Cicer arietinum L.) genotypes, resistant and susceptible to Ascochyta blight caused by Ascochyta rabiei was evaluated for the disease under controlled conditions. In this study three known pathotypes (P-I, P-II, and P-III) were used to evaluate the reactions of this collection. the chickpea genotypes were also characterized using 14 microsatellite markers flanking the genomic regions associated with Ascochyta blight resistance quantitative trait loci (QTLs). Phenotyping results indicated that 27 genotypes were re- sistant to P-I, 14 to P-II, and five to P-III, revealing the possible erosion of resistance through the evolution of virulent pathogen pathotypes. the genetic diversity analysis revealed 67 alleles at 14 microsatellite loci with an average of 4.8 alleles per locus among the genotypes tested. Genetic similarity estimates differentiated four subclusters (A, B, C, and D) of the genotypes. However, none of sub-clusters were separated into resistant genotypes for a specific pathotype. The genetic diversity ranged from 0.48 to 0.80 which indicated that there is considerable variation in QTL regions associated with Ascochyta blight resistance among the collections of chickpea genotypes studied, as assessed using the hyper-variable microsatellite markers.",
+        "lang": "eng"
+    },
+    "appid": "10883_3477",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3477"
+}}

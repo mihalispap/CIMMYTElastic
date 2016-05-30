@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1994-7879",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Spain",
+        "uri": [
+            "http://sws.geonames.org/2510769",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Spain"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:47Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2872",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2872"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2872"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2872",
+    "creator": [
+        {
+            "id": 2092231213,
+            "value": "Velu, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2092231213"
+        },
+        {
+            "id": 1970557155,
+            "value": "Ortiz-Monasterio,I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1970557155"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        },
+        {
+            "id": 96867704,
+            "value": "Payne, T.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/96867704"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2872/1/96001.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 351268
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2872/2/96001.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 221
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2872/3/96001.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5986
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2872/1/96001.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2872/2/96001.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2872/3/96001.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2872"
+        }
+    },
+    "extent": "",
+    "page": "43-48",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

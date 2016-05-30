@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Cloning and characterization of a putative GS3 ortholog involved in maize kernel development",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:36Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cloning",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15952"
+        }
+    ],
+    "description": {
+        "value": "The GS3 gene was the first identified gene controlling the grain size in rice. It has been proven to be involved in the evolution of grain size during domestication. We isolated the maize ortholog, ZmGS3 and investigated its role in the evolution of maize grain size. ZmGS3 has five exons encoding a protein with 198 amino acids, and has domains in common with the rice GS3 protein. Compared with teosinte, maize has reduced nucleotide diversity at ZmGS3, and the reduction is comparable to that found in neutrally evolving maize genes. No positive selection was detected along the length of the gene using either the Hudson-Kreitman-Aguadé or Tajima's D tests. Phylogenetic analysis reveals a distribution of maize sequences among two different clades, with one clade including related teosinte sequences. The nucleotide polymorphism analysis, selection test and phylogenetic analysis reveal that ZmGS3 has not been subjected to selection, and appears to be a neutrally evolving gene. In maize, ZmGS3 is primarily expressed in immature ears and kernels, implying a role in maize kernel development. Association mapping analysis revealed one polymorphism in the fifth exon that is significantly associated with kernel length in two environments. Also one polymorphism in the promoter region was found to affect hundred kernel weight in both environments. Collectively, these results imply that ZmGS3 is involved in maize kernel development but with different functional polymorphisms and thus, possibly different mechanisms from that of the rice GS3 gene.",
+        "lang": "eng"
+    },
+    "appid": "10883_3093",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3093"
+}}

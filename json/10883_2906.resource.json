@@ -1,0 +1,142 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "North America",
+        "uri": [
+            "http://sws.geonames.org/NA",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:12:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2906",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2906"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2906"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2906",
+    "creator": [
+        {
+            "id": 1874713873,
+            "value": "Geng, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1874713873"
+        },
+        {
+            "id": 794803441,
+            "value": "Beecher, B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/794803441"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        },
+        {
+            "id": 2004287864,
+            "value": "Kiszonas, A.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2004287864"
+        },
+        {
+            "id": 1518692563,
+            "value": "Morris, C.F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1518692563"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2906/1/96708.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 373943
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2906/2/96708.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 48639
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2906/3/96708.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5800
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2906/1/96708.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2906/2/96708.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2906/3/96708.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2906"
+        }
+    },
+    "extent": "",
+    "page": "1259-1269",
+    "coverage": [
+        "USA",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

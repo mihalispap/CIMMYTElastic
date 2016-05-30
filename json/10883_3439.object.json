@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "The use of unbalanced historical data for genomic selection in an international wheat breeding program",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T17:59:54Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype-by-environment interaction wheat breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "unbalanced data",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mega-environments",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "genomics",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92382"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6701
+            ],
+            "value": "prediction",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3041"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "data",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49816"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        }
+    ],
+    "description": {
+        "value": "Genomic selection (GS) offers breeders the possibility of using historic data and unbalanced breeding trials to form training populations for predicting the performance of new lines. However, when using datasets that are unbalanced over time and space, there is increasing exposure to different genotype  environment combinations and interactions that may make predictions less accurate. Global cross-validated genomic prediction accuracies may be high when using large historic datasets but accuracies for individual years using a forward-prediction approach, or accuracies for individual locations, are often much lower. The objective of this study was to evaluate the overall accuracy of genomic predictions for untested genotypes using an unbalanced dataset to train a genomic selection model, and to explore ways of combining genomic selection and genotype-by-environment (G×E) interaction models to better target untested lines to different locations. Using the International Center for Maize and Wheat Improvement's (CIMMYT) Semi-Arid Wheat Yield Trials (SAWYT) we assessed the accuracy of genomic predictions and the potential to subset these nurseries using the concept of mega-environments (ME) adapted to a genomic selection context. We found that there was no difference in accuracy between models accounting for G×E interactions and global models. Data-driven methods of clustering locations based on similarities in genomic predictions also failed to improve accuracies within clusters. Using a simulation based on the empirical SAWYT data, we found that if there were different true genotypic values between clusters, there was an advantage to modeling G×E in prediction models. In the SAWYT dataset it appears that there is not a consistent pattern of genotype-by-environment interaction among the ME, and this dataset is not balanced enough to partition into new clusters that have predictive power.",
+        "lang": "eng"
+    },
+    "appid": "10883_3439",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3439"
+}}

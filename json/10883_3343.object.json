@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "Potential impacts of increasing average yields and reducing maize yield variability in africa",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-12-09T20:30:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "africa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6048,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "technology adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "poverty",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6151",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7164
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "technology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7644"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        }
+    ],
+    "description": {
+        "value": "This study evaluates the potential impacts of investing in Drought Tolerant Maize (DTM) in 13 countries of East, South and West Africa. The analysis utilizes geo-referenced production data at the regional and household levels and employs a model that estimates both the conventional mean yield gains and the additional benefits from yield stability gains of DTM varieties as well as impacts on poverty. The results indicate that by 2016, adoption of DTM can generate between US$ 362 million and US$ 590 million in cumulative benefits to both producers and consumers. Yield variance reductions stand to generate considerable benefits, especially in high drought risk areas. These benefits translate into poverty reductions in the range of 0.01?4.29% by 2016. Significant benefits are also found among different types of households living in drought risk areas of Kenya, Ethiopia and Nigeria.",
+        "lang": "eng"
+    },
+    "appid": "10883_3343",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3343"
+}}

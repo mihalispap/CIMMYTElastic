@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Genetic prediction of complex traits: integrating infinitesimal and marked genetic effects",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-11-24T18:05:37Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic prediction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "snp",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mendelian sampling",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6389
+            ],
+            "value": "segregation",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6947"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.676
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        }
+    ],
+    "description": {
+        "value": "Genetic prediction for complex traits is usually based on models including individual (infinitesimal) or marker effects. Here, we concentrate on models including both the individual and the marker effects. In particular, we develop a ?Mendelian segregation? model combining infinitesimal effects for base individuals and realized Mendelian sampling in descendants described by the available DNA data. The model is illustrated with an example and the analyses of a public simulated data file. Further, the potential contribution of such models is assessed by simulation. Accuracy, measured as the correlation between true (simulated) and predicted genetic values, was similar for all models compared under different genetic backgrounds. As expected, the segregation model is worthwhile when markers capture a low fraction of total genetic variance.",
+        "lang": "eng"
+    },
+    "appid": "10883_3244",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3244"
+}}

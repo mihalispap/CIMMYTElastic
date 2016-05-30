@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Effect of climate change and variety on long-term variation of grain yield and quality in winter wheat in Kazakhstan",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:31Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8443,
+                0.8443,
+                0.8443,
+                1,
+                1,
+                ""
+            ],
+            "value": "winter wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8412",
+                "http://aims.fao.org/aos/agrovoc/c_8412",
+                "http://aims.fao.org/aos/agrovoc/c_8412",
+                "http://aims.fao.org/aos/agrovoc/c_8412",
+                "http://aims.fao.org/aos/agrovoc/c_8412",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6573,
+                0.6573,
+                0.6573,
+                0.6573,
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bread-making quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1071"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6194,
+            "value": "climate change",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1666"
+        }
+    ],
+    "description": {
+        "value": "Winter wheat yield in three administrative regions of Kazakhstan (Almaty, South Kazakhstan, and Zhambyl) was analyzed during 1972-2009. Yield gains were greatest during 2000?2009, but absolute yields remain low (1.5-1.7 t/ha) and much below the production potential. Changes in important weather parameters over the same time period were also analyzed. Results indicated significant (15-20%) warming in winter and spring, as well as some increase in precipitation (spring and annual), especially in the last ten years. Increased temperatures in winter and precipitation in spring/annually were positively correlated with winter wheat yield, while increased temperatures in May had a small but negative effect on grain yield. Data from the four stations of the official variety testing system from 1972?2009 were also analyzed to evaluate the effect of variety on yield and quality. Genetic gain of the varieties released in the 1990s and 2000s, compared to Bezostaya 1 (1960s), was around 30%. However, the bread-making quality of new varieties, as well as the overall grain quality in variety trials, were reduced in protein content, with deteriorated dough physical properties, and therefore did not meet superior class requirements. Genetic diversity (coefficient of parentage and Shannon?s diversity index) of the winter wheat varieties tested in the 2000s was broader compared to the 1970s and 1980s, reflecting enhanced international cooperation and germplasm exchange. A negative association between genetic diversity parameters and some quality traits can be attributed to the utilization of more diverse high yielding parents with limited grain quality potential. Further yield increases and reductions in the yield gap should be based on improved agronomy, and the use of broadly-adapted varieties, with resistance to the biotic and abiotic stresses likely due to climate change.",
+        "lang": "eng"
+    },
+    "appid": "10883_3464",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3464"
+}}

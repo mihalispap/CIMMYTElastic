@@ -1,0 +1,186 @@
+{"object": {
+    "title": {
+        "value": "Number of kernels in wheat crops and the influence of solar radiation and temperature",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "spring crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24918",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "solar energy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7222",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "shading",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "florets",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "spikes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24086",
+                "http://aims.fao.org/aos/agrovoc/c_24086",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "sowing date",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16208",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6841
+            ],
+            "value": "radiation",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6422"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6614
+            ],
+            "value": "solar radiation",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14415"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7192
+            ],
+            "value": "anthesis",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2992"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The number of kernels per m2 (X) in well managed and watered wheat crops was studied using results of experiments in Mexico and Australia in which short spring wheat cultivars were subjected to independent variation in radiation, largely via artificial shading, and in temperature. Also crops subjected to differences in weather (year), sowing dato and location within Mexico, revealed responses to tho natural and simultaneous variation which occurs in radiation and temperature. Responsos in k were interpreted in terms of spike dry weight at anthosis (g/m2) and numbor of kernels per unit of spike weight. k was linearly and most closely related to incident solar radiation in the 30 days or so preceding anthosia, herein termed the spike gro'\\I?th period; for the cultivll.r Yecora 70 with full ground cover the slope was 19 kernels/MJ. This response seemed largely due to a linear response of crop growth rate to intercepted solar radiation. The proportion of dry weight incroase partitioned to the spike increased somewhat with reduced radiation. Also increasing temperature in the mnge 14-22 °0 dUl'ing this period reduced]{ (slope approximately 4%per °0 at 15 °0). The cause appeared to be lower spike dry weight duo to accelerated development. The number of kernels per unit spike weight at anthesis 'V[LS little affected by radiation or temperature, and averaged 78 ±2/g for the cultivar Yecora 70. With natural variation in radiation and temperature, k was closely and linearly correlated with the ratio of mean daily incident or intercepted radiation to mean temperature above 4?5 °0 in the 30 days preceding anthesis. As this ratio, termed the photothermal quotient, increased from 0?5 to 2?0 MJ/m2/day/degree, K increased from 70 to 196 x lOll/mi. These responses ofK to weather, sowing date and location were closely associat,ed with variation in spike dry weight. It was concluded that the ratio of solar radiation to temperature could be very useful for estimating K in wheat crop models. Also the analysis of K determination in terms of spike dry weight appeared promising, and suggests that wheat physiologists should place greater emphasis on the growth period immediately before anthesis.",
+        "lang": "eng"
+    },
+    "appid": "10883_2263",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2263"
+}}

@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Identification and mapping of Lr3 and a linked leaf rust resistance gene in durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:03Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6575,
+            "value": "triticum turgidum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7958"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.679
+            ],
+            "value": "aflp",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_331160"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7199,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust, caused by Puccinia triticina Eriks., is an important disease of durum wheat (Triticum turgidum ssp. durum) worldwide and can be controlled through the use of genetic resistance. Two leaf rust resistance genes in durum wheat lines &lsquo;Camayo&rsquo; and &lsquo;Storlom&rsquo; were mapped to chromosome 6BL via amplifi ed fragment length polymorphism (AFLP) with bulked segregant analysis. The leaf rust resistance gene in Storlom was identifi ed to be Lr3 using a previously known co-segregating marker, Xmwg798. We validated a sequence tagged site version of this marker and identifi ed three AFLP markers that were associated with the resistance gene in Camayo. The lack of recombination between the two genes in Storlom and Camayo, and comparison of the phenotypic and molecular characteristics of Camayo and the common wheat (T. aestivum) near-isogenic &lsquo;Thatcher&rsquo; lines carrying Lr3a, Lr3ka, and Lr3bg, indicated that the resistance in Camayo is conferred by a previously unknown gene adjacent to the Lr3 locus. The two closely linked genes confer resistance to P. triticina race BBG/BN prevalent on durum wheat in Northwestern Mexico and should be deployed in combination with other resistance genes, to prolong their effectiveness.",
+        "lang": "eng"
+    },
+    "appid": "10883_2571",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2571"
+}}

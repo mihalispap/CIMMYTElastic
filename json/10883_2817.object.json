@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Quantitative trait loci for resistance to spot blotch caused by Bipolaris sorokiniana in wheat (T.aestivum L.) lines 'Ning 8201' and 'Chirya 3'",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7771,
+                1,
+                ""
+            ],
+            "value": "bipolaris sorokiniana",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34517",
+                "http://aims.fao.org/aos/agrovoc/c_34517",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diagnostic marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spot blotch",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blotches",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_973"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9887
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Spot blotch caused by Bipolaris sorokiniana is a destructive disease of wheat in warm and humid wheat growing regions of the world. To identify quantitative trait loci (QTLs) for spot blotch resistance, two mapping populations were developed by making the crosses between common susceptible cultivar ?Sonalika? with the resistant breeding lines ?Ning 8201? and ?Chirya 3?. Single seed descent derived F6, F7, F8 lines of the first cross ?Ning 8201? × ?Sonalika? were evaluated for resistance to spot blotch in three blocks in each of the 3 years. After screening of 388 pairs of simple sequence repeat primers between the two parents, 119 polymorphic markers were used to genotype the mapping population. Four QTLs were identified on the chromosomes 2AS, 2BS, 5BL and 7DS and explained 62.9% of phenotypic variation in a simultaneous fit. The QTL on chromosome 2A was detected only in 1 year and explained 22.7% of phenotypic variation. In the second cross (?Chirya 3? × ?Sonalika?), F7 and F8 population were evaluated in three blocks in each of the 2 years. In this population, five QTLs were identified on chromosomes 2BS, 2DS, 3BS, 7BS and 7DS. The QTLs identified in the ?Chirya 3? × ?Sonalika? population explained 43.4% of phenotypic variation in a simultaneous fit. The alleles for reduced disease severity in both the populations were derived from the respective resistant parent. The QTLs QSb.bhu-2B and QSb.bhu-7D from both populations were placed in the same deletion bins, 2BS1-0.53-0.75 and 7DS5-0.36-0.61, respectively. The closely linked markers Xgwm148 to the QTL on chromosome 2B and Xgwm111 to the QTL on chromosome 7D are potentially diagnostic markers for spot blotch resistance.",
+        "lang": "eng"
+    },
+    "appid": "10883_2817",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2817"
+}}

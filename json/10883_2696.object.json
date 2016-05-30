@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Genetic diversity in a collection of old and new bread wheat cultivars from Iran as revealed by simple sequence repeat-based analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:24Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic diversity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssr markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7183
+            ],
+            "value": "loci",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6938
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6211,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        }
+    ],
+    "description": {
+        "value": "Genetic diversity in a collection of 70 bread wheat (Triticum aestivum) genotypes was studied using 73 microsatellite [simple sequence repeat (SSR)] loci evenly spaced on wheat chromosomes. A total of 592 alleles with an average of 8.53 allele/locus were detected, of which 185 (31.25%) occurred only in a specific group of genotypes. A set of SSR markers consisted of 22 loci with polymorphic information content values of 0.80 or higher were selected for rapid fingerprinting of many genotypes. Average of gene diversity was 0.74 ± 0.017, and significant difference between observed and maximum theoretical values of gene diversity in the analysed SSR loci was obtained using a paired t-test. Genetic distance-based clustering methods including unweighted pair group method with arithmetic average and neighbour joining (NJ) were used for grouping of genotypes. The resulted dendrogram based on NJ and number of differences coefficient hinted of the existence of three groups. This grouping was in agreement with the pedigree information and confirmed by high within-group bootstrap value. A comparatively higher genetic diversity in the studied wheat collection as revealed by presence of high allelic diversity and large number of specific alleles could be utilised in development of new cultivars with desired characteristics.",
+        "lang": "eng"
+    },
+    "appid": "10883_2696",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2696"
+}}

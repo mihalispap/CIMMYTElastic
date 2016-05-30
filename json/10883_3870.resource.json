@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0304-551X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-13T01:09:34Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Information Bulletin",
+    "appid": "10883_3870",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1977",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3870"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3870"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3870",
+    "creator": [
+        {
+            "id": 1560386134,
+            "value": "Christensen, C.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1560386134"
+        },
+        {
+            "id": 1748687308,
+            "value": "Dubin, H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1748687308"
+        },
+        {
+            "id": 354266845,
+            "value": "Fuentes Fuentes, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/354266845"
+        },
+        {
+            "id": 790428075,
+            "value": "Prescott, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/790428075"
+        },
+        {
+            "id": 1167353840,
+            "value": "Saari, E.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1167353840"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3870/1/21269.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1243660
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3870/2/21269.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33973
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3870/3/21269.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6267
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3870/1/21269.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3870/2/21269.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3870/3/21269.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3870"
+        }
+    },
+    "extent": "No. 29",
+    "page": "69 p.",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

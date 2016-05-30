@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Influence of cultivar and environment on quality of Latin American wheats",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environment",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2593",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "g × e interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Wheat consumption is growing, with processors asking for wheat-based products showing better and more consistent quality. Genotype, environment and their interaction (G × E) play an important role in the final expression of quality attributes. An international research consortium was developed in order to evaluate the magnitude of genotype, environment and G × E effects on wheat quality of cultivars developed for different agro-ecological zones in Latin America. Genotypes released in Argentina, Brazil, Chile, Mexico, Paraguay and Uruguay, were cultivated in twenty different environments within the participating countries. Each environment was characterized for cultural practices, soil type and climatic conditions. Grain yield and analyses of test weight, protein, ash, gluten, Alveograph, Farinograph, Falling Number, SDS sedimentation and flour color were determined. Allelic variations of puroindolines and glutenins were determined in all the genotypes evaluated. Both puroindoline and gluten protein alleles corresponded to genotypes possessing medium to very good bread making quality. Large variability for most quality attributes evaluated was observed, with wider ranges in quality parameters across environments than among genotypes; even for parameters known to be largely determined by genotype. The importance of growing environment on grain quality was proved, suggesting that breeders? quality objectives should be adapted to the targeted environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_2910",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2910"
+}}

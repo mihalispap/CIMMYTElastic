@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Phenotypic evaluation of a set of selected exotic maize inbred lines for drought stress tolerance",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.9176,
+                ""
+            ],
+            "value": "drought stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "anthesis-silking interval (asi)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf senescence",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8309
+            ],
+            "value": "senescence",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_14200"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "anthesis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2992"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        }
+    ],
+    "description": {
+        "value": "Increased rainfall variability accentuated by climate change will have severe effects on production of maize which is grown predominantly as a rainfed crop in India. A set of 31 exotic inbred lines were analysed under both well-watered (controlled) and water-deficit stress (at flowering stage) conditions at the IARI Experimental Farm, New Delhi (during Kharif 2007), and IARI Regional Station, Pusa-Bihar (during Rabi 2007-08). Significant variation among the genotypes were observed for grain yield per plant, anthesis-silking interval (ASI), number of ears per plot, total number of leaves per plant and leaf senescence, under both well-watered and drought-stressed conditions. Significant effects of locations/seasons and environments, besides location/season x genotype and environment x genotype interactions for most of the drought component traits were analysed. The study led to the identification of a few inbreds, such as DTPYC9-F46-1-2-1-2-B, CML341, CML340 and CMLP2 at Delhi, and CML340, LPSC7-F64-2- 6-2-2-B-B, LPSC7-F71-1-2-1-1-B-B, CMl360 and CML341 at Pusa (Bihar) as promising drought-tolerant genotypes. The study also established the negative association of ASI with ear per plot as well as with grain yield per plant under water stress conditions at both the locations. Leaf senescence was also found to be negatively correlated with ear per plot and grain yield per plant, thereby confirming the usefulness of lower ASI and leaf senescence as the potential secondary traits for breeding under drought stress conditions in rainfed maize.",
+        "lang": "eng"
+    },
+    "appid": "10883_3115",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3115"
+}}

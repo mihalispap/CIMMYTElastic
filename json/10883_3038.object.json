@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Identification of superior quality protein maize hybrids for different mega-environments using the biplot methodology",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:29Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sreg",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qpm",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "main components",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "The utilization of site regression models (SREG) on multilocation testing allow the detection of significant differences in the genotype x environment interaction, even though these may not be detected by the analysis of variance (ANOVA). The results can be graphically displayed using the Biplot technique, revealing the additive effects on the genotypes and the genotype x environment interaction across years. Thus, the objectives of this work were to identify mega-environments, superior maize hybrids for each environment and mega-environment, stable maize hybrids with good performance across environments, and the most suitable environments for evaluation as well. A total of 66 field trials were grouped in five sets of experiments. An individual SREG analysis for each set of experiments and their combined analysis were conducted to assist in the graphic representation by the Biplot methodology. Results revealed that the constructed Biplots, graphically allowed the identification of superior maize hybrids, and the proper environments to conduct maize hybrid evaluation trials; however, it was not a reliable option for grouping test-sites in mega-environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3038",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3038"
+}}

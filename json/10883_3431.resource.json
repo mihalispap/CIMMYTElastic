@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "1177-4258",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Zimbabwe",
+        "uri": [
+            "http://sws.geonames.org/878675",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+        ]
+    },
+    "updatedDate": "2014-03-05T17:57:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3431",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3431"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3431"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3431",
+    "creator": [
+        {
+            "id": 307815166,
+            "value": "Mutema, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/307815166"
+        },
+        {
+            "id": 110558603,
+            "value": "Mafongoya, P.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/110558603"
+        },
+        {
+            "id": 1661877713,
+            "value": "Nyagumbo, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1661877713"
+        },
+        {
+            "id": 595137187,
+            "value": "Chikukura, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/595137187"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3431/1/98512.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 332877
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3431/4/98512.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 33487
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3431/5/98512.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4904
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3431/1/98512.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3431/4/98512.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3431/5/98512.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3431"
+        }
+    },
+    "extent": "",
+    "page": "16-May",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

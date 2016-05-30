@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Durum wheat: Names, parentage, pedigrees, origins",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "2014-03-13T01:09:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "crossbreeding",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1976",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum durum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7955",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "germplasm",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "hybridization",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3706",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "parentage",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_394",
+                "http://aims.fao.org/aos/agrovoc/c_394",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "This bulletin contains a compilation of all durum wheat cultivars and advanced lines produced by CIMMYT and by the Mexican National Institute of Agricultural Research (INIA); it also contains the names and pedigrees of cultivars released by cooperating programs. The purpose of its publication is to facilitate the exchange of more exact information among triticale researchers working with these materials, and to assist them in their note-taking and record-keeping activities",
+        "lang": "eng"
+    },
+    "appid": "10883_4004",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4004"
+}}

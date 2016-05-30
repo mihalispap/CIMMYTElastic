@@ -9,14 +9,17 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
                 1,
+                0.7245,
                 ""
             ],
             "value": "bacillus thuringiensis",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_761",
                 "http://aims.fao.org/aos/agrovoc/c_761",
                 ""
             ]
@@ -89,6 +92,12 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_4501"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6876,
+            "value": "phaseolus vulgaris",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5767"
         }
     ],
     "description": {

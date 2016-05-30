@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Impact of conservation agriculture on catchment runoff and soil loss under changing climate conditions in May Zeg-zeg (Ethiopia)",
-        "lang": "eng"
+        "lang": ""
     },
     "updated": "2016-01-22T23:05:27Z",
     "created": "2013-06-07T20:59:22Z",
@@ -59,7 +59,6 @@
                 "",
                 "",
                 "",
-                "",
                 "agrovoc"
             ],
             "score": [
@@ -69,10 +68,9 @@
                 "",
                 "",
                 "",
-                "",
-                0.6949
+                0.9936
             ],
-            "value": "soil",
+            "value": "runoff",
             "uri": [
                 "",
                 "",
@@ -80,8 +78,7 @@
                 "",
                 "",
                 "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_7156"
+                "http://aims.fao.org/aos/agrovoc/c_35388"
             ]
         },
         {
@@ -107,6 +104,7 @@
                 "",
                 "",
                 "",
+                "",
                 "agrovoc"
             ],
             "score": [
@@ -116,9 +114,10 @@
                 "",
                 "",
                 "",
-                0.9936
+                "",
+                0.6949
             ],
-            "value": "runoff",
+            "value": "soil",
             "uri": [
                 "",
                 "",
@@ -126,7 +125,8 @@
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_35388"
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7156"
             ]
         }
     ],

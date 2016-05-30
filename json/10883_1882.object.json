@@ -6,19 +6,10 @@
     "updated": "2016-01-22T23:05:30Z",
     "created": "2013-06-07T21:02:52Z",
     "subject": {
-        "vocabulary": [
-            "",
-            "agrovoc"
-        ],
-        "score": [
-            "",
-            1
-        ],
+        "vocabulary": "agrovoc",
+        "score": 1,
         "value": "crops",
-        "uri": [
-            "",
-            "http://aims.fao.org/aos/agrovoc/c_1972"
-        ]
+        "uri": "http://aims.fao.org/aos/agrovoc/c_1972"
     },
     "description": {
         "value": "Crop science is a highly integrative science employing expertise from multiple disciplines to broaden our understanding of agronomic, turf, and forage crops. A major goal of crop science is to ensure an adequate and sustainable production of food, feed, fuel, and fiber for our world's growing population. The Crop Science Society of America (CSSA) identified key Grand Challenges which, when addressed, will provide the tools, technologies, and solutions required to meet these challenges. The Grand Challenges are: (i) Crop adaptation to climate change: Increase the speed with which agriculture can adapt to climate change by using crop science to address abiotic stresses such as drought and heat. (ii) Resistance to biotic stresses: Increase durability of resistance to biotic stresses that threaten yield and quality of major crops. (iii) Management for resource limited systems: Create novel crop cultivars and management approaches designed for problem soils and low-input farming to increase economic prosperity for farmers and overcome world hunger. (iv) Crop management systems: Create novel crop management systems that are resilient in the face of changes in climate and rural demographics. (v) Biofuels: Develop sustainable biofuel feedstock cropping systems that require minimal land area, optimize production, and improve the environment. (vi) Bioresources: Genotyping the major crop germplasm collections to facilitate identification of gene treasures for breeding and genetics research and deployment of superior genes into adapted germplasm around the globe. These challenges are intended to be dynamic and change as societal needs evolve. Available funding and national prioritization will determine the rate that they will be addressed.",

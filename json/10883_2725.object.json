@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Characterization of monoclonal antibodies specific to wheat glutenin subunits and their correlation with quality parameters",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:28Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "glutenin subunits",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "monoclonal antibodies",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24051",
+                "http://aims.fao.org/aos/agrovoc/c_24051",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "elisa",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7056
+            ],
+            "value": "aegilops",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_148"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        }
+    ],
+    "description": {
+        "value": "Immunochemical methods are very useful in predicting the quality of wheat and differentiating alleles. In order to prepare appropriate monoclonal antibodies, HMW-GS 1Bx13 and 1By16 from spelt wheat were used as antigens to immunize BALB/C mice. Four monoclonal antibodies (mAbs) were obtained and designated 24231, 24245, 14588 and 14587, respectively. Results of Western blot showed that mAbs 24231 and 24245 prepared against 1Bx13 bound only to LMW-GS. The mAb 14588 prepared against 1By16 bound strongly to LMW-GS, but weakly to 1By and some 1Dy type HMW-GS. The mAb 14587 prepared against 1By16 bound only to 1Dx HMW-GS. The results of indirect ELISA and statistical analysis showed that correlations between mAb 24231 and development time and stability were significantly (P < 0.05) and highly significantly (P < 0.01) negative, respectively, whereas those of mAb 24245 with development time and extensibility were highly significantly (P < 0.01) and significantly (P < 0.05) negative, respectively. Significantly (P < 0.05) and highly significantly (P < 0.01) positive correlations were observed between mAb 14588 and stability and development time. Mean differential binding of mAb 14587 with 1Dx5t and 1Dx2t subunits from Aegilops tauschii was highly significant (P < 0.01), suggesting that ELISA could potentially be used as an effective screening tool during direct genetic transfer of desirable glutenin subunits from Aegilops tauschii to hexaploid wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2725",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2725"
+}}

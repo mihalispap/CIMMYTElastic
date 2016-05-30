@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Climate change: Can wheat beat the heat?",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:15Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "climate change",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic enhancement",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mega-environment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        }
+    ],
+    "description": {
+        "value": "Climate change could strongly affect the wheat crop that accounts for 21% of food and 200 million hectares of farmland worldwide. This article reviews some of the approaches for addressing the expected effects that climate change may likely inflict on wheat in some of the most important wheat growing areas, namely germplasm adaptation, system management, and mitigation. Future climate scenarios suggest that global warming may be beneficial for the wheat crop in some regions, but could reduce productivity in zones where optimal temperatures already exist. For example, by 2050, as a result of possible climate shifts in the Indo-Gangetic Plains (IGPs) &ndash; currently part of the favorable, high potential, irrigated, low rainfall mega-environment, which accounts for 15% of global wheat production &ndash; as much as 51% of its area might be reclassified as a heat-stressed, irrigated, short-season production mega-environment. This shift would also represent a significant reduction in wheat yields, unless appropriate cultivars and crop management practices were offered to and adopted by South Asian farmers. Under the same climate scenarios, the area covered by the cool, temperate wheat mega-environment could expand as far as 658N in both North America and Eurasia. To adapt and mitigate the climate change effects on wheat supplies for the poor, germplasm scientists and agronomists are developing heat-tolerant wheat germplasm, as well as cultivars better adapted to conservation agriculture. Encouraging results include identifying sources of alleles for heat tolerance and their introgression into breeding populations through conventional methods and biotechnology. Likewise, agronomists and extension agents are aiming to cut CO2 emissions by reducing tillage and the burning of crop residues. Mitigation research promises to reduce emissions of nitrous oxide by using infrared sensors and the normalized differential vegetative index (NDVI) that determines the right times and correct amounts of fertilizer to apply. Wheat geneticists and physiologists are also assessing wild relatives of wheat as potential sources of genes with inhibitory effects on soil nitrification. Through the existing global and regional research-for-development networks featuring wheat, technology and knowledge can flow to allow farmers to face the risks associated with climate change.",
+        "lang": "eng"
+    },
+    "appid": "10883_2636",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2636"
+}}

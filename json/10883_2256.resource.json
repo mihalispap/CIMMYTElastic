@@ -1,0 +1,143 @@
+{"resource": {
+    "citation": "",
+    "issn": "0021-857X",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:53Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2256",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2256"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2256"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2256",
+    "creator": [
+        {
+            "id": 895955641,
+            "value": "Kassie, G.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/895955641"
+        },
+        {
+            "id": 1286158525,
+            "value": "Abdulai, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1286158525"
+        },
+        {
+            "id": 892612994,
+            "value": "Wollny, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/892612994"
+        }
+    ],
+    "publisher": {
+        "id": 80619456,
+        "value": "http://onlinelibrary.wiley.com/doi/10.1111/j.1477-9552.2008.00191.x/abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/80619456"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2256/1/97527.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 208709
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2256/2/97527.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 49863
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2256/3/97527.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5288
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2256/1/97527.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2256/2/97527.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2256/3/97527.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2256"
+        }
+    },
+    "extent": "",
+    "page": "386-401",
+    "coverage": [
+        "Ethiopia",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

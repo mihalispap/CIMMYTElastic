@@ -1,0 +1,148 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Bangladesh",
+        "uri": [
+            "http://sws.geonames.org/1210997",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+        ]
+    },
+    "updatedDate": "2014-01-08T22:19:22Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3381",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3381"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3381"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3381",
+    "creator": [
+        {
+            "id": 199054752,
+            "value": "Krupnik, T.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/199054752"
+        },
+        {
+            "id": 872098925,
+            "value": "Santos Valle, S",
+            "type": "person",
+            "uri": "/cimmyt/person/872098925"
+        },
+        {
+            "id": 345245441,
+            "value": "McDonald, A",
+            "type": "person",
+            "uri": "/cimmyt/person/345245441"
+        },
+        {
+            "id": 1144392960,
+            "value": "Justice, S",
+            "type": "person",
+            "uri": "/cimmyt/person/1144392960"
+        },
+        {
+            "id": 392698582,
+            "value": "Hossain, I",
+            "type": "person",
+            "uri": "/cimmyt/person/392698582"
+        },
+        {
+            "id": 524467680,
+            "value": "Gathala, M.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/524467680"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3381/5/98172.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 8789
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3381/4/98172.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 18906394
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3381/6/98172.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 152950
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3381/5/98172.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3381/4/98172.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3381/6/98172.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3381"
+        }
+    },
+    "extent": "",
+    "page": "viii, 126 pags",
+    "coverage": [
+        "Bangladesh",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "978-607-8263-32-5",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

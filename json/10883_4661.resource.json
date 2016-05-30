@@ -1,0 +1,102 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Benin",
+        "uri": [
+            "http://sws.geonames.org/2395170",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Benin"
+        ]
+    },
+    "updatedDate": "2016-01-19T17:56:01Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Maize variety options for Africa",
+    "appid": "10883_4661",
+    "collection": [
+        {
+            "id": 1717216103,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1717216103"
+        },
+        {
+            "id": 1846298821,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1846298821"
+        }
+    ],
+    "format": "",
+    "type": "Photograph",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4661"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4661"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4661",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4661/1/Abate+Posters+DTMA+in+pictures_Page_02.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 5985
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4661/2/Abate+Posters+DTMA+in+pictures_Page_02.jpg.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 1965392
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4661/1/Abate+Posters+DTMA+in+pictures_Page_02.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4661/2/Abate+Posters+DTMA+in+pictures_Page_02.jpg.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4661"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Benin",
+    "contributor": {
+        "id": 435805678,
+        "value": "Tsedeke Abate",
+        "type": "person",
+        "uri": "/cimmyt/person/435805678"
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nairobi (Kenya)",
+    "doi": ""
+}}

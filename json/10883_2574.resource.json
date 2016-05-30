@@ -1,0 +1,172 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/1814991",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Australia",
+            "uri": [
+                "http://sws.geonames.org/2077456",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:03Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2574",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2574"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2574"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2574",
+    "creator": [
+        {
+            "id": 297549864,
+            "value": "Zhang Pingping",
+            "type": "person",
+            "uri": "/cimmyt/person/297549864"
+        },
+        {
+            "id": 2138714396,
+            "value": "He Zhonghu",
+            "type": "person",
+            "uri": "/cimmyt/person/2138714396"
+        },
+        {
+            "id": 1825933203,
+            "value": "Chen Dongsheng",
+            "type": "person",
+            "uri": "/cimmyt/person/1825933203"
+        },
+        {
+            "id": 426864829,
+            "value": "Zhang Yong",
+            "type": "person",
+            "uri": "/cimmyt/person/426864829"
+        },
+        {
+            "id": 741952086,
+            "value": "Larroque, O.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/741952086"
+        },
+        {
+            "id": 407067974,
+            "value": "Xia, X.",
+            "type": "person",
+            "uri": "/cimmyt/person/407067974"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2574/1/90053.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 190419
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2574/2/90053.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 43178
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2574/3/90053.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6020
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2574/1/90053.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2574/2/90053.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2574/3/90053.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2574"
+        }
+    },
+    "extent": "",
+    "page": "10-14 pags",
+    "coverage": [
+        "China",
+        "East Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

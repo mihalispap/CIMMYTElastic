@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "P.H. Zaidi on Improving Maize Production in Asia",
+        "lang": ""
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2015-06-30T15:00:12Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "asia",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zaidi",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "improvement",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hybrids",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "CIMMYT Senior Maize Physiologist and Breeder P.H. Zaidi describes the opportunity to be seized by bridging the gap between public sector research and private sector deployment of new maize varieties in Asia.",
+        "lang": "eng"
+    },
+    "appid": "10883_4349",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4349"
+}}

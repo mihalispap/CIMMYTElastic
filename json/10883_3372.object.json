@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Genetic analysis of vegetative ground cover rate in winter wheat using digital imaging",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-12-09T20:48:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "vegetative ground cover rate",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "association study",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene-containing region",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "vigour",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37512"
+        }
+    ],
+    "description": {
+        "value": "Vegetative vigour is an important physiological trait and selection for greater seedling vigour is a goal of breeding programs, especially in rain-fed regions. This study aimed to identify the genetic variation of early vigour, determine the agronomic traits most closely associated with seedling growth, and detect the major gene-containing region of early vigour in winter wheat. Twenty-eight cultivars and advanced lines at two planting densities (240 plants m-2 and 360 plants m-2) were grown in Jinan during 2009?2010 and 2010?2011 cropping seasons, with randomized complete block design of three replications. Whole-genome association mapping was employed to identify the chromosome region controlling early vigour using 921 Diversity Array Technology (DArT) and 83 SSR markers. Early vigour was evaluated with vegetative ground cover rate via implementation of photographic image analysis, whereby computer analysis was used to determine percentage ground cover. Significant differences of ground cover rate between two planting densities were detected in pre-winter period, erecting and booting stages, but not in early stem elongation stage. Ground cover rate in erecting stage was significantly and positively associated with maximum tiller number (r = 0.76, P < 0.01), leaf area index (r = 0.74, P < 0.01), spike number (r = 0.73, P < 0.01), and grain yield (r = 0.73, P < 0.01). Twelve gene-containing regions for vegetative ground cover rate were detected in two seasons. Most of the regions conditioning the vegetative ground cover rate were not affected by the developmental stages. Ten gene-containing regions identified were consistent with previously reported QTLs for seedling traits, grain yield and disease resistance. Three regions on 5BL, 6AS, and 6BL were the same as previously reported loci for seedling traits. Therefore, there is sufficient genetic variation to increase early vigour in winter wheat, and early vigour could be quickly measured through digital image analysis.",
+        "lang": "eng"
+    },
+    "appid": "10883_3372",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3372"
+}}

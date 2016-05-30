@@ -31,6 +31,12 @@
             "uri": ""
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "co2",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1302"
+        },
+        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -48,23 +54,8 @@
         {
             "vocabulary": "agrovoc",
             "score": 1,
-            "value": "co2",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1302"
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
             "value": "greenhouses",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3379"
-            ]
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3379"
         },
         {
             "vocabulary": "agrovoc",

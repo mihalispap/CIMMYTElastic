@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-30T05:24:34Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3077",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2008",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3077"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3077"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3077",
+    "creator": [
+        {
+            "id": 1269552515,
+            "value": "Salazar Villarreal, F.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1269552515"
+        },
+        {
+            "id": 1930484447,
+            "value": "Narro, L.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1930484447"
+        },
+        {
+            "id": 1421748110,
+            "value": "Vallejo Cabrera, F.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1421748110"
+        }
+    ],
+    "publisher": {
+        "id": 1469175582,
+        "value": "http://bit.ly/10ORrGH",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1469175582"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3077/1/91521.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 102556
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3077/2/91521.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 22644
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3077/3/91521.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4281
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3077/1/91521.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3077/2/91521.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3077/3/91521.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3077"
+        }
+    },
+    "extent": "",
+    "page": "155-160",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Characteristics and evaluation parameters associated with cooking quality of Chinese fresh noodle",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gluten quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "noodle cooking quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cooked noodle weight",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "noodles",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12848"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gluten",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3294"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "cooking quality",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330711"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Noodle cooking quality plays an important role in assessing processing quality of Chinese fresh noodle. Forty-six Chinese wheat cultivars and advanced lines from the Northern Plain and the Huang-Huai River Valleys Winter Wheat Regions were used to determine the relationship between wheat quality characters and evaluation parameters of Chinese fresh noodle cooking quality including total organic matter (TOM), cooking losses, water sorption, and noodle stickiness. The results indicated that large variations were observed in milling quality, dough rheology characteristics, starch properties, and noodle cooking quality parameters including TOM value, cooking losses, and noodle stickiness. Extensogram energy and maximum resistance contributed negatively to TOM value, with correlation coefficients of -0.66 (P<0.01) and -0.56 (P<0.01), respectively. Correlation coefficients between Farinogram stability, Extensogram energy and maximum resistance and cooked noodle weights with optimal cooking (6 min) and overcooking (10 min) ranged from -0.55 to -0.63 (P<0.01). Farinogram mixing tolerance index was significantly and positively correlated with cooked noodle weights for 6min and 10min, with correlation coefficients of 0.67 (P<0.01) and 0.69 (P<0.01), respectively. Starch pasting temperature was significantly and positively correlated with cooked noodle weights for 10 min (r = 0.60, P<0.01). This suggested that increased flour protein content and dough gluten strength contributed positively to noodle cooking quality, flour protein property was the major factor in determining noodle cooking quality, and noodle cooking quality was also affected slightly by starch pasting parameters. TOM value was significantly and positively correlated with cooked noodle weights for 6 min and 10 min, with correlation coefficients of 0.66 (P<0.01) and 0.69 (P<0.01), respectively. Correlation coefficient between cooked noodle weight with 6 min and 10 min cooking time was 0.86 (P<0.01). Therefore, it was recommended that cooked noodle weight for 10 min could be an important parameter for evaluation of noodle cooking quality. The cooked noodle weight for 10 min (10 g fresh noodle) should be no more than 21.0 g forgood noodle cooking quality in Chinese wheat samples.",
+        "lang": "eng"
+    },
+    "appid": "10883_2949",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2949"
+}}

@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "1932-6203",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-30T05:24:46Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3173",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3173"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3173"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3173",
+    "creator": [
+        {
+            "id": 1495407197,
+            "value": "Degen, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1495407197"
+        },
+        {
+            "id": 438897428,
+            "value": "Bakalovic, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/438897428"
+        },
+        {
+            "id": 1034237133,
+            "value": "Bergvinson, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1034237133"
+        },
+        {
+            "id": 1494515305,
+            "value": "Turlings, T.C.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1494515305"
+        }
+    ],
+    "publisher": {
+        "id": 312016021,
+        "value": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0047589",
+        "type": "organization",
+        "uri": "/cimmyt/organization/312016021"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3173/1/97339.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 808166
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3173/2/97339.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 69906
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3173/3/97339.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 20242
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3173/1/97339.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3173/2/97339.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3173/3/97339.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3173"
+        }
+    },
+    "extent": "",
+    "page": "13 pags",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

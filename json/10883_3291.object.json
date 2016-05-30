@@ -1,0 +1,156 @@
+{"object": {
+    "title": {
+        "value": "Historical changes in grain yield and quality of spring wheat varieties cultivated in Siberia from 1900 to 2010",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7538,
+                0.7538,
+                1,
+                ""
+            ],
+            "value": "genetic gain",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34003",
+                "http://aims.fao.org/aos/agrovoc/c_34003",
+                "http://aims.fao.org/aos/agrovoc/c_34003",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "glutenin composition",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6051
+            ],
+            "value": "glutenins",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24033"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7101
+            ],
+            "value": "quality",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6400"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7499
+            ],
+            "value": "doughs",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_26776"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6429
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9143
+            ],
+            "value": "gluten",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3294"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6383,
+            "value": "alveographs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28229"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        }
+    ],
+    "description": {
+        "value": "This study focusses on changes in yield, protein content, micronutrient composition and bread-making quality of 32 historical bread wheat varieties. The germplasm was divided into four groups: viz. 1: bred before 1935; 2: bred 1955-1975; 3: bred 1976-1985; 4: bred after 1985. Yield genetic gain was 0.59% per year. The last three periods scored significantly higher for protein, gluten content and alveograph W values, compared with the first group, but did not differ significantly from each other. The physical dough properties of varieties developed between 1976 and 1985 were superior, as reflected by the W value, farinograph mixing time and degree of softening. Loaf volume was highest for the 1950-1975 group, representing a 15.6% superiority. There were significant and gradual reductions between the earliest and latest groups for protein (7.6%) and wet gluten (7.7%) contents. No changes in zinc and iron contents, important in determining grain nutritional value, were detected. Generally, modern germplasm had superior physical dough quality and stability. This improvement was not clearly associated with changes in the frequencies of high- and low-molecular weight glutenin alleles. Sustaining the genetic gains for yield and quality will require investigation of the effects and interactions of genes controlling adaptation and end-use quality of spring wheat in Siberia.",
+        "lang": "eng"
+    },
+    "appid": "10883_3291",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3291"
+}}

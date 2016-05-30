@@ -7,27 +7,6 @@
     "created": "2013-06-07T21:02:40Z",
     "subject": [
         {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.9991
-            ],
-            "value": "maize",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_12332"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "quantitative trait loci",
@@ -35,9 +14,9 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.6761,
-            "value": "genetics",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_3222"
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
         }
     ],
     "description": {

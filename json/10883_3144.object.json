@@ -1,0 +1,105 @@
+{"object": {
+    "title": {
+        "value": "Metabolic and phenotypic responses of greenhouse-grown maize hybrids to experimentally controlled drought stress",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carbon metabolism",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "metabolomics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "water relations",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "metabolites",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4770"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7157
+            ],
+            "value": "drought stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24993"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6487
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.785
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "metabolism",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4769"
+        }
+    ],
+    "description": {
+        "value": "Adaptation to abiotic stresses like drought is an important acquirement of agriculturally relevant crops like maize. Development of enhanced drought tolerance in crops grown in climatic zones where drought is a very dominant stress factor therefore plays an essential role in plant breeding. Previous studies demonstrated that corn yield potential and enhanced stress tolerance are associated traits. In this study, we analyzed six different maize hybrids for their ability to deal with drought stress in a greenhouse experiment. We were able to combine data from morphophysiological parameters measured under well-watered conditions and under water restriction with metabolic data from different organs. These different organs possessed distinct metabolite compositions, with the leaf blade displaying the most considerable metabolome changes following water deficiency. Whilst we could show a general increase in metabolite levels under drought stress, including changes in amino acids, sugars, sugar alcohols, and intermediates of the TCA cycle, these changes were not differential between maize hybrids that had previously been designated based on field trial data as either drought-tolerant or susceptible. The fact that data described here resulted from a greenhouse experiment with rather different growth conditions compared to natural ones in the field may explain why tolerance groups could not be confirmed in this study. We were, however, able to highlight several metabolites that displayed conserved responses to drought as well as metabolites whose levels correlated well with certain physiological traits.",
+        "lang": "eng"
+    },
+    "appid": "10883_3144",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3144"
+}}

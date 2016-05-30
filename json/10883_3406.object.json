@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Combined small RNA and degradome sequencing reveals novel miRNAs and their targets in response to low nitrate availability in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:50:56Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "low-nitrate stress",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "adaptation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_117",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mirna",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "degradome",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "combined analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8313
+            ],
+            "value": "rna",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6618"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrates",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5187"
+        }
+    ],
+    "description": {
+        "value": "Background and Aims MicroRNAs (miRNAs) play an important role in the responses and adaptation of plants to many stresses including low nitrogen (LN). Characterizing relevant miRNAs will improve our understanding of nitrogen (N) use efficiency and LN tolerance and thus contribute to sustainable maize production. The objective of this study was to identify novel and known miRNAs and their targets involved in the response and adaptation of maize (Zea mays) to LN stress.  Methods MiRNAs and their targets were identified by combined analysis of deep sequencing of small RNA and degradome libraries. The identity of target genes was confirmed by gene-specific RNA ligase-mediated rapid amplification of ; cDNA ends (RLM-RACE) and by quantitative expression analysis.  Key Results Over 150 million raw reads of small RNA and degradome sequence data were generated. A total of 46 unique mature miRNA sequences belonging to 23 maize miRNA families were sequenced. Eighty-five potentially new miRNAs were identified, with corresponding miRNA* also identified for 65 of them. Twenty-five new miRNAs showed >2-fold relative change in response to LN. In addition to known miR169 species, two novel putative miR169 species were identified. Deep sequencing of miRNAs and the degradome, and RLM-RACE and quantitative polymerase chain reaction (PCR) analyses of their targets showed that miRC10- and miRC68-mediated target cleavage may play a major role among miR169 families in the adaptation to LN by maize seedlings.  Conclusions Small RNA and degradome sequencing combined with quantitative reverse transcription?PCR and RLM-RACE verification enabled the efficient identification of miRNAs and their target genes. The generated data sets and the two novel miR169 species that were identified will contribute to our understanding of the physiological basis of adaptation to LN stress in maize plants.",
+        "lang": "eng"
+    },
+    "appid": "10883_3406",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3406"
+}}

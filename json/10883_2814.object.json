@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Molecular characterization of Lr34/Yr18/Pm38 in 273 CIMMYT wheat cultivars and lines using functional markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:40Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lr34/yr18/pm38",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "functional marker",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "slow rusting",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mildewing resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7521
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "{Objective} The objectives of this study were to characterize the allelic variation at Lr34/Yr18/Pm38 locus in 273 CIMMYT wheat cultivars (lines), evaluate their resistance against stripe rust, leaf rust and powdery mildew, and validate the functional markers for the locus. {Method} A total of 273 CIMMYT wheat genotypes were tested using a STS marker csLV34 and 5 functional markers cssfr1-cssfr5 which were developed based on a 3-bp deletion in the exon 11 of Lr34/Yr18/Pm38 gene, and were tested for stripe rust resistance in fields in Chengdu and CIMMYT, respectively, leaf rust in CIMMYT, and powdery mildew in Beijing. {Result} The results tested by the STS marker csLV34 showed a 96.7% identity to those of cssfr1-cssfr5. Of the 273 lines, 43 were characterized to have Lr34/Yr18/Pm38 resistance gene, with partial resistance against stripe rust, leaf rust and powdery mildew in field across different environments. {Conclusion} The 5 functional markers (cssfr1-cssfr5) could be used to detect the allelic variants in Lr34/Yr18/Pm38 locus, and 43 CIMMYT lines with Lr34/Yr18/Pm38 may be used in wheat breeding targeting for stripe rust, leaf rust and powdery mildew resistance with marker-assisted selection of cssfr3, cssfr4 and cssfr5.",
+        "lang": "eng"
+    },
+    "appid": "10883_2814",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2814"
+}}

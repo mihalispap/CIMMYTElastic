@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Identification of quantitative trait loci (QTLs) associated with maintenance of wheat (Triticum aestivum Desf.) quality characteristics under heat stress conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6421,
+                0.6421,
+                0.6421,
+                ""
+            ],
+            "value": "heat stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quality",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6400"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "The goal of this study was to identify quantitative trait loci (QTLs) associated with the maintenance of wheat grain quality following post-anthesis heat stress in a recombinant inbred line (RIL) population. The response to heat stress was measured using the sodium dodecyl sulfate sedimentation test (SDSS), a significant predictor of bread baking quality. SDSS scores were used to identify QTLs associated with grain quality and QTLs associated with quality stability were identified based on percent change in SDSS score between the heat stress and control treatments. Four QTLs were identified, located one each on linkage groups 1B, 1D, 4A, and 7A. The 1B, 1D, and 4A QTLs were associated with grain quality; the QTL on linkage group 7A was associated with quality stability. To confirm the detected QTLs, eighty advanced lines grown at three Texas nurseries were tested for relationships between allelic polymorphism at QTL linked markers and quality traits. Quality trait stability in the advanced lines was estimated using the coefficient of variability (CV%) of quality traits between nurseries. The analysis supported the relationship of the predicted QTLs on linkage groups 1B, 1D, and 4A with quality traits. The confirmed QTLs may be used in marker assisted selection (MAS) to develop wheat lines possessing superior quality traits. In addition, identification of genetic regions associated with this trait will aid the identification of the underlying genes.",
+        "lang": "eng"
+    },
+    "appid": "10883_2968",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2968"
+}}

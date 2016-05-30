@@ -3,7 +3,7 @@
         "value": "Morphological variability in some synthetic hexaploid wheats derived from Triticum turgidum x T. tauschii",
         "lang": "eng"
     },
-    "updated": "2015-05-28T16:33:31Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:16Z",
     "subject": [
         {
@@ -65,15 +65,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.9697,
-            "value": "triticum turgidum",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7958"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 1,
             "value": "aegilops squarrosa",
             "uri": "http://aims.fao.org/aos/agrovoc/c_33585"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9697,
+            "value": "triticum turgidum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7958"
         }
     ],
     "description": {

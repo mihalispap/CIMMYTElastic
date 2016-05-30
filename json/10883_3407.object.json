@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Optimal design of preliminary yield trials with genome-wide markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:50:59Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic gain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34003"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        }
+    ],
+    "description": {
+        "value": "Previous research on genomic selection (GS) has focused on predicting unphenotyped lines. GS can also improve the accuracy of phenotyped lines at low heritability, e.g., in a preliminary yield trial (PYT). Our first objective was to estimate this effect within a biparental family, using multi-location yield data for barley and maize. We found that accuracy increased with training population size and was higher with an unbalanced design spread across multiple locations than when testing all entries in one location. The latter phenomenon illustrates that when seed is limited, genome-wide markers enable broader sampling from the target population of environments. Our second objective was to explore the optimum allocation of resources at a fixed budget. When PYT selections are advanced for further testing, we propose a new metric for optimizing genetic gain: Rax, the expected maximum genotypic value of the selections. The optimal design did not involve genotyping more progeny than were phenotyped, even when the cost of creating and genotyping each line was only 0.25 the cost of one yield plot unit (YPU). At a genotyping cost of 0.25 YPU, GS offered up to a 5% increase in genetic gain compared to phenotypic selection for a budget of 200 YPU per family. To increase genetic gains further, the training population must be expanded beyond the full-sib family under selection, using close relatives of the parents as a source of prediction accuracy.",
+        "lang": "eng"
+    },
+    "appid": "10883_3407",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3407"
+}}

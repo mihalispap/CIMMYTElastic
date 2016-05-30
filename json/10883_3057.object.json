@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Physical properties and carotenoid content of maize kernels and its nixtamalized snacks",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:32Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nixtamalization",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carotenoids",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9699
+            ],
+            "value": "provitamins",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_13634"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Vitamin A and protein deficiencies afflict hundreds of millions of people, and because maize is a staple food providing a large portion of energy and nutrients for many, its genetic fortification or biofortification could significantly contribute to alleviating malnutrition. Therefore, we measured carotenoid and tryptophan contents for grain, nixtamalized (lime-cooked) maize, and processed snacks of 13 maize genotypes including landraces, quality protein maize (QPM) and non-QPM hybrids. An average 36% loss of provitamin A and an 8% increase in tryptophan were observed following nixtamalization and subsequent snack preparation by deep-frying. The correlations for physical properties of grain and maize flour with provitamin A were calculated to investigate whether secondary traits may be useful as indicators of provitamin A content. The correlation of chroma values with provitamin A contents was significant (P < 0.05) for 15% and 25% hydrated maize flour (r = 0.57 and r = 0.51, respectively), but was not significant for whole maize kernels.",
+        "lang": "eng"
+    },
+    "appid": "10883_3057",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3057"
+}}

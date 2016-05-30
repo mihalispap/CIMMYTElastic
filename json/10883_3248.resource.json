@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2013-11-24T18:23:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3248",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1994",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3248"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3248"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3248",
+    "creator": [
+        {
+            "id": 1740256358,
+            "value": "Bajet, N.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1740256358"
+        },
+        {
+            "id": 1090198838,
+            "value": "Renfro, B.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1090198838"
+        },
+        {
+            "id": 442457059,
+            "value": "Valdez Carrasco, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/442457059"
+        }
+    ],
+    "publisher": {
+        "id": 460468676,
+        "value": "http://www.tandfonline.com/doi/abs/10.1080/09670879409371868?journalCode=ttpm20#.Umg66PmTxv8",
+        "type": "organization",
+        "uri": "/cimmyt/organization/460468676"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3248/1/58750.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 24417
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3248/4/58750.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 7659
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3248/5/58750.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 221959
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3248/1/58750.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3248/4/58750.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3248/5/58750.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3248"
+        }
+    },
+    "extent": "",
+    "page": "121-125",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

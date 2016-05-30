@@ -1,0 +1,177 @@
+{"object": {
+    "title": {
+        "value": "Assessing the performance of the photo-acoustic infrared gas monitor for measuring CO2, N2O, and CH4 fluxes in two major cereal rotations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2014-03-05T18:01:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agriculture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "carbon dioxide",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1302",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "greenhouse gas emission",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "methane",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4784",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrous oxide",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12838",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "photo-acoustic infrared gas analyzer",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8692
+            ],
+            "value": "co2",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1302"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6654
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7022
+            ],
+            "value": "flooded rice",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2979"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "greenhouses",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3379"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "acoustics",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49911"
+        }
+    ],
+    "description": {
+        "value": "Rapid, precise, and globally comparable methods for monitoring greenhouse gas (GHG) fluxes are required for accurate GHG inventories from different cropping systems and management practices. Manual gas sampling followed by gas chromatography (GC) is widely used for measuring GHG fluxes in agricultural fields, but is laborious and time-consuming. The photo-acoustic infrared gas monitoring system (PAS) with on-line gas sampling is an attractive option, although it has not been evaluated for measuring GHG fluxes in cereals in general and rice in particular. We compared N2O, CO2, and CH4 fluxes measured by GC and PAS from agricultural fields under the rice?wheat and maize?wheat systems during the wheat (winter), and maize/rice (monsoon) seasons in Haryana, India. All the PAS readings were corrected for baseline drifts over time and PAS-CH4 (PCH4) readings in flooded rice were corrected for water vapor interferences. The PCH4 readings in ambient air increased by 2.3 ppm for every 1000 mg cm&#8722;3 increase in water vapor. The daily CO2, N2O, and CH4 fluxes measured by GC and PAS from the same chamber were not different in 93?98% of all the measurements made but the PAS exhibited greater precision for estimates of CO2 and N2O fluxes in wheat and maize, and lower precision for CH4 flux in rice, than GC. The seasonal GC- and PAS-N2O (PN2O) fluxes in wheat and maize were not different but the PAS-CO2 (PCO2) flux in wheat was 14?39% higher than that of GC. In flooded rice, the seasonal PCH4 and PN2O fluxes across N levels were higher than those of GC-CH4 and GC-N2O fluxes by about 2- and 4fold, respectively. The PAS (i) proved to be a suitable alternative to GC for N2O and CO2 flux measurements in wheat, and (ii) showed potential for obtaining accurate measurements of CH4 fluxes in flooded rice after making correction for changes in humidit",
+        "lang": "eng"
+    },
+    "appid": "10883_3459",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3459"
+}}

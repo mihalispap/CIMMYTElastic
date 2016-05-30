@@ -3,9 +3,15 @@
         "value": "Potassium Fertilization in Rice-Wheat System across Northern India: Crop Performance and Soil Nutrients",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:27Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T20:59:23Z",
     "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
         {
             "vocabulary": [
                 "",
@@ -68,12 +74,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_6599"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "wheats",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
         }
     ],
     "description": {

@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "The screening of wheat germplasm for resistance to stripe and leaf rust in Kazakhstan using molecular markers",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:57Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stripe rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9845
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Resistance to stripe and leaf rusts is the most important objectives in Kazakhstan, and they are the major factor that adversely affects wheat yield and quality and finally causes considerable economic damage. This study was aimed at characterizing elite wheat germplasm from Central Asia using molecular markers linked to the Lr34/Yr18 dual rust resistance gene and to identify new wheat germplasm resistant to leaf and yellow rust. In experiment with germplasm developed from Kazakhstan and Central and West Asia yellow rust trap nursery (CIMMYT), the frequency of the csLV34b-allele linked to Lr34/Yr18 (150 bp) was low and only seven of the 42 accessions had allele diagnostic of Lr34/Yr18. Two genotypes had high level of resistance, showing immune reaction to all three rusts. Disease severity from resistance to moderate susceptible was recorded in the lines having Lr34/Yr18 genes, which is comparable to the disease severity observed on the cultivar, Cook (20MS-30MS), carrying Lr34/Yr18 genes. The molecular screening of a set of additional 51 wheat genotypes, including commercial cultivars and breeding lines from different countries, showed that the csLV34 marker was present in 20 genotypes. This allowed us to select lines that could be used for future breeding work. In all, a total of 269 lines possessed effective Lr34/Yr18 gene complex: 28 lines of F4 Almaly/Opata-85, 34 lines of Almaly/Super Kauz, 26 lines of F4 Parula/(Almaly/Anza), 23 lines of F4 Babax 1/Opata 85, and 27 lines of Madsen/Cook populations. This further validates and confirms that the STS marker csLV34 and morphological marker leaf tip necrosis are reliable in the identification of carriers of effective slow rusting Lr34/Yr18 gene. The germplasms identified are further being tested for end-used quality and could be released by NARS as varieties in the various countries of Central Asia.",
+        "lang": "eng"
+    },
+    "appid": "10883_2936",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2936"
+}}

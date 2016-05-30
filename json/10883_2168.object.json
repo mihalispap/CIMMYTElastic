@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Mapping natural resource-based poverty, with an application to rural Syria",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agricultural income distribution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "poverty map",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "natural resource endowment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "syria",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6372,
+            "value": "gis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35131"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9099
+            ],
+            "value": "income",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3820"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "poverty",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6151"
+        }
+    ],
+    "description": {
+        "value": "This study presents advances in resource-based poverty mapping. It illustrates how agricultural income distribution maps can be generated at small pixel-level, providing an application of the approach in rural Syria. Census data on agriculture and population are disaggregated based on pixel-level agricultural productivity coefficients derived in a GIS environment. The approach, triangulated with survey results and compared with sub-national poverty maps, shows that the better-income areas of Syria are located in the irrigated and higher-rainfall areas, though lower-income pockets exist due to the presence of ecological and topographic factors or due to high population density. The method can be used for developing high-resolution, low cost maps for rapid detection of resource-driven poverty in low income countries where agriculture is a major source of rural income, and where poverty mapping is rarely undertaken due to the high costs involved.",
+        "lang": "eng"
+    },
+    "appid": "10883_2168",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2168"
+}}

@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Genomic characterization of drought tolerance-related traits in spring wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chlorophyll content",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chlorophyll fluorescence",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf temperature",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7382
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "chlorophylls",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1577"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "temperature",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7657"
+        }
+    ],
+    "description": {
+        "value": "Drought tolerance was investigated in ?C306?, one of the most drought tolerant wheat cultivars bred in India in the 1960?s. An intervarietal mapping population of recombinant inbred lines of the cross ?C306? × ?HUW206? was evaluated for drought tolerance components, namely potential quantum efficiency of photosystem (PS) II (Fv/Fm), chlorophyll content (Chl), flag leaf temperature (Lt), and grain yield per plant (Gyp) under stress. Three independent experiments were conducted under well-watered and water-stressed conditions in greenhouses and growth chambers at Kansas State University (USA). Five hundred and sixty microsatellite markers covering the entire genome were screened for polymorphism between the parents. A QTL (QLt.ksu-1D) for Lt (low flag leaf temperature under stress) on the short arm of chromosome 1D between markers Xbarc271 and Xgwm337 at LOD 3.5 explained 37% of the phenotypic variation. A QTL for Fv/Fm (QF v /F m .ksu-3B) and Chl (QChl.ksu-3B) controlling quantum efficiency of PS II and chlorophyll content under stress were co-localized on chromosome 3B in the marker interval Xbarc68?Xbarc101 and explained 35?40% of the phenotypic variation for each trait. A QTL (QGyp.ksu-4A) for Gyp on chromosome 4A at a LOD value of 3.2 explained 16.3% of the phenotypic variation. Inconsistent QTLs were observed for Fv/Fm on chromosomes 3A, 6A, 2B, 4B, and 4D; for Chl on 3A, 6A, 2B and 4B; and for Lt on 1A, 3A 6A, 3B and 5B. The identified QTLs give a first glimpse of the genetics of drought tolerance in C306 and need to be validated in field experiments using the marker-phenotype linkages reported here.",
+        "lang": "eng"
+    },
+    "appid": "10883_2916",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2916"
+}}

@@ -1,0 +1,198 @@
+{"resource": {
+    "citation": "",
+    "issn": "1300-011X",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Turkey",
+            "uri": [
+                "http://sws.geonames.org/298795",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Turkey"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/6255148",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bulgaria",
+            "uri": [
+                "http://sws.geonames.org/732800",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bulgaria"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-05T18:04:37Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3481",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3481"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3481"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3481",
+    "creator": [
+        {
+            "id": 944468615,
+            "value": "Dababat, A.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/944468615"
+        },
+        {
+            "id": 1788844218,
+            "value": "Erginbas-Orakci, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1788844218"
+        },
+        {
+            "id": 2122740778,
+            "value": "Toktay, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/2122740778"
+        },
+        {
+            "id": 1016711348,
+            "value": "Imren, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1016711348"
+        },
+        {
+            "id": 901159951,
+            "value": "Akin, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/901159951"
+        },
+        {
+            "id": 1227123719,
+            "value": "Braun, H-J",
+            "type": "person",
+            "uri": "/cimmyt/person/1227123719"
+        },
+        {
+            "id": 674548794,
+            "value": "Dreisigacker, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/674548794"
+        },
+        {
+            "id": 1849225683,
+            "value": "Elekcioglu, I.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1849225683"
+        },
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3481/1/98349.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 86025
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3481/2/98349.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 29105
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3481/3/98349.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6469
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3481/1/98349.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3481/2/98349.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3481/3/98349.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3481"
+        }
+    },
+    "extent": "",
+    "page": "180-186",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

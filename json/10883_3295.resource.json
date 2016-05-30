@@ -1,0 +1,280 @@
+{"resource": {
+    "citation": "",
+    "issn": "0032-079X",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "China",
+            "uri": [
+                "http://sws.geonames.org/1814991",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/China"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kazakhstan",
+            "uri": [
+                "http://sws.geonames.org/1522867",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kazakhstan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Pakistan",
+            "uri": [
+                "http://sws.geonames.org/1168579",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Turkey",
+            "uri": [
+                "http://sws.geonames.org/298795",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Turkey"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-25T02:37:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3295",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3295"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3295"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3295",
+    "creator": [
+        {
+            "id": 1528699204,
+            "value": "Zou, C.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1528699204"
+        },
+        {
+            "id": 57716238,
+            "value": "Zhang, Y.Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/57716238"
+        },
+        {
+            "id": 1306922496,
+            "value": "Rashid, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1306922496"
+        },
+        {
+            "id": 1655074216,
+            "value": "Ram, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1655074216"
+        },
+        {
+            "id": 191570548,
+            "value": "Savasli, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/191570548"
+        },
+        {
+            "id": 1732409929,
+            "value": "Arisoy, R.Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/1732409929"
+        },
+        {
+            "id": 957768179,
+            "value": "Ortiz-Monasterio, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/957768179"
+        },
+        {
+            "id": 1996657154,
+            "value": "Simunji, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1996657154"
+        },
+        {
+            "id": 1799907921,
+            "value": "Wang, Z.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1799907921"
+        },
+        {
+            "id": 1439858453,
+            "value": "Sohu, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/1439858453"
+        },
+        {
+            "id": 70101477,
+            "value": "Hassan, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/70101477"
+        },
+        {
+            "id": 1310353255,
+            "value": "Kaya, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1310353255"
+        },
+        {
+            "id": 1065148699,
+            "value": "Onder, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/1065148699"
+        },
+        {
+            "id": 277851066,
+            "value": "Lungu, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/277851066"
+        },
+        {
+            "id": 288653199,
+            "value": "Yaqub Mujahid, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/288653199"
+        },
+        {
+            "id": 1013937293,
+            "value": "Joshi, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013937293"
+        },
+        {
+            "id": 1246734811,
+            "value": "Zelenskiy, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246734811"
+        },
+        {
+            "id": 58282205,
+            "value": "Zhang, F.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/58282205"
+        },
+        {
+            "id": 1177940221,
+            "value": "Cakmak, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1177940221"
+        }
+    ],
+    "publisher": {
+        "id": 1734715508,
+        "value": "http://link.springer.com/article/10.1007%2Fs11104-012-1369-2",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1734715508"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3295/1/97995.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 39711
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3295/4/97995.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 4759
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3295/5/97995.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 353868
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3295/1/97995.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3295/4/97995.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3295/5/97995.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3295"
+        }
+    },
+    "extent": "",
+    "page": "119-130",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

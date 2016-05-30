@@ -31,12 +31,6 @@
             "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 0.6839,
-            "value": "inbred lines",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
-        },
-        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -65,6 +59,12 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_27464"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6839,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
         }
     ],
     "description": {

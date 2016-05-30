@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0304-5498",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-13T01:09:34Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Folleto de Información",
+    "appid": "10883_3869",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1977",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3869"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3869"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3869",
+    "creator": [
+        {
+            "id": 1560386134,
+            "value": "Christensen, C.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1560386134"
+        },
+        {
+            "id": 1748687308,
+            "value": "Dubin, H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1748687308"
+        },
+        {
+            "id": 354266845,
+            "value": "Fuentes Fuentes, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/354266845"
+        },
+        {
+            "id": 790428075,
+            "value": "Prescott, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/790428075"
+        },
+        {
+            "id": 1167353840,
+            "value": "Saari, E.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1167353840"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3869/1/21253.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1273967
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3869/2/21253.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 38741
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3869/3/21253.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6314
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3869/1/21253.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3869/2/21253.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3869/3/21253.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3869"
+        }
+    },
+    "extent": "No. 29",
+    "page": "69 p.",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

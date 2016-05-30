@@ -1,0 +1,183 @@
+{"object": {
+    "title": {
+        "value": "Yield potential progress in short bread wheats in Northwest Mexico",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:27Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "variety trials",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26833",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6639
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        }
+    ],
+    "description": {
+        "value": "Germplasm from the spring wheat (Triticum aestivum L.) breeding program at the International Center for Improvement of Maize and Wheat (CIMMYT) has had a major impact on the yield of irrigated spring wheats in most developing countries in the past 30 yr. The rate and nature of yield potential progress in this germplasm was measured comparing eight outstanding short cultivars released in northwest Mexico between 1962 and 1988. They were grown under irrigation and optimal management, including disease and lodging protection, in each of six winter growing seasons (1989-1990 to 1994-1995) at the CIANO (Centro de Investigaciones Agricolas del Noroeste) experiment station in Sonora, Mexico. There were highly significant effects of cultivar on grain yield, and, although cultivar x year interaction was significant, there were Few significant crossover interactions between pairs of genotypes and years in the grain yield data set. Yield averaged across the 6 yr increased linearly from 6680 kg ha(-1) for the earliest cultivar, Pitic 62, to 8475 kg ha(-1) for Bacanora 88, the latest. The rate of progress against year of release was 67 kg ha(-1) yr(-1) (r = 0.99, P < 0.001), or 0.88% per year. Grain yield progress was correlated with kernel number per square meter (r = 0.84, P < 0.01) and harvest index (r = 0.81, P < 0.02), but not with total biomass production, kernel weight, days to anthesis, spikes per square meter, or kernels per spike. Thus linear progress in yield within short germplasm has continued at least until the late 1980s, and the yield components studied did not indicate any clear direction for future progress, apart from that suggested by the strong relationships between grain yield and harvest index and grain yield and kernels per square meter, as has been seen in most studies of yield progress in cereals",
+        "lang": "eng"
+    },
+    "appid": "10883_2315",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2315"
+}}

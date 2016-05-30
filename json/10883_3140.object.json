@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Use of thermography for high throughput phenotyping of tropical maize adaptation in water stress",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:42Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize genotypes",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "water stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "thermal images",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "canopy temperature",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop water stress index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ndvi",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        }
+    ],
+    "description": {
+        "value": "In this study the suitability of thermal imaging for phenotyping was investigated as part of a breeding experiment carried out by the International Maize and Wheat Improvement Centre (CIMMYT) at Tlaltizapán experimental station in Mexico. Different subtropical maize genotypes with two replications were screened with respect to their tolerance to water stress. Thermal images of the canopy of 92 different maize genotypes were acquired on two different days in the time interval between anthesis and blister stages (grain filling 1), whereby each picture contained five plots of different genotypes and canopy temperatures calculated for each plot. Significantly, lower canopy temperatures were found in well-watered genotypes compared with water-stressed genotypes. Furthermore significant differences (p < 0.001) between genotypes under water stress were detected using thermal images. A close correlation (p < 0.01?0.001) between canopy temperature or modified Crop water stress index with NDVI and SPAD values was obtained. It may be concluded that genotypes better adapted to drought conditions exhibited lower temperatures.",
+        "lang": "eng"
+    },
+    "appid": "10883_3140",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3140"
+}}

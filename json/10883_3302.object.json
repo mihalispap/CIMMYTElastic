@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "QTL for yield and associated traits in the Seri/Babax population grown across several environments in Mexico, in the West Asia, North Africa, and South Asia regions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yield components",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24419",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "physiological traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8995,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6739,
+            "value": "agronomic traits",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_210"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6484
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9791
+            ],
+            "value": "phenology",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5774"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Heat and drought adaptive quantitative trait loci (QTL) in a spring bread wheat population resulting from the Seri/Babax cross designed to minimize confounding agronomic traits have been identified previously in trials conducted in Mexico. The same population was grown across a wide range of environments where heat and drought stress are naturally experienced including environments in Mexico, West Asia, North Africa (WANA), and South Asia regions. A molecular genetic linkage map including 475 marker loci associated to 29 linkage groups was used for QTL analysis of yield, days to heading (DH) and to maturity (DM), grain number (GM2), thousand kernel weight (TKW), plant height (PH), canopy temperature at the vegetative and grain filling stages (CTvg and CTgf), and early ground cover. A QTL for yield on chromosome 4A was confirmed across several environments, in subsets of lines with uniform allelic expression of a major phenology QTL, but not independently from PH. With terminal stress, TKW QTL was linked or pleiotropic to DH and DM. The link between phenology and TKW suggested that early maturity would favor the post?anthesis grain growth periods resulting in increased grain size and yields under terminal stress. GM2 and TKW were partially associated with markers at different positions suggesting different genetic regulation and room for improvement of both traits. Prediction accuracy of yield was improved by 5 % when using marker scores of component traits (GM2 and DH) together with yield in multiple regression. This procedure may provide accumulation of more favorable alleles during selection.",
+        "lang": "eng"
+    },
+    "appid": "10883_3302",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3302"
+}}

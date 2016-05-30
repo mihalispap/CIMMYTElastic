@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Wheat Derived Synthetics Drought Tolerance Evaluation 2011-2012",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -24,17 +24,14 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
-                0.9316,
                 1,
                 ""
             ],
             "value": "bread wheat",
             "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_14386",
                 "http://aims.fao.org/aos/agrovoc/c_14386",
                 ""
             ]
@@ -142,51 +139,6 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.9379
-            ],
-            "value": "wheats",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8373"
-            ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.9379,
-            "value": "backcrossing",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_763"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.7165,
-            "value": "late sowing",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_16208"
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.8776
-            ],
-            "value": "hexaploids",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_24400"
-            ]
-        },
-        {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "height",
@@ -203,11 +155,23 @@
             "score": 1,
             "value": "maturity",
             "uri": "http://aims.fao.org/aos/agrovoc/c_4656"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hexaploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24400"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
         }
     ],
     "description": {
         "value": "Derived synthetic wheat lines were tested for drought tolerance via late sowing and reduced irrigation in Ciudad Obregon in the 2011-2012 growing season. These materials were derived from bi-parental crosses, backcrosses, or topcrosses between bread wheat lines and synthetic hexaploid wheat lines. The results presented are the uncurated raw data from one season of planting. The trial contained 1727 unique materials and 2250 total entries.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10349",
     "language": {

@@ -1,0 +1,156 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Argentina",
+            "uri": [
+                "http://sws.geonames.org/3865483",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Argentina"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Japan",
+            "uri": [
+                "http://sws.geonames.org/1861060",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Japan"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-24T18:23:48Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3260",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "No"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3260"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3260"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3260",
+    "creator": [
+        {
+            "id": 1918858360,
+            "value": "Gasura, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1918858360"
+        },
+        {
+            "id": 1872509183,
+            "value": "Setimela, P.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1872509183"
+        },
+        {
+            "id": 1546024836,
+            "value": "Edema, R",
+            "type": "person",
+            "uri": "/cimmyt/person/1546024836"
+        },
+        {
+            "id": 1702528158,
+            "value": "Gibson, P.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1702528158"
+        },
+        {
+            "id": 462139204,
+            "value": "Okori, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/462139204"
+        }
+    ],
+    "publisher": {
+        "id": 1885301064,
+        "value": "http://www.accessinternationaljournals.org/jas/abstract/2013/APRIL/Gasura%20et%20al.html",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1885301064"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3260/1/97961.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 20559
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3260/4/97961.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 7346
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3260/5/97961.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 215103
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3260/1/97961.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3260/4/97961.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3260/5/97961.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3260"
+        }
+    },
+    "extent": "",
+    "page": "25-29",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

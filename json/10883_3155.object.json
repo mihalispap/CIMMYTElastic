@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Testcross performance of doubled haploid maize lines derived from tropical adapted backcross populations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "doubled haploid",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.611,
+                0.611,
+                0.611,
+                0.611,
+                1,
+                0.6989,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype x environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6057
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7207
+            ],
+            "value": "agronomic traits",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_210"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "haploids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3490"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Doubled haploid (DH) lines produced by in vivo induction of maternal haploids are routinely used in maize breeding. The present study was carried out to assess the performance of 75 doubled haploid maize testcrosses and six checks tested across four locations in Kenya for grain yield, agronomic traits and reaction to major leaf diseases. The 75 DH lines were derived from the backcross (BC1) plants of two CIMMYT bi-parental crosses. Significant location, genotype and genotype x location effects were observed for grain yield and anthesis-silking interval (ASI). Genotypes were significantly different for reaction to leaf blight and gray leaf spot. Location explained 69% of the total phenotypic variance while both genotype and genotype by environment interaction effects contributed 4% each. Fifteen DH testcross hybrids yielded better than the best commercial check, WH505 (5.1 t/ha). The best DH testcross hybrid (CKDHH0223) averaged over the four locations yielded 29.5% higher than WH505. These results indicate that maize testcrosses developed from DH lines produced as high a grain yield and as acceptable agronomic traits as the commercial hybrids developed through conventional pedigree methods. The DH lines identified in the study may be useful for improving yield and disease resistance in maize breeding programs in eastern and southern Africa.",
+        "lang": "eng"
+    },
+    "appid": "10883_3155",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3155"
+}}

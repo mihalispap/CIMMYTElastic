@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Influence of low molecular weight Glutenins on viscoelastic properties of intact wheat Kernels and their relation to functional properties of wheat dough",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:30Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8624
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6116
+            ],
+            "value": "doughs",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_26776"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6358
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6971
+            ],
+            "value": "translocation",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7869"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gluten",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3294"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7758
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The mechanical and viscoelastic properties of intact wheat kernels of 36 wheat cultivars differing in low molecular weight glutenin subunit (LMW-GS) composition (loci Glu-A3, Glu-B3, and Glu-D3) were evaluated using load-compression tests. Comparison among genotypic groups representing Glu-3 allelic variants showed that groups representing the alleles Glu-A3 b, c, and d; Glu-B3 d, g, and h; and Glu-D3 a, b, and d, had harder kernel texture, higher kernel elastic work and larger gluten strength-related parameters than those possessing alleles Glu-A3 e; Glu-B3 f, i and j (translocation 1B/1R); and Glu-D3 d. Modulus of elasticity (stress to strain ratio) showed low values (111.9?168.8 MPa) for allelic groups possessing poor elastic properties (Glu-A3 e; Glu-B3 f, i, and j; and Glu-D3 d), and high values (179.8?222.6 MPa) for allelic groups possessing high kernel elastic properties (Glu-A3 b c, and d; Glu-B3 d, g, and h; and Glu-D3 a, b and c). The highest values for gluten strength-related parameters (SDS-sedimentation, dough mixing time, and dough strength [W]) corresponded to allelic groups Glu-A3 d; Glu-B3 d and g; and Glu-D3 d, while the lowest corresponded to Glu-A3 e and Glu-B3 j. No significant differences were observed among groups with regard to gluten extensibility parameters; however, the highest P/L value (least extensibility) corresponded to Glu-B3 j, which indicates presence of 1B/1R translocation. Except for the Glu-B3 j (translocation 1B/1R) allele, which presented more variation within samples, a general relationship between kernel viscoelastic properties and dough viscoelastic properties was observed; samples showing higher elastic work to plastic work ratio (E/P) tended to possess better gluten strength than cultivars with low E/P ratio.",
+        "lang": "eng"
+    },
+    "appid": "10883_2734",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2734"
+}}

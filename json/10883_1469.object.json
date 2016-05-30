@@ -5,26 +5,12 @@
     },
     "updated": "2016-01-22T23:05:35Z",
     "created": "2013-06-05T15:45:32Z",
-    "subject": [
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6026,
-            "value": "maize",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.7317,
-            "value": "biomass",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_926"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "soil aggregates",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7195"
-        }
-    ],
+    "subject": {
+        "vocabulary": "agrovoc",
+        "score": 1,
+        "value": "soil aggregates",
+        "uri": "http://aims.fao.org/aos/agrovoc/c_7195"
+    },
     "description": {
         "value": "",
         "lang": ""

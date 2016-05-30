@@ -9,6 +9,21 @@
         {
             "vocabulary": [
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "germplasm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3249"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
                 "",
                 "",
                 "agrovoc"
@@ -25,21 +40,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_8724"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
-            "value": "germplasm",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3249"
             ]
         }
     ],

@@ -1,0 +1,169 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kenya",
+        "uri": [
+            "http://sws.geonames.org/192950",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+        ]
+    },
+    "updatedDate": "2013-12-09T20:48:38Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3362",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3362"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3362"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3362",
+    "creator": [
+        {
+            "id": 503975834,
+            "value": "Singh, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/503975834"
+        },
+        {
+            "id": 1786263749,
+            "value": "Knox, R.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1786263749"
+        },
+        {
+            "id": 1405546075,
+            "value": "DePauw, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1405546075"
+        },
+        {
+            "id": 1010525603,
+            "value": "Singh, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010525603"
+        },
+        {
+            "id": 1559666683,
+            "value": "Cuthbert, R.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1559666683"
+        },
+        {
+            "id": 1536785504,
+            "value": "Campbell, H.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1536785504"
+        },
+        {
+            "id": 503975927,
+            "value": "Singh, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/503975927"
+        },
+        {
+            "id": 2102556432,
+            "value": "Bhavani, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/2102556432"
+        },
+        {
+            "id": 765312104,
+            "value": "Fetch, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/765312104"
+        },
+        {
+            "id": 589964400,
+            "value": "Clarke, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/589964400"
+        }
+    ],
+    "publisher": {
+        "id": 2085716392,
+        "value": "http://link.springer.com/article/10.1007/s00122-013-2109-6",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2085716392"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3362/1/98173.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54879
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3362/2/98173.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6044
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3362/3/98173.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1180253
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3362/1/98173.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3362/2/98173.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3362/3/98173.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3362"
+        }
+    },
+    "extent": "",
+    "page": "1951-1964",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

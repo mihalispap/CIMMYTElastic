@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "Este es el CIMMYT.",
+        "lang": ""
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-02-26T16:18:11Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheats",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "cimmyt",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Description about CIMMYT's work.",
+        "lang": "eng"
+    },
+    "appid": "10883_4725",
+    "language": [
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4725"
+}}

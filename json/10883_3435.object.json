@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Properties of the test statistic under null hypothesis and the calculation of lod threshold in quantitative trait loci (qtl) mapping",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T17:59:51Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "likelihood ratio test",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lod score",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "null hypothesis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "significance level",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "number of independent tests",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8404
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Selecting an appropriate LOD threshold is of great interest in QTL mapping studies. Many approaches can be considered to calculate the critical value throughout a genome, such as simulation-based method, analytical approximation, and empirical method based on permutation test. Many tests are conducted in QTL mapping, which are not mutually independent because the linkage relationship of adjacent markers on chromosomes. In order to declare a significant QTL at a genome-wide significance level, it is necessary to understand the behavior of test statistic under null hypothesis in QTL mapping and to deal with the dependent multiple-test problem arising in the genome-wide test. Our objectives in this study were (1) to investigate the properties of LRT (likelihood ratio test) statistic of one-point scanning under null hypothesis in QTL mapping, (2) to determine the factors affecting the cumulative distribution of maximum LOD score, and (3) to identify the relationship between the effective number of independent tests and the length of chromosome by simulation method. Results indicated that the LRT test statistic in one-dimensional scanning of additive-dominant QTL and two-dimensional scanning of epistatic QTL followed chi-square distributions, and the degree of freedom (df) was equal to the number of genetic parameters to be estimated. For example, degree of freedom in recombinant inbred lines (RIL) population was equal to 1 in one dimensional or two dimensional scanning. Degree of freedom in F2 populations was equal to 2 in one-dimensional scanning and 4 in two-dimensional scanning. Number of chromosome, population size and phenotyping error variance did not have any effect on the distribution of LRT under null hypothesis, and therefore will not affect the selection of LOD threshold. On the contrary, population type, genome size and marker density had significant impacts. For BC1, RIL and F2 populations, the threshold was the smallest in BC1 population and the highest in F2 population. Higher marker density  and longer chromosome resulted in higher LOD threshold. It was identified that the effective number of independent tests (Meff) was proportional to the length of chromosome in one-dimensional scanning of additive-dominant QTL. In two-dimensional scanning of epistatic QTL, it was identified that Meffwas in a squared relationship to the length of chromosome. With the help of Bonferroni correction, we could acquire the relationship between point-wise and genome-wide significance levels. Therefore, it is convenient to calculate the threshold LOD in QTL mapping, given the genome-wide significance level, the population type, marker density and genome size.",
+        "lang": "eng"
+    },
+    "appid": "10883_3435",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3435"
+}}

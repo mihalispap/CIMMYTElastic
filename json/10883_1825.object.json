@@ -13,57 +13,12 @@
             ],
             "score": [
                 "",
-                0.9259
+                1
             ],
-            "value": "molecular markers",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_24030"
-            ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
             "value": "prediction",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.8267
-            ],
-            "value": "genetics",
             "uri": [
                 "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3222"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.8098
-            ],
-            "value": "kernels",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_25387"
+                "http://aims.fao.org/aos/agrovoc/c_3041"
             ]
         },
         {
@@ -71,6 +26,12 @@
             "score": 1,
             "value": "genomics",
             "uri": "http://aims.fao.org/aos/agrovoc/c_92382"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7498,
+            "value": "kernels",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25387"
         }
     ],
     "description": {

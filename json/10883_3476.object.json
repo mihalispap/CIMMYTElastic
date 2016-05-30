@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Characterization of Yr54 and other genes associated with adult plant resistance to yellow rust and leaf rust in common wheat Quaiu 3",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rils",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "apr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7578
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8067,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust (LR) and yellow rust (YR), caused by Puccinia triticina and Puccinia striiformis f. sp. tritici, respectively, are important diseases of wheat. Quaiu 3, a common wheat line developed at the International Maize and Wheat Improvement Center (CIMMYT), is immune to YR in Mexico despite seedling susceptibility to predominant races. Quaiu 3 also shows immunity to LR in field trials and is known to possess the race-specific gene Lr42. A mapping population of 182 recombinant inbred lines (RILs) was developed by crossing Quaiu 3 with susceptible Avocet-YrA and phenotyped with LR and YR in field trials for 2 years in Mexico. Quantitative trait loci (QTL) associated with YR and LR resistance in the RILs were identified using Diversity Arrays Technology and simple sequence repeat markers. A large-effect QTL on the long arm of chromosome 2D explained 49?54 % of the phenotypic variation in Quaiu 3 and was designated as Yr54. Two additional loci on 1BL and 3BS explained 8?17 % of the phenotypic variation for YR and coincided with previously characterized adult plant resistance (APR) genes Lr46/Yr29 and Sr2/Yr30, respectively. QTL on 1DS and 1BL corresponding to Lr42 and Lr46/Yr29, respectively, contributed 60?71 % of the variation for LR resistance. A locus on 3D associated with APR to both diseases explained up to 7 % of the phenotypic variance. Additional Avocet-YrA-derived minor QTL were also detected for YR on chromosomes 1A, 3D, 4A, and 6A. Yr54 is a newly characterized APR gene which can be combined with other genes by using closely linked molecular markers.",
+        "lang": "eng"
+    },
+    "appid": "10883_3476",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3476"
+}}

@@ -1,0 +1,153 @@
+{"object": {
+    "title": {
+        "value": "Prediction of grain yield using reflectance spectra of canopy and leaves in maize plants grown under different water regimes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:43Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf and canopy spectral reflectance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plsr regression",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "anthesis and milk-grain stage",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "reflectance",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_28538"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7158
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9949
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The ability to accurately estimate grain yield using spectral reflectance measurements prior harvest could be used to reduce phenotyping time and costs. In this study, grain yield of 300 maize testcrosses grown under different water and temperature regimes in the dry season 2010 was predicted using spectral reflectance (495?1853 nm) of both leaves and canopy measured between tassel emergence until milk-grain stage. Partial least square regression (PLSR) was used for data analysis. Coefficients of determination (R2) between predicted and actual grain yield were highest for measurements conducted at anthesis and milk-grain stage, explaining at maximum 23% and 40% of the genotypic variation in grain yield after validation, respectively. PLSR models explained a higher proportion of the genetic variation in grain yield under drought stress compared to well-watered conditions. The association between predicted and actual grain yield was stronger in spectral reflectance measurements taken at the leaf level compared to canopy level. By combining the most predictive PLSR models across trials, at maximum of 40% of the variation in grain yield could be explained in each trial with a relative efficiency of selection of 0.88 and 0.68 using leaf and canopy reflectance, respectively. The most relevant wavelengths for predicting grain yield were associated with photosynthetic capacity (495?680 nm), red inflection point (680?780 nm) and plant water status (900, 970, and 1450 nm, 1150?1260 nm, and 1520?1540 nm). Additional wavelengths based on leaf (800, 1000, and 1260?1830 nm) and canopy (988?999 nm and 1430?1640 nm) reflectance of unknown physiological relevance were also identified for prediction of grain yield. Caution must be exercised before integrating our spectral reflectance approach into a breeding program because this is a pilot study based on a single location and season.",
+        "lang": "eng"
+    },
+    "appid": "10883_3147",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3147"
+}}

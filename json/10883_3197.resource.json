@@ -1,0 +1,139 @@
+{"resource": {
+    "citation": "",
+    "issn": "1684-5315",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kenya",
+        "uri": [
+            "http://sws.geonames.org/192950",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:49Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3197",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3197"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3197"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3197",
+    "creator": [
+        {
+            "id": 523853470,
+            "value": "Murenga, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/523853470"
+        },
+        {
+            "id": 992643481,
+            "value": "Danson, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/992643481"
+        },
+        {
+            "id": 568815455,
+            "value": "Mugo, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/568815455"
+        },
+        {
+            "id": 359596698,
+            "value": "Githiri, S.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/359596698"
+        },
+        {
+            "id": 1423695280,
+            "value": "Wanjala, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1423695280"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3197/1/97696.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 250813
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3197/2/97696.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 23467
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3197/3/97696.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6935
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3197/1/97696.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3197/2/97696.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3197/3/97696.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3197"
+        }
+    },
+    "extent": "",
+    "page": "11181-11186",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -49,49 +49,22 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                0.6347
-            ],
-            "value": "tubers",
-            "uri": [
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_7998"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6171
-            ],
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "mineral fertilizers",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_27870"
-            ]
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27870"
         },
         {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "density",
             "uri": "http://aims.fao.org/aos/agrovoc/c_2186"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tubers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7998"
         }
     ],
     "description": {

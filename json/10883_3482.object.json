@@ -1,0 +1,159 @@
+{"object": {
+    "title": {
+        "value": "Diagnosis y planeacion: Productividad del suelo",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:36Z",
+    "created": "2014-03-13T00:35:03Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil fertility",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7170",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "diagnosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2238",
+                "http://aims.fao.org/aos/agrovoc/c_2238",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil texture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7199",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil chemicophysical properties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7182",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soil water content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7208",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "acid soils",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_89",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nutritive value",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5278",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "saline alkali soils",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6750",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "saline sodic soils",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6750",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3482",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3482"
+}}

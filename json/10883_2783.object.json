@@ -1,0 +1,162 @@
+{"object": {
+    "title": {
+        "value": "Frequency of photoperiod-insensitive Ppd-A1a alleles in tetraploid, hexaploid and synthetic hexaploid wheat germplasm",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flowering",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "photoperiod insensitivity",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "adaptation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_117",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hexaploid wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "synthetic hexaploid wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8715
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7405
+            ],
+            "value": "alleles",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8724"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                1
+            ],
+            "value": "hexaploids",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24400"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "photoperiod",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5809"
+        }
+    ],
+    "description": {
+        "value": "Differences in photoperiod sensitivity are widely used in wheat breeding to provide adaptation to diverse agronomic environments. Two photoperiod insensitive (PI) mutations in the A genome (Ppd-A1a alleles) were previously identified using near-isogenic lines of tetraploid durum wheat. We show that these Ppd-A1a alleles predominate in modern durum wheat but are absent from wild tetraploid wheat and from conventional hexaploid wheat, suggesting they were selected for improved adaptation during durum cultivation. To increase genetic diversity in hexaploid wheat, synthetic hexaploid wheat lines were developed at CIMMYT by hybridizing elite durum lines with Aegilops tauschii accessions. Ppd-A1a alleles from durum wheat were found in 71.4% of 447 synthetic hexaploids and 9.6% of 115 advanced selections. Backcrosses to hexaploid wheat showed that the durum Ppd-A1a alleles conferred a PI phenotype and that one allele was intermediate between known B and D genome mutations, providing a new source of flowering time variation in hexaploid wheat and the potential for novel combinations of PI alleles",
+        "lang": "eng"
+    },
+    "appid": "10883_2783",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2783"
+}}

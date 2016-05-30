@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Low-nitrogen stress tolerance and nitrogen agronomic efficiency among maize inbreds: comparison of multiple indices and evaluation of genetic variation",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic variation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15975",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "low-n stress tolerance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "n-agronomic efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "n-use efficiency",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7077,
+                0.7077,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.666
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "broad-sense heritability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1373982832607"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8525,
+            "value": "agronomic traits",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_210"
+        }
+    ],
+    "description": {
+        "value": "Limited information is available on genetic variation in low-nitrogen (low-N) stress tolerance and N-use efficiency (NUE) among maize inbreds. To unveil this information, a panel of 189 diverse maize inbred lines was evaluated under contrasting levels of N availability over 2 years. Low-N agronomic efficiency (LNAE), absolute grain yield (GY) at low-N conditions, and the ratio between GY at low-N and optimum-N conditions were taken into account to represent low-N tolerance. Additionally, N-agronomic efficiency (NAE) along with other agronomic traits was also analyzed. Analysis of variance revealed significant effects of genotype on LNAE, NAE, and GY. The estimated broad-sense heritability was 0.38 for LNAE while it was only 0.11 for NAE, implying that selection based on LNAE should be more effective than NAE. LNAE exhibited highly positive genotypic and phenotypic correlations with GY, ear kernel number (EKN), kernel weight, plant height (PH), and chlorophyll content at low-N conditions, while it was negatively correlated with grain-N content and anthesis-silking interval. Path analysis indicated that the EKN at low-N stress had the highest positive effects on LNAE.",
+        "lang": "eng"
+    },
+    "appid": "10883_3136",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3136"
+}}

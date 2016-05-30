@@ -1,0 +1,178 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Nepal",
+        "uri": [
+            "http://sws.geonames.org/1282988",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+        ]
+    },
+    "updatedDate": "2013-06-30T05:24:34Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3080",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3080"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3080"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3080",
+    "creator": [
+        {
+            "id": 1780706494,
+            "value": "Tiwari, T.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1780706494"
+        },
+        {
+            "id": 354315839,
+            "value": "Ortiz-Ferrara, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/354315839"
+        },
+        {
+            "id": 1119217424,
+            "value": "Urrea, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1119217424"
+        },
+        {
+            "id": 836435065,
+            "value": "Katuwal, R.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/836435065"
+        },
+        {
+            "id": 1779414572,
+            "value": "Koirala, K.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1779414572"
+        },
+        {
+            "id": 858541714,
+            "value": "Prasad, R.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/858541714"
+        },
+        {
+            "id": 215968940,
+            "value": "Gurung, D.B.",
+            "type": "person",
+            "uri": "/cimmyt/person/215968940"
+        },
+        {
+            "id": 434163032,
+            "value": "Sharma, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/434163032"
+        },
+        {
+            "id": 1092940479,
+            "value": "Hamal, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1092940479"
+        },
+        {
+            "id": 629630503,
+            "value": "Bhandari, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/629630503"
+        },
+        {
+            "id": 1447736845,
+            "value": "Thapa, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1447736845"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3080/1/93317.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 589383
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3080/2/93317.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 36926
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3080/3/93317.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5896
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3080/1/93317.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3080/2/93317.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3080/3/93317.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3080"
+        }
+    },
+    "extent": "",
+    "page": "144-151",
+    "coverage": [
+        "Nepal",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

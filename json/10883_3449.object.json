@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Gene pools and the genetic architecture of domesticated cowpea",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2014-03-05T17:59:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6886
+            ],
+            "value": "gene pools",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3212"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "cowpeas",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1938"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Cowpea [Vigna unguiculata (L.) Walp.] is a major tropical legume crop grown in warm to hot areas throughout the world and especially important to the people of sub-Saharan Africa where the crop was domesticated. To date, relatively little is understood about its domestication origins and patterns of genetic variation. In this study, a worldwide collection of cowpea landraces and African ancestral wild cowpea was genotyped with more than 1200 single nucleotide polymorphism markers. Bayesian inference revealed the presence of two major gene pools in cultivated cowpea in Africa. Landraces from gene pool 1 are mostly distributed in western Africa while the majority of gene pool 2 are located in eastern Africa. Each gene pool is most closely related to wild cowpea in the same geographic region, indicating divergent domestication processes leading to the formation of two gene pools. The total genetic variation within landraces from countries outside Africa was slightly greater than within African landraces. Accessions from Asia and Europe were more related to those from western Africa while accessions from the Americas appeared more closely related to those from eastern Africa. This delineation of cowpea germplasm into groups of genetic relatedness will be valuable for guiding introgression efforts in breeding programs and for improving the efficiency of germplasm management.",
+        "lang": "eng"
+    },
+    "appid": "10883_3449",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3449"
+}}

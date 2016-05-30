@@ -131,6 +131,18 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 0.7718,
+            "value": "vertisols",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8199"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9677,
+            "value": "minimum tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_32734"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 1,
             "value": "conservation tillage",
             "uri": "http://aims.fao.org/aos/agrovoc/c_33445"

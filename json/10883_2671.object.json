@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Quantitative trait loci in bread wheat (Triticum aestivum L.) associated with resistance to stripe rust",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:19Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "audpc",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "composite interval mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf tip necrosis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stripe rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssr markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.821
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8097,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Stripe rust is an important wheat disease worldwide and resistance to stripe rust is often not controlled by race-specific resistance genes. To identify quantitative trait loci (QTL) affecting quantitative resistance to stripe rust, 329 F2:3 families from a cross between highly resistant winter type cv. MV17 and highly susceptible spring type local cv. Bolani were used. The population was evaluated for adult plant resistance to pathotype 134E134A+ of Puccinia striiformis, in the field condition and area under the disease progress curve (AUDPC) was calculated. Fifty six polymorphic SSR markers between parental genotypes were screened in the population and linkage map was constructed using these markers. Based on composite interval mapping (CIM) 14 regions on nine (4A, 1B, 2B, 3B, 4B, 5B, 6B, 2D and 7D) out of the 21 wheat chromosomes were significantly associated with AUDPC. The effect of QTLs varied from 0.01 to 8.00% giving an aggregate effect of 34.3% for AUDPC. Leaf tip necrosis (LTN) was also recorded as presence and absence and the phenotype was used as a dominant Mendelian morphologic marker. Linkage analysis revealed association between LTN and Xbarc352 SSR marker on chromosome 7D.",
+        "lang": "eng"
+    },
+    "appid": "10883_2671",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2671"
+}}

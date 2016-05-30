@@ -1,0 +1,126 @@
+{"resource": {
+    "citation": "",
+    "issn": "1300-011X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:12:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2815",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2815"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2815"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2815",
+    "creator": [
+        {
+            "id": 1770272212,
+            "value": "Ghabeish, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1770272212"
+        },
+        {
+            "id": 1909096674,
+            "value": "Saleh, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1909096674"
+        },
+        {
+            "id": 944468615,
+            "value": "Dababat, A.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/944468615"
+        }
+    ],
+    "publisher": {
+        "id": 997430188,
+        "value": "http://mistug.tubitak.gov.tr/bdyim/abs.php?dergi=tar&rak=0902-45",
+        "type": "organization",
+        "uri": "/cimmyt/organization/997430188"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2815/1/94630.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 177762
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2815/2/94630.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 22474
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2815/3/94630.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4230
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2815/1/94630.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2815/2/94630.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2815/3/94630.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2815"
+        }
+    },
+    "extent": "",
+    "page": "415-420",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

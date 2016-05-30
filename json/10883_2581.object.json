@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Relationships between height and yield in near-isogenic spring wheats that contrast for major reduced height genes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:04Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotype-by-environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "semidwarf",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gxe",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rht",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "The effect of two major dwarfing (Rht-B1b and Rht-D1b) genes varies with environment. Near-isogenic pairs (i.e., tall and semidwarf) of six spring wheat lines, included in the International Adaptation Trial (IAT), were grown in 81 trials around the world from 2001 to 2004. Trial yields ranged from 1 to 8 t ha-1 with a mean of ca. 4 t ha-1. Overall, the yield advantage of the lines possessing the dwarfing gene was ca. 10% and was particularly evident in trials where the mean height of semidwarf isolines exceeded ca. 80 cm. However, the yield advantage was greater in the slightly taller and older lines (Pavon and Galvez) than in the newer lines Nesser and Kauz and the two durum lines. Sixteen pairs of semidwarf/tall near-isolines were grown in six managed drought environment trials at CIMMYT in northwestern Mexico. In these trials, height and yield differences were small and/or negligible in the most droughted environment (2.5 t ha-1) and the slope of yield versus height for each isoline pair became consistently negative with increase in irrigation. In the IAT, the slope of the yield versus height was much more variable at low heights or yields, presumably due to the fact that there were many more factors driving the response. Even at the point where the slope became consistently negative (ca. between 2 and 4 t ha-1), there were some trials where tall isolines equaled or exceeded the yield of semidwarf isolines, particularly in the most recent developed cultivar, Kauz.",
+        "lang": "eng"
+    },
+    "appid": "10883_2581",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2581"
+}}

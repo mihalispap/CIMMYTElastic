@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kenya",
+        "uri": [
+            "http://sws.geonames.org/192950",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+        ]
+    },
+    "updatedDate": "2015-09-07T17:10:17Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CASFESA Project;",
+    "appid": "10883_4454",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Presentation",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4454"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4454"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4454",
+    "creator": [
+        {
+            "id": 1213899506,
+            "value": "Jaleta, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1213899506"
+        },
+        {
+            "id": 438920473,
+            "value": "Kassie, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/438920473"
+        },
+        {
+            "id": 373225855,
+            "value": "Marenya, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/373225855"
+        },
+        {
+            "id": 1021372934,
+            "value": "Muricho, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1021372934"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4454/1/Economic+and+Environmental+Benefits+of+SIPs.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1073001
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4454/2/Economic+and+Environmental+Benefits+of+SIPs.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4454/3/Economic+and+Environmental+Benefits+of+SIPs.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6914
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4454/1/Economic+and+Environmental+Benefits+of+SIPs.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4454/2/Economic+and+Environmental+Benefits+of+SIPs.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4454/3/Economic+and+Environmental+Benefits+of+SIPs.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4454"
+        }
+    },
+    "extent": "",
+    "page": "20 p.",
+    "coverage": "Kenya",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Kenya",
+    "doi": ""
+}}

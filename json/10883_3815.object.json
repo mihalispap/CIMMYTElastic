@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Compendium of selected meteorological data for the El Batan, Poza Rica, Tlaltizapan and Toluca Experiment Stations",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2014-03-13T01:05:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "meteorological stations",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4781",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "data analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "temperature",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7657",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rain",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6435",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "precipitation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mexico",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3815",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3815"
+}}

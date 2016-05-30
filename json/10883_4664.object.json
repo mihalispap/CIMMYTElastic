@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Maize variety options for Africa: Ghana",
+        "lang": "eng"
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-01-19T21:45:38Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "africa",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ghana",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6043,
+            "value": "varieties",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": [
+        {
+            "value": "Newly released maize varieties on display, Crops Research Institute, Kumasi",
+            "lang": "eng"
+        },
+        {
+            "value": "CIMMYT",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4664",
+    "language": {
+        "value": "",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4664"
+}}

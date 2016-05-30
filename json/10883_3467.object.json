@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Molecular mapping of high temperature tolerance in bread wheat adapted to the Eastern Gangetic Plain region of India",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "terminal heat stress",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quantitative trait loci",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "double haploid",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ssr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain filling",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_26785"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7134
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "haploids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3490"
+        }
+    ],
+    "description": {
+        "value": "The inheritance of tolerance to high temperature stress during the grain filling period was investigated via a QTL analysis based on 138 doubled haploid progeny of a cross between the wheat cultivars Berkut and Krichauff. Performance data were collected from three seasons, in each of which the material was planted both at the conventional time and a month later. A heat sensitivity index (HSI) was also used to monitor the effect of high temperature on grain yield, thousand grain weight, grain filling duration and canopy temperature. Using composite interval mapping, seven stable QTL were identified for HSI of traits, mapping to chromosomes 1D, 6B, 2D and 7A. Three of the QTL related to HSI of grain filling duration, two to thousand grain weight and one each to grain yield and canopy temperature. A region of chromosome 1D harbored a QTL determining HSI of both thousand grain weight and canopy temperature. The QTL analysis for the direct traits GY, TGW, GFD and CT led to detection of 22 QTLs spread over to 17 chromosomal regions. Of these 13 QTLs were shown under normal sown, while 9 under the heat stress. A QTL for TGW on chromosome 6B under normal sown co-located with HSI(TGW) QTL QHTgw.bhu-6BL. QTL × environment interactions were not observed for any of the grain filling duration associated loci.",
+        "lang": "eng"
+    },
+    "appid": "10883_3467",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3467"
+}}

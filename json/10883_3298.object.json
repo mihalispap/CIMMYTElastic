@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Fine mapping of leaf rust resistance Genelrzh84 using expressed sequence tag and sequence-tagged site markers, and Allelism with other genes on wheat chromosome 1B",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "allelism test",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6244,
+            "value": "polymerase chain reaction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34079"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8715,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Zhou 8425B, possessing the leaf rust resistance gene LrZH84, is an elite wheat (Triticum aestivum) parental line in the Yellow-Huai Valley region of China. In the present study, 2,086 F2 plants derived from Zhou 8425B/Chinese Spring were used for fine mapping of LrZH84 with expressed sequence tag (EST) and sequence-tagged site (STS) markers. Seventy inter-simple sequence repeat EST and STS markers on 1BL were used to screen the two parents and resistant and susceptible bulks; those polymorphic were used to analyze the entire F2 population. Three EST markers (BF474863, BE497107, and CD373538) were closely linked to LrZH84, with genetic distances of 0.7, 0.7, and 1.7 cM, respectively. STS marker Hbsf-1 was developed from the sequences of polymerase chain reaction fragments amplified from EST marker BF474863. LrZH84 was 8.19 cM proximal to Lr44, but may be allelic to LrXi and LrG98 although they showed different reactions with some Puccinia triticina pathotypes.",
+        "lang": "eng"
+    },
+    "appid": "10883_3298",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3298"
+}}

@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Edificio Norman E. Borlaug",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:34Z",
+    "created": "2014-03-13T00:47:18Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "building construction",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1140",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "information services",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3865",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "training",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7861",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3531",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3531"
+}}

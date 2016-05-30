@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping of adult-plant resistance to stripe rust in a population derived from common wheat cultivars Naxos and Shanghai 3/Catbird",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:54Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6155,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7049,
+            "value": "puccinia striiformis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27339"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "common wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6002,
+            "value": "shanghai",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7024"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8068,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "Stripe rust, caused by Puccinia striiformis Westend. f. sp. tritici Erikss., is a severe foliar disease of common wheat (Triticum aestivum L.) worldwide. Use of adult-plant resistance (APR) is an efficient approach to provide long-term protection of crops from the disease. The German spring wheat cultivar Naxos showed a high level of APR to stripe rust in the field. To identify the APR genes in this cultivar, a mapping population of 166 recombinant inbred lines (RILs) was developed from a cross between Naxos and Shanghai 3/Catbird (SHA3/CBRD), a moderately susceptible line developed by CIMMYT. The RILs were evaluated for maximum disease severity (MDS) in Sichuan and Gansu in the 2009?2010 and 2010?2011 cropping seasons. Composite interval mapping (CIM) identified four QTL, QYr.caas-1BL.1RS, QYr.caas-1DS, QYr.caas-5BL.3 and QYr.caas-7BL.1, conferring stable resistance to stripe rust across all environments, each explaining 1.9?27.6, 2.1?5.8, 2.5?7.8 and 3.7?9.1 % of the phenotypic variance, respectively. QYr.caas-1DS flanked by molecular markers XUgwm353?Xgdm33b was likely a new QTL for APR to stripe rust. Because the interval between flanking markers for each QTL was less than 6.5 cM, these QTL and their closely linked markers are potentially useful for improving resistance to stripe rust in wheat breeding.",
+        "lang": "eng"
+    },
+    "appid": "10883_2926",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2926"
+}}

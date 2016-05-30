@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Advantages and limitation of lab-on-a-chip technique in the analysis of wheat proteins",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:56Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat proteins",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microchip electrophoresis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6039
+            ],
+            "value": "gliadin",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11169"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "electrophoresis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2523"
+        }
+    ],
+    "description": {
+        "value": "Based on previous research on validating lab-on-a-chip data on wheat protein analysis, a comprehensive work has been carried out with the intent to demonstrate the potential of the technique for wheat related fundamental research, breeding and food industry. Sample preparation and separation methodologies were investigated for the main wheat polypeptide classes: albumins, globulins, gliadins and glutenin subunits (GS). The work was carried out on a sample population originated from Western Siberia with different genetic background providing data, and characterizing their potential interest for future breeding work. LOC results are compared with corresponding reference methods (MALDI-TOF and RP-HPLC). The research revealed that, the current technology is capable for fast profile analysis, recognizing the minor qualitative, and typical quantitative differences in the albumin and globulin protein composition. While the gliadin separation showed poor results, the method seems to be able to identify the high molecular glutenin allelic composition, and to differentiate some of the low molecular weight glutenin alleles, too. Our results provide new insights into a possible rapid and simple way for grain protein profiling.",
+        "lang": "eng"
+    },
+    "appid": "10883_2934",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2934"
+}}

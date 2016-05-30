@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "India",
+        "uri": [
+            "http://sws.geonames.org/1269750",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+        ]
+    },
+    "updatedDate": "2015-02-10T23:39:16Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "BISA Report Series;No. 1",
+    "appid": "10883_4198",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": "2015",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4198"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4198"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4198",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": 2038997,
+        "value": "BISA",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2038997"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/1/99742.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2063105
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/2/license_rdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1536
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/3/99742.pdf.jpg",
+                "label": "",
+                "type": "application/rdf+xml; charset=utf-8",
+                "size": 5201
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/4/99742.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/1/99742.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/2/license_rdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/3/99742.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4198/4/99742.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4198"
+        }
+    },
+    "extent": "",
+    "page": "38 p.",
+    "coverage": [
+        "India",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": 650946320,
+        "value": "Borlaug lnstitute for South Asia",
+        "type": "person",
+        "uri": "/cimmyt/person/650946320"
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "New Delhi (India)",
+    "doi": ""
+}}

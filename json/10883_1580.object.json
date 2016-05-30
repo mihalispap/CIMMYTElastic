@@ -43,34 +43,16 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "mustard",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_25488"
-            ]
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25488"
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "sustainability",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_33560"
-            ]
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33560"
         },
         {
             "vocabulary": "agrovoc",
@@ -107,18 +89,6 @@
             "score": 1,
             "value": "nutrient management",
             "uri": "http://aims.fao.org/aos/agrovoc/c_330697"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.9539,
-            "value": "tillage",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7771"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6736,
-            "value": "millets",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4838"
         }
     ],
     "description": {

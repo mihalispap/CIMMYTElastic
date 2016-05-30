@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Mexico y el CIMMYT",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:34Z",
+    "created": "2014-03-13T00:47:21Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agriculture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cooperation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1855",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research institutions",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6514",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "sus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331213"
+        }
+    ],
+    "description": {
+        "value": "Documento informativo que subraya las aportaciones del CIMMYT a la agricultura mexicana, con el proposito de mostrar el balance que existe entre el apoyo que el CIMMYT recibe de Mexico y el flujo reciproco del Centro hacia el pais anfitrion. Fases organizativas del CIMMYT, sus actividades, su impacto alrededor del mundo y sus contribuciones presentes y proyectadas a la agricultura mexicana.",
+        "lang": "spa"
+    },
+    "appid": "10883_3552",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3552"
+}}

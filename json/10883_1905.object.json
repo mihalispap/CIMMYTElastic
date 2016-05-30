@@ -3,39 +3,9 @@
         "value": "Physical mapping of Puroindoline b-2 genes in wheat using 'Chinese spring' chromosome group 7 deletion lines",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:30Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:55Z",
     "subject": [
-        {
-            "vocabulary": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                0.8583
-            ],
-            "value": "genes",
-            "uri": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3214"
-            ]
-        },
         {
             "vocabulary": [
                 "",
@@ -53,9 +23,9 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.6328,
-            "value": "triticum aestivum",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+            "score": 0.6176,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
         },
         {
             "vocabulary": "agrovoc",

@@ -1,0 +1,141 @@
+{"resource": {
+    "citation": "",
+    "issn": "1594-5685",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Tunisia",
+        "uri": [
+            "http://sws.geonames.org/2464461",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Tunisia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:09:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2167",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2010",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2167"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2167"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2167",
+    "creator": [
+        {
+            "id": 1741331322,
+            "value": "La Rovere, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1741331322"
+        },
+        {
+            "id": 1288993821,
+            "value": "Thabet, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1288993821"
+        },
+        {
+            "id": 304648777,
+            "value": "Ammar, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/304648777"
+        },
+        {
+            "id": 488758297,
+            "value": "Sferi, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/488758297"
+        }
+    ],
+    "publisher": {
+        "id": 1296320108,
+        "value": "http://bit.ly/16PXZsI",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1296320108"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2167/1/93535.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 398990
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2167/2/93535.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 57307
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2167/3/93535.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7079
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2167/1/93535.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2167/2/93535.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2167/3/93535.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2167"
+        }
+    },
+    "extent": "",
+    "page": "13-23",
+    "coverage": [
+        "Tunisia",
+        "North Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

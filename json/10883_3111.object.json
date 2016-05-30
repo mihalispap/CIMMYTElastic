@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Genetic distance and hybrid value in tropical maize under P stress and non stress conditions in acid soils",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6662,
+                ""
+            ],
+            "value": "genetic distance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27530",
+                "http://aims.fao.org/aos/agrovoc/c_27530",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7998,
+                0.7998,
+                1,
+                ""
+            ],
+            "value": "heterosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                0.8116,
+                ""
+            ],
+            "value": "acid soils",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_89",
+                "http://aims.fao.org/aos/agrovoc/c_89",
+                "http://aims.fao.org/aos/agrovoc/c_89",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "p stress",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8015
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7452"
+            ]
+        }
+    ],
+    "description": {
+        "value": "An emphasis in maize breeding for areas with acid soils is the development of varieties with tolerance to P-deficiency plus high yield potential in acidic as well as normal soils. This study was carried out to assess the (i) genetic diversity within a set of tropical inbred lines developed from acid soil-tolerant populations; (ii) F1 yield performance, mid-parent heterosis (MPH), high-parent heterosis (HPH), and specific combining ability (SCA) in a diallel set of crosses under P stress (low P) and non-stress (high P) conditions; and (iii) the effect of P stress on the relationship between genetic distance (GD) and hybrid performance. Using field evaluation and molecular marker studies, the results show that these germplasm from the South American maize breeding program of CIMMYT for improving tolerance to acid soils had only a moderate level of genetic diversity. The utility of GD as a predictor of hybrid value is best up to a certain threshold, as correlations with GD became inconsistent when the inbred parents were greatly divergent. There was no correlation between GD and F1 grain yield, MPH, HPH and SCA when the GD was >0.77. The high correlation of GD with F1 grain yield and with SCA in specific subsets of crosses having a narrower range of GD shows that GD can be put to practical use in predicting hybrid performance. The highest correlation between GD and SCA, seen in the subset of crosses between lines within a cluster, was reasonably stable even when the environment had a severe effect on yield.",
+        "lang": "eng"
+    },
+    "appid": "10883_3111",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3111"
+}}

@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "NIR spectroscopy: An alternative for soil analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:27Z",
+    "created": "2013-11-23T00:49:22Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chemometric predictions",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nir",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stable isotopes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "soil carbon",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "soil nitrogen",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tillage",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "soil",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7156"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "prediction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3041"
+        }
+    ],
+    "description": {
+        "value": "Advances in laboratory instrumentation and chemometrics provide alternatives to traditional methods of conducting soil chemical analysis. One of these is infrared diffuse reflectance spectroscopy in the near-infrared spectral range (NIRS). Herein we report the results of a multinational study to develop useful calibrations associating NIRS spectra with laboratory-measured results for total soil carbon (C), total soil nitrogen (N), ä13C, and ä15N from a single soil site in Mexico subjected to zero- and conventional-tillage regimens with and without crop residues and crop rotations of maize and wheat across 16 years. Modified partial least squares regression (MPLS) was used to obtain useful NIR predictions for total soil C and N, with ratio performance deviation (RPD) values of 6.8 and 2.6, respectively. Corresponding multiple correlation coefficients (RSQs) for C and N were 0.98 and 0.85, with standard errors of prediction (SEPs) of ±0.45 g C kg?1 and ±0.09g Nkg?1, respectively. The generation of ä15N and ä13C models produced different NIR recordings in soils with and without crop residues. Application of discriminant partial least squares (DPLS) statistics to the NIR spectral data allowed us to discriminate soils with and without residues. The prediction confidence for stable isotopes was 90% (internal validation) and 94% (external validation). Modified partial least squares regression was used to estimate ä15N and ä13C. Ratio performance deviation, RSQ, and SEP values obtained for ä13C and ä15N were 2.44 and 3.57, 0.83 and 0.81, ±0.5? (parts per thousand) and ±0.45? in soils with residues and 2.5 and 3.8, 0.93 and 0.92, and ±0.2? and ±0.23? in soils without residues, respectively. Overall, results obtained with NIRS were comparable to those obtained using conventional analytical methods, a finding that has wide relevance to agricultural soils and environmental studies in tropical locations. However, further testing is necessary to confirm that the calibration models are neither site nor instrument specific.",
+        "lang": "eng"
+    },
+    "appid": "10883_3228",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3228"
+}}

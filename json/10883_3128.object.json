@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "Resistance of three-way cross experimental maize hybrids to post-harvest insect pests, the larger grain borer (Prostephanus truncatus) and maize weevil (Sitophilus zeamais)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:41Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "host resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.8568,
+                1,
+                0.8801,
+                ""
+            ],
+            "value": "prostephanus truncatus",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_30002",
+                "http://aims.fao.org/aos/agrovoc/c_30002",
+                "http://aims.fao.org/aos/agrovoc/c_30002",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.9665,
+                1,
+                1,
+                ""
+            ],
+            "value": "sitophilus zeamais",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                "http://aims.fao.org/aos/agrovoc/c_26683",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "post-harvest loss",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9503
+            ],
+            "value": "hybrids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3707"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6831
+            ],
+            "value": "pests",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5741"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hosts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3673"
+        }
+    ],
+    "description": {
+        "value": "The larger grain borer Prostephanus truncatus Horn and the maize weevil Sitophilus zeamais Motschulsky are important pests of stored maize in the tropics, particularly where maize is stored on-farm with little control of moisture content and without use of pesticides. This study was undertaken to determine level of resistance among new experimental maize hybrids against P. truncatus and S. zeamais. Out of the 54 experimental hybrids tested, eight hybrids were resistant, six were susceptible and the remaining 40 hybrids were moderately resistant. Five hybrids showed considerable reduction in losses for both P. truncatus and S. zeamais (CKPH08013, CKPH08021, CKPH08003, CKPH08004 and CKPH08009), suggesting that they contained genes that confer resistance to the two pests. Low grain weight loss, powder production and low insect multiplication on resistant grains reduce the negative impact of the two beetle pests. Therefore, host plant resistance can be used as a vital component of an integrated pest management strategy against P. truncatus and S. zeamais.",
+        "lang": "eng"
+    },
+    "appid": "10883_3128",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3128"
+}}

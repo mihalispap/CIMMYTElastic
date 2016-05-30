@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Association analysis of historical bread wheat germplasm using additive genetic covariance of relatives and population structure",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:07Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9487
+            ],
+            "value": "additives",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_118"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7995
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8561,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9856,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7595,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6578,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic covariance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29797"
+        }
+    ],
+    "description": {
+        "value": "Linkage disequilibrium can be used for identifying associations between traits of interest and genetic markers. This study used mapped diversity array technology (DArT) markers to find associations with resistance to stem rust, leaf rust, yellow rust, and powdery mildew, plus grain yield in five historical wheat international multienvironment trials from the International Maize and Wheat Improvement Center (CIMMYT). Two linear mixed models were used to assess marker&ndash;trait associations incorporating information on population structure and covariance between relatives. An integrated map containing 813 DArT markers and 831 other markers was constructed. Several linkage disequilibrium clusters bearing multiple host plant resistance genes were found. Most of the associated markers were found in genomic regions where previous reports had found genes or quantitative trait loci (QTL) influencing the same traits, providing an independent validation of this approach. In addition, many new chromosome regions for disease resistance and grain yield were identified in the wheat genome. Phenotyping across up to 60 environments and years allowed modeling of genotype x environment interaction, thereby making possible the identification of markers contributing to both additive and additive x additive interaction effects of traits.",
+        "lang": "eng"
+    },
+    "appid": "10883_2599",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2599"
+}}

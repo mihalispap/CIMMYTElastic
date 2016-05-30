@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Zea mays (L.) P1 locus for cob glume color identified as a post-domestication selection target with an effect on temperate maize genomes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:03Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genome-wide association study",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "artificial selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37565",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "linkage disequilibrium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crop genome evolution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        }
+    ],
+    "description": {
+        "value": "Artificial selection during domestication and post-domestication improvement results in loss of genetic diversity near target loci. However, the genetic locus associated with cob glume color and the nature of the genomic pattern surrounding it was elusive and the selection effect in that region was not clear. An association mapping panel consisting of 283 diverse modern temperate maize elite lines was genotyped by a chip containing over 55,000 evenly distributed SNPs. Ten-fold resequencing at the target region on 40 of the panel lines and 47 tropical lines was also undertaken. A genome-wide association study (GWAS) for cob glume color confirmed the P1 locus, which is located on the short arm of chromosome 1, with a ; log10P value for surrounding SNPs higher than the Bonferroni threshold ( < 0.001) when a mixed linear model (MLM) was implemented. A total of 26 markers were identified in a 0.78 Mb region surrounding the P1 locus, including 0.73 Mb and 0.05 Mb upstream and downstream of the P1 gene, respectively. A clear linkage disequilibrium (LD) block was found and LD decayed very rapidly with increasing physical distance surrounding the P1 locus. The estimates of ; and Tajima's D were significantly (P < 0.001) lower at both ends compared to the locus. Upon comparison of temperate and tropical lines at much finer resolution by resequencing (180-fold finer than chip SNPs), a more structured LD block pattern was found among the 40 resequenced temperate lines. All evidence indicates that the P1 locus in temperate maize has not undergone neutral evolution but has been subjected to artificial selection during post-domestication selection or improvement. The information and analytical results generated in this study provide insights as to how breeding efforts have affected genome evolution in crop plants.",
+        "lang": "eng"
+    },
+    "appid": "10883_3414",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3414"
+}}

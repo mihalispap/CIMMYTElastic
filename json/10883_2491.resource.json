@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:11:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2491",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2006",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2491"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2491"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2491",
+    "creator": [
+        {
+            "id": 2088422090,
+            "value": "Leyva-Mir, S.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2088422090"
+        },
+        {
+            "id": 399785683,
+            "value": "Gilchrist-Saavedra, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/399785683"
+        },
+        {
+            "id": 548483986,
+            "value": "Zavaleta-Mejia, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/548483986"
+        },
+        {
+            "id": 748146832,
+            "value": "Khairallah, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/748146832"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2491/1/89247.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 64192
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2491/2/89247.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 47349
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2491/3/89247.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5985
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2491/1/89247.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2491/2/89247.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2491/3/89247.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2491"
+        }
+    },
+    "extent": "",
+    "page": "315-323",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

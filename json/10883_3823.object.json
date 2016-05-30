@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "A general guide to data preparation for computer analysis of farm survey data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:45Z",
+    "created": "2014-03-13T01:05:19Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "surveys",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "data analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15962",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "computers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1799",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "economic analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2469",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "training",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7861",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7585
+            ],
+            "value": "data",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_49816"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "farm surveys",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28693"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3823",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3823"
+}}

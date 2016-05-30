@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "0733-5210",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-30T05:24:50Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3200",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2009",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3200"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3200"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3200",
+    "creator": [
+        {
+            "id": 652180560,
+            "value": "Tallada, J.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/652180560"
+        },
+        {
+            "id": 1516184394,
+            "value": "Palacios-Rojas, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1516184394"
+        },
+        {
+            "id": 712159617,
+            "value": "Armstrong, P.R.",
+            "type": "person",
+            "uri": "/cimmyt/person/712159617"
+        }
+    ],
+    "publisher": {
+        "id": 569264247,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0733521009001325",
+        "type": "organization",
+        "uri": "/cimmyt/organization/569264247"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3200/1/97735.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 425874
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3200/2/97735.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 34479
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3200/3/97735.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6148
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3200/1/97735.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3200/2/97735.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3200/3/97735.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3200"
+        }
+    },
+    "extent": "",
+    "page": "381-387",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Growing degree days: A compendium of data for the El Batan, Poza Rica, Tlatizapan and Toluca experiment stations",
+        "lang": "eng"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2014-03-13T00:58:08Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "heat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "environmental temperature",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2598",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "site factors",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7087",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maturity",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4656",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "temperature",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7657"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "experiments",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        }
+    ],
+    "description": {
+        "value": "Growing degree days (GDD) is a parameter calculated as the average daily temperature less a predetermined base temperature. It is useful when maize growing periods are compared between locations or seasons that differ markedly in temperature, allowing maturities to be standardized because GDD gives a quantitative measure of ambient environmental heat available to support plant growth. This publication reports GDD for the four CIMMYT Experiment Stations: El Batan, Poza Rica, Tlatizapan, and Toluca",
+        "lang": "eng"
+    },
+    "appid": "10883_3797",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3797"
+}}

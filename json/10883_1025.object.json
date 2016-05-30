@@ -3,7 +3,7 @@
         "value": "Determinants of fertilizer and manure use for maize production in Kiambu District, Kenya",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:41Z",
+    "updated": "2016-01-22T23:05:51Z",
     "created": "2012-01-06T05:10:01Z",
     "subject": [
         {
@@ -87,17 +87,14 @@
         {
             "vocabulary": [
                 "agrovoc",
-                "agrovoc",
                 ""
             ],
             "score": [
                 1,
-                0.9652,
                 ""
             ],
             "value": "maize",
             "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_12332",
                 "http://aims.fao.org/aos/agrovoc/c_12332",
                 ""
             ]
@@ -152,12 +149,6 @@
             "score": 1,
             "value": "inorganic fertilizers",
             "uri": "http://aims.fao.org/aos/agrovoc/c_27870"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.8082,
-            "value": "kenya",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4086"
         }
     ],
     "description": {

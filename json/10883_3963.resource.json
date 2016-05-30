@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-13T01:09:50Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "ASA Special Publication",
+    "appid": "10883_3963",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2003",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3963"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3963"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3963",
+    "creator": [
+        {
+            "id": 975535491,
+            "value": "Ladha, J.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/975535491"
+        },
+        {
+            "id": 170669630,
+            "value": "Hill, J.E.",
+            "type": "person",
+            "uri": "/cimmyt/person/170669630"
+        },
+        {
+            "id": 2119654246,
+            "value": "Duxbury, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2119654246"
+        },
+        {
+            "id": 959563682,
+            "value": "Gupta, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/959563682"
+        },
+        {
+            "id": 994844113,
+            "value": "Buresh, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/994844113"
+        }
+    ],
+    "publisher": {
+        "id": 2044683935,
+        "value": "American Society of Agronomy",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2044683935"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3963/1/76587.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 5611240
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3963/2/76587.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 707144
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3963/3/76587.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7009
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3963/1/76587.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3963/2/76587.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3963/3/76587.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3963"
+        }
+    },
+    "extent": "No. 65",
+    "page": "xix, 231 p.",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "0-89118-150-4",
+    "quality": "",
+    "place": "Madison, WI (USA)",
+    "doi": ""
+}}

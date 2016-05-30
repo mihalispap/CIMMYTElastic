@@ -3,7 +3,7 @@
         "value": "Distribution of Vp-1 alleles in Chinese white-grained landraces, historical and current wheat cultivars",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:46Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:37Z",
     "subject": [
         {
@@ -49,19 +49,10 @@
             ]
         },
         {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                1
-            ],
+            "vocabulary": "agrovoc",
+            "score": 1,
             "value": "cultivars",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_8157"
-            ]
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
         },
         {
             "vocabulary": [

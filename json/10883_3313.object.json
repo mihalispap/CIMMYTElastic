@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Development of a species-specific PCR to detect the cereal cyst nematode, Heterodera latipons",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-11-25T02:37:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "actin gene",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "diagnostics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "molecular detection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sequences",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "species-specific primer",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8251
+            ],
+            "value": "pcr",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34079"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heterodera",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3580"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "actin",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34984"
+        }
+    ],
+    "description": {
+        "value": "Several Heterodera species can reduce the yield of wheat and barley, among which H. avenae, H. filipjevi and H. latipons are economically the most important. Their identification, based on morphological characteristics, is not straightforward but can be made easier using molecular techniques. In this study, we developed species-specific primers for the detection of H. latipons. The actin gene of eight Heterodera species was partially sequenced and, after purifying and sequencing the PCR products, all sequences were aligned to find unique sites. The alignment showed moderate to very high similarities between the species. However, a small fragment of the actin gene was suitable for the construction of a potentially useful species-specific primer for H. latipons. The optimised PCR was subsequently tested with several populations of 14 Heterodera species and a single population of Punctodera punctata. Heterodera latipons was represented by 16 populations originating from six different countries. The primer set (Hlat-act), designed using AlleleID 7.73, was shown to be very specific. To test its sensitivity further, the PCR was conducted on DNA extracted from five second-stage juveniles (J2) of H. latipons mixed with five or 100 J2 belonging to H. avenae. The PCR was able to detect up to 1:10 dilution of the DNA obtained from five J2. The results showed that a specific and sensitive H. latipons species-specific PCR was constructed.",
+        "lang": "eng"
+    },
+    "appid": "10883_3313",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3313"
+}}

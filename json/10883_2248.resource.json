@@ -1,0 +1,137 @@
+{"resource": {
+    "citation": "",
+    "issn": "1742-1705",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nicaragua",
+            "uri": [
+                "http://sws.geonames.org/3617476",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nicaragua"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/7729892",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:09:52Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2248",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2248"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2248"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2248",
+    "creator": [
+        {
+            "id": 1118296110,
+            "value": "Beuchelt, T.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1118296110"
+        },
+        {
+            "id": 933621229,
+            "value": "Zeller, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/933621229"
+        }
+    ],
+    "publisher": {
+        "id": 520666311,
+        "value": "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8567846",
+        "type": "organization",
+        "uri": "/cimmyt/organization/520666311"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2248/1/97230.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 680533
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2248/2/97230.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 81192
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2248/3/97230.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3791
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2248/1/97230.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2248/2/97230.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2248/3/97230.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2248"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "Nicaragua",
+        "Central America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

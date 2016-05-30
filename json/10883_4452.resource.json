@@ -1,0 +1,113 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2015-09-07T16:54:44Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CASFESA Project;",
+    "appid": "10883_4452",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613913,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613913"
+        }
+    ],
+    "format": "",
+    "type": "Presentation",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4452"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4452"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4452",
+    "creator": {
+        "id": 1213899506,
+        "value": "Jaleta, M.",
+        "type": "person",
+        "uri": "/cimmyt/person/1213899506"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4452/1/Conservation+Agriculture+and+Smallholder+Farmers+in+Eastern+and+Southern+Africa.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1947219
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4452/2/Conservation+Agriculture+and+Smallholder+Farmers+in+Eastern+and+Southern+Africa.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4452/3/Conservation+Agriculture+and+Smallholder+Farmers+in+Eastern+and+Southern+Africa.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5963
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4452/1/Conservation+Agriculture+and+Smallholder+Farmers+in+Eastern+and+Southern+Africa.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4452/2/Conservation+Agriculture+and+Smallholder+Farmers+in+Eastern+and+Southern+Africa.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4452/3/Conservation+Agriculture+and+Smallholder+Farmers+in+Eastern+and+Southern+Africa.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4452"
+        }
+    },
+    "extent": "",
+    "page": "14 p.",
+    "coverage": "South and East Africa",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Kenya",
+    "doi": ""
+}}

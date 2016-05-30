@@ -140,15 +140,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.7983,
-            "value": "sorghum",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7244"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 1,
             "value": "smallholders",
             "uri": "http://aims.fao.org/aos/agrovoc/c_14343"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7983,
+            "value": "sorghum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7244"
         }
     ],
     "description": {

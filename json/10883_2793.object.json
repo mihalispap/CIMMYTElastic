@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Relationship of mixograph parameters with farinograph and extensograph parameters, and bread-making quality traits",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bread-making quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dough rheology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixograph",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "extensographs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28366"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1071"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rheology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28543"
+        }
+    ],
+    "description": {
+        "value": "Prediction of end-use quality using parameters from simple testing instruments as Mixograph is critical for efficient selectionin breeding programs for wheat (Triticum aestivum L.) quality improvement. In this study, 241 wheat cultivars and advanced lines were sown in Beijing, Jinan, Anyang, and Zhengzhou, China from 2002 to 2009 growing seasons. The Mixograph parameters of these cultivars were measured for determining their associations with Farinograph and Extensograph parameters, and bread-making quality traits. The multiple stepwise regression analysis revealed that Farinograph stability time, Extensograph maximum resistance and energy area, and bread score could be efficiently predicted by Mixograph midline peak value, peak width, peak integral, time x value, and tail value, which accounted for 61.0?68.0% of the phenotypic variation, with the fitting degrees of 0.83 and 0.95 for the model of Farinograph stability time and Extensograph energy area, respectively. Farinograph water absorption and development time, Extensograph extensibility, and loaf volume could be predicted by Mixograph midline peak value, peak width, peak integral, right value, right integral, and time x integral, accounting for 46.0 - 55.0% of the phenotypic variance. The Midline peak integral presented as the most important parameter for predicting Extensograph maximum resistance and energy area, and explained 58.7% and 59.7% of the variances, respectively. Midline peak integral and peak value were the two most important parameters when using Mixograph for quality testing.",
+        "lang": "eng"
+    },
+    "appid": "10883_2793",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2793"
+}}

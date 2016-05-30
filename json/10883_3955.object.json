@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Evaluating testing strategies for plant breeding field trials : redesigning a CIMMYT International Wheat Nursery",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T17:12:11Z",
+    "created": "",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheats",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        }
+    ],
+    "description": {
+        "value": "Genotypes produced from plant breeding programs\nfor annual crops are evaluated in multiyear,\nmultilocation field trials where a large number\nof genotypes grown in a few locations in the\nfirst year are progressively reduced by selection\nand tested in a greater number of locations in\nsuccessive years. Provided fixed resources are\nspecified, the efficiencies of testing strategies\ndiffering in the number of locations and replications\nused and in the number of genotypes\ntested in successive years can be evaluated by\nthree statistics (genetic repeatability, acceptance\nprobability, and potential gain) calculated\nfrom five variance components applicable\nto the field trials. The five variance components\nrequired are deployed genetic variance,\ngenotype-by-year, genotype-by-location, and\ngenotype-by-year-by-location interaction variances\nand the residual (error) variance. Strictly,\nknown variance components are required, but\nthe statistics and their standard errors can be\ncalculated using robust estimates of the variance\ncomponents obtained from a combined\nanalysis over years of a large set of historical\ndata from field trials that are connected by\nshared genotypes across years, as genotypeby-\nyear and genotype-by-year-by-location variance\ncomponents are estimable. Single-year\nanalyses are unsuitable, as no estimate of the\ninteractions with year are available, and such\nanalyses produce biased estimates of genetic\nvariance and genotype-by-location interaction\nvariance. These procedures are illustrated using\nan example from the CIMMYT international\nwheat breeding program to evaluate 2-yr testing\nstrategies for CIMMYT\u2019s Elite Spring Wheat\nYield Trials that has been distributed and evaluated\ninternationally since 1979.",
+        "lang": "eng"
+    },
+    "appid": "10883_3955",
+    "language": {
+        "value": "eng",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3955"
+}}

@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Determination of physiological traits related to terminal drought and heat stress tolerance in spring wheat genotypes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-11-25T02:37:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat physiology",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stress susceptibility index",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9477
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11488"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.669
+            ],
+            "value": "drought",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2391"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "physiology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49881"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7452"
+        }
+    ],
+    "description": {
+        "value": "Terminal drought and heat stress are two most important environmental factors affecting wheat in south-west of Iran.To determine physiological traits related to both terminal drought and heat stress tolerance, this research was conducted in three separate experiments with 15 spring wheat genotypes in two cropping seasons (2010-11 and 2011-12), under warm and semiarid climate field conditions in south west of Iran. In control (irrigated) and drought-stressed experiments, genotypes were sown at optimum planting date, while for heat-stressed experiment planting date was delayed. In drought stress experiment irrigations were done until flowering stage. All experiments were conducted in randomized complete block design with three replications. Flag leaf area (FLA), days to flowering (DTF), biomass at flowering stage (BMF), leaf relative water content (RWC), flag leaf chlorophyll content (Chlo), canopy temperature (CT), stomatal conductance of flag leaf (SC), light extinction coefficient (k), grain filling period (GFP), grain filling rate (GFR), thousand grain weight (TGW), grain yield, and stress susceptibility index (SSI) were measured and recorded. Results of correlation and principal component analysis showed that Chlo, GFR and TGW were associated with both terminal drought and heat stress tolerance. It can be concluded that under both terminal drought and heat stress conditions, these traits could be more focused in wheat breeding programs. Furthermore, results of slicing of genotype× environmental conditions interaction showed grain yield reduction of durum cultivars were not significant under terminal drought stress as compared to bread wheat genotypes (6.1% and 28.6%, respectively). All wheat genotypes showed significant grain yield reduction under terminal heat stress condition, except for cv. Dena. High yielding genotypes under non-stressed condition showed significant grain yield reduction, when subjected to a stressed condition (36.2% and 45.8% under terminal drought and heat stress conditions, respectively); consequently based on SSI these genotypes were not classified into tolerant group (1.45 and 1.48 under terminal drought and heat stress conditions, respectively).",
+        "lang": "eng"
+    },
+    "appid": "10883_3315",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3315"
+}}

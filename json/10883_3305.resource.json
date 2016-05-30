@@ -1,0 +1,152 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/6255148",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-25T02:37:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3305",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3305"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3305"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3305",
+    "creator": [
+        {
+            "id": 313253223,
+            "value": "Morgounov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/313253223"
+        },
+        {
+            "id": 274378529,
+            "value": "Haun, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/274378529"
+        },
+        {
+            "id": 1551183644,
+            "value": "Lang, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1551183644"
+        },
+        {
+            "id": 1260787041,
+            "value": "Martynov, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1260787041"
+        },
+        {
+            "id": 2095098774,
+            "value": "Sonder, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2095098774"
+        }
+    ],
+    "publisher": {
+        "id": 302426118,
+        "value": "http://link.springer.com/article/10.1007%2Fs10681-013-0968-1#",
+        "type": "organization",
+        "uri": "/cimmyt/organization/302426118"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3305/1/98029.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 55682
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3305/4/98029.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5392
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3305/5/98029.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 539857
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3305/1/98029.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3305/4/98029.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3305/5/98029.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3305"
+        }
+    },
+    "extent": "",
+    "page": "277-292",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

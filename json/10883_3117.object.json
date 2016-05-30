@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Quality protein maize for the feed industry in Kenya",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6377,
+                0.6377,
+                0.6377,
+                0.6377,
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality protein maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "feed",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "poultry",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kenya",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6571
+            ],
+            "value": "reduction",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6483"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Quality protein maize (QPM) has increased levels of lysine and tryptophan, limiting amino acids for monogastric animals, so its use in animal feed reduces the need for more expensive high-protein sources. The authors, through the application of a linear programming optimization model with the composition and prices of feed components used at the coast, show that the cost reduction from substituting QPM for regular maize in poultry feed for Kenya is 5% (mainly as a result of a reduction in fishmeal). The optimal ratios based on QPM and regular maize were calculated and formulated, and trials showed that broilers raised with either mixture had the same food intake, mortality and growth. Moreover, when the chickens were fried in the style popular at the coast, there was no difference in the taste of the meat between the two batches. If QPM were to replace regular maize in broiler feed in Kenya, a 5% cost reduction would translate into a gain of US$300,000. If the cost reduction were passed on to the broiler producers as a reduction in feed price, producers would be expected to gain on average US$32 per year. If the cost reduction were not passed on to the broiler producers, it would result in an extra profit for the feed industry",
+        "lang": "eng"
+    },
+    "appid": "10883_3117",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3117"
+}}

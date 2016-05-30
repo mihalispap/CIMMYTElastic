@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "0019-5022",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-07T21:13:00Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2965",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2965"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2965"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2965",
+    "creator": [
+        {
+            "id": 1754533615,
+            "value": "Bashyal, B.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1754533615"
+        },
+        {
+            "id": 840269630,
+            "value": "Chand, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/840269630"
+        },
+        {
+            "id": 858362968,
+            "value": "Prasad, L.C.",
+            "type": "person",
+            "uri": "/cimmyt/person/858362968"
+        },
+        {
+            "id": 1013937293,
+            "value": "Joshi, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013937293"
+        }
+    ],
+    "publisher": {
+        "id": 1656982868,
+        "value": "http://epubs.icar.org.in/ejournal/index.php/IJAgS/article/view/23063",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1656982868"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2965/1/97643.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 232076
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2965/2/97643.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 13585
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2965/3/97643.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5903
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2965/1/97643.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2965/2/97643.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2965/3/97643.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2965"
+        }
+    },
+    "extent": "",
+    "page": "724-726",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

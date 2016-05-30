@@ -1,0 +1,217 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nepal",
+            "uri": [
+                "http://sws.geonames.org/1282988",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        }
+    ],
+    "updatedDate": "2015-10-26T21:37:23Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_4551",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4551"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4551"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4551",
+    "creator": [
+        {
+            "id": 1804815101,
+            "value": "Devkota, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1804815101"
+        },
+        {
+            "id": 1352974765,
+            "value": "Sudhir-Yadav",
+            "type": "person",
+            "uri": "/cimmyt/person/1352974765"
+        },
+        {
+            "id": 505154104,
+            "value": "Ranjit, J.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/505154104"
+        },
+        {
+            "id": 1887701904,
+            "value": "Sherchan, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1887701904"
+        },
+        {
+            "id": 2109703791,
+            "value": "Regmi, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2109703791"
+        },
+        {
+            "id": 689028907,
+            "value": "Akhtar, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/689028907"
+        },
+        {
+            "id": 274196962,
+            "value": "Humphreys, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/274196962"
+        },
+        {
+            "id": 1018282583,
+            "value": "Chauhan, B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1018282583"
+        },
+        {
+            "id": 367998803,
+            "value": "Malik, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/367998803"
+        },
+        {
+            "id": 467554464,
+            "value": "Kumar, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/467554464"
+        },
+        {
+            "id": 2112674125,
+            "value": "McDonald, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2112674125"
+        },
+        {
+            "id": 1804815163,
+            "value": "Devkota, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1804815163"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 64421351,
+            "value": "CSISA",
+            "type": "organization",
+            "uri": "/cimmyt/organization/64421351"
+        },
+        {
+            "id": 2244096,
+            "value": "IFAD",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2244096"
+        },
+        {
+            "id": 2256160,
+            "value": "IRRI",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2256160"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4551/1/56835.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1337686
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4551/2/56835.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4551/3/56835.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7632
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4551/1/56835.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4551/2/56835.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4551/3/56835.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4551"
+        }
+    },
+    "extent": "",
+    "page": "40 p",
+    "coverage": [
+        "India",
+        "Nepal"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Nepal",
+    "doi": ""
+}}

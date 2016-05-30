@@ -1,0 +1,135 @@
+{"resource": {
+    "citation": "",
+    "issn": "1608-4322",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Nepal",
+        "uri": [
+            "http://sws.geonames.org/1282988",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3677",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2001",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3677"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3677"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3677",
+    "creator": [
+        {
+            "id": 583592678,
+            "value": "Manandhar, D.N.",
+            "type": "person",
+            "uri": "/cimmyt/person/583592678"
+        },
+        {
+            "id": 1367302285,
+            "value": "Ransom, J.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1367302285"
+        },
+        {
+            "id": 1601349804,
+            "value": "Rajbhandari, N.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1601349804"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 2388772,
+            "value": "NARC",
+            "type": "organization",
+            "uri": "/cimmyt/organization/2388772"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3677/1/74976.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2141064
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3677/2/74976.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 214267
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3677/3/74976.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5877
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3677/1/74976.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3677/2/74976.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3677/3/74976.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3677"
+        }
+    },
+    "extent": "",
+    "page": "63 p.",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Kathmandu (Nepal)",
+    "doi": ""
+}}

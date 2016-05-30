@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Shoot d15N gives a better indication than ion concentration or 13C of genotypic differences in the response of durum wheat to salinity",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:24Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nacl",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "photosynthesis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "potassium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "salt",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sodium",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stable isotopes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum turgidum ssp. durum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "biomass",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_926"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6968
+            ],
+            "value": "salinity",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6751"
+            ]
+        }
+    ],
+    "description": {
+        "value": "We compared the performance of different physiological traits that reveal genotypic variations in tolerance to salinity in durum wheat. A set of 114 genotypes was grown in hydroponics for over 3 months. Three conditions: control, moderate (12dSm-1) and severe (17dSm-1) salinity, were maintained for nearly 8 weeks before harvest. The genotype biomass in control conditions correlated with the biomass at the two salinity levels. Subsequently, two subsets of 10 genotypes each were selected on the basis of extreme differences in biomass at the two salinity levels while showing relatively similar biomass in control conditions. Carbon isotope discrimination (13C), nitrogen isotope composition (d15N), and the concentration of nitrogen, phosphorus and several ions (K+, Na+, Ca2+, Mg2+) were analysed in the two subsets for the three treatments. At 12dSm-1, K+ concentration, K+/Na+ ratio, 13C and d15N correlated positively and Na+ correlated negatively with shoot biomass. Under control conditions and at 17dSm-1 no correlation was observed. However, the trait that correlated best with genotypic differences in biomass was d15N at 12dSm-1. This trait was the first variable chosen at each of the two salinity levels in a stepwise analysis. We consider the possible mechanisms relating d15N to biomass and the use of this isotopic signature as a selection trait.",
+        "lang": "eng"
+    },
+    "appid": "10883_2697",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2697"
+}}

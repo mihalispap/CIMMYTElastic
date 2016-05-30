@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping of adult-plant resistance to stripe rust in Chinese wheat cultivar Chuanyu 16",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "apr",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "microsatellites",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait locus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticum aestivum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Stripe rust, caused by Puccinia striiformis f. sp. tritici, is a serious wheat fungal disease, causing significant annual yield losses worldwide. The Chinese wheat cultivar Chuanyu 16 has shown good adult-plant resistance (APR) to stripe rust in Sichuan province, a hotspot for stripe rust epidemics. Chuanyu 16 was crossed with Chuanyu 12 and Chuanmai 32. Two populations, each with 140 recombinant inbred lines (RILs), were developed by single-seed descent, and used for quantitative trait locus (QTL) mapping. Field trials were conducted in Chengdu and Yaan from 2005 to 2008, providing stripe rust reaction data for six environments. Seven hundred and thirty one simple sequence repeat (SSR) markers were screened for association with stripe rust reaction, initially through bulked segregant analysis (BSA). Three QTLs for stripe rust resistance derived from Chuanyu 16 were detected in the first cross. They were detected by inclusive composite interval mapping (ICIM) and designated QYr.caas-1BL.1, QYr.caas-1BL.2 and QYr.caas-2AS. They explained 6.0 - 12.8%, 4.5 - 5.8% and 14.9 - 43.0%, respectively, of the phenotypic variance across environments. One digenic epistatic QTL between QYr.caas-1BL.2 and QYr.caas-2AS explained 4.3 - 10.4% of the phenotypic variance. QYr.caas-2AS was also detected in Chuanmai 32/Chuanyu 16, explaining 27.9 - 57.2% of the phenotypic variance across six environments. This QTL showed a major effect against stripe rust in Chuanyu 16, and was located in a similar position to Yr17. Specific markers indicated the presence of a segment from chromosome 2N of Triticum ventricosum that carries Yr17. Despite the lack of evidence for Yr17 in Chuanyu 16 based on pedigree, and inconsistencies in stripe rust response relative to a near-isogenic reference stock with the gene, we concluded that QYr.caas-2AS is Yr17. QYr.caas-1BL.1 and QYr.caas-1BL.2 showed minor effects for APR against stripe rust. QYr.caas-1BL.1 is probably a new gene for APR to stripe rust",
+        "lang": "eng"
+    },
+    "appid": "10883_2917",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2917"
+}}

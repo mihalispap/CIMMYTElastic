@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Associations of environments in South Asia based on spot blotch disease of wheat caused by Cochliobolus sativus",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:02Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "blotches",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_973"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cochliobolus sativus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34517"
+        }
+    ],
+    "description": {
+        "value": "Spot blotch is an important disease of wheat (Triticum aestivum L.) in South Asia. Division of test sites for this disease into homogenous subregions is expected to contribute to more efficient evaluation and better differentiation of cultivars. Data from a collaborative regional program of South Asia conducted by CIMMYT were analyzed to group testing sites into relatively homogenous subregions for spot blotch area under the disease progress curve (AUDPC). Five-year data of eight locations from Eastern Gangetic Plains Nursery (EGPSN) and fi ve locations of the Eastern Gangetic Plains Yield Trial (EGPYT) conducted in three countries (India, Nepal, and Bangladesh) of South Asia were used. A hierarchical cluster analysis was used to group locations on the basis of genotype × location interaction effects for spot blotch AUDPC. Cluster analysis divided South Asia into two broad regions and four subregions. This classifi cation was not entirely consistent with the geographic distribution of locations, but clusters mostly followed general geographicclimatic locations. The locations Varanasi (India) and Bhairahawa (Nepal) were identifi ed as the most suitable sites for evaluation of spot blotch, followed by Rampur (Nepal). The major determinant for the clustering was mean temperature. The results suggest that the major wheat region of South Asia can be divided into subregions, which may reduce the cost of resistance evaluation and aid in developing wheat with resistance to this disease.",
+        "lang": "eng"
+    },
+    "appid": "10883_2562",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2562"
+}}

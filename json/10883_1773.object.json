@@ -51,24 +51,6 @@
         {
             "vocabulary": [
                 "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6652
-            ],
-            "value": "mapping",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_1344"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
                 "agrovoc"
             ],
             "score": [
@@ -94,6 +76,24 @@
             "uri": [
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6652
+            ],
+            "value": "mapping",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1344"
             ]
         }
     ],

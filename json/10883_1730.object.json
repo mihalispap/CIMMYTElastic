@@ -3,7 +3,7 @@
         "value": "Genetic diversity in conventional and synthetic wheats with drought and salinity tolerance based on AFLP",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:45Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:32Z",
     "subject": [
         {
@@ -40,12 +40,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "salinity",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_6751"
-        },
-        {
             "vocabulary": [
                 "",
                 "",
@@ -68,6 +62,12 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_2391"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "salinity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6751"
         }
     ],
     "description": {

@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "North America",
+        "uri": [
+            "http://sws.geonames.org/NA",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2405",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2005",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2405"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2405"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2405",
+    "creator": [
+        {
+            "id": 825700031,
+            "value": "Souza, E.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/825700031"
+        },
+        {
+            "id": 2088680493,
+            "value": "Goates, B.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2088680493"
+        },
+        {
+            "id": 1099329366,
+            "value": "Fuentes Dávila, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1099329366"
+        },
+        {
+            "id": 2074610359,
+            "value": "Udall, J.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2074610359"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2405/1/81128.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 54704
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2405/2/81128.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 15279
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2405/3/81128.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 21026
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2405/1/81128.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2405/2/81128.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2405/3/81128.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2405"
+        }
+    },
+    "extent": "",
+    "page": "428-429",
+    "coverage": [
+        "USA",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

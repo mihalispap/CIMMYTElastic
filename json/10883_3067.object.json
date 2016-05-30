@@ -1,0 +1,132 @@
+{"object": {
+    "title": {
+        "value": "A multi-trait multi-environment QTL mixed model with an application to drought and nitrogen stress trials in maize ( Zea mays L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic correlation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_29796",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mixed model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multi-environment trial",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multi-trait analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl by environment interaction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pleiotropy",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "environment",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2593"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6936
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6256
+            ],
+            "value": "approaches",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330992"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7595
+            ],
+            "value": "models",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4881"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Despite QTL mapping being a routine procedure in plant breeding, approaches that fully exploit data from multi-trait multi-environment (MTME) trials are limited. Mixed models have been proposed both for multi-trait QTL analysis and multi-environment QTL analysis, but these approaches break down when the number of traits and environments increases. We present models for an efficient QTL analysis of MTME data with mixed models by reducing the dimensionality of the genetic variance&ndash;covariance matrix by structuring this matrix using direct products of relatively simple matrices representing variation in the trait and environmental dimension. In the context of MTME data, we address how to model QTL by environment interactions and the genetic basis of heterogeneity of variance and correlations between traits and environments. We illustrate our approach with an example including five traits across eight stress trials in CIMMYT maize. We detected 36 QTLs affecting yield, anthesis-silking interval, male flowering, ear number, and plant height in maize. Our approach does not require specialised software as it can be implemented in any statistical package with mixed model facilities.",
+        "lang": "eng"
+    },
+    "appid": "10883_3067",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3067"
+}}

@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT and Mexico",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:34Z",
+    "created": "2014-03-13T00:47:21Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agriculture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cooperation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1855",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research institutions",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6514",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "mexico",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                "http://aims.fao.org/aos/agrovoc/c_4792",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "Public information document that illustrates the balance between Mexico's support for CIMMYT and the reciprocating flow from CIMMYT to its host country. CIMMYT's organizational phases, activities, impact around the world, present and projected contributions to Mexico.",
+        "lang": "eng"
+    },
+    "appid": "10883_3549",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3549"
+}}

@@ -1,0 +1,207 @@
+{"object": {
+    "title": {
+        "value": "Breeding and selection for drought resistance in tropical maize",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:36Z",
+    "created": "2014-03-13T00:57:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6252,
+                0.6252,
+                1,
+                ""
+            ],
+            "value": "sorghum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7244",
+                "http://aims.fao.org/aos/agrovoc/c_7244",
+                "http://aims.fao.org/aos/agrovoc/c_7244",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "breeding methods",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1079",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2392",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "tropical zones",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7979",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genotypes",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3225",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "photosynthesis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5812",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "rice",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6599",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "humid tropics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3687",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8215
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Throughout the lowland wet tropics, periodic nonprotracted drought caused by irregular rainfall distribution is responsible for sizable reductions in maize yield. This is particularly true when reduced water availability coincides with the critical stage of crop development--flowering. Such a drought cannot be escaped by genotype maturity or planting date, nor are other species necessarily better adapted. Improving resistance of maize to this particular type of drought, then, could enhance productivity and minimize farmer risk. From a comparison of sorghum and maize under drought, it appears that sorghum maintains photosynthesis and growth at lower water",
+        "lang": "eng"
+    },
+    "appid": "10883_3694",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3694"
+}}

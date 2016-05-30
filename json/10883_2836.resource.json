@@ -1,0 +1,192 @@
+{"resource": {
+    "citation": "",
+    "issn": "0007-4853",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Morocco",
+            "uri": [
+                "http://sws.geonames.org/2542007",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Morocco"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Syria",
+            "uri": [
+                "http://sws.geonames.org/163843",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Syria"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:43Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2836",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2000",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2836"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2836"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2836",
+    "creator": [
+        {
+            "id": 2080567792,
+            "value": "Naber, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/2080567792"
+        },
+        {
+            "id": 945198560,
+            "value": "El Bouhssini, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/945198560"
+        },
+        {
+            "id": 171853277,
+            "value": "Labhilili, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/171853277"
+        },
+        {
+            "id": 369537895,
+            "value": "Udupa, S. M,",
+            "type": "person",
+            "uri": "/cimmyt/person/369537895"
+        },
+        {
+            "id": 1659087479,
+            "value": "Nachit, M. M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1659087479"
+        },
+        {
+            "id": 1593472596,
+            "value": "Baum, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1593472596"
+        },
+        {
+            "id": 805231563,
+            "value": "Lhaloui, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/805231563"
+        },
+        {
+            "id": 1819513137,
+            "value": "Benslimane, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1819513137"
+        },
+        {
+            "id": 1764359368,
+            "value": "El Abbouyi, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1764359368"
+        }
+    ],
+    "publisher": {
+        "id": 1433424365,
+        "value": "http://bit.ly/11ViUJJ",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1433424365"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2836/1/95082.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 148501
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2836/2/95082.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 30674
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2836/3/95082.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4322
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2836/1/95082.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2836/2/95082.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2836/3/95082.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2836"
+        }
+    },
+    "extent": "",
+    "page": "245-252",
+    "coverage": [
+        "Morocco",
+        "Syria",
+        "North Africa",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

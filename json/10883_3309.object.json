@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Association mapping and nucleotide sequence variation in five drought tolerance candidate genes in spring wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-11-25T02:37:42Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14914"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.9573
+            ],
+            "value": "nucleotides",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5259"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7911
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6743,
+            "value": "abscisic acid",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9113,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Functional markers are needed for key genes involved in drought tolerance to improve selection for crop yield under moisture stress conditions. The objectives of this study were to (i) characterize five drought tolerance candidate genes, namely dehydration responsive element binding 1A (DREB1A), enhanced response to abscisic acid (ERA1-B and ERA1-D), and fructan 1-exohydrolase (1-FEH-A and 1-FEH-B), in wheat (Triticum aestivum L.) for nucleotide and haplotype diversity, Tajima?s D value, and linkage disequilibrium (LD) and (ii) associate within-gene single nucleotide polymorphisms (SNPs) with phenotypic traits in a spring wheat association mapping panel (n = 126). Field trials were grown under contrasting moisture regimes in Greeley, CO, and Melkassa, Ethiopia, in 2010 and 2011. Genome-specific amplification and DNA sequence analysis of the genes identified SNPs and revealed differences in nucleotide and haplotype diversity, Tajima?s D, and patterns of LD. DREB1A showed associations (false discovery rate adjusted probability value = 0.1) with normalized difference vegetation index, heading date, biomass, and spikelet number. Both ERA1-A and ERA1-B were associated with harvest index, flag leaf width, and leaf senescence. 1-FEH-A was associated with grain yield, and 1-FEH-B was associated with thousand kernel weight and test weight. If validated in relevant genetic backgrounds, the identified marker?trait associations may be applied to functional marker-assisted selection.",
+        "lang": "eng"
+    },
+    "appid": "10883_3309",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3309"
+}}

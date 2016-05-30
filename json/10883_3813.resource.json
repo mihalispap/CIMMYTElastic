@@ -1,0 +1,137 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Guatemala",
+            "uri": [
+                "http://sws.geonames.org/3595528",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Guatemala"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Central America",
+            "uri": [
+                "http://sws.geonames.org/7729892",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_America"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-13T00:58:11Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3813",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1989",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3813"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3813"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3813",
+    "creator": [
+        {
+            "id": 459356136,
+            "value": "Schmoock, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/459356136"
+        },
+        {
+            "id": 938200028,
+            "value": "Castillo, L.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/938200028"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3813/1/17362.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1764489
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3813/2/17362.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 143022
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3813/3/17362.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4996
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3813/1/17362.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3813/2/17362.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3813/3/17362.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3813"
+        }
+    },
+    "extent": "",
+    "page": "84 p.",
+    "coverage": [
+        "Guatemala",
+        "Central America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Ciudad de Guatemala (Guatemala)",
+    "doi": ""
+}}

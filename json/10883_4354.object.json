@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Interview with Dr. Fernando Delgado",
+        "lang": "eng"
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2015-06-30T17:35:59Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "interview",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6684,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "food security",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_10967"
+        }
+    ],
+    "description": [
+        {
+            "value": "Dr. Fernando Delgado, Superintendent of the Toluca CIMMYT Research Station speaks on the importance of wheat in global food security.",
+            "lang": "eng"
+        },
+        {
+            "value": "Fernando Delgado",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4354",
+    "language": [
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        },
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4354"
+}}

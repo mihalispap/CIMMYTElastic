@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Metodos quimicos usados en el CIMMYT para determinar la calidad de proteina de los cereales",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-13T00:58:08Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "triticales",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "barley",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chemical analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "protein quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "crops",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tryptophan",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "lysine",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "methods",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "varieties",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Chemical methods for determining protein quality in cereal grains have been used at the International Maize and Wheat Improvement Center (CIMMYT) to rapidly identify and select improved cereal lines by screening early generation germplasm from the different breeding programs. Among the techniques described are: rapid initial screening tests for tryptophan in maize endosperm, tests for dye binding capacity in barley and triticale, and for total nitrogen content; and specific assays for the protein fraction, zein, in maize and for the presence of the opaque-2 gene in floury maize (ninhydrin test). Other techniques, such as the colorimetric test",
+        "lang": "eng"
+    },
+    "appid": "10883_3796",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3796"
+}}

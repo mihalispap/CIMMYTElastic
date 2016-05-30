@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "0011-183X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-23T00:49:26Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3242",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3242"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3242"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3242",
+    "creator": [
+        {
+            "id": 1308150768,
+            "value": "Herrera, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1308150768"
+        },
+        {
+            "id": 299334255,
+            "value": "Verhulst, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/299334255"
+        },
+        {
+            "id": 1606486241,
+            "value": "Trethowan, R.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1606486241"
+        },
+        {
+            "id": 273429387,
+            "value": "Stamp, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/273429387"
+        },
+        {
+            "id": 806428353,
+            "value": "Govaerts, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/806428353"
+        }
+    ],
+    "publisher": {
+        "id": 1784515714,
+        "value": "https://www.crops.org/publications/cs/abstracts/53/5/1845",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1784515714"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3242/1/98099.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 547391
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3242/2/98099.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 72589
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3242/3/98099.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 7109
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3242/1/98099.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3242/2/98099.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3242/3/98099.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3242"
+        }
+    },
+    "extent": "",
+    "page": "1845-1859",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

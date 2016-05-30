@@ -1,0 +1,135 @@
+{"object": {
+    "title": {
+        "value": "Agricultural technology, crop income, and poverty alleviation in Uganda",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:48Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "technology adoption",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "poverty reduction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "impact assessment",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37938",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "propensity score matching",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "sub-saharan africa",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6879,
+                0.6879,
+                ""
+            ],
+            "value": "uganda",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8038",
+                "http://aims.fao.org/aos/agrovoc/c_8038",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8694
+            ],
+            "value": "income",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3820"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7463
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "groundnuts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11368"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "technology",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7644"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "reduction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6483"
+        }
+    ],
+    "description": {
+        "value": "This paper evaluates the ex post impact of adopting improved groundnut varieties on crop income and poverty in rural Uganda. The study utilizes cross-sectional data of 927 households, collected in 2006, from seven districts in Uganda. Using propensity score matching methods, we find that adopting improved groundnut varieties (technology) significantly increases crop income and reduces poverty. The positive and significant impact on crop income is consistent with the perceived role of new agricultural technologies in reducing rural poverty through increased farm household income. This study supports broader investment in agriculture research to address vital development challenges. Reaching the poor with better technologies however requires policy support for improving extension efforts, access to seeds and market outlets that simulate adoption.",
+        "lang": "eng"
+    },
+    "appid": "10883_2217",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2217"
+}}

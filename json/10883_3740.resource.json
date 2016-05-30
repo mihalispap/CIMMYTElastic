@@ -1,0 +1,141 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Mexico",
+        "uri": [
+            "http://sws.geonames.org/3996063",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:47Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3740",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Report",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3740"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3740"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3740",
+    "creator": [
+        {
+            "id": 1764441777,
+            "value": "Bergvinson, D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1764441777"
+        },
+        {
+            "id": 211947197,
+            "value": "Garcia-Lara, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/211947197"
+        }
+    ],
+    "publisher": [
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 1668945695,
+            "value": "CONACYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1668945695"
+        },
+        {
+            "id": 1668141338,
+            "value": "COMECYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1668141338"
+        },
+        {
+            "id": 1705025522,
+            "value": "Gobierno del Estado de Mexico",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1705025522"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3740/1/90394.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 757258
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3740/2/90394.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 61164
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3740/3/90394.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 3425
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3740/1/90394.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3740/2/90394.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3740/3/90394.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3740"
+        }
+    },
+    "extent": "",
+    "page": "38 p.",
+    "coverage": "Mexico",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

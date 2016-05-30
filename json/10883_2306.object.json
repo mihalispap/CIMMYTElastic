@@ -1,0 +1,159 @@
+{"object": {
+    "title": {
+        "value": "Photoperiod and vernalization response of wheat under controlled environment and field conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:26Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "photoperiodicity",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5809",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "vernalization",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16059",
+                "http://aims.fao.org/aos/agrovoc/c_16059",
+                "http://aims.fao.org/aos/agrovoc/c_16059",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "insolation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3892",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "duration",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2412",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8826
+            ],
+            "value": "photoperiod",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5809"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Characterization of large numbers of breeding lines for vernalization and photoperiod response in wheat is needed to enhance adaptation. A total of 20 wheat lines were evaluated for response to vernalization and photoperiod under two controlled environments and high ambient air temperatures under field conditions. Vernalized and non-vernalized seedlings were transplanted into pots and placed in three photoperiod (8, 12 and 16 h of light) cabinets, in the greenhouse or in growth chambers. Days to anthesis decreased with increasing photoperiod. Vernalized plants flowered earlier than non-vernalized. There was a significant correlation between days to anthesis in the greenhouse and the growth chamber (r = 0.88, P < 0.001). Basal vegetative period, effect of vernalization and photoperiod from the two screening techniques were positively correlated with each other. Growth habit, vernalization requirement and heading date in the field were highly correlated with the main effect of vernalization in the two controlled environments. The results indicate that selection for vernalization response in a large number of genotypes can be achieved under high ambient air temperatures in the field and the selected material can subsequently be screened for photoperiod response under greenhouse conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_2306",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2306"
+}}

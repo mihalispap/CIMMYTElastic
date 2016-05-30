@@ -1,0 +1,141 @@
+{"object": {
+    "title": {
+        "value": "QTL mapping for milling, gluten quality, and flour pasting properties in a recombinant inbred line population derived from a Chinese soft x hard wheat cross",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:28Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quantitative trait locus (qtl)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "quality parameters",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9349
+            ],
+            "value": "locus",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.8067
+            ],
+            "value": "noodles",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12848"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quality",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6400"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7136,
+            "value": "hard wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11456"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7362,
+            "value": "gluten",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3294"
+        }
+    ],
+    "description": {
+        "value": "Improvement of processing quality is important for various wheat-based end products. A recombinant inbred line (RIL) population derived from a cross between the Chinese wheat cvv. PH82-2 (hard) and Neixiang 188 (soft) was sown at 3 locations across two seasons to map quantitative trait loci (QTLs) for milling, gluten quality, flour pasting properties, and Chinese white salted noodle (CWSN) qualities. One hundred and eighty-eight microsatellite loci, one rye secalin marker Sec1, one STS marker YP7A, one CAPs marker for the Pinb-D1b allele, and four glutenin subunit markers were used to genotype the population and construct a linkage map for subsequent QTL analysis. In total, 53 QTLs for 16 quality parameters were mainly mapped to glutenin loci Glu-A3 (Glu-A3a:Glu-A3d), Glu-B1 (Bx7+By9:Bx14+By15), and Glu-D1 (Bx2+By12:Bx5+By10), and the grain hardness (Pinb-D1a:Pinb-D1b) locus. The-high-molecular weight glutenin subunits (HMW-GS) 5+10 at the Glu-D1 locus showed large effects on mixograph peak time (MPT), mixograph 8 min width (MTxW), and weakening slope (WS), accounting for 43.1%, 24.2%, and 39.7% of the phenotypic variance, respectively. In contrast, the 1RS (1B.1R translocation) showed large negative effects on MTxW, explaining 42.2% of the phenotypic variance. Two important QTLs were detected for Rapid Viscosity Analyzer (RVA) parameters: one for RVA final viscosity (RFV) near the 1RS and the other for RVA setback (RSb) associated with the Glu-B1 locus, explaining 21.6% and 12.3% of the phenotypic variance, respectively. Two QTLs for noodle adhesiveness were identified: one occurred on chromosome 1A and the other was associated with Glu-B1. Two QTLs for noodle springiness, one associated with the 1RS showing a negative effect on noodle quality and the other mapped to the Ha locus on chromosome 5DS, accounted for 9.4% and 8.1% of the phenotypic variance, respectively. In addition, the Ha locus also showed large effects on flower protein content (FPC), mixograph peak width (MPW), and RVA parameters, especially RVA pasting temperature (RPT), explaining 71.5% of the phenotypic variance.",
+        "lang": "eng"
+    },
+    "appid": "10883_2726",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2726"
+}}

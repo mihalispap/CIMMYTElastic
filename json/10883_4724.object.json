@@ -1,0 +1,114 @@
+{"object": {
+    "title": [
+        {
+            "value": "Equipment Operation for the Collection of Rust",
+            "lang": "eng"
+        },
+        {
+            "value": "Dr. Saari G. Equipment Operation for the Collection of Rust (E ).",
+            "lang": "eng"
+        }
+    ],
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-02-26T16:06:16Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "equipment",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2631",
+                "http://aims.fao.org/aos/agrovoc/c_2631",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tutorial",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        }
+    ],
+    "description": [
+        {
+            "value": "Dr. Gene Saari discusses the benefits and use portable electrical generator.",
+            "lang": ""
+        },
+        {
+            "value": "Gene Saari",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4724",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4724"
+}}

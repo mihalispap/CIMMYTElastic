@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "None",
+        "uri": [
+            "http://sws.geonames.org/3172215",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/None"
+        ]
+    },
+    "updatedDate": "2016-01-14T16:59:48Z",
+    "rights": [
+        "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International § CIMMYT manages Intellectual Assets as International Public Goods. In case you want to make non-exclusive commercial use of this item or you want to adapt it in any manner and use such adaptation, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the code/name of this item and the kind of use you intend; CIMMYT will contact you with the terms and conditions for such use.",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "relation": "",
+    "appid": "10883_4646",
+    "collection": [
+        {
+            "id": 1717216103,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1717216103"
+        },
+        {
+            "id": 1846298820,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1846298820"
+        }
+    ],
+    "format": "mp4",
+    "type": "",
+    "date": [
+        null,
+        2016
+    ],
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4646"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4646"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4646",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/1/bram-govaerts-oxford-farming-conference-paper.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1483
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/2/bram-govaerts-ppt.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1835
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/4/bram-govaerts-oxford-farming-conference-paper.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 6426
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/6/bram-govaerts-ppt.pdf.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 2329
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/3/bram-govaerts-oxford-farming-conference-paper.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 417513
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/5/bram-govaerts-ppt.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 2262952
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/1/bram-govaerts-oxford-farming-conference-paper.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/2/bram-govaerts-ppt.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/4/bram-govaerts-oxford-farming-conference-paper.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/6/bram-govaerts-ppt.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/3/bram-govaerts-oxford-farming-conference-paper.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4646/5/bram-govaerts-ppt.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4646"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "None",
+        "None"
+    ],
+    "contributor": {
+        "id": 1278156278,
+        "value": "Oxford University",
+        "type": "person",
+        "uri": "/cimmyt/person/1278156278"
+    },
+    "isbn": "",
+    "quality": "Web Quality",
+    "place": "United Kingdom",
+    "doi": ""
+}}

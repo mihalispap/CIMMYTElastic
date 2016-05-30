@@ -28,12 +28,6 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "rusts",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
-        },
-        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -47,6 +41,12 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_35522"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
         }
     ],
     "description": {

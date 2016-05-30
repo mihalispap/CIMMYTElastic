@@ -1,0 +1,167 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Thailand",
+        "uri": [
+            "http://sws.geonames.org/1605651",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Thailand"
+        ]
+    },
+    "updatedDate": "2014-12-22T03:03:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_4144",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4144"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4144"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4144",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": [
+        {
+            "id": 1936777990,
+            "value": "APAARI",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1936777990"
+        },
+        {
+            "id": 1987940897,
+            "value": "CIMMYT",
+            "type": "organization",
+            "uri": "/cimmyt/organization/1987940897"
+        },
+        {
+            "id": 69364,
+            "value": "FAO",
+            "type": "organization",
+            "uri": "/cimmyt/organization/69364"
+        },
+        {
+            "id": 290848381,
+            "value": "Thailand Department of Agriculture",
+            "type": "organization",
+            "uri": "/cimmyt/organization/290848381"
+        }
+    ],
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/1/99566.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1843864
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/2/license_rdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1536
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/3/99566.pdf.jpg",
+                "label": "",
+                "type": "application/rdf+xml; charset=utf-8",
+                "size": 5426
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/4/99566.pdf.txt",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 0
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/1/99566.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/2/license_rdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/3/99566.pdf.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4144/4/99566.pdf.txt"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4144"
+        }
+    },
+    "extent": "",
+    "page": "183 p.",
+    "coverage": [
+        "Thailand",
+        "South Asia"
+    ],
+    "contributor": [
+        {
+            "id": 2076492785,
+            "value": "Asia-Pacific Association of Agricultural Research Institutions",
+            "type": "person",
+            "uri": "/cimmyt/person/2076492785"
+        },
+        {
+            "id": 972148915,
+            "value": "International Maize and Wheat Improvement Center (CIMMYT)",
+            "type": "person",
+            "uri": "/cimmyt/person/972148915"
+        },
+        {
+            "id": 735747311,
+            "value": "Food and Agriculture Organization of The United Nations (FAO)",
+            "type": "person",
+            "uri": "/cimmyt/person/735747311"
+        },
+        {
+            "id": 290848381,
+            "value": "Thailand Department of Agriculture",
+            "type": "person",
+            "uri": "/cimmyt/person/290848381"
+        }
+    ],
+    "isbn": "",
+    "quality": "",
+    "place": "Bangkok (Thailand)",
+    "doi": ""
+}}

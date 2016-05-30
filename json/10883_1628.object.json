@@ -3,7 +3,7 @@
         "value": "Wheat breeders' perspectives on genetic diversity and germplasm use: Findings from an international survey",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:49Z",
+    "updated": "2016-01-22T23:05:36Z",
     "created": "2013-06-07T21:02:16Z",
     "subject": [
         {
@@ -13,40 +13,97 @@
             "uri": ""
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
             "value": "triticum",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7950",
+                ""
+            ]
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
             "value": "wheats",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
             "value": "genetic resources",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3218",
+                ""
+            ]
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
             "value": "germplasm",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3249",
+                ""
+            ]
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
             "value": "germplasm conservation",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3250",
+                ""
+            ]
         },
         {
-            "vocabulary": "",
-            "score": "",
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
             "value": "innovation adoption",
-            "uri": ""
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3878",
+                ""
+            ]
         },
         {
             "vocabulary": "",

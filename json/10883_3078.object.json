@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Development of a seed DNA-based genotyping system for marker-assisted selection in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:34Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seed dna",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "marker-assisted selection",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hetero-fertilization",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "dna",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2347"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Leaf collection from the field, labeling and tracking back to the source plants after genotyping are rate limiting steps in leaf DNA-based genotyping. In this study, an optimized genotyping method using endosperm DNA sampled from single maize seeds was developed, which can be used to replace leaf DNA-based genotyping for both genetic studies and breeding applications. A similar approach is likely to be suitable for all plants with relatively large seeds. Part of the endosperm was excised from imbibed maize seeds and DNA extracted in 96-tube plates using individuals from eight F2 populations and seven inbreds. The quality of the resultant DNA was functionally comparable to DNA extracted from leaf tissue. Extraction from 30 mg of endosperm yields 3&ndash;10 µg DNA, which is sufficient for analysis of 200&ndash;400 agarose-gel PCR-based markers, with the potential for several million chip-based SNP marker analyses. By comparing endosperm DNA and leaf DNA for individuals from an F2 population, genotyping errors caused by pericarp contamination and hetero-fertilization were found to average 3.8 and 0.6%, respectively. Endosperm sampling did not affect germination rates under controlled conditions, although under normal field conditions the germination rate, seedling establishment, and growth vigor were significantly lower than that of non-sampled controls for some genotypes. However, careful field management can compensate for these effects. Seed DNA-based genotyping lowered costs by 24.6% compared to leaf DNA-based genotyping due to reduced field plantings and labor costs. A substantial advantage of this approach is that it can be used to select desirable genotypes before planting. As such it provides an opportunity for dramatic improvements in the efficiency and selective gain of breeding systems based on optimum combinations of marker-assisted selection and phenotypic selection within and between generations.",
+        "lang": "eng"
+    },
+    "appid": "10883_3078",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3078"
+}}

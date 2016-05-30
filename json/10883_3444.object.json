@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Maize genotype and food matrix affect the provitamin a carotenoid bioefficacy from staple and carrot-fortified feeds in Mongolian gerbils (Meriones unguiculatus)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:59:56Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "alfa-retinol",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "biofortification",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carrots",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nixtamalization",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "provitamins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13634"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6216
+            ],
+            "value": "carotenes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_9632"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6807
+            ],
+            "value": "retinol",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6539"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Biofortification to increase provitamin A carotenoids is an agronomic approach to alleviate vitamin A deficiency. Two studies compared biofortified foods using in vitro and in vivo methods. Study 1 screened maize genotypes (n = 44) using in vitro analysis, which demonstrated decreasing micellarization with increasing provitamin A. Thereafter, seven 50% biofortified maize feeds that hypothesized a one-to-one equivalency between -cryptoxanthin and -carotene were fed to Mongolian gerbils. Total liver retinol differed among the maize groups (P = 0.0043). Study 2 assessed provitamin A bioefficacy from 0.5% high-carotene carrots added to 60% staple-food feeds, followed by in vitro screening. Liver retinol was highest in the potato and banana groups, maize group retinol did not differ from baseline, and all treatments differed from control (P < 0.0001). In conclusion, -cryptoxanthin and -carotene have similar bioefficacy; meal matrix effects influence provitamin A absorption from carrot; and in vitro micellarization does not predict bioefficacy.",
+        "lang": "eng"
+    },
+    "appid": "10883_3444",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3444"
+}}

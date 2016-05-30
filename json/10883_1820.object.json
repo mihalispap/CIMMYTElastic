@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Genomic-enabled prediction based on molecular markers and pedigree using the Bayesian linear regression package in R",
-        "lang": "spa"
+        "lang": "eng"
     },
     "updated": "2016-01-22T23:05:46Z",
     "created": "2013-06-07T21:02:43Z",
@@ -21,7 +21,7 @@
     ],
     "description": {
         "value": "The availability of dense molecular markers has made possible the use of genomic selection in plant and animal breeding. However, models for genomic selection pose several computational and statistical challenges and require specialized computer programs, not always available to the end user and not implemented in standard statistical software yet. The R-package BLR (Bayesian Linear Regression) implements several statistical procedures (e.g., Bayesian Ridge Regression, Bayesian LASSO) in a unifi ed framework that allows including marker genotypes and pedigree data jointly. This article describes the classes of models implemented in the BLR package and illustrates their use through examples. Some challenges faced when applying genomic-enabled selection, such as model choice, evaluation of predictive ability through cross-validation, and choice of hyperparameters, are also addressed.",
-        "lang": "spa"
+        "lang": "eng"
     },
     "appid": "10883_1820",
     "language": {

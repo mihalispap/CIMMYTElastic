@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "Knowledge Center Catalog",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:42Z",
+    "created": "2015-09-09T15:24:55Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "catalog",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "knowledge center",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cataloging",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1336382698558"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4458",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4458"
+}}

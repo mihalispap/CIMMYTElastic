@@ -55,6 +55,12 @@
             ]
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -80,12 +86,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_3225"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "cultivars",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
         },
         {
             "vocabulary": "agrovoc",

@@ -1,0 +1,178 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "North America",
+        "uri": [
+            "http://sws.geonames.org/NA",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/north_America"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:13:00Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2959",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2959"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2959"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2959",
+    "creator": [
+        {
+            "id": 745592513,
+            "value": "Lewis, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/745592513"
+        },
+        {
+            "id": 1319054279,
+            "value": "Siler, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1319054279"
+        },
+        {
+            "id": 735591987,
+            "value": "Ellis, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/735591987"
+        },
+        {
+            "id": 530983773,
+            "value": "Souza, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/530983773"
+        },
+        {
+            "id": 1182016687,
+            "value": "K.W. Ng, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1182016687"
+        },
+        {
+            "id": 1040414914,
+            "value": "Yanhong Dong",
+            "type": "person",
+            "uri": "/cimmyt/person/1040414914"
+        },
+        {
+            "id": 2015856497,
+            "value": "Brown-Guedira, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2015856497"
+        },
+        {
+            "id": 462500492,
+            "value": "Marshall, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/462500492"
+        },
+        {
+            "id": 420815350,
+            "value": "Kolmer, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/420815350"
+        },
+        {
+            "id": 1518978388,
+            "value": "Guo-Liang Jiang",
+            "type": "person",
+            "uri": "/cimmyt/person/1518978388"
+        },
+        {
+            "id": 1813433059,
+            "value": "Ward, R.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/1813433059"
+        }
+    ],
+    "publisher": {
+        "id": 127472339,
+        "value": "https://www.crops.org/publications/jpr/abstracts/6/3/324",
+        "type": "organization",
+        "uri": "/cimmyt/organization/127472339"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2959/1/97608.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 547176
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2959/2/97608.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40951
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2959/3/97608.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8099
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2959/1/97608.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2959/2/97608.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2959/3/97608.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2959"
+        }
+    },
+    "extent": "",
+    "page": "324-332",
+    "coverage": [
+        "USA",
+        "North America"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

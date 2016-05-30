@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Analisis de la productividad del maiz en el Estado de Mexico",
+        "lang": "spa"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maiz",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "productividad",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "funcion de produccion",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "estado de mexico",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mexico",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4792"
+        }
+    ],
+    "description": {
+        "value": "El Estado de Mexico es uno de los productores mas importantes de maiz en Mexico pero no cubre el total de la demanda local; por lo que se realizo un analisis cuantitativo de su productividad, por lo cual se diseño y calibro un cuestionario para recabar las variables de interes. El marco muestral fue la relacion de beneficiaries del PROCAMPO en el Estado de México, el tamaño de muestra determinado fue de 148 productores. Se llevo a cabo un analisis de estadisticas descriptivas (diferencia de medias) respecto al rendimiento. Utilizando una variante de la funcion de produccion Cobb-Douglas, se relaciono el rendimiento de maiz por hectarea de cada predio con los insumos aplicados, caracteristicas del predio, manejo del cultivo y destino de la produccion. Los factores resultantes que influyen negativamente en el nivel de productividad fueron los problemas de suelo y los sistemas productivos de temporal; con impacto positivo resultaron el uso de semilla mejorada y la comercializacion de la produccion.",
+        "lang": "spa"
+    },
+    "appid": "10883_2182",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2182"
+}}

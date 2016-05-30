@@ -1,0 +1,250 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Asia",
+            "uri": [
+                "http://sws.geonames.org/6255147",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Mexico",
+            "uri": [
+                "http://sws.geonames.org/3996063",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Mexico"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Nepal",
+            "uri": [
+                "http://sws.geonames.org/1282988",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Nepal"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Bangladesh",
+            "uri": [
+                "http://sws.geonames.org/1210997",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Bangladesh"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Pakistan",
+            "uri": [
+                "http://sws.geonames.org/1168579",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Pakistan"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:56Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2932",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2932"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2932"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2932",
+    "creator": [
+        {
+            "id": 2092231213,
+            "value": "Velu, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2092231213"
+        },
+        {
+            "id": 1010019001,
+            "value": "Singh, R.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1010019001"
+        },
+        {
+            "id": 1393075174,
+            "value": "Huerta-Espino, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1393075174"
+        },
+        {
+            "id": 732776015,
+            "value": "Peña-Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/732776015"
+        },
+        {
+            "id": 1132699062,
+            "value": "Arun, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1132699062"
+        },
+        {
+            "id": 2011126473,
+            "value": "Mahendru-Singh, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2011126473"
+        },
+        {
+            "id": 288653199,
+            "value": "Yaqub Mujahid, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/288653199"
+        },
+        {
+            "id": 724506640,
+            "value": "Sohu, V.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/724506640"
+        },
+        {
+            "id": 1992869155,
+            "value": "Mavi, G.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1992869155"
+        },
+        {
+            "id": 1922443943,
+            "value": "Crossa, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1922443943"
+        },
+        {
+            "id": 1967761045,
+            "value": "Alvarado, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1967761045"
+        },
+        {
+            "id": 1013937293,
+            "value": "Joshi, A.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1013937293"
+        },
+        {
+            "id": 129238600,
+            "value": "Pfeiffer, W.H.",
+            "type": "person",
+            "uri": "/cimmyt/person/129238600"
+        }
+    ],
+    "publisher": {
+        "id": 920272909,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429012002481",
+        "type": "organization",
+        "uri": "/cimmyt/organization/920272909"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2932/1/97251.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 522293
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2932/2/97251.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40332
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2932/3/97251.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5542
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2932/1/97251.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2932/2/97251.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2932/3/97251.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2932"
+        }
+    },
+    "extent": "",
+    "page": "261-267",
+    "coverage": [
+        "India",
+        "Nepal",
+        "Bangladesh",
+        "Pakistan",
+        "South Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

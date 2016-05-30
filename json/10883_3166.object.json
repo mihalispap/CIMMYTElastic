@@ -1,0 +1,72 @@
+{"object": {
+    "title": [
+        {
+            "value": "QTLs asociados al contenido de carotenos en hojas de maiz (Zea mays L.)",
+            "lang": "spa"
+        },
+        {
+            "value": "QTLs associated to carotene content in maize leaves (Zea mays L.)",
+            "lang": "eng"
+        }
+    ],
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtls",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "caracteres cuantitativos",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "carotenoides en hojas",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "pms",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16586"
+        }
+    ],
+    "description": {
+        "value": "Los carotenos son pigmentos antioxidantes que captan foto¬nes del espectro de luz visible y protegen a los tejidos de las plantas contra la foto-oxidación, lo cual está relacionado con la tasa fotosintética y rendimiento de los cultivos. La biosín-tesis de los carotenos ocurre dentro de los plástidos, donde se sintetizan a partir de la vía mevalónica independiente, con la participación de más de 10 enzimas y un número de facto¬res aún no definidos. Con el objetivo de identificar regiones cromosómicas de maíz (Zea mays L.) asociadas al conteni¬do de carotenos, se midió el contenido de estos compuestos en hojas de 200 líneas endogámicas recombinantes de maíz, provenientes de la cruza B73×Mo17, sembradas en Irapuato, México, en el ciclo primavera-verano 2009. Los QTLs locali¬zados se asociaron a los siguientes compuestos: luteína, a-ca-roteno, b-caroteno, b-criptoxantina y zeaxantina. El caroteno presente en mayor cantidad en las hojas fue b-caroteno (80 % del total) y el menor b-criptoxantina (0.2 %). En los cro¬mosomas 1, 2, 4, 5, 6 y 8, se detectaron 21 QTLs significati¬vos. En el bin 1.07 se localizó un QTL altamente significativo (p£0.001) con valor aditivo alto para luteína (-89.16 mg g-1 PMS, r2@0.07), a-caroteno (-25.41 mg g-1 PMS, r2@0.07) y b-caroteno (-674.98 mg g-1 PMS, r2@0.09). Un QTL de b-criptoxantina en el cromosoma 8 fue detectado mediante el marcador psy2 que es parálogo de la enzima fitoeno sintasa, y otro QTL coincidió con un QTL evaluado para ácido abscí¬sico, relacionado al gen caroteno dioxigenasa. Se infiere que en el genoma de maíz existen factores aún no identificados relacionados al contenido de carotenos en hojas verdes, y los QTLs identificados en este estudio podrían ayudar a encon trar nuevos genes o factores que determinan el contenido de carotenos en hojas de maíz.",
+        "lang": "spa"
+    },
+    "appid": "10883_3166",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "spa",
+            "uri": "http://lexvo.org/id/iso639-3/spa"
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3166"
+}}

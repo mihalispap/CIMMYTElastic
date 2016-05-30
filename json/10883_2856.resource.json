@@ -1,0 +1,155 @@
+{"resource": {
+    "citation": "",
+    "issn": "0191-2917",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eritrea",
+            "uri": [
+                "http://sws.geonames.org/338010",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Eritrea"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Eastern Africa",
+            "uri": [
+                "http://sws.geonames.org/7729889",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/eastern_Africa"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2856",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2856"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2856"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2856",
+    "creator": [
+        {
+            "id": 2010339113,
+            "value": "Wolday, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2010339113"
+        },
+        {
+            "id": 765312104,
+            "value": "Fetch, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/765312104"
+        },
+        {
+            "id": 753547311,
+            "value": "Hodson, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/753547311"
+        },
+        {
+            "id": 2080880036,
+            "value": "Cao, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/2080880036"
+        },
+        {
+            "id": 1137025006,
+            "value": "Briere, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1137025006"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2856/1/95608.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 161414
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2856/2/95608.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 4624
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2856/3/95608.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8328
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2856/1/95608.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2856/2/95608.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2856/3/95608.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2856"
+        }
+    },
+    "extent": "",
+    "page": 1591,
+    "coverage": [
+        "Eritrea",
+        "Eastern Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

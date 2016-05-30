@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Genetic distance among doubled haploid maize lines and their testcross performance under drought stress and non-stress conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-06-30T05:24:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "doubled haploid",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic distance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27530",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                1,
+                ""
+            ],
+            "value": "drought stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "haploids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3490"
+            ]
+        }
+    ],
+    "description": {
+        "value": "In contrast to conventional inbreeding that takes up to seven generations to develop inbred lines, the doubled haploid (DH) technology allows production of inbred lines in two generations. The objectives of the present study were to: (a) evaluate testcross performance of 45 doubled haploid lines under drought stress and non-stress conditions (b) estimate heritabilities for grain yield and other traits and (c) to assess the genetic distance and relationship among the DH lines using 163,080 SNPs generated using genotyping-by-sequencing (GBS). The 45 hybrid and five checks were evaluated using a 10 × 5 alpha lattice in six drought stress and nine well-watered environments in Kenya, Uganda, and Tanzania. Differences in trait means between the drought stress and well-watered conditions were significant for all measured traits except for anthesis date. Genetic variances for grain yield, grain moisture, plant height and ear height were high under well-watered environments while genetic variance for anthesis date, root lodging and stalk lodging were high under drought stress environments. Combined analyses across drought stress and well-watered environments showed that ten top hybrids produced 1.6?2.2 t/ha grain yield under well-watered condition and 1?1.4 t/ha under drought stress condition higher than the mean of the commercial checks. Genetic distance between pairwise comparisons of the 38 of the 45 DH lines ranged from 0.07 to 0.48, and the overall average distance was 0.36. Both cluster and principal coordinate analysis using the genetic distance matrix calculated from 163,080 SNPs showed two major groups and the patterns of group was in agreement with their pedigree. Thirteen (13) of the best hybrids are currently in National Performance Trials testing, an important step towards commercialization in Kenya, Tanzania and Uganda.",
+        "lang": "eng"
+    },
+    "appid": "10883_3203",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3203"
+}}

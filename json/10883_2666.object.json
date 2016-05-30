@@ -1,0 +1,150 @@
+{"object": {
+    "title": {
+        "value": "Development of multiplex PCR and identification of major quality genes in cultivars from Yellow and Huai River Valley wheat region",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:19Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "common wheat (triticum aestivum l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "processing quality traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "multiplex pcr",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7761
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "polyphenol oxidase",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29496"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7922
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6933
+            ],
+            "value": "glutenins",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24033"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9672
+            ],
+            "value": "pcr",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34079"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "processing quality",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_29772"
+        }
+    ],
+    "description": {
+        "value": "(Objective) Wheat quality is controlled by many loci and each of them has several alleles. Development of multiplex PCR is very important to enhance the efficiency and reduce the cost in molecular marker assisted breeding for wheat quality traits. (Method) In the present study, the molecular markers for important quality trait genes, i.e., high-molecular-weight glutenin subunit (HMW-GS) genes Ax2*, Bx14, Bx17 and Dx5, and low-molecular-weight glutenin subunit (LMW-GS) gene Glu-A3d, as well as the marker BDFL-BRD for Wx-B1, MAG269 for Wx-D1, &fnof;Ö-sec for 1BL/1RS translocation and PPO18 for polyphenol oxidase(PPO) activity, were chosen. Three combinations of multiplex PCRs, PCR-I (Ax2*/Bx17/Dx5), PCR-II (Bx14/Glu-A3d/&fnof;Ö-sec) and PCR- III (BDFL-BRD/MAG269/PPO18) were built up according to genes controlling for pan bread and Chinese noodle quality, and the annealing temperatures of different markers. (Result) A total of 141 wheat cultivars from Yellow and Huai River Valley wheat region were evaluated adopting the multiplex PCRs, and 80 of them were previously assessed using SDS-PAGE for HMW-GS, LMW-GS and secalin, and the corresponding results were identical. Of the 141 wheat cultivars, the frequencies of Ax2*, Bx14 and Bx17 were 4.3%, 7.1%, and 1.4%, while Dx5 and Glu-A3d accounted for 17.7% and 27.7%, respectively. Presences of 1BL/1RS translocation and low polyphenol oxidase (PPO) activity genes were much higher, up to 44.0% and 51.8%, respectively. Wx-B1 null type accounted for 4.3%, and no Wx-D1 null type presented. (Conclusion) The results indicated that the three multiplex PCRs developed can be used to detect the nine genes stably and efficiently.",
+        "lang": "eng"
+    },
+    "appid": "10883_2666",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2666"
+}}

@@ -1,0 +1,140 @@
+{"resource": {
+    "citation": "",
+    "issn": "0014-2336",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Zimbabwe",
+            "uri": [
+                "http://sws.geonames.org/878675",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Ethiopia",
+            "uri": [
+                "http://sws.geonames.org/337996",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-30T05:24:46Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3171",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3171"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3171"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3171",
+    "creator": [
+        {
+            "id": 1658311181,
+            "value": "Dagne Wegary Gissa",
+            "type": "person",
+            "uri": "/cimmyt/person/1658311181"
+        },
+        {
+            "id": 2127154185,
+            "value": "Vivek, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/2127154185"
+        },
+        {
+            "id": 297982530,
+            "value": "Labuschagne, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/297982530"
+        }
+    ],
+    "publisher": {
+        "id": 28336301,
+        "value": "http://www.springerlink.com/content/n6w852893j3v473v/",
+        "type": "organization",
+        "uri": "/cimmyt/organization/28336301"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3171/1/97261.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 277859
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3171/2/97261.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 45756
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3171/3/97261.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5460
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3171/1/97261.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3171/2/97261.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3171/3/97261.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3171"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,9 +1,9 @@
 {"object": {
     "title": {
         "value": "Official and parallel cereals markets in Senegal: Empirical evidence",
-        "lang": "eng"
+        "lang": ""
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-06-07T21:09:13Z",
     "subject": [
         {
@@ -24,14 +24,17 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
                 1,
+                0.9665,
                 ""
             ],
             "value": "cereals",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
                 "http://aims.fao.org/aos/agrovoc/c_1474",
                 ""
             ]

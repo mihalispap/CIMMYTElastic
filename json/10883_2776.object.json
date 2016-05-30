@@ -1,0 +1,57 @@
+{"object": {
+    "title": {
+        "value": "Comparison of low molecular weight glutenin subunits identified by SDS-PAGE, 2-DE, MALDI-TOF-MS and PCR in common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:35Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.648
+            ],
+            "value": "sds-page",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34078"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9463,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        }
+    ],
+    "description": {
+        "value": "Background: Low-molecular-weight glutenin subunits (LMW-GS) play a crucial role in determining end-use quality of common wheat by influencing the viscoelastic properties of dough. Four different methods - sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE), two-dimensional gel electrophoresis (2-DE, IEF × SDS-PAGE), matrixassisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF-MS) and polymerase chain reaction (PCR), were used to characterize the LMW-GS composition in 103 cultivars from 12 countries. Results: At the Glu-A3 locus, all seven alleles could be reliably identified by 2-DE and PCR. However, the alleles Glu-A3e and Glu-A3d could not be routinely distinguished from Glu-A3f and Glu-A3g, respectively, based on SDS-PAGE, and the allele Glu-A3a could not be differentiated from Glu-A3c by MALDI-TOF-MS. At the Glu-B3 locus, alleles Glu-B3a, Glu-B3b, Glu-B3c, Glu-B3g, Glu-B3h and Glu-B3j could be clearly identified by all four methods, whereas Glu-B3ab, Glu-B3ac, Glu- B3ad could only be identified by the 2-DE method. At the Glu-D3 locus, allelic identification was problematic for the electrophoresis based methods and PCR. MALDI-TOF-MS has the potential to reliably identify the Glu-D3 alleles. Conclusions: PCR is the simplest, most accurate, lowest cost, and therefore recommended method for identification of Glu-A3 and Glu-B3 alleles in breeding programs. A combination of methods was required to identify certain alleles, and would be especially useful when characterizing new alleles. A standard set of 30 cultivars for use in future studies was chosen to represent all LMW-GS allelic variants in the collection. Among them, Chinese Spring, Opata 85, Seri 82 and Pavon 76 were recommended as a core set for use in SDS-PAGE gels. Glu-D3c and Glu-D3e are the same allele. Two new alleles, namely, Glu-D3m in cultivar Darius, and Glu-D3n in Fengmai 27, were identified by 2-DE. Utilization of the suggested standard cultivar set, seed of which is available from the CIMMYT and INRA Clermont-Ferrand germplasm collections, should also promote information sharing in the identification of individual LMW-GS and thus provide useful information for quality improvement in common wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2776",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2776"
+}}

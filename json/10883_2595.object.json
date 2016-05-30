@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "QTL analysis of resistance to Fusarium head blight in the novel wheat germplasm CJ 9306. II. Resistance to deoxynivalenol accumulation and grain yield loss",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:07Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6654
+            ],
+            "value": "fusarium",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3156"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6527,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "deoxynivalenol",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34143"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7108,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        }
+    ],
+    "description": {
+        "value": "Fusarium head blight (FHB or scab) caused by Fusarium species is a destructive disease in wheat, not only causing dramatic decrease of grain yield and quality, but also leading to serious mycotoxin contamination in the infected grains. This study was conducted to identify and quantify quantitative trait loci (QTLs) contributing to resistance to deoxynivalenol (DON) accumulation as well as to grain yield loss in a population of 152 F7 recombinant inbred lines (RILs) derived from the cross Veery/CJ 9306. DON content in scabby grains and relative decreases of yield components were analyzed. Two new QTLs (QFhs.nau-2DL and QFhs.nau-1AS) for resistance to DON accumulation caused by FHB in wheat were detected, and QTLs QFhs.ndsu-3BS and QFhs.nau-5AS were also validated in CJ 9306, based on a constructed genetic linkage map. On the average of three experiments, major QTLs QFhs.ndsu-3BS and QFhs.nau-2DL explained up to 23 and 20 of phenotypic variation, respectively. QFhs.nau-1AS and QFhs.nau-5AS separately explained 4&ndash;6 of phenotypic variation. The differences among years/experiments were significant for all the four QTLs. However, the QTL × environment interaction was significant only for QFhs.nau-2DL, but not for the others. The results suggest that simple sequence repeat (SSR) markers Xgwm533b associated with QFhs.ndsu-3BS, and Xgwm539 associated with QFhs.nau-2DL could be used in marker-assisted selection to enhance resistance to DON accumulation. QFhs.ndsu-3BS + QFhs.nau-2DL and QFhs.nau-2DL + QFhs.nau-5AS would be the optimum choices for two-locus combinations. QFhs.ndsu-3BS was also validated in CJ 9306 for resistance to grain yield loss, explaining 8&ndash;15% of phenotypic variation. No QTLs for resistance to DON accumulation or grain yield loss independent of Type II resistance were found. By comparison, however, either of QFhs.nau-2DL or QFhs.nau-5AS alone and their combination were more contributive to resistance to DON accumulation than to Type II resistance",
+        "lang": "eng"
+    },
+    "appid": "10883_2595",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2595"
+}}

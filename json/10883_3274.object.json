@@ -1,0 +1,189 @@
+{"object": {
+    "title": {
+        "value": "CIMMYT's genetic progress in wheat grain quality under four nitrogen rates",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:35Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.639,
+                0.639,
+                0.639,
+                0.639,
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6138,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quality",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "breadmaking",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1072",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nutrient improvement",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nutritive value",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "protein content",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fertilizer application",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nitrogen fertilizers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "application rates",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "research projects",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7202
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "Wheat (Triticum aestivum L.) breeders often try to simultaneously improve grain yield and bread-making quality. This study examined changes in CIMMYT's wheat germplasm with respect to grain protein concentration (GPC)- and grain protein quality (GPQ)-related parameters and assessed the importance of these parameters in determining bread-making quality, when wheat cultivars were grown with 0, 75, 150, or 300 kg N ha(-1). A 3-yr field study was established with 10 cultivars representing breeding progress from 1950 to 1985. Flour protein concentration (FPC), sodium dodecyl sulfate-sedimentation (SDS-S), alveogram W (ALVW), alveogram P/G (ALVPG), bread loaf volume (LV), and GPC were evaluated. At low N (0 and 75 kg ha(-1)), there was no difference in GPC among cultivars. In contrast, at higher N (150 and 300 kg ha(-1)), there was a linear reduction in GPC with respect to the year of release. However, when the two tall, older cultivars and cv. Siete Cerros 66, an outlier, were removed from the analysis, there was a negative trend between GPC and year of release but only at the 300 kg N ha(-1) level. There was no linear trend in year of release for GPQ parameters or LV. Loaf volume was most consistently correlated with SDS-S across the different levels of N compared with GPC, FPC, ALVW, or ALVPG. However, GPC and LV showed a highly significant correlation only when the two soft wheat cultivars were removed from analysis. Use of semidwarf germplasm in CIMMYT's wheat breeding program initially resulted in increased grain yield and reduced GPC. However, during the period of semidwarf improvement, increasing grain yield was possible while maintaining GPC, except under high levels of N application.",
+        "lang": "eng"
+    },
+    "appid": "10883_3274",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3274"
+}}

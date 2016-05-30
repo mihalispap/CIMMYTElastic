@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Allelic variation at the vernalization genes Vrn-A1, Vrn-B1, Vrn-D1, and Vrn-B3 in Chinese wheat cultivars and their association with growth habit",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:16Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6166
+            ],
+            "value": "vernalization",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16059"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8504
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.657,
+            "value": "growth habit",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5969"
+        }
+    ],
+    "description": {
+        "value": "Information on the distribution of vernalization genes and their association with growth habit is crucial to understanding the adaptability of wheat (Triticum aestivum L.) cultivars to different environments. In this study, 278 Chinese wheat cultivars were characterized with molecular markers for the vernalization genes Vrn-A1, -B1, -D1, and -B3. Heading time was evaluated in a greenhouse under long days without vernalizaton. The dominant Vrn-D1 allele showed the highest frequency in the Chinese wheat cultivars (37.8%), followed by the dominant Vrn-A1, -B1, and -B3 alleles. Ninety-two winter cultivars carried recessive alleles of all four vernalization loci, whereas 172 spring genotypes contained at least one dominant Vrn allele. All cultivars released in the North China Plain Winter Wheat Zone were winter type. Winter (53.0%), spring (36.1%), and early-heading (10.9%) cultivars were grown in the Yellow and Huai River Valley Winter Zone. Most of the spring genotypes from this zone carried only the dominant Vrn-D1 allele, which was also predominant (64.1%) in the Middle and Lower Yangtze Valley Winter Zone and Southwestern Winter Wheat Zone. In three spring-sown wheat zones, all cultivars were early-heading spring types that frequently possessed the strongest dominant Vrn-A1a allele and combinations with other dominant Vrn gene(s). The Vrn-D1 allele is associated with the latest heading time, Vrn-A1 the earliest, and Vrn-B1 intermediate values. The information is important for breeding programs in countries interested in using Chinese wheats.",
+        "lang": "eng"
+    },
+    "appid": "10883_2645",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2645"
+}}

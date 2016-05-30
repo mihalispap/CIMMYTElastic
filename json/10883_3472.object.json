@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Reaction of some of Afghanistan's wheat varieties to yellow rust under natural conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seed",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6734
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Afghanistan grows wheat at about 2.5 million ha, about 45% of which is irrigated. The country is not wheat sufficient and has been importing to meet domestic needs. Yellow rust is the most important disease of wheat in Afghanistan. Country has been able to manage wheat rusts mainly by having a survey surveillance system in place and by releasing resistant varieties. A total of 30 wheat varieties released during last two decades were screened for rust resistance under natural epiphytotic  conditions. The rust reaction observed on two dates at one week interval revealed very fast increase in yellow rust infection. A large number of varieties e.g., Gul-96, Pamir-94, Ghori-96, HD2285 etc., were found to have very high yellow rust scores warranting their removal from seed chain.",
+        "lang": "eng"
+    },
+    "appid": "10883_3472",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3472"
+}}

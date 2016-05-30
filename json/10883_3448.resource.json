@@ -1,0 +1,372 @@
+{"resource": {
+    "citation": "",
+    "issn": "0028-0836",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:59:58Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3448",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3448"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3448"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3448",
+    "creator": [
+        {
+            "id": 172822969,
+            "value": "McCouch, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/172822969"
+        },
+        {
+            "id": 202929338,
+            "value": "Baute, G.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/202929338"
+        },
+        {
+            "id": 2128576115,
+            "value": "Bradeen, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/2128576115"
+        },
+        {
+            "id": 1776175339,
+            "value": "Bramel, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1776175339"
+        },
+        {
+            "id": 1409858078,
+            "value": "Bretting, P.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1409858078"
+        },
+        {
+            "id": 839850469,
+            "value": "Buckler, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/839850469"
+        },
+        {
+            "id": 1511137710,
+            "value": "Burke, J.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1511137710"
+        },
+        {
+            "id": 1332649774,
+            "value": "Charest, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1332649774"
+        },
+        {
+            "id": 96236352,
+            "value": "Cloutier, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/96236352"
+        },
+        {
+            "id": 575563328,
+            "value": "Cole, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/575563328"
+        },
+        {
+            "id": 534916237,
+            "value": "Dempewolf, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/534916237"
+        },
+        {
+            "id": 201716995,
+            "value": "Dingkuhn, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/201716995"
+        },
+        {
+            "id": 627082273,
+            "value": "Feuillet, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/627082273"
+        },
+        {
+            "id": 199664387,
+            "value": "Gepts, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/199664387"
+        },
+        {
+            "id": 102414263,
+            "value": "Grattapaglia, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/102414263"
+        },
+        {
+            "id": 712612319,
+            "value": "Guarino, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/712612319"
+        },
+        {
+            "id": 495100318,
+            "value": "Jackson, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/495100318"
+        },
+        {
+            "id": 479735443,
+            "value": "Knapp, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/479735443"
+        },
+        {
+            "id": 30288593,
+            "value": "Langridge, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/30288593"
+        },
+        {
+            "id": 1394959967,
+            "value": "Lawton-Rauh, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1394959967"
+        },
+        {
+            "id": 1410551722,
+            "value": "Lijua, Q.",
+            "type": "person",
+            "uri": "/cimmyt/person/1410551722"
+        },
+        {
+            "id": 240572718,
+            "value": "Lusty, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/240572718"
+        },
+        {
+            "id": 1115072853,
+            "value": "Michael, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/1115072853"
+        },
+        {
+            "id": 1243144067,
+            "value": "Myles, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1243144067"
+        },
+        {
+            "id": 129825576,
+            "value": "Naito, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/129825576"
+        },
+        {
+            "id": 761097681,
+            "value": "Nelson, R.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/761097681"
+        },
+        {
+            "id": 1990309830,
+            "value": "Pontarollo, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1990309830"
+        },
+        {
+            "id": 569730820,
+            "value": "Richards, C.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/569730820"
+        },
+        {
+            "id": 211941554,
+            "value": "Rieseberg, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/211941554"
+        },
+        {
+            "id": 1690363327,
+            "value": "Ross-Ibarra, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1690363327"
+        },
+        {
+            "id": 258481330,
+            "value": "Rounsley, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/258481330"
+        },
+        {
+            "id": 1895629017,
+            "value": "Hamilton, R.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1895629017"
+        },
+        {
+            "id": 1277338902,
+            "value": "Schurr, U.",
+            "type": "person",
+            "uri": "/cimmyt/person/1277338902"
+        },
+        {
+            "id": 1134745667,
+            "value": "Stein, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1134745667"
+        },
+        {
+            "id": 1635905156,
+            "value": "Tomooka, N.",
+            "type": "person",
+            "uri": "/cimmyt/person/1635905156"
+        },
+        {
+            "id": 32490018,
+            "value": "Knaap, E. van der",
+            "type": "person",
+            "uri": "/cimmyt/person/32490018"
+        },
+        {
+            "id": 1895986879,
+            "value": "Tassel, D van",
+            "type": "person",
+            "uri": "/cimmyt/person/1895986879"
+        },
+        {
+            "id": 1006093965,
+            "value": "Toll, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1006093965"
+        },
+        {
+            "id": 992263648,
+            "value": "Valls, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/992263648"
+        },
+        {
+            "id": 857495591,
+            "value": "Varshney, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/857495591"
+        },
+        {
+            "id": 551606836,
+            "value": "Ward, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/551606836"
+        },
+        {
+            "id": 1453198628,
+            "value": "Waugh,  R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1453198628"
+        },
+        {
+            "id": 264533052,
+            "value": "Wenzl, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/264533052"
+        },
+        {
+            "id": 1141894387,
+            "value": "Zamir, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1141894387"
+        }
+    ],
+    "publisher": {
+        "id": 432244799,
+        "value": "http://www.nature.com/nature/journal/v499/n7456/full/499023a.html#affil-auth",
+        "type": "organization",
+        "uri": "/cimmyt/organization/432244799"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3448/1/98716.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 11436
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3448/4/98716.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 25664
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3448/5/98716.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 754933
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3448/1/98716.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3448/4/98716.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3448/5/98716.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3448"
+        }
+    },
+    "extent": "",
+    "page": "23-24",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

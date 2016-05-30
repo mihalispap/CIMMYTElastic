@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Optical absorption coefficient of laser irradiated wheat seeds determined by photoacoustic spectroscopy",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:18Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "seeds",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6946"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "spectroscopy",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14498"
+        }
+    ],
+    "description": {
+        "value": "Present study is concerned with the photoacoustic (PA) assessment of optical absorption coefficient (ß) for treated (soaking in the methylene blue dye) and untreated seeds of wheat. The determination of ß, based on the Rosencwaig and Gersho model enables the optical absorption coefficient to be assessed directly from the measured amplitude of PA signal. The obtained ß values were statistically analyzed. The outcome of the analysis shows significant differences in ß values: in the wavelength range from 600 to 700?nm treated (with dye) seeds have higher ß than untreated seeds. These seeds were also irradiated (varying time and intensity) with a laser diode emitting at 650?nm. Germination tests were carried out on both, irradiated and control (no irradiated) seeds. The percentage of normal seedlings from treated seeds was found higher (p = 0.05) than from control seeds.",
+        "lang": "eng"
+    },
+    "appid": "10883_2663",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2663"
+}}

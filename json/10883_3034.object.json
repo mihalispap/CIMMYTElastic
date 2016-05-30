@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Detection of Bacillus thuringiensis genes in transgenic maize by the PCR method and FTA paper technology",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:28Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetically modified organism (gmo) detection",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6392,
+                0.6392,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bacillus thuringiensis (bt)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pcr method",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fta paper technology",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7872
+            ],
+            "value": "genetically modified organisms",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34285"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.8673
+            ],
+            "value": "pcr",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_34079"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "bacillus thuringiensis",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_761"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "paper",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5548"
+        }
+    ],
+    "description": {
+        "value": "We optimized the PCR method to detect genetically engineered Bacillus thuringiensis (Bt) maize in open quarantine fields in Kenya. Many factors affect the extraction of the DNA from plants, such as the amount of tissue available, the condition of the plant material, the numbers of steps involved in the extraction procedure, and the required purity needed. We tested the application of the FTA paper technology for field sampling whereby leaf materials are not removed and transported from the site. We also applied the PCR method, a technique that is widely used for detection of genetically modified organism (GMOs). We used primers specific to the Bt genes present in the transgenic maize to screen for the Bt genes Cry 1Ab and Cry 1Ba.",
+        "lang": "eng"
+    },
+    "appid": "10883_3034",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3034"
+}}

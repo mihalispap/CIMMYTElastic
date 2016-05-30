@@ -5,26 +5,12 @@
     },
     "updated": "2016-01-22T23:05:45Z",
     "created": "2013-06-07T21:02:28Z",
-    "subject": [
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "chemical composition",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_1794"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6682,
-            "value": "latin america",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4221"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.7864,
-            "value": "maize",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
-        }
-    ],
+    "subject": {
+        "vocabulary": "agrovoc",
+        "score": 1,
+        "value": "chemical composition",
+        "uri": "http://aims.fao.org/aos/agrovoc/c_1794"
+    },
     "description": {
         "value": "",
         "lang": ""

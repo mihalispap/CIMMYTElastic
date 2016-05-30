@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Global status of wheat leaf rust caused by Puccinia triticina",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum turgidum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7958",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "races",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust caused by Puccinia triticina is the most common and widely distributed of the three wheat rusts. Losses from leaf rust are usually less damaging than those from stem rust and stripe rust, but leaf rust causes greater annual losses due to its more frequent and widespread occurrence. Yield losses from leaf rust are mostly due to reductions in kernel weight. Many laboratories worldwide conduct leaf rust surveys and virulence analyses. Most currently important races (pathotypes) have either evolved through mutations in existing populations or migrated from other, often unknown, areas. Several leaf rust resistance genes are cataloged, and high levels of slow rusting adult plant resistance are available in high yielding CIMMYT wheats. This paper summarizes the importance of leaf rust in the main wheat production areas as reflected by yield losses, the complexity of virulence variation in pathogen populations, the role cultivars with race-specific resistance play in pathogen evolution, and the control measures currently practiced in various regions of the world.",
+        "lang": "eng"
+    },
+    "appid": "10883_2831",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2831"
+}}

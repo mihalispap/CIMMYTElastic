@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Genomic-Enabled Prediction of Ordinal Data with Bayesian Logistic Ordinal Regression",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -53,47 +53,11 @@
             "score": 1,
             "value": "models",
             "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.8592
-            ],
-            "value": "genomics",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_92382"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                "",
-                0.6446
-            ],
-            "value": "prediction",
-            "uri": [
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3041"
-            ]
         }
     ],
     "description": {
         "value": "Most genomic-enabled prediction models developed so far assume that the response variable is continuous and normally distributed. The exception is the probit model developed for ordered categorical phenotypes. In statistical applications, due to the easy implementation of the Bayesian probit ordinal regression (BPOR) model, Bayesian logistic ordinal regression (BLOR) is rarely implemented in the context of genomic-enabled prediction [sample size (n) is much smaller than the number of parameters (p)]. For this reason, in this paper we propose a BLOR model using the Pólya-Gamma data augmentation approach that produces a Gibbs sampler with similar full conditional distributions of the BPOR model and with the advantage that the BPOR model is a particular case of the BLOR model. We evaluated the proposed model using simulation and two real data sets. Results indicate that our BLOR model is a good alternative for analyzing ordinal data in the context of genomic-enabled prediction with the probit or logit link.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10254",
     "language": {

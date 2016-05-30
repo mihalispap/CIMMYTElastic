@@ -1,0 +1,99 @@
+{"object": {
+    "title": {
+        "value": "Agricultural information networks, information needs and risk management strategies: A survey of farmers in Indo-Gangetic Plains of India",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-11-08T23:21:20Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "agricultural science",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "information",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_330966",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "networks",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_50266",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "risk management",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_37934",
+                "http://aims.fao.org/aos/agrovoc/c_37934",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "farmers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "surveys",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agricultural sciences",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49876"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6261,
+            "value": "information needs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3861"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3225",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3225"
+}}

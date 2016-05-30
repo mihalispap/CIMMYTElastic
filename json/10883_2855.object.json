@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Reconstruction of the Synthetic W7984 × Opata M85 wheat reference population",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "reference populations",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "mapping",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1344",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "core collections",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "molecular markers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24030",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6953
+            ],
+            "value": "population",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330887"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8137,
+            "value": "reconstruction",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_92376"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Reference populations are valuable resources in genetics studies for determining marker order, marker selection, trait mapping, construction of large-insert libraries, cross-referencing marker platforms, and genome sequencing. Reference populations can be propagated indefinitely, they are polymorphic and have normal segregation. Described are two new reference populations who share the same parents of the original wheat reference population Synthetic W7984 (Altar84/Aegilops tauschii (219) CIGM86.940) × Opata M85, an F1-derived doubled haploid population (SynOpDH) of 215 inbred lines and a recombinant inbred population (SynOpRIL) of 2039 F6 lines derived by single-plant self-pollinations. A linkage map was constructed for the SynOpDH population using 1446 markers. In addition, a core set of 42 SSR markers was genotyped on SynOpRIL. A new approach to identifying a core set of markers used a step-wise selection protocol based on polymorphism, uniform chromosome distribution, and reliability to create nested sets starting with one marker per chromosome, followed by two, four, and six. It is suggested that researchers use these markers as anchors for all future mapping projects to facilitate cross-referencing markers and chromosome locations. To enhance this public resource, researchers are strongly urged to validate line identities and deposit their data in GrainGenes so that others can benefit from the accumulated information.",
+        "lang": "eng"
+    },
+    "appid": "10883_2855",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2855"
+}}

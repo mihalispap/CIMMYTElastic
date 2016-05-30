@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of bread wheat for both seedling and adult plant resistance to stem rust",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-12-09T20:48:39Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stem rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ug99",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "disease severity",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.747
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Wheat is an important staple food crop in sub-Saharan Africa. However, the current wheat consumption of 900 000 tons in Kenya outweighs the wheat production of 350 000 tons given the high population growth and inflation. The stem rust currently poses the greatest threat to wheat production due to the emergence of the virulent race of thePuccinia graminis f. sp tritici, Ug99 (TTKS) and its variants Ug99 + Sr24 (TTKSK) andUg99 + Sr36 (TTKST) leading to about 70 to 100% yield losses. This study aimed at evaluating twenty-five wheat genotypes for both field and seedling resistance to stem rust. The genotypes were grown in an alpha lattice design and in two replicates both in the greenhouse and in the field at Kenya Agricultural Research Institute (KARI), Njoro.  The seedling stage infection types were scored based on Stakman et al. (1962) scale. At the adult plant stages, the stem rust disease severity was based on modified Cobb?s scale. The genotypes showed diverse seedling and adult plant resistance responses. The most resistant entries, KSL-2, KSL-3 and KSL-20 also exhibited the pseudo black chaff (PBC) trait implying they contain the Sr2 gene in their background; the basis of breeding for durable resistance to stem rust in wheat. These lines with high stem rust resistance could be backcrossed to the adapted and high yielding but susceptible Kenyan wheat varieties to avert further wheat yield declines.",
+        "lang": "eng"
+    },
+    "appid": "10883_3364",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3364"
+}}

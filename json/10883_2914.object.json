@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Identification of Ug99 stem rust resistance loci in winter wheat germplasm using genome-wide association analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:53Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromosomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1598"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.785
+            ],
+            "value": "winter wheat",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8412"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7278
+            ],
+            "value": "loci",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24869"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        }
+    ],
+    "description": {
+        "value": "The evolution of a new race of stem rust, generally referred to as Ug99, threatens global wheat production because it can overcome widely deployed resistance genes that had been effective for many years. To identify loci conferring resistance to Ug99 in wheat, a genome-wide association study was conducted using 232 winter wheat breeding lines from the International Winter Wheat Improvement Program. Breeding lines were genotyped with diversity array technology, simple sequence repeat and sequence-tagged site markers, and phenotyped at the adult plant stage for resistance to stem rust in the stem rust resistance screening nursery at Njoro, Kenya during 2009?2011. A mixed linear model was used for detecting marker-trait associations. Twelve loci associated with Ug99 resistance were identified including markers linked to known genes Sr2 and Lr34. Other markers were located in the chromosome regions where no Sr genes have been previously reported, including one each on chromosomes 1A, 2B, 4A and 7B, two on chromosome 5B and four on chromosome 6B. The same data were used for investigating epistatic interactions between markers with or without main effects. The marker csSr2 linked to Sr2 interacted with wPt4930 on 6BS and wPt729773 in an unknown location. Another marker, csLV34 linked to Lr34, also interacted with wPt4930 on 6BS and wPt4916 on 2BS. The frequent involvement of wPt4916 on 2BS and wPt4930 on 6BS in interactions with other significant loci on the same or different chromosomes suggested complex genetic control for adult plant resistance to Ug99 in winter wheat germplasm.",
+        "lang": "eng"
+    },
+    "appid": "10883_2914",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2914"
+}}

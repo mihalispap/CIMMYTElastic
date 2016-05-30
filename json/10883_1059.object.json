@@ -3,7 +3,7 @@
         "value": "Livelihoods, poverty and targeting in the Indo-Gangetic Plains: a spatial mapping approach",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:44Z",
+    "updated": "2016-01-22T23:05:51Z",
     "created": "2012-01-06T05:10:48Z",
     "subject": [
         {
@@ -116,6 +116,12 @@
             "score": 1,
             "value": "livelihoods",
             "uri": "http://aims.fao.org/aos/agrovoc/c_1374498089962"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6577,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
         }
     ],
     "description": {

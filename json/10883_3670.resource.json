@@ -1,0 +1,125 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Zimbabwe",
+        "uri": [
+            "http://sws.geonames.org/878675",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:21Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Risk Management Working Paper Series",
+    "appid": "10883_3670",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2000",
+    "url": [
+        {
+            "broken": false,
+            "value": "1665-045-X"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3670"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3670"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3670",
+    "creator": [
+        {
+            "id": 916599035,
+            "value": "Shamudzarira, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/916599035"
+        },
+        {
+            "id": 1155942775,
+            "value": "Robertson, M.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1155942775"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3670/1/74303.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 408765
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3670/2/74303.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 47374
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3670/3/74303.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 1716
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3670/1/74303.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3670/2/74303.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3670/3/74303.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3670"
+        }
+    },
+    "extent": "No. 00/03",
+    "page": "18 p.",
+    "coverage": "Zimbabwe",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

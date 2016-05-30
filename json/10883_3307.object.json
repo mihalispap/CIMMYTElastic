@@ -1,0 +1,123 @@
+{"object": {
+    "title": {
+        "value": "Molecular characterization of vernalization genes in Iranian wheat landraces",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:42Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "growth habit",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5969",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "promoter region",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "retrotransposon element",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat landraces",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alleles",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8724"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7247
+            ],
+            "value": "vernalization",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16059"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.8741
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7357
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Wheat, a globally important food crop, is widely grown in various regions of the world. Wheat's wide adaptation to different climatic conditions is strongly controlled by vernalization (Vrn), photoperiod (Ppd) and earliness per se (Eps) genes. In this study, 395 Iranian wheat landraces were characterized by applying markers for the vernalization genes Vrn-B1, Vrn-D1, and Vrn-B3. Based on specific primers of the recessive vrn-B3 allele, two novel fragments in addition to the expected alleles were amplified. Spring habit Vrn-D1 and Vrn-B1 alleles were observed in 67.35% and 38.48%, respectively, of Iranian wheat landraces. Twenty-nine landraces were heterozygous for the Vrn-D1 gene. The growth habit of the test wheat landraces could not be completely predicted by their allelic status at the Vrn-1 genes. This inconsistency may be due to misclassification of the growth habit of the studied landraces, the presence of a new mutation at VRN loci in Iranian landraces or other functional genes such as Ppd and Eps gens which were not included in this survey. Therefore, sequencing the putative alleles at various VRN loci of spring and winter types could provide useful information.",
+        "lang": "eng"
+    },
+    "appid": "10883_3307",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3307"
+}}

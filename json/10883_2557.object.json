@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "Protocol establishment of reversed-phase high-performance liquid chromatography (RP-HPLC) for analyzing wheat gluten protein",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:01Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat (t. aestivum l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gluten protein",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "high-performance liquid chromatography",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qualitative and quantitative analyses",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7433
+            ],
+            "value": "gliadin",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11169"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gluten",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3294"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "chromatography",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1594"
+        }
+    ],
+    "description": {
+        "value": "(Objective) This study will establish a protocol of reversed-phase high-performance liquid chromatography (RP-HPLC) used in separating and quantifying wheat gluten protein in China, which has been widely used in wheat quality study since the 1980s. (Method) Two cultivars, Zhongyou 9507 (strong gluten) and Jing 411 (weak gluten), were chosen to study the effect of temperature, elution gradient, sample weight, extraction duration, and injection volume on gluten protein resolution. The ability to repeat experimental results was validated. (Result) The results indicated that the gliadin and glutenin subunits extraction rate reached 90% when 45mg of flour was extracted with 1 ml 50% aqueous 1-propanol (v/v) and glutenin extraction buffer (50% 1-propanal (v/v) +2 mol L-1 Urea+0.2 mol L-1 Tris-HCl (pH 6.6)+1%DTT), respectively. The optimal sample injection volume of gliadin and glutenin was 10-15 and 15-20, respectively. The modified elution gradient effectively separated gliadin and glutenin subunits. (Conclusion) This protocol can qualify and quantify the components of gliadin and glutenin accurately combining SDS-PAGE, by which we can predicate the wheat end-use quality.",
+        "lang": "eng"
+    },
+    "appid": "10883_2557",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2557"
+}}

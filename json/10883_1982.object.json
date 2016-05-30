@@ -3,7 +3,7 @@
         "value": "Spillover effects of international agricultural research: CIMMYT-based semi-dwarf wheats in Australia",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:06:00Z",
     "created": "2013-06-07T21:09:14Z",
     "subject": [
         {
@@ -25,15 +25,18 @@
             "vocabulary": [
                 "agrovoc",
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
                 1,
                 1,
+                0.6271,
                 ""
             ],
             "value": "wheats",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
                 "http://aims.fao.org/aos/agrovoc/c_8373",
                 "http://aims.fao.org/aos/agrovoc/c_8373",
                 ""
@@ -78,14 +81,17 @@
         {
             "vocabulary": [
                 "agrovoc",
+                "agrovoc",
                 ""
             ],
             "score": [
                 1,
+                0.6348,
                 ""
             ],
             "value": "dwarfs",
             "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2421",
                 "http://aims.fao.org/aos/agrovoc/c_2421",
                 ""
             ]

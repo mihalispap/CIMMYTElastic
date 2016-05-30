@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Physiological traits for improving heat tolerance in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:02Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heat tolerance",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11486"
+        }
+    ],
+    "description": {
+        "value": "Wheat (Triticum aestivum) represents about 30% of the world?s cereal area, with over 220 million ha cultivated worldwide, often under abiotic stress. Wheat growth can be impaired by heat stress (HS) at any developmental stage, and modeling scenarios predict even warmer temperatures in the future (Easterling and Apps, 2005). The worst impacts of rising temperatures will occur at low latitudes (where approximately 100 million ha of wheat are cultivated, producing approximately 280 million tons of grain), while some benefits at high latitudes are expected. In terms of breeding targets, 12 different wheat mega-environments have been defined worldwide based on cropping system (e.g. rain fed versus irrigated, spring versus winter type) together with biotic and abiotic constraints (Braun et al., 2010). While mega-environment 5 encompasses 7 million ha under continuous HS (e.g. in Sudan and south and central India), over one-half of the total wheat area is prone to periods of HS already, and climate models suggest further increases in average temperatures (Fig. 1; Supplemental Table S1) as well as extreme temperature anomalies, which are already detectable (Hansen et al., 2012). Yield penalties are associated with both chronically high temperatures (mean temperature of the growth cycle being 18°C?25°C, and maximum day temperatures up to 32°C during grain filling) as well as heat shocks, where temperatures greater than 32°C occur during mid or late reproductive wheat stages, including grain filling (Wardlaw and Wrigley, 1994). A recent analysis of extensive international nursery data suggests that spring wheat breeding targeted for abiotic stress delivers better genetic gains in warmer environments (S.M. Gourdji, K.L. Mathews, M.P. Reynolds, J. Crossa, and D.B. Lobell, unpublished data). This Update considers the physiological processes and traits for which there is evidence that genetic improvement could improve wheat adaptation to HS. The issue of biotic threats to wheat is beyond the scope of this review, and readers are referred to other sources (Legreve and Duveiller, 2010).",
+        "lang": "eng"
+    },
+    "appid": "10883_2971",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2971"
+}}

@@ -1,0 +1,127 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-06-30T05:24:32Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3058",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3058"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3058"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3058",
+    "creator": [
+        {
+            "id": 138555577,
+            "value": "Arcos, A.L.",
+            "type": "person",
+            "uri": "/cimmyt/person/138555577"
+        },
+        {
+            "id": 1930484447,
+            "value": "Narro, L.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1930484447"
+        },
+        {
+            "id": 1597771772,
+            "value": "Salazar, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1597771772"
+        },
+        {
+            "id": 438763692,
+            "value": "Caetano, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/438763692"
+        }
+    ],
+    "publisher": {
+        "id": 214751908,
+        "value": "http://www.revistas.unal.edu.co/index.php/acta_agronomica/article/view/873",
+        "type": "organization",
+        "uri": "/cimmyt/organization/214751908"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3058/1/90302.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 90396
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3058/2/90302.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 27452
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3058/3/90302.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 13876
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3058/1/90302.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3058/2/90302.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3058/3/90302.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3058"
+        }
+    },
+    "extent": "",
+    "page": "157-164",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

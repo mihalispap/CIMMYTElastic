@@ -1,0 +1,137 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2015-08-03T15:11:04Z",
+    "rights": "",
+    "relation": "Environments",
+    "appid": "10883_4386",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2015",
+    "url": [
+        {
+            "broken": true,
+            "value": "http://www.mdpi.com/2076-3298/2/3/338"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4386"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4386"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4386",
+    "creator": [
+        {
+            "id": 1676075137,
+            "value": "Baudron, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1676075137"
+        },
+        {
+            "id": 1823058277,
+            "value": "Thierfelder, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1823058277"
+        },
+        {
+            "id": 1661877713,
+            "value": "Nyagumbo, I.",
+            "type": "person",
+            "uri": "/cimmyt/person/1661877713"
+        },
+        {
+            "id": 1425981375,
+            "value": "Gerard, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/1425981375"
+        }
+    ],
+    "publisher": {
+        "id": 663082378,
+        "value": "MDPI AG,",
+        "type": "organization",
+        "uri": "/cimmyt/organization/663082378"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4386/1/56915.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 944628
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4386/2/56915.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4386/4/56915.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 53302
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4386/1/56915.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4386/2/56915.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4386/4/56915.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4386"
+        }
+    },
+    "extent": "",
+    "page": "338-357",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Switzerland",
+    "doi": ""
+}}

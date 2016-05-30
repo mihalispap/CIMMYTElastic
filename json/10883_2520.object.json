@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "Resistance of some Iraqi bread wheat cultivars to Puccinia triticina",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:55Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "brown rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia recondita",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27334",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance genes",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6913
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8484
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        }
+    ],
+    "description": {
+        "value": "Brown rust (leaf rust) caused by Puccinia triticina is one of the most serious diseases of wheat worldwide. In Iraq the occurrence and distribution of brown rust is more regular and uniform than that of other wheat rusts. with yield losses as high as 44% on susceptible wheat cultivars in commercial fields. Recently several promising wheat (Triticum aestivum) cultivars with different levels of rust resistance have been released in Iraq. The present work was conducted to postulate the resistance genes in twenty-two Iraqi bread wheat cultivars by testing them with thirteen Mexican races of P. triticina. &lsquo;Thatcher&rsquo; near-isogenic lines were used as testers for known resistance genes. Ten day old seedling sets were artificially inoculated with each race, and the infection type was recorded ten days later. Field reactions of the cultivars with the predominantly Iraqi races were determined under field conditions for three years. Results revealed that the Iraqi wheat cultivars possessed brown rust resistance genes Lr1, 3, 10, 13, 16, 17, 23 and 26, either alone or in various combinations. The presence of unknown resistance genes was also postulated in some cultivars. Lr23, derived from Triticum turgidum var. durum, was present in 23% of tested cultivars, whereas Lr13 was present in 18%. The presence of Lr26 in &lsquo;Al-Nour&rsquo; and &lsquo;Hashemia&rsquo; indicated that they carried the 1BL.1RS wheat-rye translocation. &lsquo;Al-Melad&rsquo; displayed resistant reactions to all races used in the study. &lsquo;Tamuz 3&rsquo; and &lsquo;Al- Nour&rsquo; displayed high adult-plant resistance to P. triticina in the field.",
+        "lang": "eng"
+    },
+    "appid": "10883_2520",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2520"
+}}

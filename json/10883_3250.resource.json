@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "0379-5721",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Africa",
+        "uri": [
+            "http://sws.geonames.org/6255146",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Africa"
+        ]
+    },
+    "updatedDate": "2013-11-24T18:23:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3250",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3250"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3250"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3250",
+    "creator": [
+        {
+            "id": 332187298,
+            "value": "Nuss, E.T.",
+            "type": "person",
+            "uri": "/cimmyt/person/332187298"
+        },
+        {
+            "id": 125222486,
+            "value": "Arscott, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/125222486"
+        },
+        {
+            "id": 1593434789,
+            "value": "Bresnahan, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/1593434789"
+        },
+        {
+            "id": 767522288,
+            "value": "Pixley, K.V.",
+            "type": "person",
+            "uri": "/cimmyt/person/767522288"
+        },
+        {
+            "id": 686777388,
+            "value": "Rocheford, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/686777388"
+        },
+        {
+            "id": 203019220,
+            "value": "Hotz, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/203019220"
+        },
+        {
+            "id": 2107949351,
+            "value": "Siamusantu, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/2107949351"
+        },
+        {
+            "id": 1245431125,
+            "value": "Chileshe, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1245431125"
+        },
+        {
+            "id": 1951514596,
+            "value": "Tanumihardjo, S.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1951514596"
+        }
+    ],
+    "publisher": {
+        "id": 1147569165,
+        "value": "http://www.ingentaconnect.com/content/nsinf/fnb/2012/00000033/00000001/art00006?crawler=true",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1147569165"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3250/1/97733.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3250/6/97733.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 6179
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3250/5/97733.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 155531
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3250/1/97733.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3250/6/97733.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3250/5/97733.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3250"
+        }
+    },
+    "extent": "",
+    "page": "63-71",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

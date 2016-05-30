@@ -1,0 +1,134 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Canada",
+            "uri": [
+                "http://sws.geonames.org/6251999",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Canada"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Europe",
+            "uri": [
+                "http://sws.geonames.org/6255148",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:11:58Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2541",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2007",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2541"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2541"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2541",
+    "creator": [
+        {
+            "id": 753547311,
+            "value": "Hodson, D.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/753547311"
+        },
+        {
+            "id": 445089896,
+            "value": "White, J.W.",
+            "type": "person",
+            "uri": "/cimmyt/person/445089896"
+        }
+    ],
+    "publisher": {
+        "id": 1466909950,
+        "value": "http://bit.ly/10QaSxE",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1466909950"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2541/1/89763.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 310562
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2541/2/89763.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46022
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2541/3/89763.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5446
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2541/1/89763.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2541/2/89763.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2541/3/89763.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2541"
+        }
+    },
+    "extent": "",
+    "page": "115-125",
+    "coverage": "Global",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

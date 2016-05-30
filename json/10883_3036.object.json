@@ -1,0 +1,54 @@
+{"object": {
+    "title": {
+        "value": "Resistance of four inbred maize lines to inoculation with 20 isolates of maize streak virus from Zimbabwe",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:28Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "corn",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6072
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Maize streak is the most widespread and important disease of maize in sub-Saharan Africa. Maize streak virus (MSV)-resistant maize germ plasm is available in several countries, but little is known about the stability of its resistance to MSV strains that may differ from one region to another. We used four maize inbred lines (CML312, CML206, CML216, and MSR) known to differ widely for their resistance to MSV in Harare, and evaluated their resistance to 20 MSV isolates collected from the wild during 2 years at locations across Zimbabwe. Maize streak development and symptom severity were evaluated in replicated greenhouse experiments using artificial inoculation via viruliferous leafhoppers. All 20 MSV isolates induced maize streak symptoms on moderately and highly susceptible genotypes by about 1 week after inoculation (WAI). Differences among isolates for severity of early maize streak symptoms were ephemeral, and resistance was accurately differentiated by all isolates by 3 to 4 WAI. Differences in final maize streak symptom scores induced by the isolates were statistically significant, but differed only by a maximum of 7% in 1999 and 19% in 2000. Although genotype, isolate, and genotype by isolate effects for maize streak symptom scores were significant (P < 0.01), relative MSV resistance of the genotypes was consistently ranked by all 20 MSV isolates.",
+        "lang": "eng"
+    },
+    "appid": "10883_3036",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3036"
+}}

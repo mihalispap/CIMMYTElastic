@@ -1,0 +1,135 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "None",
+            "uri": [
+                "http://sws.geonames.org/3172215",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/None"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "United States",
+            "uri": [
+                "http://sws.geonames.org/6252001",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/united_States"
+            ]
+        }
+    ],
+    "updatedDate": "2015-05-08T17:11:01Z",
+    "rights": [
+        "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International § CIMMYT manages Intellectual Assets as International Public Goods. In case you want to make non-exclusive commercial use of this item or you want to adapt it in any manner and use such adaptation, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the code/name of this item and the kind of use you intend; CIMMYT will contact you with the terms and conditions for such use.",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "relation": [
+        "Academic Activities;",
+        "National and International Recognitions;"
+    ],
+    "appid": "10883_4283",
+    "collection": [
+        {
+            "id": 1717216103,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1717216103"
+        },
+        {
+            "id": 1846298821,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1846298821"
+        }
+    ],
+    "format": "JPG",
+    "type": "Photograph",
+    "date": "",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4283"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4283"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4283",
+    "creator": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4283/1/CIMMC-2-2.2-00026.jpg",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 194775
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4283/2/license_rdf",
+                "label": "",
+                "type": "image/jpeg",
+                "size": 1232
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/bitstream/10883/4283/3/CIMMC-2-2.2-00026.jpg.jpg",
+                "label": "",
+                "type": "application/rdf+xml; charset=utf-8",
+                "size": 2591
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4283/1/CIMMC-2-2.2-00026.jpg"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4283/2/license_rdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/bitstream/10883/4283/3/CIMMC-2-2.2-00026.jpg.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4283"
+        }
+    },
+    "extent": "",
+    "page": "",
+    "coverage": [
+        "United States",
+        "None"
+    ],
+    "contributor": {
+        "id": 972148915,
+        "value": "International Maize and Wheat Improvement Center (CIMMYT)",
+        "type": "person",
+        "uri": "/cimmyt/person/972148915"
+    },
+    "isbn": "",
+    "quality": "150 dpi",
+    "place": "Minnesota (USA)",
+    "doi": ""
+}}

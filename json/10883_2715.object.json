@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "A quantitative trait locus on chromosome 5B controls resistance of Triticum turgidum (L.) var. diccocoides to Stagonospora nodorum blotch",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:27Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stagonospora nodorum blotch",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3222",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tan spot",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf spot",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stagonospora",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_31614"
+        }
+    ],
+    "description": {
+        "value": "Stagonospora nodorum blotch (SNB) is an important foliar disease of durum wheat (Triticum turgidum var. durum) worldwide. The combined effects of SNB and tan spot, considered as components of the leaf spotting disease complex, result in significant damage to wheat production in the northern Great Plains of North America. The main objective of this study was the genetic analysis of resistance to SNB caused by Phaeosphaeria nodorum in tetraploid wheat, and its association with tan spot caused by Pyrenophora tritici-repentis race 2. The 133 recombinant inbred chromosome lines (RICL) developed from the cross LDN/LDN(Dic-5B) were evaluated for SNB reaction at the seedling stage under greenhouse conditions. Molecular markers were used to map a quantitative trait locus (QTL) on chromosome 5B, explaining 37.6% of the phenotypic variation in SNB reaction. The location of the QTL was 8.8 cM distal to the tsn1 locus coding for resistance to P. tritici-repentis race 2. The presence of genes for resistance to both SNB and tan spot in close proximity in tetraploid wheat and the identification of molecular markers linked to these genes or QTLs will be useful for incorporating resistance to these diseases in wheat breeding programs.",
+        "lang": "eng"
+    },
+    "appid": "10883_2715",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2715"
+}}

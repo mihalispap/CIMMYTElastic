@@ -1,0 +1,147 @@
+{"object": {
+    "title": {
+        "value": "Quality protein maize: CIMMYT-bibliography",
+        "lang": "eng"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2014-03-13T00:58:09Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zea mays",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "protein quality",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6257",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "quality",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6400",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "protein content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6251",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7791,
+                1,
+                ""
+            ],
+            "value": "agronomy",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_211",
+                "http://aims.fao.org/aos/agrovoc/c_211",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetics",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "chemical analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pest insects",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "baking",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8124,
+            "value": "analytical methods",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1513"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "subject headings",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_49841"
+        }
+    ],
+    "description": {
+        "value": "This bibliography includes 178 titles related to quality protein maize written by CIMMYT researchers. It covers conventional published literature as well as unconventional reports, studies, and conference proceedings. Entries are subdivided into subject headings (agronomy; breeding and genetics; chemical and analytical methods; diseases and pests; industrial use and nutritional quality; and general approach) and arranged alphabetically by senior author. A complete author index is also included",
+        "lang": "eng"
+    },
+    "appid": "10883_3800",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3800"
+}}

@@ -1,0 +1,70 @@
+{"object": {
+    "title": {
+        "value": "Dr. Violic A. Nitrogen Trial at Alamo",
+        "lang": ""
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-03-02T16:20:11Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "trial methods",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrogen",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5192",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "alamo",
+            "uri": ""
+        }
+    ],
+    "description": [
+        {
+            "value": "Dr. Alejando Violic performs and explaind a Nitrogen experiment to Trainees+",
+            "lang": "eng"
+        },
+        {
+            "value": "Alejandro Violic",
+            "lang": ""
+        },
+        {
+            "value": "Federico Kocher",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4735",
+    "language": [
+        {
+            "value": "eng",
+            "uri": "http://lexvo.org/id/iso639-3/eng"
+        },
+        {
+            "value": "None",
+            "uri": ""
+        }
+    ],
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4735"
+}}

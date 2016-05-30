@@ -1,0 +1,183 @@
+{"object": {
+    "title": {
+        "value": "Reduction in kernel weight as a potential indirect selection criterion for wheat grain yield under terminal heat stress",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:13Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "heat stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                "http://aims.fao.org/aos/agrovoc/c_11488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "heritability",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3570",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kernel weight",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seeding date",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "selection",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9867
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6335
+            ],
+            "value": "biomass",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_926"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "kernels",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25387"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "seeds",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6946"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Heat is an important abiotic stress during wheat (Triticum aestivum L.) grain-filling in South Asia. A study was undertaken to determine effectiveness of selection for reduction in 1000-kernel weight (TKWR) under heat stress to increase grain yield. Selection was made for low and high TKWR and selected progenies were evaluated in timely and late seeded trials at two locations in Nepal in 2003. One thousand kernel weight (TKW), biomass yield, grain yield, harvest index (HI), grain-filling duration (GFD) and area under spot blotch progress curve per day (AUDPC/day) were examined. The low and high TKWR groups did not differ significantly for TKW, biomass yield, grain yield, HI, days to heading, GFD and AUDPC/day under timely seeding. However, low TKWR lines showed higher TKW, biomass yield, grain yield, HI, and GFD and lower AUDPC/day than the lines with high TKWR under late seeding. Realized heritability estimates for TKWR ranged from 0.68 to 0.85. The findings show that selection for low TKWR could be used as an indirect selection criterion to identify high grain yielding lines under terminal heat stress.",
+        "lang": "eng"
+    },
+    "appid": "10883_2629",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2629"
+}}

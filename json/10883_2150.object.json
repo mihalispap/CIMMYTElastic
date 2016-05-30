@@ -1,0 +1,78 @@
+{"object": {
+    "title": {
+        "value": "Assessing the influence of neighborhood effects on the adoption of improved agricultural technologies in developing agriculture",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:54Z",
+    "created": "2013-06-07T21:09:39Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spatial tobit model",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spatial heterogeneity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spatial autocorrelation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "neighborhood effects",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize farmers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mozambique",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6994
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        }
+    ],
+    "description": {
+        "value": "Researchers generally assume spatial homogeneity when assessing the factors that influence farmers to adopt improved agricultural technologies. However, the potential for spatial heterogeneity is high due to, for example, neighborhood effects such as farmers sharing information about new technology. Ignoring spatial heterogeneity can result in biased or inefficient regression estimates and make inferences based on t and F statistics misleading. Using data collected from 300 randomly selected farmers in three districts of Mozambique during the 2003/04 crop season, a spatial Tobit model was specified to estimate which factors determined the adoption of improved maize varieties, after an initial diagnostic test rejected the null hypothesis of spatial homogeneity. On the basis of the empirical evidence, the paper makes policy recommendations to increase Mozambican farmers&rsquo; adoption of improved maize varieties and concludes by emphasizing the need to test and correct for spatial heterogeneity in technology adoption modeling to improve the efficiency of the estimated results.",
+        "lang": "eng"
+    },
+    "appid": "10883_2150",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2150"
+}}

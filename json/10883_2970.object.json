@@ -1,0 +1,33 @@
+{"object": {
+    "title": {
+        "value": "Comparison between linear and non-parametric regression models for genome-enabled prediction in wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:01Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "linear models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_34040"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        }
+    ],
+    "description": {
+        "value": "In genome-enabled prediction, parametric, semi-parametric, and non-parametric regression models have been used. This study assessed the predictive ability of linear and non-linear models using dense molecular markers. The linear models were linear on marker effects and included the Bayesian LASSO, Bayesian ridge regression, Bayes A, and Bayes B. The non-linear models (this refers to non-linearity on markers) were reproducing kernel Hilbert space (RKHS) regression, Bayesian regularized neural networks (BRNN), and radial basis function neural networks (RBFNN). These statistical models were compared using 306 elite wheat lines from CIMMYT genotyped with 1717 diversity array technology (DArT) markers and two traits, days to heading (DTH) and grain yield (GY), measured in each of 12 environments. It was found that the three non-linear models had better overall prediction accuracy than the linear regression specification. Results showed a consistent superiority of RKHS and RBFNN over the Bayesian LASSO, Bayesian ridge regression, Bayes A, and Bayes B models.",
+        "lang": "eng"
+    },
+    "appid": "10883_2970",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2970"
+}}

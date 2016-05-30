@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Relationship between hybrid performance and AFLP based genetic distance in highland maize inbred lines",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:48Z",
+    "created": "2013-06-30T05:24:33Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.9673,
+                ""
+            ],
+            "value": "aflp",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331160",
+                "http://aims.fao.org/aos/agrovoc/c_331160",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic distance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27530",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "heterosis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3705",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "hybrid performance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zea mays l.",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "inbred lines",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24039"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hybrids",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3707"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "zea mays",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
+        }
+    ],
+    "description": {
+        "value": "The objectives of this study were to determine the crossing performance of highland maize inbred lines for grain yield, days to silk and plant height; estimate genetic distance (GD) among the inbred lines and in association with tester parents, and to investigate the relationship of GD with hybrid performance and midparent heterosis (MPH). A total of 26 inbred lines were crossed with six (population and line) testers in a factorial-mating scheme. The F1&rsquo;s and the parents were evaluated at five locations in Ethiopia. Nine amplified fragment length polymorphism (AFLP) primer pairs were used to genotype all the parents. The F1&rsquo;s were found to vary widely for grain yield and other traits measured. Yield superiority of more than 30% over the best hybrid check was obtained for some testcross hybrids. Midparent heterosis on average was moderate for grain yield and, plant height. And for days to silking, MPH values were mostly negative. Mean GD values determined from the inbred lines by population tester (0.680) and line tester (0.661) combinations were not significantly different. Cluster analysis separated the tester parents from the corresponding inbred lines. AFLP grouping of the inbred lines was in agreement with their pedigree records. Genetic distances derived from the inbred lines × all testers and from the population testers&rsquo; sub-group were not positively correlated with hybrid performance and MPH for most traits. In contrast, correlations of GDs involving the line testers&rsquo; sub-group with F1s and MPH were significantly positive but with low magnitude to be of predictive value.",
+        "lang": "eng"
+    },
+    "appid": "10883_3070",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3070"
+}}

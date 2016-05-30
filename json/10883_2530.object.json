@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Analysis of cell structure of steamed bread by digital image analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:11:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "image process",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "k-means algorithm",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "steamed bread quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "water addition",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat gluten strength",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "(Objective) Cell parameters of steamed bread crumb were obtained by digital image analysis (DIA) with the objective to evaluate the possibility of using computerized vision for steamed bread quality evaluation. (Method) Three wheat cultivars, Weaver with strong gluten, Ningchun 4 with medium gluten, and Jing 411 with weak gluten were used in experiment 1. Three water addition levels based on farinograph's water absorption were used, thus 9 samples were included in this experiment. K-means algorithm was used to segment the steamed bread image. The total cell area, mean cell area, and the number of cells were obtained as characters of steamed bread image. In the second experiment, eleven samples were used to compare the results of machine vision with panel evaluation.(Result) Results show that those characters are able to characterize the effect of water addition and gluten strength on steamed bread quality. That is, with increase of water addition or gluten strength, the cell total area increases. It corresponds with the change of steamed bread volume. The results of the second experiment indicated that evaluating steamed bread quality with a computer is consistent with manpower evaluation. (Conclusion) The results show that it is feasible to evaluate steamed bread quality by computerized vision.",
+        "lang": "eng"
+    },
+    "appid": "10883_2530",
+    "language": {
+        "value": "zho",
+        "uri": "http://lexvo.org/id/iso639-3/zho"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2530"
+}}

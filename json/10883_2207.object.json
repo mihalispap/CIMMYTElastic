@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "International agricultural research tackling the effects of global and climate changes on plant diseases in the developing world",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:09:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "climate change",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1666"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.72
+            ],
+            "value": "crops",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1972"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9632,
+            "value": "agricultural research",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8679"
+        }
+    ],
+    "description": {
+        "value": "Climate change has a number of observed, anticipated, or possible consequences on crop health worldwide. Global change, on the other hand, incorporates a number of drivers of change, including global population increase, natural resource evolution, and supply?demand shifts in markets, from local to global. Global and climate changes interact in their effects on global ecosystems. Identifying and quantifying the impacts of global and climate changes on plant diseases is complex. A number of nonlinear relationships, such as the injury (epidemic)?damage (crop loss) relationship, are superimposed on the interplay among the three summits of the disease triangle (host, pathogen, environment). Work on a range of pathosystems involving rice, peanut, wheat, and coffee has shown the direct linkage and feedback between production situations and crop health. Global and climate changes influence the effects of system components on crop health. The combined effects of global and climate changes on diseases vary from one pathosystem to another within the tetrahedron framework (humans, pathogens, crops, environment) where human beings, from individual farmers to consumers to entire societies, interact with hosts, pathogens, and the environment. This article highlights international phytopathological research addressing the effects of global and climate changes on plant diseases in a range of crops and pathosystems.",
+        "lang": "eng"
+    },
+    "appid": "10883_2207",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2207"
+}}

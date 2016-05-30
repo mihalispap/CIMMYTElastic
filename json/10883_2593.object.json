@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of grain yield stability, reliability and cultivar recommendations in spring wheat (Triticum aestivum L.) from Kazakhstan and Siberia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:12:06Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spring bread wheat (triticum aestivum l.)",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "kazakhstan",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_11952",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "siberia",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "parametric stability analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "reliability index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "stability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36930"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8805
+            ],
+            "value": "adaptability",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_35024"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8465
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6727
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "The investigation was carried out to determine the stability and adaptability patterns of a set of 40 promising spring wheat genotypes from Kazakhstan and Siberia evaluated in a multievironment yield trial across 22 environments. Some of the most widely known parametric stability parameters were used as well as the less frequently cited reliability index (I). Grain yield correlated significantly and positively with the stability parameters b and S2 and the reliability index (I); but did not correlate with AMMI ASV. However, the stability parameters failed in detecting adaptability patterns. In contrast, the reliability index (I) was probed to be more useful in supporting practical decisions. With regard to the genotypes, cultivars Lutescens 54, Lutescens 30-94, Lutescens 29-94, Tertsia, Omskaya 35, and Shortandynskaya 95 showed to be the widest adapted and the most reliable cultivars.",
+        "lang": "eng"
+    },
+    "appid": "10883_2593",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2593"
+}}

@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "MasAgro Desarrollo sustentable con el productor",
+        "lang": "spa"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2014-04-23T21:30:06Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "extension-research linkages",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_9000063",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "technology transfer",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7645",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "agriculture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_203"
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_4019",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4019"
+}}

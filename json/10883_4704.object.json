@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Calibración de la Máquina MUMC 2014",
+        "lang": ""
+    },
+    "updated": "2015-05-27T20:22:55Z",
+    "created": "2016-01-26T19:43:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "machinery",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "conservation agriculture",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tutorial",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "calibration",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36549"
+        }
+    ],
+    "description": [
+        {
+            "value": "Explanation on MUMC 2014 calibration.",
+            "lang": ""
+        },
+        {
+            "value": "Gabriel Martínez Pérez",
+            "lang": ""
+        }
+    ],
+    "appid": "10883_4704",
+    "language": {
+        "value": "spa",
+        "uri": "http://lexvo.org/id/iso639-3/spa"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4704"
+}}

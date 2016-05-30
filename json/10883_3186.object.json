@@ -1,0 +1,126 @@
+{"object": {
+    "title": {
+        "value": "Genetic variability and stability for kernel iron and zinc concentration in maize (Zea mays L.) genotypes",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:48Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize kernel",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "iron",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3950",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "zinc",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8517",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "variability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "environment",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stability",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9532
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genotypes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3225"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        }
+    ],
+    "description": {
+        "value": "Evaluation of kernel iron (Fe) and zinc (Zn) of 67 diverse maize genotypes grown during 2006?08 indicated significant variation for both the micronutrients. Kernel Fe concentration during 2006 varied from 20.38?43.79 mg/kg, whereas the same ranged from 23.23?54.29 mg/kg and 29.22?49.24 mg/kg, during 2007 and 2008, respectively. Kernel Zn varied from 15.06?29.88 mg/kg, 7.01?22.01 mg/kg and 13.64?26.54 mg/kg, during 2006, 2007 and 2008, respectively. No correlation was observed between kernel Fe and Zn concentration in the selected set of maize genotypes. For Fe concentration, CM140 (43.79 mg/kg) was found to be the most promising genotype during 2006, with HP-3 (54.29 mg/kg) during 2007 and CM212 (49.24 mg/kg) during 2008 as the best genotype. In case of kernel Zn, BAJIM-06-6 (29.88 mg/kg), V336 (22.01 mg/kg) and BAJIM-06-10 (26.45 mg/kg) were identified to be the best genotype in 2006, 2007 and 2008, respectively. The study revealed significant genotypes x environment interaction for both kernel Fe and Zn concentration, of which kernel Fe was found to be affected more by the change of environmental conditions, while it was of less extent for kernel Zn.Taking into consideration of stability parameters V336,VQL5, CM139,VQL1, CM129, and V340 were observed to be stable and promising genotypes for kernel Fe concentration, while in case of kernel Zn,V336, BAJIM-0610,V340, BAJIM-06-7, CM129, and VQL1 were identified as the stable genotypes.",
+        "lang": "eng"
+    },
+    "appid": "10883_3186",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3186"
+}}

@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Dissecting maize productivity: Ideotypes associated with grain yield under drought stress and well-watered conditions",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-06-30T05:24:50Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "climate change",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought stress",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24993",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ideotypes",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "senescence",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14200",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spectral reflectance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8161
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        }
+    ],
+    "description": {
+        "value": "To increase maize (Zea mays L.) yields in drought-prone environments and offset predicted maize yield losses under future climates, the development of improved breeding pipelines using a multi-disciplinary approach is essential. Elucidating key growth processes will provide opportunities to improve drought breeding progress through the identification of key phenotypic traits, ideotypes, and donors. In this study, we tested a large set of tropical and subtropical maize inbreds and single cross hybrids under reproductive stage drought stress and well-watered conditions. Patterns of biomass production, senescence, and plant water status were measured throughout the crop cycle. Under drought stress, early biomass production prior to anthesis was important for inbred yield, while delayed senescence was important for hybrid yield. Under well-watered conditions, the ability to maintain a high biomass throughout the growing cycle was crucial for inbred yield, while a stay-green pattern was important for hybrid yield. While new quantitative phenotyping tools such as spectral reflectance (Normalized Difference Vegetation Index, NDVI) allowed for the characterization of growth and senescence patterns as well as yield, qualitative measurements of canopy senescence were also found to be associated with grain yield.",
+        "lang": "eng"
+    },
+    "appid": "10883_3204",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3204"
+}}

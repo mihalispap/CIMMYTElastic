@@ -1,11 +1,17 @@
 {"object": {
     "title": {
         "value": "Predicting quantitative traits with regression models for dense molecular markers and pedigree",
-        "lang": "eng"
+        "lang": ""
     },
     "updated": "2016-01-22T23:05:46Z",
     "created": "2013-06-07T21:02:37Z",
     "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "models",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
+        },
         {
             "vocabulary": [
                 "",
@@ -20,12 +26,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_25209"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "models",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_4881"
         },
         {
             "vocabulary": "agrovoc",

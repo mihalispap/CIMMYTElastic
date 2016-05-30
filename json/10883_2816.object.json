@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "Race non-specific resistance to rust diseases in CIMMYT spring wheats",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "leaf rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stripe rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stem rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia triticina",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27334",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "puccinia striiformis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_27339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "puccinia graminis tritici",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ug99",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "shuttle breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durable resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6883
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27327"
+        }
+    ],
+    "description": {
+        "value": "Rust diseases continue to cause significant losses to wheat production worldwide. Although the life of effective race-specific resistance genes can be prolonged by using gene combinations, an alternative approach is to deploy varieties that posses adult plant resistance (APR) based on combinations of minor, slow rusting genes. When present alone, APR genes do not confer adequate resistance especially under high disease pressure; however, combinations of 4?5 such genes usually result in ?near-immunity? or a high level of resistance. Although high diversity for APR occurs for all three rusts in improved germplasm, relatively few genes are characterized in detail. Breeding for APR to leaf rust and stripe rust in CIMMYT spring wheats was initiated in the early 1970s by crossing slow rusting parents that lacked effective race-specific resistance genes to prevalent pathogen populations and selecting plants in segregating populations under high disease pressure in field nurseries. Consequently most of the wheat germplasm distributed worldwide now possesses near-immunity or adequate levels of resistance. Some semidwarf wheats such as Kingbird, Pavon 76, Kiritati and Parula show high levels of APR to stem rust race Ug99 and its derivatives based on the Sr2-complex, or a combination of Sr2 with other uncharacterized slow rusting genes. These parents are being utilized in our crossing program and a Mexico-Kenya shuttle breeding scheme is used for selecting resistance to Ug99. High frequencies of lines with near-immunity to moderate levels of resistance are now emerging from these activities. After further yield trials and quality assessments these lines will be distributed internationally through the CIMMYT nursery system.",
+        "lang": "eng"
+    },
+    "appid": "10883_2816",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2816"
+}}

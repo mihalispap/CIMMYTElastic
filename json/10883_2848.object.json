@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Population- and genome-specific patterns of linkage disequilibrium and SNP variation in spring and winter wheat (Triticum aestivum L.)",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6082
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genomes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3224"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Background: Single nucleotide polymorphisms (SNPs) are ideally suited for the construction of high-resolution genetic maps, studying population evolutionary history and performing genome-wide association mapping experiments. Here, we used a genome-wide set of 1536 SNPs to study linkage disequilibrium (LD) and population structure in a panel of 478 spring and winter wheat cultivars (Triticum aestivum) from 17 populations across the United States and Mexico. Results: Most of the wheat oligo pool assay (OPA) SNPs that were polymorphic within the complete set of 478 cultivars were also polymorphic in all subpopulations. Higher levels of genetic differentiation were observed among wheat lines within populations than among populations. A total of nine genetically distinct clusters were identified, suggesting that some of the predefined populations shared significant proportion of genetic ancestry. Estimates of population structure (FST) at individual loci showed a high level of heterogeneity across the genome. In addition, seven genomic regions with elevated FST were detected between the spring and winter wheat populations. Some of these regions overlapped with previously mapped flowering time QTL. Across all populations, the highest extent of significant LD was observed in the wheat D-genome, followed by lower LD in the A- and B-genomes. The differences in the extent of LD among populations and genomes were mostly driven by differences in long-range LD ( > 10 cM). Conclusions: Genome- and population-specific patterns of genetic differentiation and LD were discovered in the populations of wheat cultivars from different geographic regions. Our study demonstrated that the estimates of population structure between spring and winter wheat lines can identify genomic regions harboring candidate genes involved in the regulation of growth habit. Variation in LD suggests that breeding and selection had a different impact on each wheat genome both within and among populations. The higher extent of LD in the wheat D-genome versus the A- and B-genomes likely reflects the episodes of recent introgression and population bottleneck accompanying the origin of hexaploid wheat. The assessment of LD and population structure in this assembled panel of diverse lines provides critical information for the development of genetic resources for genome-wide association mapping of agronomically important traits in wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2848",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2848"
+}}

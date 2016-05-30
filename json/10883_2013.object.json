@@ -3,7 +3,7 @@
         "value": "Measurement and determinants of rural poverty: Household consumption patterns and food poverty in rural Sudan",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:52Z",
+    "updated": "2016-01-22T23:05:40Z",
     "created": "2013-06-07T21:09:20Z",
     "subject": [
         {
@@ -98,6 +98,12 @@
             "score": 1,
             "value": "household consumption",
             "uri": "http://aims.fao.org/aos/agrovoc/c_3674"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8649,
+            "value": "rural poverty",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15517"
         }
     ],
     "description": {

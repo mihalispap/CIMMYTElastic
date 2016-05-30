@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Determination of phenolic acid concentrations in wheat flours produced at different extraction rates",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:41Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flour milling",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenolic acid",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenolic components",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "phenolic acids",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_16197"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "flours",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2988"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331055"
+        }
+    ],
+    "description": {
+        "value": "High-performance liquid chromatography (HPLC) was used to determine the distribution of phenolic acids in wheat flours produced from five milling extraction rates ranging from 60% to 100% in four cultivars sown in two locations in the 2008?2009 season. Considerable variation was observed in free and bound phenolic acids, and their components in flours with different extraction rates. Most phenolic acids, including the component ferulic, were present in the bound form (94.0%). Ferulic (51.0%) was the predominant phenolic acid in wheat grain, and caffeic (22.8%) and p-coumaric (17.6%) acids were abundant. The phenolic acids and their components were all significantly influenced by effects of cultivar, milling, location, and cultivar × milling interaction, with milling effect being the predominant. The proportions of phenolic compounds varied considerably among milling extractions and cultivars, and their levels depended on both initial grain concentrations and on selection of milling extraction that was incorporated into the final product. The grain phenolic acid concentrations determined ranged from 54 &#956;g g&#8722;1 in flour produced at 60% extraction rate to 695 &#956;g g&#8722;1 in flour produced at 100% extraction rate, indicating their higher concentrations in bran associated with cell wall materials. Therefore, wholemeal wheat products maximize health benefits and are strongly recommended for use in food processing.",
+        "lang": "eng"
+    },
+    "appid": "10883_3301",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3301"
+}}

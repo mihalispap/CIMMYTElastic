@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Genetics of leaf rust resistance in brambling wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:18Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durable resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "temperature sensitivity",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6227
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The CIMMYT-developed spring wheat &lsquo;Brambling&rsquo; has a high level of adult-plant resistance (APR) to leaf rust caused by Puccinia triticina. Our objectives were to determine the genetic basis of resistance in seedlings and adult plants and the magnitude of genotype × environment effects on the expression of APR. Brambling was crossed with spring wheat &lsquo;Jupateco 73S&rsquo; that is highly susceptible to current predominant P. triticina races in Mexico and the United States. The F1, F2:3, F4:5, F4:6, and F5:7 recombinant inbred lines (RILs) were evaluated under artificial field epidemics in Mexico and St. Paul, MN. The RILs also were tested with five races of P. triticina in greenhouse seedling experiments. A DNA marker was used to postulate the presence of slow-rusting gene Lr34 in the RILs. F1 data suggested strong dominant effect of the APR genes in Brambling. The proportion of homozygous susceptible lines in each generation indicated the presence of three effective resistance genes in adult plants of Brambling in tests in Mexico and three or four genes in tests in St. Paul. The RILs segregated for seedling genes Lr14a and Lr23 and adult-plant slow-rusting gene Lr34 derived from Brambling and Lr17a from Jupateco 73S. Gene Lr23 conditioned APR to P. triticina races present in the St. Paul nursery and accounted for the additional effective gene at this location. Expression of APR was influenced by the environment in the RILs, even though Brambling displayed a consistent response, indicating that stability of APR can be achieved by combinations of slow-rusting resistance genes.",
+        "lang": "eng"
+    },
+    "appid": "10883_2656",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2656"
+}}

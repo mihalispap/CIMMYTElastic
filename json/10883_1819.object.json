@@ -31,12 +31,6 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "maize",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
-        },
-        {
             "vocabulary": [
                 "",
                 "agrovoc"
@@ -53,6 +47,12 @@
         },
         {
             "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
             "score": 0.7977,
             "value": "zea mays",
             "uri": "http://aims.fao.org/aos/agrovoc/c_8504"
@@ -66,7 +66,7 @@
     ],
     "description": {
         "value": "Cuban maize (Zea mays L.) races constitute a potential of high genetic value for Cuba and the Caribbean region. This work was aimed at characterizing Cuban races by means of agro-morphological markers in the national crop collection. Thus, 92 accessions from INIFAT´s gene bank were planted; four commercial varieties out of them were used as check: Gíbara, Pajimaca, Victoria and Francisco Mejorado, besides employing an unreplicated design for two years. Then, 15 characters were measured on the ear and kernel, nine quantitative and six categorical ones, which were statistically processed through Ward-MLM (modified local model) strategy, using Gower´s distance as a similarity measurement with SAS 9.0 statistical package. This study proved the presence of six races in the national collection: Criollo, Tusón, Canilla, Argentino, Amarillo Reventador and Dulce. Criollo is the best representative race all over the country and the greatest variability is recorded in the eastern region, where every race is situated except Dulce. The current characterization of this race status provides more information about Cuban maize germplasm. In addition, some elements are supplied to get a better knowledge on this crop that, at the same time, will support its preservation and an adequate use in the national and regional strategic context.",
-        "lang": "spa"
+        "lang": "eng"
     },
     "appid": "10883_1819",
     "language": {

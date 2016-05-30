@@ -1,0 +1,51 @@
+{"object": {
+    "title": {
+        "value": "Cloning and characterization of maize miRNAs involved in responses to nitrogen deficiency",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7762
+            ],
+            "value": "rna",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6618"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cloning",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_15952"
+        }
+    ],
+    "description": {
+        "value": "Although recent studies indicated that miRNAs regulate plant adaptive responses to nutrient deprivation, the functional significance of miRNAs in adaptive responses to nitrogen (N) limitation remains to be explored. To elucidate the molecular biology underlying N sensing/signaling in maize, we constructed four small RNA libraries and one degradome from maize seedlings exposed to N deficiency. We discovered a total of 99 absolutely new loci belonging to 47 miRNA families by small RNA deep sequencing and degradome sequencing, as well as 9 new loci were the paralogs of previously reported miR169, miR171, and miR398, significantly expanding the reported 150 high confidence genes within 26 miRNA families in maize. Bioinformatic and subsequent small RNA northern blot analysis identified eight miRNA families (five conserved and three newly identified) differentially expressed under the N-deficient condition. Predicted and degradome-validated targets of the newly identified miRNAs suggest their involvement in a broad range of cellular responses and metabolic processes. Because maize is not only an important crop but is also a genetic model for basic biological research, our research contributes to the understanding of the regulatory roles of miRNAs in plant adaption to N-deficiency stress.",
+        "lang": "eng"
+    },
+    "appid": "10883_3154",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3154"
+}}

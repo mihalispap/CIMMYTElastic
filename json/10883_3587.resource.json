@@ -1,0 +1,116 @@
+{"resource": {
+    "citation": "",
+    "issn": "0304-5390",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Central Africa",
+        "uri": [
+            "http://sws.geonames.org/7729886",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/central_Africa"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:57:03Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "CIMMYT Hoy",
+    "appid": "10883_3587",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Grey literature",
+    "date": "1978",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3587"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3587"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3587",
+    "creator": {
+        "id": 2026290331,
+        "value": "Breth, S.A.",
+        "type": "person",
+        "uri": "/cimmyt/person/2026290331"
+    },
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3587/1/22564.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2186491
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3587/2/22564.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 58923
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3587/3/22564.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 8021
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3587/1/22564.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3587/2/22564.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3587/3/22564.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3587"
+        }
+    },
+    "extent": "No. 8",
+    "page": "18 p.",
+    "coverage": [
+        "Zaire",
+        "Central Africa"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Mexico, DF (Mexico)",
+    "doi": ""
+}}

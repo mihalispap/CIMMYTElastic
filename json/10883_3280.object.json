@@ -1,0 +1,150 @@
+{"object": {
+    "title": {
+        "value": "The influence of drought and heat stress on the expression of end-use quality parameters of common wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "bread-making quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "dough rheological properties",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "drought and heat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "swelling index of glutenin",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6133
+            ],
+            "value": "bread",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1071"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "alveographs",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_28229"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.618
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8251
+            ],
+            "value": "drought stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_24993"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6534
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8085,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rheological properties",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6553"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "glutenins",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24033"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8773,
+            "value": "common wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "The effects of drought and heat stress on quality parameters of wheat (Triticum aestivum) cultivars were studied under field conditions in a 2-year trial (2009-2010) in northwest Mexico. Under no stress conditions, rapid small-scale parameters [protein (GP; FP) content, SDS sedimentation (SDSS), mixograph peak time (MPT), swelling index of glutenin (SIG), and lactic acid retention capacity (LARC)] showed significant relationship with gluten strength (alveograph energy, W) and bread loaf volume (LV). SIG and LARC were better than SDSS and MPT for predicting W, while SDSS was better than W and SIG for predicting bread LV. Most quality traits were primarily controlled by genotype (G), although environment (E) and G × E also had significant effects. Heat and drought stress showed contrasting effects on LARC, MPT, alveograph parameters [tenacity (P), extensibility (L), P/L ratio, W] and LV. Increase in P and decrease in L resulted in higher tenacity (larger P/L), which may explain the smaller loaf volume under drought stress. In contrast, decrease in P and increase in L, may explain the improved bread volume observed under heat stress. It is advisable to select for wheat quality under both favorable and abiotic stress conditions to identify genotypes with quality stability across environments.",
+        "lang": "eng"
+    },
+    "appid": "10883_3280",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3280"
+}}

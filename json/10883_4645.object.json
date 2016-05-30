@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "Quality Protein Maize (QPM) : a guide to the technology and its promotion in Ethiopia",
+        "lang": "eng"
+    },
+    "updated": "2015-12-17T08:40:18Z",
+    "created": "2016-01-12T18:45:31Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "varieties",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6952
+            ],
+            "value": "ethiopia",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2676"
+            ]
+        }
+    ],
+    "description": {
+        "value": "This guide book introduces the nutritional benefits of QPM over conventional maize varieties and presents a brief overview of its historical development. It also provides information on QPM varieties available for commercial production in different agro-ecologies of Ethiopia and the agronomic management practices required for seed and grain production. It further presents a general guide on how to establish field demonstration plots and conduct field days on QPM varieties. It is meant to serve as a reference for extension experts, farmers and other stakeholders who are involved in the production, demonstration, and extension of QPM in Ethiopia. To some extent, it would be a useful source of information to health professionals who are involved in health extension, and to students and teachers in agricultural training centers such as Agricultural, Technical and Vocational Educational Training (ATVET) colleges.",
+        "lang": "eng"
+    },
+    "appid": "10883_4645",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4645"
+}}

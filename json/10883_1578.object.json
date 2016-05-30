@@ -63,6 +63,27 @@
         {
             "vocabulary": [
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6721
+            ],
+            "value": "legumes",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4255"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "crop residues",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16118"
+        },
+        {
+            "vocabulary": [
+                "",
                 "",
                 "",
                 "agrovoc"
@@ -79,27 +100,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_1972"
-            ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "crop residues",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_16118"
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.6721
-            ],
-            "value": "legumes",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_4255"
             ]
         }
     ],

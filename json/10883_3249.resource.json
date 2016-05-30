@@ -1,0 +1,182 @@
+{"resource": {
+    "citation": "",
+    "issn": "0040-5752",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Kenya",
+            "uri": [
+                "http://sws.geonames.org/192950",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kenya"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "country",
+            "uri": [
+                "http://sws.geonames.org/geonameid",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/country"
+            ]
+        }
+    ],
+    "updatedDate": "2013-11-24T18:23:45Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3249",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3249"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3249"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3249",
+    "creator": [
+        {
+            "id": 472202152,
+            "value": "Mutegi, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/472202152"
+        },
+        {
+            "id": 207725446,
+            "value": "Sagnard, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/207725446"
+        },
+        {
+            "id": 337026342,
+            "value": "Fentaye Kassa Semagn",
+            "type": "person",
+            "uri": "/cimmyt/person/337026342"
+        },
+        {
+            "id": 1073318935,
+            "value": "Deu, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1073318935"
+        },
+        {
+            "id": 1590033844,
+            "value": "Muraya, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1590033844"
+        },
+        {
+            "id": 689717513,
+            "value": "Kanyenji, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/689717513"
+        },
+        {
+            "id": 1928422818,
+            "value": "de Villiers, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1928422818"
+        },
+        {
+            "id": 251266993,
+            "value": "Kiambi, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/251266993"
+        },
+        {
+            "id": 1401675445,
+            "value": "Herselman, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1401675445"
+        },
+        {
+            "id": 297982530,
+            "value": "Labuschagne, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/297982530"
+        }
+    ],
+    "publisher": {
+        "id": 703736544,
+        "value": "http://link.springer.com/article/10.1007%2Fs00122-010-1504-5",
+        "type": "organization",
+        "uri": "/cimmyt/organization/703736544"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3249/1/94627.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 72985
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3249/4/94627.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 5894
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3249/5/94627.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 731097
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3249/1/94627.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3249/4/94627.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3249/5/94627.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3249"
+        }
+    },
+    "extent": "",
+    "page": "989-1004",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

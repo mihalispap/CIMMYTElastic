@@ -1,0 +1,142 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Syria",
+        "uri": [
+            "http://sws.geonames.org/163843",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Syria"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:42Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2412",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2004",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2412"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2412"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2412",
+    "creator": [
+        {
+            "id": 1921585896,
+            "value": "Pagnotta,,M.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1921585896"
+        },
+        {
+            "id": 479041531,
+            "value": "Impiglia, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/479041531"
+        },
+        {
+            "id": 418754406,
+            "value": "Tanzarella, O.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/418754406"
+        },
+        {
+            "id": 1470503065,
+            "value": "Nachit, M.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1470503065"
+        },
+        {
+            "id": 1825059581,
+            "value": "Porceddu, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/1825059581"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2412/1/81271.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 84771
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2412/2/81271.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 24437
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2412/3/81271.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4724
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2412/1/81271.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2412/2/81271.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2412/3/81271.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2412"
+        }
+    },
+    "extent": "",
+    "page": "863-869",
+    "coverage": [
+        "Syria",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

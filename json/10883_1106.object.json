@@ -3,7 +3,7 @@
         "value": "Maladies communes der cereales à paille: Guide d'identification",
         "lang": "fra"
     },
-    "updated": "2016-01-22T23:05:44Z",
+    "updated": "2016-01-22T23:05:41Z",
     "created": "2012-01-06T05:14:19Z",
     "subject": [
         {
@@ -77,6 +77,24 @@
             "score": "",
             "value": "cereals",
             "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7372
+            ],
+            "value": "deed",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_c10cdeb5"
+            ]
         },
         {
             "vocabulary": "agrovoc",

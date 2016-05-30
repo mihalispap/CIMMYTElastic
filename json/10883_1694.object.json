@@ -5,12 +5,20 @@
     },
     "updated": "2016-01-22T23:05:45Z",
     "created": "2013-06-07T21:02:27Z",
-    "subject": {
-        "vocabulary": "agrovoc",
-        "score": 1,
-        "value": "cicer",
-        "uri": "http://aims.fao.org/aos/agrovoc/c_1611"
-    },
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7346,
+            "value": "chickpeas",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_9785"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cicer",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1611"
+        }
+    ],
     "description": {
         "value": "",
         "lang": ""

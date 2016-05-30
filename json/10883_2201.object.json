@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Options for pro-poor maize seed market segmentation in Kenya",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-06-07T21:09:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "poverty",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6151",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "market segmentation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_28730",
+                "http://aims.fao.org/aos/agrovoc/c_28730",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seed",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "New agricultural technologies have to be affordable to make a difference in poor farmers? livelihoods. Their cost to the poor can be reduced through subsidies by the public sector or humanitarian use exemption from Intellectual Property Rights (IPR) by the private sector. Either option needs market segmentation, common in the health sector, but not in agriculture. This paper analyzes options for pro-poor market segmentation for maize seed in Kenya, the most important agricultural technology in the country. Survey data from 1800 households were analyzed to calculate maize seed use by wealth category and agroecological zone. Different market segmentation options were compared by calculating the number of beneficiaries, and the number and proportion of poor beneficiaries. Geographic targeting is not efficient; targeting the poorest districts leads to a high proportion of non-poor beneficiaries, while targeting low potential areas leads to low numbers of beneficiaries because of sparse population and low maize production. Self-selection by targeting technologies like varieties and small seed packages is also not efficient because poor and non-poor farmers use similar technologies. Two options have potential: direct targeting, expensive but with limited leakage, and tiered pricing, likely much cheaper but with high proportions of non-poor beneficiaries.",
+        "lang": "eng"
+    },
+    "appid": "10883_2201",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2201"
+}}

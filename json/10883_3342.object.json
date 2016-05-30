@@ -1,0 +1,39 @@
+{"object": {
+    "title": {
+        "value": "A note on potential candidate genomic regions with implications for maize stover fodder quality",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-12-09T20:30:20Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize stover fodder quality",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genotyping by sequencing",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genomic regions for stover fodder quality",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "A panel of 276 inbred lines from CIMMYT's Drought tolerant maize for Africa program was test crossed to maize line CML312 and the single crosses were evaluated for grain and stover yields, plant height (PH), days to 50% anthesis (DtA50) and silking, stover nitrogen (N), neutral (NDF) and acid detergent fiber (ADF), acid detergent lignin (ADL), in vitro organic matter digestibility (IVOMD) and metabolizable energy (ME) content. Most stover fodder quality traits were highly significantly different among the lines except ADF. These differences were substantial among best and worst lines for the traits, with stover N varying threefold and NDF, ADF and IVOMD by more than 10 percentage units. Among the agronomic traits, significant positive associations were observed among grain and stover yield. Grain yield was significantly negatively associated with DtA50 and Anthesis to silking interval (AtS) and positively with PH. Stover yield was significantly negatively associated with DtA50 and positively with PH. Desirable stover quality traits N, IVOMD and ME were significantly negatively associated with grain yield (R2 = 0.25?0.28) while undesirable quality traits NDF, ADF and ADL were significantly positively associated with grain yield (R2 = 0.04?0.23). Stover yields were largely unrelated fodder quality traits except for a significant negative association with NDF and ADF (R2 = 0.04 to 0.08). GWAS analysis carried out using GBS (genotyping by sequencing) and a 55K SNPs genotypic dataset revealed several regions of significant association for N, ADF and IVOMD, each explaining from 3 to 9% of phenotypic variance for these fodder quality traits. SYN7725 from the 55K chip on chromosome 4 explained the largest proportion of phenotypic variance (~9%) for ADF and had a robust minor allele frequency (MAF) of 0.35. A specific genomic region on chromosome 3 (132.7?149.2 Mb) was found to be significantly associated with all the three forage quality traits, with the largest effect on IVOMD. This region merits attention for further validation and marker-assisted introgressions. A cellulose-related candidate gene, Xyloglucan endotransglucosylase/hydrolase (xth1, GRMZM2G119783) was also identified closer to the peak on chr.10 (~76.9 Mb) for ADF, which has been previously demonstrated to have a significant role in fiber elongation in cotton.",
+        "lang": "eng"
+    },
+    "appid": "10883_3342",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3342"
+}}

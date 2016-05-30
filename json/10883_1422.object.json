@@ -223,10 +223,19 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
             "value": "striga",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7453"
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7453"
+            ]
         }
     ],
     "description": {

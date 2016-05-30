@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Effect of the cereal cyst nematode, Heterodera filipjevi, on wheat in microplot trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:33Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "growth parameters",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "iran",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nematode final population",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nematode initial population",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6022
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6421
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "heterodera avenae",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_31042"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "growth",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3394"
+        }
+    ],
+    "description": {
+        "value": "The cereal cyst nematodes, Heterodera avenae, H. filipjevi and H. latipons, are considered to be the most economically important species of cyst-forming nematodes on wheat. Two trials were conducted in 2006 and 2007 to determine the impact of different initial population levels of H. filipjevi (0, 2.5, 5, 10 and 20 eggs and second-stage juveniles (J2) (g soil)&#8722;1) on wheat cv. Sardari in microplots under natural field conditions in Iran. The results showed that increasing the initial populations of H. filipjevi significantly reduced several growth parameters of wheat (plant height, root dry weight, aerial shoot dry weight and grain yield) compared with the untreated controls. The final population of H. filipjevi increased with increasing initial population, while the reproduction factor (Rf) declined as the initial population increased but was greater than 1 in all treatments. Regression analysis showed a significant negative relationship between the initial populations and grain yield. The modelling clearly demonstrated that H. filipjevi is economically important on winter wheat in Iran. Grain yield loss was demonstrated even at the lowest population density and reached a maximum loss of 48% with an initial population density of 20 eggs and J2 (g soil) The aerial shoot yield loss was as great as 40% in both years.",
+        "lang": "eng"
+    },
+    "appid": "10883_2763",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2763"
+}}

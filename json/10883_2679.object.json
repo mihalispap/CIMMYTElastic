@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Characterization of novel LMW-GS genes at Glu-D3 locus on chromosome 1D in Aegilops tauschii",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8323
+            ],
+            "value": "common wheat",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6184
+            ],
+            "value": "pseudogenes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27593"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "aegilops",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_148"
+        }
+    ],
+    "description": {
+        "value": "The objectives of this study were to clarify the relationship between LMW-GS Glu-D3 gene of Ae. tauschii registered in GenBank and the six Glu-D3 genes including 12 allelic variants of common wheat characterized in our previous studies, and identify novel Glu-D3 genes and haplotypes from Ae. tauschii using gene specific PCR amplification. By searching the NCBI database, 13 LMW-GS genes/pseudogenes of Ae. tauschii were retrieved and classified into five gene families based on their nucleotide similarity with the six Glu-D3 genes of common wheat. Of them, four Ae. tauschii genes, AY585350, AY585354, AY585355 and AY585356 matched GluD3-4, GluD3-5, GluD3-1 and GluD3-2 of common wheat, respectively, and one pseudogene AY585351 matched to GluD3-6, but none of them matched to GluD3-3. In order to identify the Glu-D3 genes from Ae. tauschii corresponding to GluD3-3 and GluD3-6 of common wheat, gene specific primers were developed to amplify 8&ndash;18 Ae. tauschii entries. As a result, two novel Glu-D3 genes, designated as GluDt3-3 and GluDt3-6, were identified. GluDt3-3 showed seven allelic variants or haplotypes at the DNA level in eight Ae. tauschii entries, designated as GluDt3-31, GluDt3-32, GluDt3-33, GluDt3-34, GluDt3-35, GluDt3-36 and GluDt3-37, respectively. Two to eight SNPs were found among the seven haplotypes and 1&ndash;4 amino acid substitutions among the deduced peptides. Multiple sequence alignments showed that the DNA similarity was 99.6&ndash;99.9% among the seven GluDt3-3 haplotypes, and 99.4&ndash;99.7% between these haplotypes and those of common wheat GluD3-3 gene. GluDt3-6 presented seven haplotypes in 18 Ae. tauschii entries, designated as GluDt3-61, GluDt3-62, GluDt3-63, GluDt3-64, GluDt3-65, GluDt3-66 and GluDt3-67, respectively. GluDt3-61 from Ae. tauschii entry Ae38 was the only one haplotype with complete coding sequence, and the other six were all pseudogenes. Compared with GluD3-6 gene of common wheat, GluDt3-61 exhibited a 3-bp insertion, a 42-bp deletion and 11 base substitutions, leading to a glutamine insertion in position 52, 14 amino acid deletion in position 84&ndash;97 and 10 amino acid mutations in its deduced peptide; GluDt3-62 and GluDt3-63 showed a 6-bp insertion, a 24-bp deletion and 15&ndash;21 base substitutions in coding region, of which a nonsense mutation from C to T at position 622 resulted in pseudogenes; GluDt3-64 had five base substitution, including a nonsense mutation at the position 742. GluDt3-65, GluDt3-66 and GluDt3-67 all had a base deletion at position 247, as well as 7&ndash;8 base substitutions, which resulted in frameshift mutations in the three haplotypes. The results indicated that Ae. tauschii also contains six Glu-D3 genes and their allelic variants are even richer than those in common wheat",
+        "lang": "eng"
+    },
+    "appid": "10883_2679",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2679"
+}}

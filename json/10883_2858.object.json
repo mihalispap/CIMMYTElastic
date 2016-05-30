@@ -1,0 +1,87 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of genetic bases and diversity of Egyptian wheat cultivars released during the last 50 years using coefficient of parentage",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:45Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "coefficient of parentage",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "landraces",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "genetic contribution",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8005
+            ],
+            "value": "genetics",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3222"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "parentage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_394"
+        }
+    ],
+    "description": {
+        "value": "Discerning the genetic diversity of any crop species provides insight into the strength of an applied breeding program and directs future breeding strategies aimed at long-term genetic gain and minimized genetic vulnerability. The number and abundance of ancestral parents present in the pedigree of crop cultivars can provide an average estimation of the depth of the genetic base of the overall crop improvement program. The objectives of this study were to estimate (1) the genetic similarity among 33 Egyptian wheat (Triticum aestivum L.) cultivars and different eras of release (1947-2004) and productivity groups based on COP values, and (2) the relative genetic contribution and abundance of ancestral parents from different geographical origins to the total gene pool of Egyptian wheat cultivars. Broad genetic diversity was observed among 33 Egyptian cultivars with average COP value of 0.11 and large numbers of ancestral parents (155 landraces) traced to 31 countries. The genetic base ranged from very low in pre 1960?s cultivars such as ?Giza 139? (with only 3 landraces in the background) to very high in modern cultivars such as ?Gemmeiza-7? (with 73 landraces in the background). ?Hindi-62?, ?Red Fife?, ?Hard Red Calcutta? and ?Akagomughi? were the major ancestors with 6, 5, 4, and 4% of total genetic contribution to the Egyptian wheat gene pool, respectively. Egypt, United States of America, Kenya and Ukraine were the major source countries with 16, 11, 9 and 7% of total genetic contribution to this gene pool, respectively. Though Marquis-Thatcher germplasm from North America has the greatest influence on overall Egyptian cultivars, Mexican-based sources of dwarfing and high yield, derived from ancestors such as ?Akagomughi? and ?Daruma? and exploited by the International Maize and Wheat Improvement Center (CIMMYT), were very prominent in Egyptian cultivars post 1970?s.",
+        "lang": "eng"
+    },
+    "appid": "10883_2858",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2858"
+}}

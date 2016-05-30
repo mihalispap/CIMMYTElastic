@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Quantitative trait loci for slow-rusting resistance in wheat to leaf rust and stripe rust identified with multi-environment analysis",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:14Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9846,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        }
+    ],
+    "description": {
+        "value": "Rust diseases are a major cause of yield loss in wheat worldwide, and are often controlled through the incorporation of resistance genes using conventional phenotypic selection methods. Slow-rusting resistance genes are expressed quantitatively and are typically small in genetic effect thereby requiring multiple genes to provide adequate protection against pathogens. These effects are valuable and are generally considered to confer durable resistance. Therefore an understanding of the chromosomal locations of such genes and their biological effects are important in order to ensure they are suitably deployed in elite germplasm. Attila is an important wheat grown throughout the world and is used as a slow-rusting donor in international spring wheat breeding programs. This study identified chromosomal regions associated with leaf rust and stripe rust resistances in a cross between Attila and a susceptible parent, Avocet-S, evaluated over 3 years in the field. Genotypic variation for both rusts was large and repeatable with line-mean heritabilities of 94% for leaf rust resistance and 87% for stripe rust. Three loci, including Lr46/Yr29 on chromosome 1BL, were shown to provide resistance to leaf rust whereas six loci with small effects conferred stripe rust resistance, with a seventh locus having an effect only by epistasis. Disease scoring over three different years enabled inferences to be made relating to stripe rust pathogen strains that predominated in different years.",
+        "lang": "eng"
+    },
+    "appid": "10883_2632",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2632"
+}}

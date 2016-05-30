@@ -1,0 +1,147 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Australia",
+        "uri": [
+            "http://sws.geonames.org/2077456",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Australia"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:26Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2307",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "1996",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2307"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2307"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2307",
+    "creator": [
+        {
+            "id": 512453716,
+            "value": "Penrose, L.D.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/512453716"
+        },
+        {
+            "id": 499197679,
+            "value": "Mosaad, M.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/499197679"
+        },
+        {
+            "id": 96867704,
+            "value": "Payne, T.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/96867704"
+        },
+        {
+            "id": 2032391186,
+            "value": "Ortiz Ferrara, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/2032391186"
+        },
+        {
+            "id": 613869368,
+            "value": "Braun, H.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/613869368"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2307/1/61777.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 713706
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2307/2/61777.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 32870
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2307/3/61777.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6093
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2307/1/61777.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2307/2/61777.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2307/3/61777.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2307"
+        }
+    },
+    "extent": "",
+    "page": "1-15 pags",
+    "coverage": [
+        "Australia",
+        "Global"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

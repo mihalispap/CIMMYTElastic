@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2014-03-05T17:57:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3430",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2014",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3430"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3430"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3430",
+    "creator": [
+        {
+            "id": 656313502,
+            "value": "Kagot, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/656313502"
+        },
+        {
+            "id": 405804330,
+            "value": "Okoth, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/405804330"
+        },
+        {
+            "id": 360974252,
+            "value": "Kanampiu, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/360974252"
+        },
+        {
+            "id": 405804423,
+            "value": "Okoth, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/405804423"
+        },
+        {
+            "id": 513170954,
+            "value": "Mageto, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/513170954"
+        }
+    ],
+    "publisher": {
+        "id": 1636910751,
+        "value": "http://jcp.modares.ac.ir/?_action=articleInfo&article=10493&vol=",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1636910751"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3430/1/98568.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 363353
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3430/4/98568.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 25890
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3430/5/98568.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4967
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3430/1/98568.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3430/4/98568.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3430/5/98568.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3430"
+        }
+    },
+    "extent": "",
+    "page": "305-313",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

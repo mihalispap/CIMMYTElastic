@@ -1,0 +1,195 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "India",
+            "uri": [
+                "http://sws.geonames.org/1269750",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/India"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Malaysia",
+            "uri": [
+                "http://sws.geonames.org/1733045",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Malaysia"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Thailand",
+            "uri": [
+                "http://sws.geonames.org/1605651",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Thailand"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Vietnam",
+            "uri": [
+                "http://sws.geonames.org/1562822",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Vietnam"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Philippines",
+            "uri": [
+                "http://sws.geonames.org/1694008",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Philippines"
+            ]
+        }
+    ],
+    "updatedDate": "2014-03-05T17:57:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3433",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "No"
+        },
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3433"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3433"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3433",
+    "creator": [
+        {
+            "id": 503976144,
+            "value": "Singh, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/503976144"
+        },
+        {
+            "id": 467554464,
+            "value": "Kumar, V.",
+            "type": "person",
+            "uri": "/cimmyt/person/467554464"
+        },
+        {
+            "id": 237476040,
+            "value": "Saharawat, Y.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/237476040"
+        },
+        {
+            "id": 112277469,
+            "value": "Gathala, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/112277469"
+        },
+        {
+            "id": 975535491,
+            "value": "Ladha, J.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/975535491"
+        },
+        {
+            "id": 1018282583,
+            "value": "Chauhan, B.S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1018282583"
+        }
+    ],
+    "publisher": {
+        "id": 636024026,
+        "value": "http://www.esciencecentral.org/journals/weedy-rice-an-emerging-threat-for-directseeded-rice-production-systems-in-india-jrr.1000106.php?aid=18970",
+        "type": "organization",
+        "uri": "/cimmyt/organization/636024026"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3433/1/98373.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1441509
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3433/4/98373.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 40439
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3433/5/98373.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 20347
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3433/1/98373.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3433/4/98373.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3433/5/98373.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3433"
+        }
+    },
+    "extent": "",
+    "page": 1000106,
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,0 +1,42 @@
+{"object": {
+    "title": {
+        "value": "Manual de producción de semilla de maíz híbrido",
+        "lang": ""
+    },
+    "updated": "2016-02-22T17:38:53Z",
+    "created": "2016-01-26T15:17:17Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "para",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5556"
+        }
+    ],
+    "description": {
+        "value": "La semilla de maíz híbrido proporciona a los agricultores variedades que poseen características genéticas mejoradas, como el alto potencial de rendimiento y combinaciones de caracteres únicas para combatir las enfermedades y condiciones de cultivo adversas. Sin embargo, la calidad de la semilla híbrida depende fundamentalmente de los métodos de producción en campo que se utilicen \u2013\u2013los cuales deben cumplir con normas que garanticen la calidad\u2013\u2013 y de la implementación de un manejo agronómico apropiado. Si bien la producción de semilla de variedades de maíz de polinización libre es relativamente sencilla, la producción de semilla híbrida requiere que se apliquen prácticas de campo adicionales que son esenciales para lograr una buena producción.",
+        "lang": "spa"
+    },
+    "appid": "10883_4696",
+    "language": {
+        "value": "spa",
+        "uri": ""
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_4696"
+}}

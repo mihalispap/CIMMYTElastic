@@ -1,0 +1,45 @@
+{"object": {
+    "title": {
+        "value": "Relationship of line per se and testcross performance for grain yield of tropical maize in drought and well-watered trials",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2014-03-05T17:51:00Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "maize",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8623,
+            "value": "drought",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2391"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6722,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        }
+    ],
+    "description": {
+        "value": "To optimize the efficiency of maize (Zea mays L.) drought breeding, the ability to predict testcross performance (TP) under drought stress using line per se performance (LP) of the parental inbreds would be useful. We evaluated LP and TP of tropical inbreds in well-watered and drought environments in Kenya and Mexico. Our main objective was to determine if LP under drought stress was predictive of TP for grain yield under drought stress and if selection for LP under drought stress would result in reduced yield potential for TP under well-watered conditions. Average yield reduction under drought stress was 77% for lines and 68% for testcrosses. Average genotypic correlations between lines and testcrosses under drought stress were positive and low (genotypic correlation = 0.48), but correlations increased with increasing levels of drought stress in both LP and TP trials. Averaged over all sets, indirect selection for LP was predicted to be only 57% as effective as direct selection for TP under drought stress but was on average substantially higher in testcross sets where yield reduction due to drought was 70% or more. Therefore, LP under drought stress could be used to develop hybrids for severely drought-prone environments. Moreover, LP under drought stress was uncorrelated with TP for grain yield under well-watered conditions, showing that selection of lines per se for drought tolerance would likely not reduce yield potential of testcrosses.",
+        "lang": "eng"
+    },
+    "appid": "10883_3408",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3408"
+}}

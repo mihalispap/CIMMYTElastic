@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Virulence of Puccinia triticina in Turkey and leaf rust resistance in Turkish wheat cultivars",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "gene postulation",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "brown rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6239
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6152
+            ],
+            "value": "phenotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_5776"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genes",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3214"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "puccinia triticina",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27334"
+        }
+    ],
+    "description": {
+        "value": "Leaf rust caused by Puccinia triticina is a common disease on wheat in the coastal regions of Turkey. Collections of P. triticina from infected wheat leaves were obtained from the main wheat production zones of Turkey in 2009 and 2010. A total of 104 single uredinial isolates were tested for virulence on 20 lines of Thatcher wheat that differ for single leaf rust resistance genes. Forty-four different virulence phenotypes were identified over both years. Four phenotypes were found in both years. Phenotype FHPTQ found in 2009, with virulence to genes Lr2c, Lr3, Lr16, Lr26, Lr3ka, Lr17a, Lr30, LrB, Lr10, Lr14a, Lr18, Lr3bg, and Lr14b, was the most common phenotype at 15.4 % of the total isolates. Forty-three winter and spring wheat cultivars from Turkey were tested as seedlings with 13 different P. triticina virulence phenotypes from Canada, the US and Turkey. The infection types on the cultivars were compared with infection types on the Thatcher near isogenic lines to postulate the presence of seedling leaf rust resistance genes in the cultivars. Resistance genes Lr1, Lr3a, Lr10, Lr14a, Lr17a, Lr20, Lr23, and Lr26 were postulated to be present in the Turkish wheat cultivars. DNA of the wheat cultivars was tested with PCR markers to determine the presence of the adult plant resistance genes Lr34 and Lr37. Marker data indicated the presence of Lr34 in 20 cultivars and Lr37 in three cultivars. Field plot evaluations of the wheat cultivars indicated that no single Lr gene conditioned highly effective leaf rust resistance. Resistant cultivars varied for combinations of seedling and adult plant resistance genes.",
+        "lang": "eng"
+    },
+    "appid": "10883_2937",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2937"
+}}

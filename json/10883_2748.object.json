@@ -1,0 +1,48 @@
+{"object": {
+    "title": {
+        "value": "Development of wheat-Lophopyrum elongatum recombinant lines for enhanced sodium exclusion during salinity stress",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:31Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6841,
+            "value": "sodium",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7145"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "salinity",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6751"
+        }
+    ],
+    "description": {
+        "value": "Lophopyrum elongatum (tall wheatgrass), a wild relative of wheat, can be used as a source of novel genes for improving salt tolerance of bread wheat. Sodium ?exclusion? is a major physiological mechanism for salt tolerance in a wheat?tall wheatgrass amphiploid, and a large proportion (~50%) for reduced Na+ accumulation in the flag leaf, as compared to wheat, was earlier shown to be contributed by genetic effects from substitution of chromosome 3E from tall wheatgrass for wheat chromosomes 3A and 3D. Homoeologous recombination between 3E and wheat chromosomes 3A and 3D was induced using the ph1b mutant, and putative recombinants were identified as having SSR markers specific for tall wheatgrass loci. As many as 14 recombinants with smaller segments of tall wheatgrass chromatin were identified and low-resolution breakpoint analysis was achieved using wheat SSR loci. Seven recombinants were identified to have leaf Na+ concentrations similar to those in 3E(3A) or 3E(3D) substitution lines, when grown in 200 mM NaCl in nutrient solution. Phenotypic analysis identified recombinants with introgressions at the distal end on the long arm of homoeologous group 3 chromosomes being responsible for Na+ ?exclusion?. A total of 55 wheat SSR markers mapped to the long arm of homoeologous group 3 markers by genetic and deletion bin mapping were used for high resolution of wheat?tall wheatgrass chromosomal breakpoints in selected recombinants. Molecular marker analysis and genomic in situ hybridisation confirmed the 524-568 recombinant line as containing the smallest introgression of tall wheatgrass chromatin on the distal end of the long arm of wheat chromosome 3A and identified this line as suitable for developing wheat germplasm with Na+ ?exclusion?",
+        "lang": "eng"
+    },
+    "appid": "10883_2748",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2748"
+}}

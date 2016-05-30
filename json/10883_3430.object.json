@@ -1,0 +1,75 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of fungal isolates as possible biocontrol agents against Striga hermonthica",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:36Z",
+    "created": "2014-03-05T17:57:40Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "striga hermonthica",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_32339",
+                "http://aims.fao.org/aos/agrovoc/c_32339",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fusarium",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3156",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "biocontrol",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_918",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mycoherbicide",
+            "uri": ""
+        }
+    ],
+    "description": {
+        "value": "Striga hermonthica is a parasitic weed which largely constraints maize and sorghum production in Western Kenya. The weed mostly invades small scale farms and depending on severity, it may cause damage ranging from 10% to complete crop failure thereby aggravating the food insecurity in that region. This study aimed at evaluating fungal isolates as possible biocontrol agents against the weed. Fungi were isolated from diseased Striga hermonthica and their virulence efficacy against the weed tested in a greenhouse. All the fungal isolates tested caused infection and consequently death of the weed. Fusarium incarnatum had the highest infection rate of 92% followed by Gibberella intricans and F. chlamydosporum at 90% each. Fusarium oxysporium caused the highest mortality of 60% with Gibberella intricans, causing the least mortality of 36%. F. oxysporium was the most aggressive and potent fungal isolate against the weed hence a suitable candidate for exploitation as a mycoherbicide against the weed.",
+        "lang": "eng"
+    },
+    "appid": "10883_3430",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3430"
+}}

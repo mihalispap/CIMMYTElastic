@@ -1,0 +1,145 @@
+{"resource": {
+    "citation": "",
+    "issn": "1684-5315",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Algeria",
+        "uri": [
+            "http://sws.geonames.org/2589581",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Algeria"
+        ]
+    },
+    "updatedDate": "2013-11-25T02:37:41Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3300",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3300"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3300"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3300",
+    "creator": [
+        {
+            "id": 1819513354,
+            "value": "Benslimane, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1819513354"
+        },
+        {
+            "id": 1936560049,
+            "value": "Lababidi, S.",
+            "type": "person",
+            "uri": "/cimmyt/person/1936560049"
+        },
+        {
+            "id": 2092860420,
+            "value": "Yahyaoui, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/2092860420"
+        },
+        {
+            "id": 711442592,
+            "value": "Ogbonnaya, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/711442592"
+        },
+        {
+            "id": 110265337,
+            "value": "Bouznad, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/110265337"
+        },
+        {
+            "id": 1593472596,
+            "value": "Baum, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1593472596"
+        }
+    ],
+    "publisher": {
+        "id": 1895024179,
+        "value": "http://www.academicjournals.org/AJB/abstracts/abs2013/26Jun/Benslimane%20et%20al.htm",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1895024179"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3300/1/98012.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 42500
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3300/2/98012.pdf.txt",
+                "label": "",
+                "type": "text/plain",
+                "size": 7926
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3300/3/98012.pdf.jpg",
+                "label": "",
+                "type": "application/octet-stream",
+                "size": 1346412
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3300/1/98012.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3300/2/98012.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3300/3/98012.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3300"
+        }
+    },
+    "extent": "",
+    "page": "4082-4093",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

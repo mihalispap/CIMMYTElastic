@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Seed detection of Xanthomonas campestris pv. undulosa using a modification of Wilbrink's agar medium",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "xanthomonas campestris",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24379",
+                "http://aims.fao.org/aos/agrovoc/c_24379",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "planting",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "antibiotics",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_492",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7142
+            ],
+            "value": "boric acid",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1016"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8676
+            ],
+            "value": "bacterial leaf streak",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330601"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gentamycin",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11123"
+        }
+    ],
+    "description": {
+        "value": "Wilbrink's-boric acid-cephalexin agar medium (WBC) was developed and tested for isolating Xalllhomonas campeslris pv. IIndulosa, the causal agent of bacterial leaf streak of wheat or black chaff. from seed. WBC medium is Wilbrink's medium that has been modified by adding 0.75 gil of boric acid and 10 mg/l of cephalexin. Compared to the standard Wilbrink's medium, average plating efficiency of 15 strains of X. c. pv. undulosa isolated from different hosts and locations in Mexico was 100.5% for WBC medium. Recovery of those strains was only 59.7% when 1 mg/l of gentamycin was added to WBC. Recovery was not possible either on WBC amended with 2 mg/l gemamycin or on XTS medium comaining 8 mg/l gentamycin.  About 90% of saprophytic bacteria washed from wheat and triticale seed lots harvested in plots infested by bacterial leaf streak were eliminated using WBC, making it easier to identify the pale yellow X. c. pv . undulosa colonies. Using WBC and washing in saline (30 minutes), 1 x 103 to 6.1 x 106 X. c. pv. undlllosa colony-forming units (CFU) were found per gram of seed, the detection limit being 1 xl 03 CFU. WBC agar is a useful alternative for XTS medium because of the toxic effect of gentamycin observed under our conditions.",
+        "lang": "eng"
+    },
+    "appid": "10883_2278",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2278"
+}}

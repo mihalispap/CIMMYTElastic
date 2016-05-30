@@ -1,0 +1,136 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Europe",
+        "uri": [
+            "http://sws.geonames.org/EU",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Europe"
+        ]
+    },
+    "updatedDate": "2013-06-07T21:11:40Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2398",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2005",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2398"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2398"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2398",
+    "creator": [
+        {
+            "id": 1288639550,
+            "value": "Zarco Hernandez, J.",
+            "type": "person",
+            "uri": "/cimmyt/person/1288639550"
+        },
+        {
+            "id": 1131219063,
+            "value": "Santiveri, F.",
+            "type": "person",
+            "uri": "/cimmyt/person/1131219063"
+        },
+        {
+            "id": 1451133743,
+            "value": "Michelena, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1451133743"
+        },
+        {
+            "id": 732776015,
+            "value": "Peña-Bautista, R.J.",
+            "type": "person",
+            "uri": "/cimmyt/person/732776015"
+        }
+    ],
+    "publisher": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2398/1/81070.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 153264
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2398/2/81070.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41222
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2398/3/81070.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 2686
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2398/1/81070.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2398/2/81070.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2398/3/81070.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2398"
+        }
+    },
+    "extent": "",
+    "page": "33-43",
+    "coverage": [
+        "North Africa",
+        "Europe"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

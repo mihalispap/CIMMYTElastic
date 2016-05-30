@@ -1,0 +1,90 @@
+{"object": {
+    "title": {
+        "value": "New insights into the genetics of in vivo induction of maternal haploids, the backbone of doubled haploid technology in maize",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:44Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "in vivo haploid induction",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "qtl mapping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "doubled haploid",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "haploid inducer development",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                1
+            ],
+            "value": "haploids",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3490"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mapping",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_1344"
+        }
+    ],
+    "description": {
+        "value": "Haploids and doubled haploid (DH) inbred lines have become an invaluable tool for maize genetic research and hybrid breeding, but the genetic basis of in vivo induction of maternal haploids is still unknown. This is the first study reporting comparative quantitative trait locus (QTL) analyses of this trait in maize. We determined haploid induction rates (HIR) in testcrosses of a total of 1061 progenies of four segregating populations involving two temperate haploid inducers, UH400 (HIR=8%) and CAUHOI (HIR=2%), one temperate and two tropical inbreds with HIR=0%, and up to three generations per population. Mean HIR of the populations ranged from 0.6 to 5.2% and strongly deviated from the mid-parent values. One QTL (qhir1) explaining up to p^ = 66% of the genetic variance was detected in bin 1.04 in the three populations involving a non-inducer parent and the HIR-enhancing allele was contributed by UH400. Segregation ratios of loci in bin 1.04 were highly distorted against the UH400 allele in these three populations, suggesting that transmission failure of the inducer gamete and haploid induction ability are related phenomena. In the CAUHOIxUH400 population, seven QTL were identified on five chromosomes, with qhir8 on chromosome having p^ > 20% in three generations of this cross. The large-effect QTL qhir1 and qhir8 will likely become fixed quickly during inducer development due to strong selection pressure applied for high HIR. Hence, marker-based pyramiding of small-effect and/or modifier QTL influencing qhir1 and qhir8 may help to further increase HIR in maize. We propose a conceptual genetic framework for inheritance of haploid induction ability, which is also applicable to other dichotomous traits requiring progeny testing, and discuss the implications of our results for haploid inducer development.",
+        "lang": "eng"
+    },
+    "appid": "10883_3149",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3149"
+}}

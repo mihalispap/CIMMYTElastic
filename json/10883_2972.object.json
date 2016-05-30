@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Detection of two major grain yield QTL in bread wheat (Triticum aestivum L.) under heat, drought and high yield potential environments",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:13:02Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7384
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6356
+            ],
+            "value": "haploids",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3490"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7279
+            ],
+            "value": "chromosomes",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_1598"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6444
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7427,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "A large proportion of the worlds? wheat growing regions suffers water and/or heat stress at some stage during the crop growth cycle. With few exceptions, there has been no utilisation of managed environments to screen mapping populations under repeatable abiotic stress conditions, such as the facilities developed by the International Wheat and Maize Improvement Centre (CIMMYT). Through careful management of irrigation and sowing date over three consecutive seasons, repeatable heat, drought and high yield potential conditions were imposed on the RAC875/Kukri doubled haploid population to identify genetic loci for grain yield, yield components and key morpho-physiological traits under these conditions. Two of the detected quantitative trait loci (QTL) were located on chromosome 3B and had a large effect on canopy temperature and grain yield, accounting for up to 22 % of the variance for these traits. The locus on chromosome arm 3BL was detected under all three treatments but had its largest effect under the heat stress conditions, with the RAC875 allele increasing grain yield by 131 kg ha&#8722;1 (or phenotypically, 7 % of treatment average). Only two of the eight yield QTL detected in the current study (including linkage groups 3A, 3D, 4D 5B and 7A) were previously detected in the RAC875/Kukri doubled haploid population; and there were also different yield components driving grain yield. A number of discussion points are raised to understand differences between the Mexican and southern Australian production environments and explain the lack of correlation between the datasets. The two key QTL detected on chromosome 3B in the present study are candidates for further genetic dissection and development of molecular markers.",
+        "lang": "eng"
+    },
+    "appid": "10883_2972",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2972"
+}}

@@ -15,13 +15,13 @@
             "score": [
                 "",
                 "",
-                0.8078
+                0.6708
             ],
-            "value": "mapping",
+            "value": "crops",
             "uri": [
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_1344"
+                "http://aims.fao.org/aos/agrovoc/c_1972"
             ]
         },
         {
@@ -41,21 +41,15 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.6253,
-            "value": "germplasm collections",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_36739"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "quantitative trait loci",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 0.6963,
             "value": "abiotic stress",
             "uri": "http://aims.fao.org/aos/agrovoc/c_35768"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6253,
+            "value": "germplasm collections",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36739"
         },
         {
             "vocabulary": [
@@ -66,14 +60,20 @@
             "score": [
                 "",
                 "",
-                0.6708
+                0.8078
             ],
-            "value": "crops",
+            "value": "mapping",
             "uri": [
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_1972"
+                "http://aims.fao.org/aos/agrovoc/c_1344"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
         },
         {
             "vocabulary": "agrovoc",

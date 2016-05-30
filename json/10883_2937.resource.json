@@ -1,0 +1,179 @@
+{"resource": {
+    "citation": "",
+    "issn": "0929-1873",
+    "location": [
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Turkey",
+            "uri": [
+                "http://sws.geonames.org/298795",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Turkey"
+            ]
+        },
+        {
+            "vocabulary": [
+                "geonames",
+                "faogeopolitical"
+            ],
+            "value": "Canada",
+            "uri": [
+                "http://sws.geonames.org/6251999",
+                "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Canada"
+            ]
+        }
+    ],
+    "updatedDate": "2013-06-07T21:12:57Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_2937",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2012",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/2937"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2937"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_2937",
+    "creator": [
+        {
+            "id": 676623465,
+            "value": "Kolmer, J.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/676623465"
+        },
+        {
+            "id": 426803070,
+            "value": "Mert, Z.",
+            "type": "person",
+            "uri": "/cimmyt/person/426803070"
+        },
+        {
+            "id": 672127022,
+            "value": "Akan, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/672127022"
+        },
+        {
+            "id": 1651294869,
+            "value": "Demir, L.",
+            "type": "person",
+            "uri": "/cimmyt/person/1651294869"
+        },
+        {
+            "id": 1282622101,
+            "value": "Unsal, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1282622101"
+        },
+        {
+            "id": 770526299,
+            "value": "Sermet, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/770526299"
+        },
+        {
+            "id": 503036005,
+            "value": "Keser, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/503036005"
+        },
+        {
+            "id": 901159951,
+            "value": "Akin, B.",
+            "type": "person",
+            "uri": "/cimmyt/person/901159951"
+        },
+        {
+            "id": 388634274,
+            "value": "Morgounov, A.I.",
+            "type": "person",
+            "uri": "/cimmyt/person/388634274"
+        }
+    ],
+    "publisher": {
+        "id": 634959468,
+        "value": "http://www.springerlink.com/content/701480136g780545/",
+        "type": "organization",
+        "uri": "/cimmyt/organization/634959468"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2937/1/97440.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 184126
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2937/2/97440.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 41283
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2937/3/97440.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4630
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2937/1/97440.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2937/2/97440.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/2937/3/97440.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/2937"
+        }
+    },
+    "extent": "",
+    "page": "703-716",
+    "coverage": [
+        "Turkey",
+        "West Asia"
+    ],
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

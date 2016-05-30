@@ -55,6 +55,12 @@
             "uri": ""
         },
         {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "drought stress",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
+        },
+        {
             "vocabulary": [
                 "",
                 "",
@@ -77,12 +83,6 @@
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_3346"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "drought stress",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_24993"
         },
         {
             "vocabulary": [

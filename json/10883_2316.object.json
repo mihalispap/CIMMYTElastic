@@ -1,0 +1,204 @@
+{"object": {
+    "title": {
+        "value": "Genetic progress in wheat yield and nitrogen use efficiency under four nitrogen rates",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:28Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.7756,
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "soft wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "yields",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8488",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nutrient uptake",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5273",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrogen content",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5193",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "fertilizer application",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10795",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "nitrogen fertilizers",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5195",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "application rates",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16113",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.6554
+            ],
+            "value": "fertility",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2862"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+        }
+    ],
+    "description": {
+        "value": "The adaptation and performance of CIMMYT's bread wheat germplasm (Triticum aestivum L.) under conditions of low N fertility have been questioned because they were developed under medium-high levels of N fertility. The objectives of this research were to (i) compare the performance of a set of tall vs. semidwarf cultivars developed by CIMMYT that were widely grown by farmers in the Yaqui Valley of Mexico at low and high N fertility, (ii) measure the genetic progress in grain yield and N use efficiency (NUE), and (iii) evaluate the contribution of N uptake efficiency (UPE) and utilization efficiency (UTE) to NUE. Ten wheat cultivars, two tall and eight semidwarf, produced by CIMMYT and released in the Yaqui Valley of Sonora, by the Mexican government from 1950 to 1985 were grown with 0, 75, 150, or 300 kg N ha(-1) in a 3-yr field study at Ciudad Obregon, Sonora, Mexico. Genetic gains in both grain yield and NUE during 1950 to 1985 were 1.1, 1.0, 1.2, and 1.9% yr(-1) on a relative basis or 32, 43, 59, and 89 kg ha(-1) yr(-1) on an absolute basis, when provided 0, 75, 150, and 300 kg ha(-1) N, respectively. Progress in NUE resulted in an improvement of both UPE and UTE. However, the relative importance of these two components was affected by the level of applied N. These results contradict the belief that modern semidwarf cultivars require more N than older cultivars. Instead, they respond more to N, which translates into higher economic rates and higher returns when N fertilizer is available.",
+        "lang": "eng"
+    },
+    "appid": "10883_2316",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2316"
+}}

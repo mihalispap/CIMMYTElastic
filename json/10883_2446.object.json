@@ -1,0 +1,120 @@
+{"object": {
+    "title": {
+        "value": "Wheat stripe rust in China",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:46Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat stripe (yellow) rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "epidemiology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2615",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease management",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_330751",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8186
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "China has the largest stripe rust epidemic region in the world in terms of wheat acreage affected by the disease. Extensive studies on the epidemiology and management of stripe rust have been carried out since the widespread occurrence of the disease in the 1950s. Fifteen epidemic zones were classified, based on factors influencing the occurrence of wheat stripe rust. The disease can spread inter-regionally, mainly from west to east and from south to north. Winter-wheat growing regions in the north-west, south-west, and north, and spring-wheat growing regions in the north-west are the major epidemic areas. Hotspots of wheat stripe rust are mainly located in south-eastern Gansu and north-western Sichuan, and these areas constitute the inoculum base, centre of diversity, and major over-summering areas of the pathogen. Successful control in over-summering areas is the key to achieving sustainable management of stripe rust in China. Pathogen variability and race virulence have been monitored continuously, and the resistance genetics and background of Chinese wheat cultivars analysed. Effective management of stripe rust includes resistance breeding and application, diversification and deployment of various resistance genes, use of chemicals, adoption of appropriate agricultural practice, and integrated disease management in &lsquo;hotspot&rsquo; regions. Collaboration of scientists among various organisations and disciplines is vital. We discuss the progress and challenges of wheat stripe rust management in China",
+        "lang": "eng"
+    },
+    "appid": "10883_2446",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2446"
+}}

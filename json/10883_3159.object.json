@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "Phenotyping for Abiotic Stress Tolerance in Maize",
+        "lang": ""
+    },
+    "updated": "2016-01-22T23:05:52Z",
+    "created": "2013-06-30T05:24:45Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "drought",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2391",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "low nitrogen tolerance",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phenotyping",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "spatial variability",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tools",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2631"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+        }
+    ],
+    "description": {
+        "value": "The ability to quickly develop germplasm having tolerance to several complex polygenic inherited abiotic and biotic stresses combined is critical to the resilience of cropping systems in the face of climate change. Molecular breeding offers the tools to accelerate cereal breeding; however, suitable phenotyping protocols are essential to ensure that the much-anticipated benefits of molecular breeding can be realized. To facilitate the full potential of molecular tools, greater emphasis needs to be given to reducing the within-experimental site variability, application of stress and characterization of the environment and appropriate phenotyping tools. Yield is a function of many processes throughout the plant cycle, and thus integrative traits that encompass crop performance over time or organization level (i.e. canopy level) will provide a better alternative to instantaneous measurements which provide only a snapshot of a given plant process. Many new phenotyping tools based on remote sensing are now available including non-destructive measurements of growth-related parameters based on spectral reflectance and infrared thermometry to estimate plant water status. Here we describe key field phenotyping protocols for maize with emphasis on tolerance to drought and low nitrogen.",
+        "lang": "eng"
+    },
+    "appid": "10883_3159",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3159"
+}}

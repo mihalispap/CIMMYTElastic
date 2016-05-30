@@ -1,0 +1,144 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Kazakhstan",
+        "uri": [
+            "http://sws.geonames.org/1522867",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Kazakhstan"
+        ]
+    },
+    "updatedDate": "2014-03-13T00:46:13Z",
+    "rights": "",
+    "relation": "",
+    "appid": "10883_3498",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613912,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613912"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Books and monographs",
+    "date": "2011",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3498"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3498"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3498",
+    "creator": [
+        {
+            "id": 2057393723,
+            "value": "Karabayev, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/2057393723"
+        },
+        {
+            "id": 2117145130,
+            "value": "Iskandorava, K.",
+            "type": "person",
+            "uri": "/cimmyt/person/2117145130"
+        },
+        {
+            "id": 1246734811,
+            "value": "Zelenskiy, Y.",
+            "type": "person",
+            "uri": "/cimmyt/person/1246734811"
+        },
+        {
+            "id": 1968504289,
+            "value": "Baitassov, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1968504289"
+        },
+        {
+            "id": 1355677706,
+            "value": "Zhapayev, R.",
+            "type": "person",
+            "uri": "/cimmyt/person/1355677706"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3498/1/96284.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 812664
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3498/2/96284.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 263385
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3498/3/96284.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 4823
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3498/1/96284.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3498/2/96284.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3498/3/96284.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3498"
+        }
+    },
+    "extent": "",
+    "page": "82 p.",
+    "coverage": "Kazakhstan",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Astana, (Kazakhstan)",
+    "doi": ""
+}}

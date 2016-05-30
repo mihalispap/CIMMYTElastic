@@ -1,0 +1,84 @@
+{"object": {
+    "title": {
+        "value": "Registration of 'MSU E5024' wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-06-07T21:12:59Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.7336
+            ],
+            "value": "michigan",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4796"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7569,
+            "value": "preharvest sprouting",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35274"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8832,
+            "value": "fusarium graminearum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35494"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8081,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6573,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "winter wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8412"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9253,
+            "value": "blumeria graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27196"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "MSU E5024? (Reg. No. CV-1077, PI 664078) soft white winter wheat (Triticum aestivum L.) was developed by Michigan State University (MSU) AgBioResearch and released in 2011 via exclusive licensing agreements through MSU Technologies. In addition to researchers at MSU, USDA-ARS researchers at the Soft Wheat Quality Laboratory (Wooster, OH) conducted quality evaluations during the development of MSU E5024. Deoxynivalenol testing was performed at the University of Minnesota, and molecular marker analyses were performed at the USDA-ARS Regional Small Grains Genotyping Laboratory (Raleigh, NC). The objective of the cross was to create a high-yielding soft white winter wheat cultivar adapted to Michigan and the surrounding region with good agronomic performance, acceptable quality, and good disease resistance. Soft white winter wheat is used in many wheat-related industries and is a large portion of the wheat market in Michigan. MSU E5024 (experimental number E5024) is an F7?derived line developed using pedigree breeding. MSU E5024 exhibits a stable and high level of performance, including good yield, high test weight, resistance to powdery mildew [caused by Blumeria graminis (DC.) E.O. Speer], and improved resistance to Fusarium head blight (caused by Fusarium graminearum Schwabe) and preharvest sprouting. MSU E5024 is short, white chaffed, and awned. MSU E5024 is well adapted to Michigan and to Ontario, Canada).",
+        "lang": "eng"
+    },
+    "appid": "10883_2958",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2958"
+}}

@@ -1,0 +1,121 @@
+{"resource": {
+    "citation": "",
+    "issn": "1664-042X",
+    "location": {
+        "vocabulary": "",
+        "value": "",
+        "uri": ""
+    },
+    "updatedDate": "2013-11-26T17:39:44Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3321",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613916,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613916"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3321"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3321"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3321",
+    "creator": [
+        {
+            "id": 27437244,
+            "value": "Hyman, G.",
+            "type": "person",
+            "uri": "/cimmyt/person/27437244"
+        },
+        {
+            "id": 423796403,
+            "value": "Hodson, D.",
+            "type": "person",
+            "uri": "/cimmyt/person/423796403"
+        },
+        {
+            "id": 1411025129,
+            "value": "Jones, P.",
+            "type": "person",
+            "uri": "/cimmyt/person/1411025129"
+        }
+    ],
+    "publisher": {
+        "id": 2005125991,
+        "value": "http://www.frontiersin.org/Plant_Physiology/10.3389/fphys.2013.00040/abstract",
+        "type": "organization",
+        "uri": "/cimmyt/organization/2005125991"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3321/1/97959.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 2099561
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3321/2/97959.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 69149
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3321/3/97959.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6784
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3321/1/97959.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3321/2/97959.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3321/3/97959.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3321"
+        }
+    },
+    "extent": "",
+    "page": "1-13 pags",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

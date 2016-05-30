@@ -1,0 +1,183 @@
+{"object": {
+    "title": {
+        "value": "Mineral element distributions in milling fractions of Chinese wheats",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:20Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "common wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "mineral element",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "fe",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "zn",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phosphorus",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "milling fraction",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.7265
+            ],
+            "value": "minerals",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4857"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7484
+            ],
+            "value": "cultivars",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6608
+            ],
+            "value": "elements",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2526"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6956
+            ],
+            "value": "endosperm",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2561"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9663
+            ],
+            "value": "flours",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2988"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "phytase",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_33525"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7963,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        }
+    ],
+    "description": {
+        "value": "Malnutrition related to micronutrient deficiency can create immense economic and societal problems. The objective of this study was to quantify the mineral element concentration distribution in milled fractions, using 43 common wheat (Triticum aestivum L.) cultivars sown in Jinan, China during the 2005&ndash;2006 crop season. All 43 cultivars had low Fe (average 28.2 mg Kg-1) and Zn (28.6 mg Kg-1) concentrations, and wide ranges of variation for mineral element concentrations. Highly significant effects among milling fractions and cultivars on all traits were observed, with fraction effect being the larger. There was an uneven distribution of mineral element concentrations in wheat grain. Shorts and bran fractions had the highest mineral element concentrations, whereas flours from break and reduction had low concentrations. Compared with those in the central endosperm, the concentration of inorganic phosphorus (Pi) decreased the most with decreasing flour yield, whereas the concentration of phytic acid P (PAP), phytase activity, and Ca decreased the least. Pi was the most concentrated element in the aleurone, whereas PAP, phytase activity, and Ca were the least, compared to those in the central endosperm. Milling technique through adjusting flour yield can be used to improve the element composition of flour.",
+        "lang": "eng"
+    },
+    "appid": "10883_2676",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2676"
+}}

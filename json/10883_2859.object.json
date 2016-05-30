@@ -1,0 +1,111 @@
+{"object": {
+    "title": {
+        "value": "Global incidence of wheat rusts and powdery mildew during 1969-2010 and durability of resistance of winter wheat variety Bezostaya 1",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:46Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "breeding",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cereals",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1474",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "climate change",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_1666",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "diseases",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_49879",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durable resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.8476
+            ],
+            "value": "winter wheat",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8412"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8597,
+            "value": "powdery mildews",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_13557"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6907,
+            "value": "foliar diseases",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25240"
+        }
+    ],
+    "description": {
+        "value": "Disease incidence and severity was studied for winter wheat variety Bezostaya 1 and susceptible checks based on data from international nurseries from 1969 to 2010 and from 51 countries across major winter wheat production regions totalling 1,047 reports. The frequency of leaf rust and stripe rust occurrence was stable over time with marked increases in severity in 2001?2010 especially in Europe and Central and West Asia. Substantial global reductions in stem rust occurrence were recorded and attributed primarily to use of resistance genes although the recent emergence of race Ug99 makes wheat more vulnerable. The occurrence of powdery mildew remained globally stable over time. It was the most important foliar disease in Western and Southern Europe, where the frequency was very high for all time periods coupled with slight increases in severity during 2001?2010. The durable resistance of variety Bezostaya 1 to all four diseases was demonstrated in the study using comparisons of disease severities of Bezostaya 1 and the most susceptible entries. The Lr34/Yr18/Pm38 pleiotrophic set possessed by Bezostaya 1 is currently an important target for selection because it is now amenable to molecular selection. Increased use of genes like Lr34 combined with strategies to minimize cultivation of extremely susceptible varieties will contribute to long term maintenance of low and non-damaging disease levels. The durable disease resistance of Bezostaya 1, combined with its adaptability and good end-use quality, was a significant reason for its huge impact in agriculture over the last 50 years.",
+        "lang": "eng"
+    },
+    "appid": "10883_2859",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2859"
+}}

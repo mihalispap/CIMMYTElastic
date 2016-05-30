@@ -45,6 +45,21 @@
         {
             "vocabulary": [
                 "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.9132
+            ],
+            "value": "soil erosion",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2651"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
                 "",
                 "",
                 "",
@@ -64,21 +79,6 @@
                 "",
                 "",
                 "http://aims.fao.org/aos/agrovoc/c_7156"
-            ]
-        },
-        {
-            "vocabulary": [
-                "",
-                "agrovoc"
-            ],
-            "score": [
-                "",
-                0.9132
-            ],
-            "value": "soil erosion",
-            "uri": [
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_2651"
             ]
         },
         {

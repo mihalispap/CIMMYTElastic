@@ -50,12 +50,6 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "tillage",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_7771"
-        },
-        {
-            "vocabulary": "agrovoc",
             "score": 0.6611,
             "value": "actinomycetales",
             "uri": "http://aims.fao.org/aos/agrovoc/c_112"
@@ -65,6 +59,12 @@
             "score": 0.7107,
             "value": "zero tillage",
             "uri": "http://aims.fao.org/aos/agrovoc/c_8511"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "tillage",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7771"
         }
     ],
     "description": {

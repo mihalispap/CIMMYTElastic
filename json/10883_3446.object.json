@@ -1,0 +1,129 @@
+{"object": {
+    "title": {
+        "value": "Using molecular marker order to compare genetic structure in plant populations undergoing selection",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T17:59:57Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant breeding and natural populations",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "haplotype disequilibrium",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9076
+            ],
+            "value": "population",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330887"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "genetic structures",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_331002"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6006
+            ],
+            "value": "migration",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_4822"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9151
+            ],
+            "value": "environment",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2593"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7895
+            ],
+            "value": "selection",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6951"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6638,
+            "value": "molecular markers",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24030"
+        }
+    ],
+    "description": {
+        "value": "Many ecological studies compare the genetic structure of populations undergoing natu- ral or artificial selection across different environments. High-throughput molecular markers are now commonly used for these comparisons and provide information on the adapta- tion of the populations to their environments. The genetic structure reflects the history of selection, mutation, migration, and the reproductive breeding system of the populations in their environments. This can be investigated by comparing the ordering of markers obtained from the population with that provided by a recombination or physical map. In populations undergoing selection many genes (markers) have low or zero frequency and commonly used disequilibrium coefficients become unstable under these conditions. A method is presented for ordering bi-allelic markers for populations of self-fertilizing plant species which consist of mixtures of related homozygous genotypes. This provides stable pairwise marker similarity measures even when marker frequencies are low, identification of marker combinations that reflect phenomena that cause differentiation (such as selection and migration), and genetic information on the adaptation of the populations to the environments. The method is illustrated using data from a plant breeding program and inferences are made about accumulation of desirable genes (such as for disease resistance).",
+        "lang": "eng"
+    },
+    "appid": "10883_3446",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3446"
+}}

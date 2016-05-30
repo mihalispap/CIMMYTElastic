@@ -1,0 +1,195 @@
+{"object": {
+    "title": {
+        "value": "Phenotypic correlations, G × E interactions and broad sense heritability analysis of grain and flour quality characteristics in high latitude spring bread wheats from Kazakhstan and Siberia",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:06Z",
+    "created": "2013-06-07T21:12:29Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "flour strength",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "micronutrients",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7834",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7951",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.9764
+            ],
+            "value": "gluten",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3294"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "gliadin",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_11169"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8427
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7546
+            ],
+            "value": "proteins",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6259"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9482
+            ],
+            "value": "flours",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2988"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8371,
+            "value": "heritability",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3570"
+        }
+    ],
+    "description": {
+        "value": "Grain and flour samples of 42 high latitude spring bread wheat genotypes from Kazakhstan and Siberia evaluated in a multi-location trial were analyzed for grain concentrations of protein, zinc (Zn) and iron (Fe), as well as flour quality characteristics. The genotypes showed high grain protein concentrations (14?19%), but low dough strength was a common feature for most of them. Significant positive correlations were found between grain protein and flour protein, gluten, gliadin, gli/glu ratio, Zn, and Fe contents. Grain protein was also correlated positively with hardness, sedimentation, farinograph dough development time (DDT), stability time and ash content. Grain Fe concentration was positively associated with sedimentation, stability time, water absorption and valorimeter value, suggesting that improvements in micronutrient concentrations in the grain parallels enhancement in gluten strength. Interestingly, glutenin content correlated negatively with the concentrations of grain and flour protein, gluten, and minerals; and also with gluten deformation index (IDK), DDT, and stability time. Conversely, gliadin content showed strong positive correlations with the concentrations of grain and flour protein, gluten, and minerals. Gliadin also correlated positively, but in lesser magnitude, with DDT, stability time and IDK. Environment and G×E interaction were important sources of variation for some quality characteristics. This was reflected in the low broad sense heritability (H) values for traits related to flour strength, such as sedimentation, IDK, stability time and gliadin content. Breeding strategies, including three testing locations at the advanced selection stages, are adequate for the enhancement of most of the quality traits, but faster improvement in flour strength could be achieved with a larger number of locations.",
+        "lang": "eng"
+    },
+    "appid": "10883_2730",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2730"
+}}

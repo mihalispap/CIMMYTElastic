@@ -49,10 +49,55 @@
             "uri": ""
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 1,
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8885
+            ],
             "value": "aphids",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_30757"
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_30757"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                0.6879
+            ],
+            "value": "genomes",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3224"
+            ]
         }
     ],
     "description": {

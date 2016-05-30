@@ -1,0 +1,96 @@
+{"object": {
+    "title": {
+        "value": "Evaluation of CIMMYT germplasm for resistance to leaf spotting diseases of wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:44Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_35130",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "phaeosphaeria nodorum",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pyrenophora tritici-repentis",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stagonospora nodorum blotch",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "tan spot",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "germplasm",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3249"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7731
+            ],
+            "value": "wheats",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8373"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The leaf spotting disease complex is a major biotic constrain in enhancing grain production in the major wheat growing regions. Two leaf spotting diseases, tan spot, caused by an ascomycete fungus Pyrenophora tritici-repentis, and Stagonospora nodorum blotch besides causing average yield losses of 5?10%, cause significant losses in grain quality by red smudge, black point and grain shriveling. Conservation agriculture in combination with wheat monoculture involving cultivation of susceptible cultivars has resulted in frequent onset of leaf spots epidemics worldwide. Development of resistant wheat cultivars, in conjunction with crop rotation, will provide an effective, economical, and environmentally safe means of controlling leaf spot. International Maize and Wheat Improvement Center (CIMMYT), Mexico has initiated major efforts to mitigate the threat of tan spot. Efforts include screening of wheat germplasm, identification of new sources of resistance, characterization of new tan spot resistance genes through classical and molecular genetic analysis, incorporation of resistance into adapted cultivars, and assessing the variability in the tan spot fungus. Screening studies reveal that elite CIMMYT germplasm has high level of resistance to tan spot caused by P. tritici-repentis race 1. These germplasm have diverse genetic make-up and the resistance is likely broad based. Association mapping studies done with CIMMYT germplasm reconfirmed the presence of previously identified genomic regions for tan spot resistance; however, novel genomic regions on long arm of chromosomes 6A and 7B have also been identified. Studies done to date indicate that CIMMYT germplasm possess high level diverse genetic based resistance to tan spot of wheat. Efforts are in place to develop desired wheat cultivars with tan spot resistance. Virulence studies indicate presence of P. tritici-repentis race 1 only with some variability in level of toxin Ptr ToxA produced in each of the 76 isolates studied.",
+        "lang": "eng"
+    },
+    "appid": "10883_2844",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2844"
+}}

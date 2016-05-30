@@ -1,0 +1,72 @@
+{"object": {
+    "title": {
+        "value": "Registration of Steele-ND/ND 735 wheat recombinant inbred lines mapping population",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:04Z",
+    "created": "2013-06-07T21:12:27Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.814,
+            "value": "quantitative trait loci",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_37974"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "mycosphaerella graminicola",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27261"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9961,
+            "value": "septoria tritici",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27261"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.6628
+            ],
+            "value": "blotches",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_973"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9586,
+            "value": "fusarium graminearum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_35494"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8771,
+            "value": "triticum aestivum",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_7951"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "inbred lines",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24039"
+        }
+    ],
+    "description": {
+        "value": "Steele-ND/ND 735 (Reg. No. MP-1, NSL 462030), a hard red spring wheat (Triticum aestivum L.) (HRSW) recombinant inbred lines (RILs) population, was developed and released by the North Dakota State University (NDSU), Fargo, ND, in 2008. This mapping population is composed of 129 F2:9 RILs. The Steele-ND/ND 735 RILs population has been used extensively to study the genetics of resistance to tan spot [caused by Pyrenophora tritici-repentis (Died.) Drechs.], Stagonospora nodorum blotch [caused by Phaeosphaeria nodorum (E. Müller) Hedjarroud], Septoria tritici blotch [caused by Mycosphaerella graminicola (Fückl) J. Schröt. in Cohn], and Fusarium head blight (caused by Fusarium graminearum Schwabe) and to map the resistance genes and quantitative trait loci underlying the above traits. The genetic marker data encompass hundreds of polymorphic Diversity Array Technology (DArT) and simple sequence repeats markers that were collected at Diversity Arrays Technology, Yarralumla, Australia, and NDSU, respectively.",
+        "lang": "eng"
+    },
+    "appid": "10883_2714",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2714"
+}}

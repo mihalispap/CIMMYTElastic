@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Association of source/sink traits with yield, biomass and radiation use efficiency among random sister lines from three wheat crosses in a high-yield environment",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:11Z",
+    "created": "2013-06-07T21:11:58Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.6577
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "biomass",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_926"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                0.7036
+            ],
+            "value": "anthesis",
+            "uri": [
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_2992"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6622,
+            "value": "use efficiency",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36789"
+        }
+    ],
+    "description": {
+        "value": "For many years yield improvement reported in wheat was associated with increased dry matter partitioning to grain, but more recently increases in above-ground biomass have indicated a different mechanism for achieving yield potential. The most likely way of increasing crop biomass is by improving radiation use efficiency (RUE); however there is evidence that sink strength is still a critical yield limiting factor in wheat, suggesting that improving the balance between source and sink (source/sink (SS)) is currently the most promising approach for increasing yield, biomass, and RUE. Experiments were designed to establish a more definitive link of SS traits with yield, biomass and RUE in high-yield environments using progeny deriving from parents contrasting in some of those traits. The SS traits formed three main groups relating to (i) phenological pattern of the crop, (ii) assimilation capacity up until shortly after anthesis, and (iii) partitioning of assimilates to reproductive structures shortly after anthesis. The largest genetic gains in performance traits were associated with the second group; however, traits from the other groups were also identified as being genetically linked to improvement in performance parameters. Because many of these traits are interrelated, principal component analysis (PCA) multiple regression and path analysis were used to expose these relationships more clearly. The trait most consistently associated with performance traits was biomass at anthesis (BMA). The PCA indicated a fairly close association among traits within this group (i.e. assimilation-related traits) while those from the other two groups of SS traits (i.e. phenological and partitioning) appeared to have secondary but independent effects. These conclusions were partially born out by stepwise multiple regression for individual crosses where BMA was often complemented by traits from the two other groups. Taken together, the data suggest that the assimilation traits biomass in vegetative stage (BMV) and BMA have partially independent genetic effects in this germplasm and were complementary to achieving improved performance. The identification of a number of SS traits associated with yield and biomass, which both PCA and multiple regression suggest as being at least partially independent of one another, support the idea that additive gene action could be achieved by adopting a physiological trait based breeding approach where traits from different groups are combined in a single background. A second breeding intervention based on these results would be in selecting progeny for BMA and BMV using spectral reflectance approaches since those traits that lend themselves to large-scale screening. Path analysis confirmed the importance of the spike primordial stage in the genotype by environment interaction for these traits.",
+        "lang": "eng"
+    },
+    "appid": "10883_2540",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2540"
+}}

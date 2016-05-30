@@ -1,0 +1,102 @@
+{"object": {
+    "title": {
+        "value": "Household, community, and policy determinants of food insecurity in rural Malawi",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:55Z",
+    "created": "2013-11-26T17:39:47Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "africa",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "agriculture",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_203",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food security",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_10967",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.6971,
+                0.6971,
+                0.6971,
+                1,
+                ""
+            ],
+            "value": "malawi",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_4532",
+                "http://aims.fao.org/aos/agrovoc/c_4532",
+                "http://aims.fao.org/aos/agrovoc/c_4532",
+                "http://aims.fao.org/aos/agrovoc/c_4532",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "public policy",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "households",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3676"
+        }
+    ],
+    "description": {
+        "value": "This study examines how socio-economic characteristics of households, local conditions, and public programmes are associated with the probability that a farm household in rural Malawi is food insecure. The statistical analysis uses nationally representative data for 8350 randomly-selected households interviewed during 2004/05 for the second Malawi Integrated Household Survey. Regressions are estimated separately for households in the north, centre, and south of Malawi to account for spatial heterogeneity. Results of a multilevel logit model reveal that households are less likely to be food insecure if they have larger cultivated land per capita, receive agricultural field assistance, reside in a community with an agricultural cooperative and relatively high annual rainfall, and are headed by an individual with a high school degree. Factors that positively correlate with household food insecurity are price of maize, price of fertiliser, number of household members, and distance to markets. Implications of these findings for policy are discussed.",
+        "lang": "eng"
+    },
+    "appid": "10883_3330",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3330"
+}}

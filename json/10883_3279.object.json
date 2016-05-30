@@ -1,0 +1,117 @@
+{"object": {
+    "title": {
+        "value": "Segregation analysis indicates that Puroindoline b-2 variants 2 and 3 are allelic in Triticum aestivum and that a revision to Puroindoline b-2 gene symbolization is indicated",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:36Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "kernel hardness",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "bread wheat",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_14386",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "puroindoline b-2 variants",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "segregation ratios",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.887
+            ],
+            "value": "kernels",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_25387"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "variants",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_27623"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                0.7389
+            ],
+            "value": "triticum aestivum",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_7951"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "hardness",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_25422"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "segregation",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6947"
+        }
+    ],
+    "description": {
+        "value": "Genetic and kernel texture relationships between Puroindoline b-2 variants 2 and 3 have not been fully established in wheat (Triticum aestivum L.). Here, 480 F2 plants, derived from three hard spring wheat populations were used to test the segregation of Puroindoline b-2 (Pinb-2) variants 2 and 3. Chi-square analysis indicated that Pinb-2 variants 2 and 3 in all three F2 populations segregated as a single bi-allelic locus, with segregation ratios fitting a 1:2:1 ratio. Using 448 of the 480 plants derived from these three F2 populations, the average SKCS hardness index of plants homozygous for Pinb-2 variant 2 vs. those homozygous for variant 3 was not significantly different (67.5 vs. 67.9). Results indicated that plants with Pina-D1b/Pinb-D1a were on average 10.0 Single Kernel Characterization System (SKCS) hardness index units harder than those carrying the Pina-D1a/Pinb-D1b haplotype. In conclusion, Pinb-2 variants 2 and 3 are allelic and exert little effect on kernel texture in hard-kernel T. aestivum germplasm. Further, the designation of Pinb-2v2 and Pinb-2v3 should be changed to Pinb-B2a and Pinb-B2b, respectively. We propose that Pinb-2 variants 1 and 4 of Chinese Spring be designated Pinb-D2a and Pinb-A2a, respectively.",
+        "lang": "eng"
+    },
+    "appid": "10883_3279",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3279"
+}}

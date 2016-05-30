@@ -13,6 +13,9 @@
                 "",
                 "",
                 "",
+                "",
+                "",
+                "",
                 "agrovoc"
             ],
             "score": [
@@ -21,16 +24,22 @@
                 "",
                 "",
                 "",
-                0.658
+                "",
+                "",
+                "",
+                0.906
             ],
-            "value": "kernels",
+            "value": "genes",
             "uri": [
                 "",
                 "",
                 "",
                 "",
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_25387"
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
             ]
         },
         {
@@ -76,9 +85,6 @@
                 "",
                 "",
                 "",
-                "",
-                "",
-                "",
                 "agrovoc"
             ],
             "score": [
@@ -87,22 +93,16 @@
                 "",
                 "",
                 "",
-                "",
-                "",
-                "",
-                0.906
+                0.658
             ],
-            "value": "genes",
+            "value": "kernels",
             "uri": [
                 "",
                 "",
                 "",
                 "",
                 "",
-                "",
-                "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_3214"
+                "http://aims.fao.org/aos/agrovoc/c_25387"
             ]
         }
     ],

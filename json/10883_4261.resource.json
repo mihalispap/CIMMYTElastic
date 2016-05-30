@@ -1,0 +1,132 @@
+{"resource": {
+    "citation": "",
+    "issn": "",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Zimbabwe",
+        "uri": [
+            "http://sws.geonames.org/878675",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Zimbabwe"
+        ]
+    },
+    "updatedDate": "2015-04-21T21:51:16Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "Technical bulletin",
+    "appid": "10883_4261",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613914,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613914"
+        }
+    ],
+    "format": "",
+    "type": "Brochures",
+    "date": "2015-04-21",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/4261"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4261"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_4261",
+    "creator": [
+        {
+            "id": 652425383,
+            "value": "Mupangwa, W.",
+            "type": "person",
+            "uri": "/cimmyt/person/652425383"
+        },
+        {
+            "id": 1823058277,
+            "value": "Thierfelder, C.",
+            "type": "person",
+            "uri": "/cimmyt/person/1823058277"
+        }
+    ],
+    "publisher": {
+        "id": 1987940897,
+        "value": "CIMMYT",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1987940897"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/1/bulletin+13.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 74941
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/2/license_rdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1536
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/3/bulletin+13.pdf.txt",
+                "label": "",
+                "type": "application/rdf+xml; charset=utf-8",
+                "size": 0
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/4/bulletin+13.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5980
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/1/bulletin+13.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/2/license_rdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/3/bulletin+13.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/4261/4/bulletin+13.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/4261"
+        }
+    },
+    "extent": "No.13",
+    "page": "2 p.",
+    "coverage": "Zimbabwe",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "Harare (Zimbabwe)",
+    "doi": ""
+}}

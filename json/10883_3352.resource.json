@@ -1,0 +1,133 @@
+{"resource": {
+    "citation": "",
+    "issn": "2328-563X",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Ethiopia",
+        "uri": [
+            "http://sws.geonames.org/337996",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Ethiopia"
+        ]
+    },
+    "updatedDate": "2013-12-09T20:40:02Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3352",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613917,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613917"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3352"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3352"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3352",
+    "creator": [
+        {
+            "id": 1762950186,
+            "value": "Kidanemariam, A.",
+            "type": "person",
+            "uri": "/cimmyt/person/1762950186"
+        },
+        {
+            "id": 1217701590,
+            "value": "Gebrekidan, H.",
+            "type": "person",
+            "uri": "/cimmyt/person/1217701590"
+        },
+        {
+            "id": 170385956,
+            "value": "Mamo, T.",
+            "type": "person",
+            "uri": "/cimmyt/person/170385956"
+        },
+        {
+            "id": 1685988933,
+            "value": "Kindie Tesfaye Fantaye",
+            "type": "person",
+            "uri": "/cimmyt/person/1685988933"
+        }
+    ],
+    "publisher": {
+        "id": 1978090330,
+        "value": "http://www.sciencepublishinggroup.com/journal/paperinfo.aspx?journalid=119&doi=10.11648/j.aff.20130203.12",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1978090330"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3352/1/98210.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 346635
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3352/2/98210.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 46419
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3352/3/98210.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 6372
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3352/1/98210.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3352/2/98210.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3352/3/98210.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3352"
+        }
+    },
+    "extent": "",
+    "page": "126-135",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "Wheat Derived Synthetics Heat Tolerance Evaluation 2011-2012",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -147,23 +147,38 @@
         {
             "vocabulary": [
                 "",
+                "",
                 "agrovoc"
             ],
             "score": [
                 "",
-                0.9133
+                "",
+                0.6871
             ],
-            "value": "hexaploids",
+            "value": "materials",
             "uri": [
                 "",
-                "http://aims.fao.org/aos/agrovoc/c_24400"
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_92337"
             ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.7503,
+            "value": "late sowing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_16208"
         },
         {
             "vocabulary": "agrovoc",
             "score": 1,
             "value": "trials",
             "uri": "http://aims.fao.org/aos/agrovoc/c_2758"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.9742,
+            "value": "backcrossing",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_763"
         },
         {
             "vocabulary": [
@@ -184,34 +199,19 @@
             ]
         },
         {
-            "vocabulary": "agrovoc",
-            "score": 0.7503,
-            "value": "late sowing",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_16208"
-        },
-        {
             "vocabulary": [
-                "",
                 "",
                 "agrovoc"
             ],
             "score": [
                 "",
-                "",
-                0.6871
+                0.9133
             ],
-            "value": "materials",
+            "value": "hexaploids",
             "uri": [
                 "",
-                "",
-                "http://aims.fao.org/aos/agrovoc/c_92337"
+                "http://aims.fao.org/aos/agrovoc/c_24400"
             ]
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.9742,
-            "value": "backcrossing",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_763"
         },
         {
             "vocabulary": "agrovoc",
@@ -234,7 +234,7 @@
     ],
     "description": {
         "value": "The materials in this trial were subjected to very severe heat stress that significantly impacted yield so all results should be analyzed with caution. In this trial derived synthetic wheat lines were tested for heat tolerance via late sowing in Ciudad Obregon in the 2011-2012 growing season. These materials were derived from bi-parental crosses, backcrosses, or topcrosses between bread wheat lines and synthetic hexaploid wheat lines. The results presented are the uncurated raw data from one season of planting. The trial contained 1695 unique materials and 2296 total entries.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10394",
     "language": {

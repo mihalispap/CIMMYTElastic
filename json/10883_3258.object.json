@@ -1,0 +1,63 @@
+{"object": {
+    "title": {
+        "value": "Comparison of the performance of best linear unbiased estimation and best linear unbiased prediction of genotype effects from zoned Indian maize data",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-11-24T18:23:48Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.9326
+            ],
+            "value": "genotypes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3225"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.8154,
+            "value": "zoning",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36936"
+        }
+    ],
+    "description": {
+        "value": "The maize (Zea mays L.) growing area in India is divided into five zones for cultivar testing. During triannual testing of genotypes in official trials within the All-India Coordinated Maize Improvement Program (AICMIP), a large number of entries is rejected each year. Therefore, only a low number of entries is carried forward to the advanced stage of testing. The subdivision of the breeding sites into zones results in limited data per zone. Hence, the question arises how to select the best genotypes per zone and how information can be borrowed across zones to improve the accuracy of selection within zones. We compared the performance of best linear unbiased prediction (BLUP) using the correlation of genetic effects between zones with best linear unbiased estimation (BLUE) based on data per zone. In both cases, data were analyzed using a mixed model. We used simulations to calculate correlations between the true simulated values and the predicted genotype values obtained by BLUE and BLUP using the same models. The data structure and the variance components used in simulations were based on the analysis of 40 triannual series of four different maize maturity groups. Best linear unbiased prediction outperformed BLUE in 38 out of 40 series and on average across all series. An advantage of BLUP was observed for varying genetic correlations between zones. We conclude that the use of BLUP enhanced the estimation accuracy in zoned AICMIP maize testing trials and can be recommended for future use in these trials.",
+        "lang": "eng"
+    },
+    "appid": "10883_3258",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3258"
+}}

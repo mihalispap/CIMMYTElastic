@@ -1,0 +1,114 @@
+{"object": {
+    "title": {
+        "value": "Maize consensus document. Consensus document on the biology of maize",
+        "lang": "eng"
+    },
+    "updated": "2015-05-28T16:33:36Z",
+    "created": "2014-03-13T00:57:39Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "biology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_925",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "maize",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                "http://aims.fao.org/aos/agrovoc/c_12332",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "biotechnology",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16165",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic engineering",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_15974",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "food crops",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3017",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "economic development",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2471",
+                ""
+            ]
+        }
+    ],
+    "description": {
+        "value": "",
+        "lang": ""
+    },
+    "appid": "10883_3693",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3693"
+}}

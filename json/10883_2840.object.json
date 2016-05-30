@@ -1,0 +1,60 @@
+{"object": {
+    "title": {
+        "value": "The emergence of Ug99 races of the stem rust fungus is a threat to world wheat production",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:43Z",
+    "subject": [
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6554,
+            "value": "puccinia graminis",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_27327"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.9245
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Race Ug99 of the fungus Puccinia graminis tritici that causes stem or black rust disease on wheat was first detected in Uganda in 1998. Seven races belonging to the Ug99 lineage are now known and have spread to various wheat-growing countries in the eastern African highlands, as well as Zimbabwe, South Africa, Sudan, Yemen, and Iran. Because of the susceptibility of 90% of the wheat varieties grown worldwide, the Ug99 group of races was recognized as a major threat to wheat production and food security. Its spread, either wind-mediated or human-aided, to other countries in Africa, Asia, and beyond is evident. Screening in Kenya and Ethiopia has identified a low frequency of resistant wheat varieties and breeding materials. Identification and transfer of new sources of race-specific resistance from various wheat relatives is underway to enhance the diversity of resistance. Although new Ug99-resistant varieties that yield more than current popular varieties are being released and promoted, major efforts are required to displace current Ug99 susceptible varieties with varieties that have diverse race-specific or durable resistance and mitigate the Ug99 threat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2840",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2840"
+}}

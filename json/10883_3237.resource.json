@@ -1,0 +1,163 @@
+{"resource": {
+    "citation": "",
+    "issn": "0378-4290",
+    "location": {
+        "vocabulary": [
+            "geonames",
+            "faogeopolitical"
+        ],
+        "value": "Asia",
+        "uri": [
+            "http://sws.geonames.org/6255147",
+            "http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Asia"
+        ]
+    },
+    "updatedDate": "2013-11-23T00:49:25Z",
+    "rights": "CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.",
+    "relation": "",
+    "appid": "10883_3237",
+    "collection": [
+        {
+            "id": 1403840553,
+            "type": "collection",
+            "uri": "/cimmyt/collection/1403840553"
+        },
+        {
+            "id": 403613911,
+            "type": "collection",
+            "uri": "/cimmyt/collection/403613911"
+        }
+    ],
+    "format": "",
+    "type": "Journal article",
+    "date": "2013",
+    "url": [
+        {
+            "broken": false,
+            "value": "http://hdl.handle.net/10883/3237"
+        },
+        {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3237"
+        }
+    ],
+    "appuri": "/cimmyt/resource/10883_3237",
+    "creator": [
+        {
+            "id": 739472997,
+            "value": "Devkota, K.P.",
+            "type": "person",
+            "uri": "/cimmyt/person/739472997"
+        },
+        {
+            "id": 548525834,
+            "value": "Manschadi, A.M.",
+            "type": "person",
+            "uri": "/cimmyt/person/548525834"
+        },
+        {
+            "id": 834894095,
+            "value": "Lamers, J.P.A.",
+            "type": "person",
+            "uri": "/cimmyt/person/834894095"
+        },
+        {
+            "id": 274196962,
+            "value": "Humphreys, E.",
+            "type": "person",
+            "uri": "/cimmyt/person/274196962"
+        },
+        {
+            "id": 1804815163,
+            "value": "Devkota, M.",
+            "type": "person",
+            "uri": "/cimmyt/person/1804815163"
+        },
+        {
+            "id": 519619466,
+            "value": "Egamberdiev, O.",
+            "type": "person",
+            "uri": "/cimmyt/person/519619466"
+        },
+        {
+            "id": 959563682,
+            "value": "Gupta, R.K.",
+            "type": "person",
+            "uri": "/cimmyt/person/959563682"
+        },
+        {
+            "id": 1483250975,
+            "value": "Sayre, K.D.",
+            "type": "person",
+            "uri": "/cimmyt/person/1483250975"
+        },
+        {
+            "id": 1033418505,
+            "value": "Vlek, P.L.G.",
+            "type": "person",
+            "uri": "/cimmyt/person/1033418505"
+        }
+    ],
+    "publisher": {
+        "id": 1807746558,
+        "value": "http://www.sciencedirect.com/science/article/pii/S0378429013001408",
+        "type": "organization",
+        "uri": "/cimmyt/organization/1807746558"
+    },
+    "aggregation": {
+        "linkToResource": [
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3237/1/98009.pdf",
+                "label": "",
+                "type": "application/pdf",
+                "size": 1299075
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3237/2/98009.pdf.txt",
+                "label": "",
+                "type": "application/pdf",
+                "size": 68833
+            },
+            {
+                "category": "",
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3237/3/98009.pdf.jpg",
+                "label": "",
+                "type": "text/plain",
+                "size": 5386
+            }
+        ],
+        "shownBy": [
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3237/1/98009.pdf"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3237/2/98009.pdf.txt"
+            },
+            {
+                "broken": false,
+                "value": "http://repository.cimmyt.org/xmlui/bitstream/10883/3237/3/98009.pdf.jpg"
+            }
+        ],
+        "shownAt": {
+            "broken": false,
+            "value": "http://repository.cimmyt.org/xmlui/handle/10883/3237"
+        }
+    },
+    "extent": "",
+    "page": "115-126",
+    "coverage": "",
+    "contributor": {
+        "id": "",
+        "value": "",
+        "type": "",
+        "uri": ""
+    },
+    "isbn": "",
+    "quality": "",
+    "place": "",
+    "doi": ""
+}}

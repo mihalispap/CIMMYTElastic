@@ -1,0 +1,210 @@
+{"object": {
+    "title": {
+        "value": "Wheat rusts and the costs of genetic diversity in the Punjab of Pakistan",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:00Z",
+    "created": "2013-06-07T21:11:27Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "pakistan",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_5504",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.9461,
+                ""
+            ],
+            "value": "punjab",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6373",
+                "http://aims.fao.org/aos/agrovoc/c_6373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                0.6515,
+                ""
+            ],
+            "value": "wheats",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                "http://aims.fao.org/aos/agrovoc/c_8373",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "varieties",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "plant diseases",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                0.65,
+                0.65,
+                0.65,
+                0.65,
+                1,
+                1,
+                ""
+            ],
+            "value": "rusts",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                "http://aims.fao.org/aos/agrovoc/c_6710",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "disease resistance",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2328",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "research projects",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_24891",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "technology transfer",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_7645",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "innovation adoption",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_3878",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "economic analysis",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_2469",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "costs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "cultivars",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8157"
+        }
+    ],
+    "description": {
+        "value": "The theory of impure public goods is used to demonstrate why farmers may nor grow wheat cultivars with the socially desirable level of rust resistance. First, they may grow cultivars that are high yielding though susceptible to rust. Second, many farmers may grow cultivars with a similar generic basis of resistance. Expected rust losses can be reduced by (a) more diversified genetic background in released wheat cultivars; (b) greater spatial diversity in planted cultivars; or (c) use of a temporally changing fist of cultivars known to be rust resistant, Yield trade-offs associated with these policies illustrate potential fasts of increasing genetic diversity.",
+        "lang": "eng"
+    },
+    "appid": "10883_2311",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2311"
+}}

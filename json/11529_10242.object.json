@@ -1,7 +1,7 @@
 {"object": {
     "title": {
         "value": "SI-SAS. A SAS Code to Calculate Several Selection Indexes",
-        "lang": ""
+        "lang": "eng"
     },
     "updated": "2016-03-08T23:29:45Z",
     "created": "",
@@ -63,7 +63,7 @@
     ],
     "description": {
         "value": "SI-SAS is a code written in SAS to produce several selection indexes. To run the code you have to have SAS 9.2 or higher installed in your computer. The first task is to change the folder where the data file to analyze is located and the name of the file. The data file must be in csv format with columns for variables and rows for observations. Two different designs can be analyzed, complete block design and incomplete block design as single or multiple trials. After you made the changes in the code run it and several windows will guide you through the analysis.",
-        "lang": ""
+        "lang": "eng"
     },
     "appid": "11529_10242",
     "language": {

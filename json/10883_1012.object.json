@@ -3,7 +3,7 @@
         "value": "Creating an on-farm research program in Ecuador: The case of INIAP's production research program",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:41Z",
+    "updated": "2016-01-22T23:05:51Z",
     "created": "2012-01-06T05:09:43Z",
     "subject": [
         {
@@ -31,25 +31,10 @@
             "uri": ""
         },
         {
-            "vocabulary": [
-                "agrovoc",
-                "agrovoc",
-                "agrovoc",
-                ""
-            ],
-            "score": [
-                0.8815,
-                0.8815,
-                0.8815,
-                ""
-            ],
+            "vocabulary": "",
+            "score": "",
             "value": "research",
-            "uri": [
-                "http://aims.fao.org/aos/agrovoc/c_6513",
-                "http://aims.fao.org/aos/agrovoc/c_6513",
-                "http://aims.fao.org/aos/agrovoc/c_6513",
-                ""
-            ]
+            "uri": ""
         },
         {
             "vocabulary": "",
@@ -62,12 +47,6 @@
             "score": 1,
             "value": "andean region",
             "uri": "http://aims.fao.org/aos/agrovoc/c_401"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.6309,
-            "value": "maize",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_12332"
         }
     ],
     "description": {

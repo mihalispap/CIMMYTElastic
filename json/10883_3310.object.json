@@ -1,0 +1,168 @@
+{"object": {
+    "title": {
+        "value": "Effect of terminal heat stress on yield and yield components of spring bread wheat cultivars in Ahwaz, Iran",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2013-11-25T02:37:43Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "terminal heat stress",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                1,
+                ""
+            ],
+            "value": "sowing date",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_16208",
+                "http://aims.fao.org/aos/agrovoc/c_16208",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "cultivars",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_8157",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.8869
+            ],
+            "value": "grain",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3346"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7778
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "heat stress",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_11488"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "bread wheat",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_14386"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 0.6117,
+            "value": "yield components",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24419"
+        }
+    ],
+    "description": {
+        "value": "In order to study the effect of terminal heat stress on grain yield and yield components of spring bread wheat cultivars, a stripe block design was conducted using randomized complete block design with three replications in 35 Km north-east Ahwaz in 2007-2008 cropping season. The vertical plots included four sowing dates (06 Nov., 06 Dec., 05 Jan. and 04 Feb.) and 20 cultivars (Atrak, Arvand1, S-80-18, Star, Inia66, Bolani, Bayat, Pishtaz, Chamran, Chenab70, Darab, Dez, Roshan, Shoeleh, Kavir, Maroon, Hamoon, Hirman and Vee/Nac) were randomized in horizontal plots. The results showed that sowing date, cultivars and their interaction had significant effects on all measured traits. The highest grain yield (5.949 t/ha) was produced in sowing dates of 06 Dec. and the lowest grain yield (1.690 t/ha) was produced in sowing dates of 04 Feb. Chamran had the highest grain yield and Inia66 had the lowest grain yield. Maximum grain yield (7.039 t/ha) related to Chamran in 06 Dec. and the minimum grain yield (1.219 t/ha) belonged to Falat in 04 Feb.",
+        "lang": "eng"
+    },
+    "appid": "10883_3310",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3310"
+}}

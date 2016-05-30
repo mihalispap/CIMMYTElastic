@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Multilocation response of Afghanistan's seed chain wheat varieties to yellow rust under natural conditions during 2012 to 2013",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:10Z",
+    "created": "2014-03-05T18:04:35Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "afghanistan",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_163",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yellow rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "seed chain",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "variety",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.7523
+            ],
+            "value": "varieties",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8157"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "rusts",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_6710"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        }
+    ],
+    "description": {
+        "value": "Yellow rust is a potential threat to an already fragile Afghan wheat production system. The year 2009 to 2010 saw extensive yellow rust incidence in Afghanistan mainly due to Yr27 virulence. The 2012 to 2013 crop seasons also had yellow rust incidence throughout the country. A set of 20 wheat seed chain varieties was grown at six agro climatically different locations in the country to proactively detect any shift in yellow rust virulence spectrum in the country. Yellow rust incidence on these varieties was scored under natural conditions during flowering to dough crop stages. Results revealed widespread susceptible reaction of at least four wheat varieties viz., Diama 96, PBW154, Ghori 96 and Herat 99. Four other wheat varieties viz., Muqawim 09, Koshan 09, Rana 96 and Gul 96 showed susceptible reaction at least at one location; however, a total of 12 other seed chain varieties were confirmed resistant to prevalent yellow rust races under natural conditions. Results warrant caution in advocating susceptible varieties to farmers for commercial cultivation.",
+        "lang": "eng"
+    },
+    "appid": "10883_3473",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3473"
+}}

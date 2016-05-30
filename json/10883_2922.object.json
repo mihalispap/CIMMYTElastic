@@ -1,0 +1,69 @@
+{"object": {
+    "title": {
+        "value": "Microsatellite mapping identifies TTKST-effective stem rust resistance gene in wheat cultivars VL404 and Janz",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:07Z",
+    "created": "2013-06-07T21:12:54Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "stem rust",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ug99",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "disease resistance",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "markers",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "locus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24869"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "rusts",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_6710"
+        }
+    ],
+    "description": {
+        "value": "Wheat cultivar VL404 carries seedling resistance to Puccinia graminis f. sp. tritici pathotype TTKST. Monogenic segregation for seedling resistance was observed in a VL404/WL711 recombinant inbred line population and the resistance locus was temporarily designated SrVL. Bulked segregant analysis using Diversity Arrays Technology markers located SrVL on chromosome 2BL. Detailed simple sequence repeat mapping placed SrVL between gwm120 and wmc175, both at genetic distances of 3.3 cM. Based on adult plant responses of Janz and VL404 in India and Kenya, we expected these cultivars to carry the same gene against TTKST. A subset of Diamondbird/Janz doubled haploid (DH) population showed monogenic segregation, when tested against TTKST and the locus was temporarily named SrJNZ. SrVL-linked markers gwm120 and wmc175 flanked SrJNZ at a similar genetic distance, thereby confirming our hypothesis. Chromosome 2BL carries Sr9, Sr16 and Sr28. Sr9 is a multi-allelic locus and all known alleles of Sr9 and Sr16 are ineffective against TTKSK and its derivatives. A recombination value of 16.7 cM between Sr9g-linked stripe rust resistance gene Yr7 and SrJNZ in Diamondbird/Janz DH population suggested that SrJNZ is not an allele at the Sr9 locus. Based on comparison of published genetic distances between Lr13, Sr9, Sr28 and Sr16 with that observed in this study, we concluded SrVL and SrJNZ to be Sr28. This gene was contributed by a common parent Gabo, which also exhibited resistance against TTKST. Sr28-linked markers gwm120 and wmc175 confirmed the presence of this gene in a high proportion of Australian cultivars that showed stem rust resistance in Kenya. These markers can be used for marker-assisted pyramiding of Sr28 with other stem rust resistance genes.",
+        "lang": "eng"
+    },
+    "appid": "10883_2922",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2922"
+}}

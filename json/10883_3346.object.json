@@ -1,0 +1,81 @@
+{"object": {
+    "title": {
+        "value": "A note on the correlations between maize grain and maize stover quantitative and qualitative traits and the implications for whole maize plant optimization",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-12-09T20:30:21Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize grain-stover traits",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "nirs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "grain-stover trade-offs",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize whole plant optimization",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "grain",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_3346"
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.715
+            ],
+            "value": "maize",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_12332"
+            ]
+        }
+    ],
+    "description": {
+        "value": "The paper explores opportunities and limitations for concomitant improvement of maize grain quantity and quality traits and maize stover quantity and quality traits in 60 parental lines, 30 crosses/local checks and 12 released hybrids. Investigated grain quality traits were protein (CP), fat, metabolizable energy (ME), lysine and tryptophan. Stovers were investigated for nitrogen (N), neutral (NDF) and acid detergent fiber (ADF), acid detergent lignin (ADL), in vitro organic matter digestibility (IVOMD) and ME. Quality traits were investigated using near infrared spectroscopy (NIRS) applied to whole and ground maize grain and to ground stover. Application of NIRS to whole maize grain was unsuccessful but CP, fat and ME contents in ground maize grain were well predicted with R2 = 0.81, 0.83 and 0.94, respectively, and predictions of lysine and tryptophan were acceptable (R2 = 0.70). Maize stover quality traits were generally well predicted by NIRS (R2 = 0.81?0.96). Genotype and environment effect was significant on the quality traits of grain, whereas G × E effect was not significant. Trade-offs between grain and stover quality traits were generally absent or weak and inconsistent but several grain quality traits were incompatible. Thus grain CP was negatively correlated with grain yield. Lysine and tryptophan were consistently significantly negatively correlated with CP. Line and cultivars-dependent variation in grain and stover quality traits were high enough to be of nutritional significance to monogastrics and ruminants.",
+        "lang": "eng"
+    },
+    "appid": "10883_3346",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3346"
+}}

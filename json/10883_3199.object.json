@@ -1,0 +1,108 @@
+{"object": {
+    "title": {
+        "value": "Mapping field-scale yield gaps for maize: An example from Bangladesh",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:05:50Z",
+    "created": "2013-06-30T05:24:50Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield gap analysis",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "remote sensing",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_6498",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "ground cover",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "on-farm research",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "maize",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                1
+            ],
+            "value": "yield gap",
+            "uri": [
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_330609"
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                0.77
+            ],
+            "value": "yields",
+            "uri": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_8488"
+            ]
+        }
+    ],
+    "description": {
+        "value": "Accurate estimation of the size and spatial distribution of the yield gap has many practical applications, including relevance to precision agriculture and technology targeting. The objectives of this study were to illustrate a methodology to create a yield gap map and to discuss its potential uses to provide optimal crop management recommendations to the farmers. We used the HybridMaize crop simulation model to estimate potential yield for maize grown in the winter season in northwestern Bangladesh. This is a high yielding environment, where farmers achieve yields as high as 12 Mg/ha. The model predicted a mean potential yield of 12.87 Mg/ha. We used a RapidEye satellite image acquired around tasseling to identify the maize fields, calculate ground cover and its regression to actual yield from farmers? fields. Next, the regression was applied to all the maize pixels in the image to calculate actual yield. In the last step, we created a yield gap map based on the difference between potential and actual yield. Yield gap maps will enable agronomists to identify production constraints on farmers? fields with large yield gaps. Alternatively, by learning from the farmers with the highest actual yields and analyzing their data, it will be possible to generate region or field specific, optimized crop management recommendations.",
+        "lang": "eng"
+    },
+    "appid": "10883_3199",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3199"
+}}

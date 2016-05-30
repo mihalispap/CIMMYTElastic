@@ -1,0 +1,93 @@
+{"object": {
+    "title": {
+        "value": "Construction of expression vector harboring Pina & Pinb fused gene and transformation into durum wheat",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:02Z",
+    "created": "2013-06-07T21:11:46Z",
+    "subject": [
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "pina pinb fused expression vector",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "durum wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "immature embryo culture",
+            "uri": ""
+        },
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "transformation",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_331037",
+                ""
+            ]
+        },
+        {
+            "vocabulary": [
+                "",
+                "",
+                "",
+                "agrovoc"
+            ],
+            "score": [
+                "",
+                "",
+                "",
+                0.6018
+            ],
+            "value": "genes",
+            "uri": [
+                "",
+                "",
+                "",
+                "http://aims.fao.org/aos/agrovoc/c_3214"
+            ]
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "callus",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_24576"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "wheats",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8373"
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "embryo culture",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_2544"
+        }
+    ],
+    "description": {
+        "value": "[Objective] Construction of expression vector harboring the fragment of fused Pina and Pinb, and verification of Pina and Pinb function. [Method] In the present study, a highly efficient expression vector (pFUPaPb) that harbors the fused fragment of Pina Pinb flanked with regulation sequences of and poly (A) was constructed, employing Ubiqutin as a promoter and bar gene as a selective marker. Common wheat variety Jing 411 is the donor of Pina and Pinb genes. pFUPaPb was transferred into durum wheat by biolistic method. [Result] After screening with bialophos and PCR identification with gene specific primers and dot blotting confirmation, 35 transplants were obtained. The expression of fused genes was detected in 2 of 16 transplants examined. The SKCS values of these two lines were decreased 10 and 12, respectively. Among the three medium used for callus inducing SD2 medium was the comparatively efficient medium for callus induction of durum immature embryo. MS+8 mgL-1 zeatin is good for callus regeneration. [Conclusion] Co-expression of Pina and Pinb decreased the endosperm texture of durum wheat.",
+        "lang": "eng"
+    },
+    "appid": "10883_2445",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_2445"
+}}

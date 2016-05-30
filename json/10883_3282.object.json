@@ -1,0 +1,66 @@
+{"object": {
+    "title": {
+        "value": "Breeding progress for yield in winter wheat genotypes targeted to irrigated environments of the CWANA region",
+        "lang": "eng"
+    },
+    "updated": "2016-01-22T23:06:09Z",
+    "created": "2013-11-25T02:37:37Z",
+    "subject": [
+        {
+            "vocabulary": [
+                "agrovoc",
+                ""
+            ],
+            "score": [
+                1,
+                ""
+            ],
+            "value": "genetic gain",
+            "uri": [
+                "http://aims.fao.org/aos/agrovoc/c_34003",
+                ""
+            ]
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "biological index",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "time trend",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "winter wheat",
+            "uri": ""
+        },
+        {
+            "vocabulary": "",
+            "score": "",
+            "value": "yield",
+            "uri": ""
+        },
+        {
+            "vocabulary": "agrovoc",
+            "score": 1,
+            "value": "yields",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_8488"
+        }
+    ],
+    "description": {
+        "value": "The international winter wheat improvement program (IWWIP), an alliance between Turkey-CIMMYT-ICARDA, has distributed improved germplasm to different National Agricultural Research Systems (NARS) partners through international nurseries and yield trials for the last 25 years. This study was carried out in order to determine the rate of breeding progress for yield and yield related traits at IWWIP using data of the international winter wheat yield trials (IWWYT), IWWYT 1?13, collected from 1997 to 2010 in irrigated environments across different countries. The relative grain yield of the best line expressed as percent of the best check (Kinaci-97), widely grown cultivar (Bezostaya) and trial mean (TM) increased at a rate of 0.6, 1.6 and 0.2 %/year, each non-significant (P > 0.05), respectively. Regression analysis indicated that TM has increased at a rate of 91.9 kg/ha/year (P = 0.007). The net realized breeding progress was estimated by accounting the variability due to management and weather conditions using surrogate variables such as integrated biological indices taken as means of common checks. The net realized gain for the BL was 66.2 ± 19.7 kg/ha/year (P = 0.01). Success rate of the BL, per cent of sites where the BL exceeds the local check in grain yield, ranged from 50 to 87 % across trials. To date, more than 55 varieties of IWWIP origin have been released in 10 countries of Central and West Asia including Afghanistan, Turkey, Iran, Uzbekistan and Tajikistan. Some varieties, such as Solh and Kinaci-97, have been released under different names in different countries indicating their broad adaptation. Cluster analysis of IWWYT sites indicated that IWWIP sites in Turkey and Syria are associated with most of the testing sites in Central and West Asia and North Africa (CWANA) region. The recently identified high yielding genotypes are recommended for direct release and/or parental purposes by the respective NARS.",
+        "lang": "eng"
+    },
+    "appid": "10883_3282",
+    "language": {
+        "value": "eng",
+        "uri": "http://lexvo.org/id/iso639-3/eng"
+    },
+    "type": "resource",
+    "appuri": "/cimmyt/resource/10883_3282"
+}}

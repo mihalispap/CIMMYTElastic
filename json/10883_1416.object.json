@@ -3,7 +3,7 @@
         "value": "Integration of environmental, agronomic, and economic aspects of fertilizer management",
         "lang": "eng"
     },
-    "updated": "2016-01-22T23:05:35Z",
+    "updated": "2016-01-22T23:05:53Z",
     "created": "2013-06-05T15:45:24Z",
     "subject": [
         {
@@ -167,9 +167,9 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 1,
-            "value": "nitrogen",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
+            "score": 0.7061,
+            "value": "nitric oxide",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_36996"
         },
         {
             "vocabulary": "agrovoc",
@@ -179,15 +179,9 @@
         },
         {
             "vocabulary": "agrovoc",
-            "score": 0.7061,
-            "value": "nitric oxide",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_36996"
-        },
-        {
-            "vocabulary": "agrovoc",
-            "score": 0.9839,
-            "value": "economic aspects",
-            "uri": "http://aims.fao.org/aos/agrovoc/c_28674"
+            "score": 1,
+            "value": "nitrogen",
+            "uri": "http://aims.fao.org/aos/agrovoc/c_5192"
         },
         {
             "vocabulary": "agrovoc",
